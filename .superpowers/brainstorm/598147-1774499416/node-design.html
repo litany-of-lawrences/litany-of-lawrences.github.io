@@ -1,0 +1,108 @@
+<h2>Node & layout design</h2>
+<p class="subtitle">How the focused-person view looks. Click to select a design direction.</p>
+
+<div class="cards">
+
+  <div class="card" data-choice="cards" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <svg viewBox="0 0 320 200" width="320" height="200" style="display:block;margin:0 auto;font-family:Baskerville,Georgia,serif">
+        <!-- Background -->
+        <rect width="320" height="200" fill="#f5f0e8"/>
+
+        <!-- Connecting lines -->
+        <!-- Parents to focused -->
+        <line x1="80" y1="58" x2="160" y2="100" stroke="#c8b89a" stroke-width="1.5"/>
+        <line x1="240" y1="58" x2="160" y2="100" stroke="#c8b89a" stroke-width="1.5"/>
+        <!-- Focused to children -->
+        <line x1="160" y1="140" x2="80" y2="165" stroke="#c8b89a" stroke-width="1.5"/>
+        <line x1="160" y1="140" x2="160" y2="165" stroke="#c8b89a" stroke-width="1.5"/>
+        <line x1="160" y1="140" x2="240" y2="165" stroke="#c8b89a" stroke-width="1.5"/>
+
+        <!-- Parent nodes (rounded rect cards) -->
+        <rect x="32" y="12" width="96" height="46" rx="5" fill="#ede8dc" stroke="#c8b89a" stroke-width="1.2"/>
+        <text x="80" y="30" text-anchor="middle" font-size="10" fill="#2c1810" font-weight="bold">Frederick Francis</text>
+        <text x="80" y="42" text-anchor="middle" font-size="9" fill="#5a3e28">Alexandre</text>
+        <text x="80" y="53" text-anchor="middle" font-size="8" fill="#aaa">1809–1889</text>
+
+        <rect x="192" y="12" width="96" height="46" rx="5" fill="#ede8dc" stroke="#c8b89a" stroke-width="1.2"/>
+        <text x="240" y="30" text-anchor="middle" font-size="10" fill="#2c1810" font-weight="bold">Marie Civilise</text>
+        <text x="240" y="42" text-anchor="middle" font-size="9" fill="#5a3e28">Cipriant</text>
+        <text x="240" y="53" text-anchor="middle" font-size="8" fill="#aaa">1811–1882</text>
+
+        <!-- Focused node (gold border, larger) -->
+        <rect x="96" y="88" width="128" height="54" rx="6" fill="#fff" stroke="#c8a96e" stroke-width="2.5"/>
+        <text x="160" y="107" text-anchor="middle" font-size="11" fill="#2c1810" font-weight="bold">James Henry</text>
+        <text x="160" y="120" text-anchor="middle" font-size="10" fill="#5a3e28">Alexandre</text>
+        <text x="160" y="132" text-anchor="middle" font-size="8" fill="#aaa">1848–1912</text>
+        <text x="160" y="143" text-anchor="middle" font-size="8" fill="#8b6340" text-decoration="underline">Read article →</text>
+
+        <!-- Child nodes (smaller, muted) -->
+        <rect x="32" y="163" width="80" height="32" rx="4" fill="#f5f0e8" stroke="#c8b89a" stroke-width="1"/>
+        <text x="72" y="177" text-anchor="middle" font-size="9" fill="#2c1810">JH Alexandre Jr.</text>
+        <text x="72" y="189" text-anchor="middle" font-size="8" fill="#aaa">1883–1956</text>
+
+        <rect x="120" y="163" width="80" height="32" rx="4" fill="#f5f0e8" stroke="#c8b89a" stroke-width="1"/>
+        <text x="160" y="177" text-anchor="middle" font-size="9" fill="#2c1810">Gertrude Jerome</text>
+        <text x="160" y="189" text-anchor="middle" font-size="8" fill="#aaa">1879–1940</text>
+
+        <rect x="208" y="163" width="80" height="32" rx="4" fill="#f5f0e8" stroke="#c8b89a" stroke-width="1"/>
+        <text x="248" y="177" text-anchor="middle" font-size="9" fill="#5a3e28" opacity="0.6">Mary Virginia</text>
+        <text x="248" y="189" text-anchor="middle" font-size="8" fill="#aaa" opacity="0.6">no article yet</text>
+      </svg>
+    </div>
+    <div class="card-body">
+      <h3>A — Rectangular cards</h3>
+      <p>Rounded-rect nodes matching the site's card style. Focused person has a gold border and is larger. Parents full-size, children slightly smaller. Nodes without articles are muted.</p>
+    </div>
+  </div>
+
+  <div class="card" data-choice="circles" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <svg viewBox="0 0 320 200" width="320" height="200" style="display:block;margin:0 auto;font-family:Baskerville,Georgia,serif">
+        <rect width="320" height="200" fill="#f5f0e8"/>
+
+        <!-- Lines -->
+        <line x1="80" y1="56" x2="160" y2="100" stroke="#c8b89a" stroke-width="1.5"/>
+        <line x1="240" y1="56" x2="160" y2="100" stroke="#c8b89a" stroke-width="1.5"/>
+        <line x1="160" y1="130" x2="80" y2="168" stroke="#c8b89a" stroke-width="1.5"/>
+        <line x1="160" y1="130" x2="160" y2="168" stroke="#c8b89a" stroke-width="1.5"/>
+        <line x1="160" y1="130" x2="240" y2="168" stroke="#c8b89a" stroke-width="1.5"/>
+
+        <!-- Parent circles -->
+        <circle cx="80" cy="36" r="30" fill="#ede8dc" stroke="#c8b89a" stroke-width="1.2"/>
+        <text x="80" y="31" text-anchor="middle" font-size="9" fill="#2c1810" font-weight="bold">Frederick</text>
+        <text x="80" y="42" text-anchor="middle" font-size="9" fill="#5a3e28">Alexandre</text>
+
+        <circle cx="240" cy="36" r="30" fill="#ede8dc" stroke="#c8b89a" stroke-width="1.2"/>
+        <text x="240" y="31" text-anchor="middle" font-size="9" fill="#2c1810" font-weight="bold">Marie</text>
+        <text x="240" y="42" text-anchor="middle" font-size="9" fill="#5a3e28">Cipriant</text>
+
+        <!-- Focused circle (gold fill, larger) -->
+        <circle cx="160" cy="115" r="38" fill="#c8a96e" opacity="0.85"/>
+        <text x="160" y="107" text-anchor="middle" font-size="10" fill="#2c1810" font-weight="bold">James Henry</text>
+        <text x="160" y="119" text-anchor="middle" font-size="9" fill="#3d2418">Alexandre</text>
+        <text x="160" y="130" text-anchor="middle" font-size="8" fill="#3d2418">1848–1912</text>
+        <text x="160" y="143" text-anchor="middle" font-size="7" fill="#3d2418" text-decoration="underline">Read →</text>
+
+        <!-- Child circles -->
+        <circle cx="80" cy="178" r="20" fill="#f5f0e8" stroke="#c8b89a" stroke-width="1"/>
+        <text x="80" y="174" text-anchor="middle" font-size="8" fill="#5a3e28">JH Jr.</text>
+        <text x="80" y="184" text-anchor="middle" font-size="7" fill="#aaa">1883</text>
+
+        <circle cx="160" cy="178" r="20" fill="#f5f0e8" stroke="#c8b89a" stroke-width="1"/>
+        <text x="160" y="174" text-anchor="middle" font-size="8" fill="#5a3e28">Gertrude</text>
+        <text x="160" y="184" text-anchor="middle" font-size="7" fill="#aaa">1879</text>
+
+        <circle cx="240" cy="178" r="20" fill="#f5f0e8" stroke="#c8b89a" stroke-width="1" opacity="0.5"/>
+        <text x="240" y="178" text-anchor="middle" font-size="8" fill="#aaa">Mary V.</text>
+      </svg>
+    </div>
+    <div class="card-body">
+      <h3>B — Circular nodes</h3>
+      <p>Circular nodes, common in force-directed graphs. Focused person is larger with gold fill. Clean and minimal, but fits less text per node.</p>
+    </div>
+  </div>
+
+</div>
+
+<p class="subtitle" style="margin-top:1.5rem">Click to select, then let me know in the terminal.</p>

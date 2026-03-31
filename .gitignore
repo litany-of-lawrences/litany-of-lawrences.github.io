@@ -1,0 +1,20 @@
+# Dependencies
+site/node_modules/
+
+# Build output
+site/_site/
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo

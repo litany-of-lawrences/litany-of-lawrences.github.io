@@ -1,0 +1,64 @@
+{% extends "base.njk" %}
+
+{% block navsearch %}
+<div class="nav-search">
+  <input id="nav-search-input" placeholder="Search…" aria-label="Search articles">
+</div>
+{% endblock %}
+
+{% block content %}
+{% set slug = page.fileSlug %}
+{% set pageBacklinks = backlinks[slug] %}
+{% set pageOutgoing = outgoinglinks[slug] %}
+{% set meta = articles | getArticleBySlug(slug) %}
+
+<div class="article-layout">
+  <aside class="sidebar">
+    <a href="/" class="sidebar-back">← All articles</a>
+
+    {% if pageOutgoing and pageOutgoing.length %}
+    <div class="sidebar-section-label">Links in this article</div>
+    {% for link in pageOutgoing %}
+      <a href="/{{ link.slug }}/" class="sidebar-link">{{ link.title }}</a>
+    {% endfor %}
+    {% endif %}
+
+    {% if pageBacklinks and pageBacklinks.length %}
+    <div class="sidebar-section-label">Also appears in</div>
+    {% for link in pageBacklinks %}
+      <a href="/{{ link.slug }}/" class="sidebar-link">{{ link.title }}</a>
+    {% endfor %}
+    {% endif %}
+  </aside>
+
+  <div style="display:none" data-pagefind-body>
+    <h1 data-pagefind-weight="10">{{ meta.title if meta else title }}</h1>
+    {{ content | articleBody | pagefindExcerpt | safe }}
+  </div>
+  <div class="article-content">
+    <h1 class="article-title">{{ meta.title if meta else title }}</h1>
+    {% if meta and meta.dates %}
+    <div class="article-dates">{{ meta.dates }}</div>
+    {% endif %}
+    <hr>
+
+    {% set panelHtml = content | metaPanel %}
+    {% if panelHtml %}
+    <div class="meta-panel" data-pagefind-ignore>{{ panelHtml | safe }}</div>
+    {% endif %}
+
+    <div class="article-body">
+      {{ content | articleBody | safe }}
+    </div>
+  </div>
+</div>
+
+<div id="pagefind-overlay" class="search-overlay">
+  <div class="search-overlay-inner">
+    <div id="nav-search-results"></div>
+    <button class="search-overlay-close">
+      ✕ Close
+    </button>
+  </div>
+</div>
+{% endblock %}

@@ -1,0 +1,8 @@
+{"type":"server-started","port":57532,"host":"127.0.0.1","url_host":"localhost","url":"http://localhost:57532","screen_dir":"/home/james/development/litany-of-lawrences/.superpowers/brainstorm/598147-1774499416"}
+{"type":"screen-added","file":"/home/james/development/litany-of-lawrences/.superpowers/brainstorm/598147-1774499416/tree-layout.html"}
+{"source":"user-event","type":"click","text":"James Henry\n        Alexandre\n        \n        \n        \n        Frederick\n        Father\n\n        \n        \n        Marie\n        Mother\n\n        \n        \n        \n        JH Jr.\n        Child\n\n        \n        \n        …\n\n        \n        \n        Gertrude\n        Child\n      \n    \n    \n      C — Person-centred\n      Click any person to focus on them. Parents above, children below, siblings alongside. The tree redraws around whoever you select. Good for exploring rather than seeing everything at once.","choice":"interactive","id":null,"timestamp":1774499564279}
+{"type":"screen-added","file":"/home/james/development/litany-of-lawrences/.superpowers/brainstorm/598147-1774499416/waiting-1.html"}
+{"type":"screen-added","file":"/home/james/development/litany-of-lawrences/.superpowers/brainstorm/598147-1774499416/approaches.html"}
+{"type":"screen-added","file":"/home/james/development/litany-of-lawrences/.superpowers/brainstorm/598147-1774499416/node-design.html"}
+{"type":"screen-added","file":"/home/james/development/litany-of-lawrences/.superpowers/brainstorm/598147-1774499416/waiting-2.html"}
+{"type":"server-stopped","reason":"idle timeout"}

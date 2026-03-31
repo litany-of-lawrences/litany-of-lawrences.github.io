@@ -1,0 +1,454 @@
+// =============================================================================
+// Variables
+// =============================================================================
+
+$color-parchment:    #f5f0e8;
+$color-brown:        #2c1810;
+$color-brown-mid:    #3d2418;
+$color-brown-light:  #5a3e28;
+$color-gold:         #c8a96e;
+$color-link:         #8b6340;
+$color-sidebar-bg:   #ede8dc;
+// $color-sidebar-bg:   #ede8dc;
+$color-border:       #c8b89a;
+$color-nav-text:     #f0e6d3;
+$color-tagline:      #c8a96e;
+$color-muted:        #7b7b7b;
+$color-placeholder:  #a08060;
+
+$font-serif: Baskerville, 'Baskerville Old Face', 'Libre Baskerville', Georgia, 'Times New Roman', serif;
+
+// =============================================================================
+// Reset
+// =============================================================================
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+// =============================================================================
+// Base
+// =============================================================================
+
+body {
+  background: $color-parchment;
+  color: $color-brown;
+  font-family: $font-serif;
+  min-height: 100vh;
+}
+
+a {
+  color: $color-link;
+
+  &:hover { color: $color-brown; }
+}
+
+
+
+hr {
+  border: none;
+  border-top: 1px solid $color-border;
+  margin: 12px 0;
+}
+
+// =============================================================================
+// Navigation
+// =============================================================================
+
+.site-nav {
+  background: $color-brown;
+  padding: 10px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+
+  a { text-decoration: none; }
+  a:hover { color: $color-nav-text; }
+
+}
+a.underline {
+  text-decoration: underline;
+  text-decoration-color: $color-link;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 3px;
+}
+
+.site-title {
+  color: $color-nav-text;
+  font-size: 16px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.site-tagline {
+  color: $color-tagline;
+  font-size: 16px;
+  font-style: italic;
+}
+
+.site-nav-link {
+  color: $color-nav-text;
+  font-size: 14px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  &:hover { color: $color-gold; }
+}
+
+.nav-search {
+  display: flex;
+  gap: 6px;
+
+  input {
+    padding: 4px 8px;
+    font-family: $font-serif;
+    font-size: 16px;
+    background: $color-brown-mid;
+    border: 1px solid $color-brown-light;
+    color: $color-nav-text;
+    outline: none;
+    width: 180px;
+
+    &::placeholder { color: $color-placeholder; }
+  }
+}
+
+// =============================================================================
+// Metadata inset panel
+// =============================================================================
+
+.meta-panel {
+  background: $color-parchment;
+  border-left: 3px solid $color-gold;
+  padding: 10px 14px;
+  margin-bottom: 16px;
+  font-size: 16px;
+  line-height: 1.4em;
+}
+
+// =============================================================================
+// Pagefind overrides
+// =============================================================================
+
+:root {
+  --pagefind-ui-scale: 0.9;
+  --pagefind-ui-primary: #{$color-link};
+  --pagefind-ui-text: #{$color-brown};
+  --pagefind-ui-background: #{$color-parchment};
+  --pagefind-ui-border: #{$color-border};
+  --pagefind-ui-tag: #{$color-sidebar-bg};
+  --pagefind-ui-font: #{$font-serif};
+}
+
+// =============================================================================
+// Homepage
+// =============================================================================
+
+.home-hero {
+  text-align: center;
+  padding: 48px 24px 32px;
+  border-bottom: 1px solid $color-border;
+}
+
+.search-label {
+  font-size: 16px;
+  color: $color-muted;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin-bottom: 14px;
+}
+
+.search-wrap {
+  max-width: 630px;
+  margin: 0 auto 10px;
+}
+
+.article-count {
+  font-size: 14px;
+  color: $color-muted;
+  font-style: italic;
+  margin-top: 6px;
+}
+
+.random-section {
+  max-width:680px;
+  margin: 32px auto;
+  padding: 0 24px;
+}
+
+.random-label {
+  font-size: 12px;
+  color: $color-muted;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 14px;
+}
+
+.random-shuffle-wrap {
+  text-align: center;
+  margin-top: 16px;
+
+  a {
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: $color-link;
+
+    &:hover { color: $color-brown; }
+  }
+}
+
+.random-card {
+  background: #fff;
+  border: 1px solid #d4c9b0;
+  padding: 18px 22px;
+  margin-bottom: 12px;
+
+  &-title  { font-size: 16px; font-weight: bold; color: $color-brown; margin-bottom: 2px; }
+  &-dates  { font-size: 14px; color: #888; font-style: italic; margin-bottom: 12px; }
+  &-excerpt { font-size: 16px; color: #555; line-height: 1.7; margin-bottom: 14px; }
+
+  &-actions {
+    display: flex;
+    gap: 16px;
+
+    a {
+      font-size: 14px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      text-decoration: none;
+      color: $color-link;
+
+      &:hover { color: $color-brown; }
+    }
+  }
+}
+
+// =============================================================================
+// Article layout
+// =============================================================================
+
+.article-layout {
+  display: flex;
+  height: calc(100vh - 48px);
+  max-width:1280px;
+  margin:0 auto;
+  overflow: hidden;
+}
+
+// Sidebar
+
+.sidebar {
+  width: 380px;
+  flex-shrink: 0;
+  background: $color-sidebar-bg;
+  border-right: 1px solid $color-border;
+  border-left: 1px solid $color-border;
+  padding: 18px 14px;
+  font-size: 16px;
+  overflow-y: auto;
+  height: 100%;
+}
+
+.sidebar-back {
+  font-size: 14px;
+  color: $color-muted;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 18px;
+  display: block;
+  text-decoration: none;
+
+  &:hover { color: $color-link; }
+}
+
+.sidebar-section-label {
+  font-size: 12px;
+  color: $color-muted;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+  margin-top: 16px;
+}
+
+.sidebar-link {
+  display: block;
+  color: $color-link;
+  margin-bottom: 5px;
+  text-decoration: none;
+  line-height: 1.4;
+
+  &:hover { color: $color-brown; }
+}
+
+// Article content
+
+.article-content {
+  flex: 1;
+  overflow-y: auto;
+  height: 100%;
+  scrollbar-width: none;       // Firefox
+  &::-webkit-scrollbar { display: none; }  // Chrome/Safari
+  padding: 24px 36px;
+  img {
+    max-width:100%;
+    display: inline;
+    float:left;
+    margin: 0 2rem 0 auto;
+  }
+}
+
+.article-category {
+  font-size: 9px;
+  color: $color-muted;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
+
+.article-title {
+  font-size: 26px;
+  font-weight: bold;
+  color: $color-brown;
+  line-height: 1.2;
+  margin-bottom: 4px;
+}
+
+.article-dates {
+  font-size: 16px;
+  color: #888;
+  font-style: italic;
+}
+
+.article-body {
+  font-size: 16px;
+  line-height: 1.6em;
+  color: #333;
+  margin-top: 16px;
+
+  p      { margin-bottom: 1em; }
+  strong { color: $color-brown; }
+}
+
+// =============================================================================
+// Pagefind search overlay (article pages)
+// =============================================================================
+
+.search-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 100;
+}
+
+.search-overlay-inner {
+  background: $color-parchment;
+  max-width: 600px;
+  margin: 80px auto;
+  padding: 24px;
+  border: 1px solid $color-border;
+}
+
+.search-overlay-close {
+  margin-top: 12px;
+  background: none;
+  border: none;
+  color: $color-link;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+// =============================================================================
+// Pagefind search results (styled to match .random-card)
+//
+// Pagefind's CSS uses Svelte-scoped selectors (.pagefind-ui__result.svelte-xxx)
+// with 3-class specificity. We anchor to the known container IDs (#search,
+// #nav-search-results) so our ID + class beats their 3-class selectors.
+// =============================================================================
+
+#search,
+#nav-search-results {
+  // Pagefind's CSS reset wipes font and alignment — restore them at the root
+  font-family: $font-serif;
+  text-align: left;
+
+  .pagefind-ui__result {
+    background: #fff;
+    border: 1px solid #d4c9b0;
+    border-top: 1px solid #d4c9b0; // override Pagefind's top-only border
+    padding: 18px 22px;
+    margin-bottom: 12px;
+    font-family: $font-serif;
+    text-align: left;
+    display:flex;
+    flex-direction:column;
+    &:last-of-type {
+      border-bottom: 1px solid #d4c9b0;
+    }
+  }
+
+  .pagefind-ui__result-thumb { display: none; }
+
+  .pagefind-ui__result-inner {
+    margin-top: 0;
+  }
+
+  .pagefind-ui__result-title {
+    font-family: $font-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: $color-brown;
+    margin-bottom: 6px;
+    text-align: left;
+  }
+
+  // Pagefind renders the title as .pagefind-ui__result-link inside the title
+  .pagefind-ui__result-link {
+    font-family: $font-serif;
+    color: $color-brown;
+    text-decoration: none;
+
+    &:hover {
+      color: $color-link;
+      text-decoration: none;
+    }
+  }
+
+  .pagefind-ui__result-excerpt {
+    font-family: $font-serif;
+    font-size: 16px;
+    color: #555;
+    line-height: 1.7;
+    margin: 0;
+    min-width: unset;
+    text-align: left;
+  }
+
+  mark {
+    background: rgba(200, 169, 110, 0.3); // $color-gold at low opacity
+    color: inherit;
+    padding: 0 1px;
+  }
+
+  .pagefind-ui__result-nested { display: none; }
+
+  .result-read-link {
+    margin-top: 14px;
+
+    a {
+      font-family: $font-serif;
+      font-size: 14px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      text-decoration: none;
+      color: $color-link;
+
+      &:hover { color: $color-brown; }
+    }
+  }
+}

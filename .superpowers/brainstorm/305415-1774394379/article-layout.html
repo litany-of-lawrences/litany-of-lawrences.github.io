@@ -1,0 +1,47 @@
+<h2>Article Page Layout</h2>
+<p class="subtitle">How should an article page be structured?</p>
+
+<div class="split">
+
+  <div class="mockup" data-choice="sidebar" onclick="toggleSelect(this)" style="cursor:pointer">
+    <div class="mockup-header">A — Sidebar + Content</div>
+    <div class="mockup-body" style="background:#f5f0e8;display:flex;gap:0;min-height:260px;font-family:Georgia,serif;font-size:11px;">
+      <div style="width:34%;background:#ede8dc;padding:12px;border-right:1px solid #c8b89a;flex-shrink:0;">
+        <div style="font-size:9px;color:#888;letter-spacing:2px;text-transform:uppercase;margin-bottom:8px">In this article</div>
+        <div style="color:#5a3e28;margin-bottom:4px">▸ Early Life</div>
+        <div style="color:#5a3e28;margin-bottom:4px">▸ Career</div>
+        <div style="color:#5a3e28;margin-bottom:4px">▸ Marriages</div>
+        <div style="color:#5a3e28;margin-bottom:4px">▸ Death</div>
+        <hr style="border:none;border-top:1px solid #c8b89a;margin:10px 0">
+        <div style="font-size:9px;color:#888;letter-spacing:2px;text-transform:uppercase;margin-bottom:8px">Related</div>
+        <div style="color:#8b6340;margin-bottom:3px;text-decoration:underline">Alexandre Family</div>
+        <div style="color:#8b6340;margin-bottom:3px;text-decoration:underline">Alexandre Line</div>
+      </div>
+      <div style="padding:12px;flex:1">
+        <div style="font-size:9px;color:#888;letter-spacing:2px;margin-bottom:4px">LITANY OF LAWRENCES</div>
+        <div style="font-size:16px;font-weight:bold;color:#2c1810;margin-bottom:2px">Alexandre, James Henry</div>
+        <div style="font-size:10px;color:#888;font-style:italic;margin-bottom:8px">1848 – 1912</div>
+        <div style="font-size:10px;color:#444;line-height:1.6"><b>Parents:</b> Frederick Francis Alexandre and Marie Civilise.<br><b>Spouse:</b> (1) Gertrude Jerome; (2) Elizabeth Boyce Lawrence<br><br><b>Early Life</b><br>James Henry Alexandre was born in 1848…</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="mockup" data-choice="centered" onclick="toggleSelect(this)" style="cursor:pointer">
+    <div class="mockup-header">B — Centered, full-width prose</div>
+    <div class="mockup-body" style="background:#f5f0e8;padding:16px;font-family:Georgia,serif;font-size:11px;min-height:260px;">
+      <div style="max-width:480px;margin:0 auto;">
+        <div style="font-size:9px;color:#888;letter-spacing:2px;margin-bottom:4px">← Back to index</div>
+        <div style="font-size:18px;font-weight:bold;color:#2c1810;margin-bottom:2px">Alexandre, James Henry</div>
+        <div style="font-size:10px;color:#888;font-style:italic;border-bottom:1px solid #c8b89a;padding-bottom:8px;margin-bottom:10px">1848 – 1912</div>
+        <div style="background:#ede8dc;border-left:3px solid #c8a96e;padding:8px;margin-bottom:10px;font-size:10px;color:#444;line-height:1.6">
+          <b>Parents:</b> Frederick Francis Alexandre and Marie Civilise.<br>
+          <b>Spouse:</b> (1) Gertrude Jerome; (2) Elizabeth Boyce Lawrence
+        </div>
+        <div style="font-size:10px;color:#444;line-height:1.7"><b>Early Life</b><br>James Henry Alexandre was born in 1848, the son of <span style="color:#8b6340;text-decoration:underline">Frederick Francis Alexandre</span>…</div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<p class="subtitle" style="margin-top:16px">A gives persistent navigation and related links. B is cleaner and more readable — better for long prose. Click to select.</p>

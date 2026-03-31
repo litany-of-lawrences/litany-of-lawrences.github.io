@@ -1,0 +1,121 @@
+<h2>Family tree layout style</h2>
+<p class="subtitle">How should the tree be arranged on the page?</p>
+
+<div class="cards">
+
+  <div class="card" data-choice="top-down" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <svg viewBox="0 0 280 160" width="280" height="160" style="display:block;margin:0 auto">
+        <!-- Generation 0 -->
+        <rect x="100" y="10" width="80" height="26" rx="4" fill="#c8a96e" opacity="0.9"/>
+        <text x="140" y="27" text-anchor="middle" font-size="10" fill="#2c1810">Frederick I</text>
+        <!-- Gen 1 connectors -->
+        <line x1="140" y1="36" x2="140" y2="52" stroke="#c8b89a" stroke-width="1.5"/>
+        <line x1="60" y1="52" x2="220" y2="52" stroke="#c8b89a" stroke-width="1.5"/>
+        <line x1="60" y1="52" x2="60" y2="62" stroke="#c8b89a" stroke-width="1.5"/>
+        <line x1="140" y1="52" x2="140" y2="62" stroke="#c8b89a" stroke-width="1.5"/>
+        <line x1="220" y1="52" x2="220" y2="62" stroke="#c8b89a" stroke-width="1.5"/>
+        <!-- Generation 1 -->
+        <rect x="20" y="62" width="80" height="26" rx="4" fill="#ede8dc" stroke="#c8b89a" stroke-width="1"/>
+        <text x="60" y="79" text-anchor="middle" font-size="10" fill="#2c1810">James Henry</text>
+        <rect x="100" y="62" width="80" height="26" rx="4" fill="#ede8dc" stroke="#c8b89a" stroke-width="1"/>
+        <text x="140" y="79" text-anchor="middle" font-size="10" fill="#2c1810">John Ernest</text>
+        <rect x="180" y="62" width="80" height="26" rx="4" fill="#ede8dc" stroke="#c8b89a" stroke-width="1"/>
+        <text x="220" y="79" text-anchor="middle" font-size="10" fill="#2c1810">Joseph F.</text>
+        <!-- Gen 2 connectors from James Henry -->
+        <line x1="60" y1="88" x2="60" y2="104" stroke="#c8b89a" stroke-width="1.5"/>
+        <line x1="30" y1="104" x2="90" y2="104" stroke="#c8b89a" stroke-width="1.5"/>
+        <line x1="30" y1="104" x2="30" y2="114" stroke="#c8b89a" stroke-width="1.5"/>
+        <line x1="90" y1="104" x2="90" y2="114" stroke="#c8b89a" stroke-width="1.5"/>
+        <!-- Generation 2 -->
+        <rect x="4" y="114" width="54" height="22" rx="4" fill="#f5f0e8" stroke="#c8b89a" stroke-width="1"/>
+        <text x="31" y="128" text-anchor="middle" font-size="9" fill="#5a3e28">Jr.</text>
+        <rect x="62" y="114" width="54" height="22" rx="4" fill="#f5f0e8" stroke="#c8b89a" stroke-width="1"/>
+        <text x="89" y="128" text-anchor="middle" font-size="9" fill="#5a3e28">Gertrude</text>
+      </svg>
+    </div>
+    <div class="card-body">
+      <h3>A — Top-down</h3>
+      <p>Ancestors at the top, descendants flowing downward. Classic genealogy chart style. Works well for deep lineages but gets wide quickly.</p>
+    </div>
+  </div>
+
+  <div class="card" data-choice="left-right" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <svg viewBox="0 0 280 160" width="280" height="160" style="display:block;margin:0 auto">
+        <!-- Root -->
+        <rect x="10" y="67" width="70" height="26" rx="4" fill="#c8a96e" opacity="0.9"/>
+        <text x="45" y="84" text-anchor="middle" font-size="10" fill="#2c1810">Frederick I</text>
+        <!-- Connectors -->
+        <line x1="80" y1="80" x2="96" y2="80" stroke="#c8b89a" stroke-width="1.5"/>
+        <line x1="96" y1="44" x2="96" y2="116" stroke="#c8b89a" stroke-width="1.5"/>
+        <line x1="96" y1="44" x2="106" y2="44" stroke="#c8b89a" stroke-width="1.5"/>
+        <line x1="96" y1="80" x2="106" y2="80" stroke="#c8b89a" stroke-width="1.5"/>
+        <line x1="96" y1="116" x2="106" y2="116" stroke="#c8b89a" stroke-width="1.5"/>
+        <!-- Gen 1 -->
+        <rect x="106" y="31" width="72" height="26" rx="4" fill="#ede8dc" stroke="#c8b89a" stroke-width="1"/>
+        <text x="142" y="48" text-anchor="middle" font-size="10" fill="#2c1810">James Henry</text>
+        <rect x="106" y="67" width="72" height="26" rx="4" fill="#ede8dc" stroke="#c8b89a" stroke-width="1"/>
+        <text x="142" y="84" text-anchor="middle" font-size="10" fill="#2c1810">John Ernest</text>
+        <rect x="106" y="103" width="72" height="26" rx="4" fill="#ede8dc" stroke="#c8b89a" stroke-width="1"/>
+        <text x="142" y="120" text-anchor="middle" font-size="10" fill="#2c1810">Joseph F.</text>
+        <!-- Gen 2 connector from James -->
+        <line x1="178" y1="44" x2="194" y2="44" stroke="#c8b89a" stroke-width="1.5"/>
+        <line x1="194" y1="28" x2="194" y2="60" stroke="#c8b89a" stroke-width="1.5"/>
+        <line x1="194" y1="28" x2="204" y2="28" stroke="#c8b89a" stroke-width="1.5"/>
+        <line x1="194" y1="60" x2="204" y2="60" stroke="#c8b89a" stroke-width="1.5"/>
+        <rect x="204" y="18" width="60" height="20" rx="4" fill="#f5f0e8" stroke="#c8b89a" stroke-width="1"/>
+        <text x="234" y="31" text-anchor="middle" font-size="9" fill="#5a3e28">JH Jr.</text>
+        <rect x="204" y="50" width="60" height="20" rx="4" fill="#f5f0e8" stroke="#c8b89a" stroke-width="1"/>
+        <text x="234" y="63" text-anchor="middle" font-size="9" fill="#5a3e28">Gertrude</text>
+      </svg>
+    </div>
+    <div class="card-body">
+      <h3>B — Left-to-right</h3>
+      <p>Ancestors on the left, descendants to the right. Familiar from org charts. Easier to read individual lineages; scrolls horizontally for large families.</p>
+    </div>
+  </div>
+
+  <div class="card" data-choice="interactive" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <svg viewBox="0 0 280 160" width="280" height="160" style="display:block;margin:0 auto">
+        <!-- Central focused node -->
+        <circle cx="140" cy="80" r="28" fill="#c8a96e" opacity="0.9"/>
+        <text x="140" y="76" text-anchor="middle" font-size="9" fill="#2c1810" font-weight="bold">James Henry</text>
+        <text x="140" y="88" text-anchor="middle" font-size="8" fill="#3d2418">Alexandre</text>
+        <!-- Parent nodes -->
+        <line x1="117" y1="62" x2="78" y2="36" stroke="#c8b89a" stroke-width="1.5"/>
+        <circle cx="66" cy="28" r="20" fill="#ede8dc" stroke="#c8b89a" stroke-width="1"/>
+        <text x="66" y="25" text-anchor="middle" font-size="8" fill="#2c1810">Frederick</text>
+        <text x="66" y="35" text-anchor="middle" font-size="8" fill="#5a3e28">Father</text>
+
+        <line x1="163" y1="62" x2="200" y2="36" stroke="#c8b89a" stroke-width="1.5"/>
+        <circle cx="212" cy="28" r="20" fill="#ede8dc" stroke="#c8b89a" stroke-width="1"/>
+        <text x="212" y="25" text-anchor="middle" font-size="8" fill="#2c1810">Marie</text>
+        <text x="212" y="35" text-anchor="middle" font-size="8" fill="#5a3e28">Mother</text>
+
+        <!-- Child nodes -->
+        <line x1="120" y1="104" x2="78" y2="130" stroke="#c8b89a" stroke-width="1.5"/>
+        <circle cx="66" cy="138" r="18" fill="#f5f0e8" stroke="#c8b89a" stroke-width="1"/>
+        <text x="66" y="135" text-anchor="middle" font-size="8" fill="#5a3e28">JH Jr.</text>
+        <text x="66" y="145" text-anchor="middle" font-size="7" fill="#aaa">Child</text>
+
+        <line x1="140" y1="108" x2="140" y2="132" stroke="#c8b89a" stroke-width="1.5"/>
+        <circle cx="140" cy="142" r="14" fill="#f5f0e8" stroke="#c8b89a" stroke-width="1"/>
+        <text x="140" y="146" text-anchor="middle" font-size="8" fill="#5a3e28">…</text>
+
+        <line x1="160" y1="104" x2="200" y2="130" stroke="#c8b89a" stroke-width="1.5"/>
+        <circle cx="212" cy="138" r="18" fill="#f5f0e8" stroke="#c8b89a" stroke-width="1"/>
+        <text x="212" y="135" text-anchor="middle" font-size="8" fill="#5a3e28">Gertrude</text>
+        <text x="212" y="145" text-anchor="middle" font-size="7" fill="#aaa">Child</text>
+      </svg>
+    </div>
+    <div class="card-body">
+      <h3>C — Person-centred</h3>
+      <p>Click any person to focus on them. Parents above, children below, siblings alongside. The tree redraws around whoever you select. Good for exploring rather than seeing everything at once.</p>
+    </div>
+  </div>
+
+</div>
+
+<p class="subtitle" style="margin-top:1.5rem">Click one to select, then let me know your thoughts in the terminal.</p>

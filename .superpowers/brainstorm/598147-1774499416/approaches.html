@@ -1,0 +1,44 @@
+<h2>Implementation approaches</h2>
+<p class="subtitle">How should the tree be built and rendered?</p>
+
+<div class="options">
+
+  <div class="option" data-choice="d3" onclick="toggleSelect(this)">
+    <div class="letter">A</div>
+    <div class="content">
+      <h3>D3.js force / tree layout</h3>
+      <p>Use D3's built-in tree layout algorithm. Handles arbitrarily complex graphs automatically and produces smooth animations. Well-tested, lots of prior art for genealogy trees.</p>
+      <div class="pros-cons" style="margin-top:0.75rem">
+        <div class="pros"><h4>Pros</h4><ul><li>Automatic layout</li><li>Smooth transitions</li><li>Handles edge cases well</li></ul></div>
+        <div class="cons"><h4>Cons</h4><ul><li>~87KB external dependency</li><li>Overkill for a focused-person view</li><li>D3 API is complex</li></ul></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="option" data-choice="svg-custom" onclick="toggleSelect(this)">
+    <div class="letter">B</div>
+    <div class="content">
+      <h3>Custom SVG layout <span style="font-size:12px;color:#8b6340;font-weight:normal">(recommended)</span></h3>
+      <p>Parse relationships at build time into a JSON data file. Render focused-person view in SVG with vanilla JS: parents in a row above, the focused person centred, children in a row below. Click re-centres with a smooth transition.</p>
+      <div class="pros-cons" style="margin-top:0.75rem">
+        <div class="pros"><h4>Pros</h4><ul><li>No dependencies</li><li>Fits the site's aesthetic</li><li>Exactly as complex as needed</li><li>Easy to style with site SCSS variables</li></ul></div>
+        <div class="cons"><h4>Cons</h4><ul><li>Manual layout logic</li><li>Siblings not shown (only parents + children)</li></ul></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="option" data-choice="canvas" onclick="toggleSelect(this)">
+    <div class="letter">C</div>
+    <div class="content">
+      <h3>HTML Canvas</h3>
+      <p>Draw the tree on a canvas element. More control over rendering, supports pan/zoom natively.</p>
+      <div class="pros-cons" style="margin-top:0.75rem">
+        <div class="pros"><h4>Pros</h4><ul><li>Pan and zoom built-in</li><li>Handles very large graphs</li></ul></div>
+        <div class="cons"><h4>Cons</h4><ul><li>Canvas is not accessible</li><li>Much harder to style consistently with the site</li><li>Links/hover states require manual hit-testing</li></ul></div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<p class="subtitle" style="margin-top:1.5rem">Click to select, then let me know in the terminal.</p>

@@ -1,0 +1,24 @@
+---
+permalink: /index.html
+---
+{% extends "base.njk" %}
+
+{% block content %}
+<script type="application/json" id="articles-data">{{ articles | dump | safe }}</script>
+
+<div class="home-hero">
+  <div class="search-label">Search the archive</div>
+  <div class="search-wrap">
+    <div id="search"></div>
+  </div>
+  <div class="article-count">{{ articles.length }} articles</div>
+</div>
+
+<div class="random-section">
+  <div class="random-label">✦ &nbsp; Random articles &nbsp; ✦</div>
+  <div id="rand-cards"></div>
+  <div class="random-shuffle-wrap">
+    <a href="#" id="rand-shuffle">Shuffle ↺</a>
+  </div>
+</div>
+{% endblock %}
