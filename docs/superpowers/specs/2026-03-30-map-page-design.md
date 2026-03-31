@@ -32,10 +32,24 @@ A standalone Python script at the repo root, alongside existing `parse_docx.py` 
 
 **Incremental behaviour:** On re-runs, the script reads the existing `locations.json` and skips any address already present. Only new addresses are geocoded.
 
-**Address regex** targets common NYC street address patterns:
-- `\d+ (North|South|East|West)? <street name> (Street|Avenue|Road|Boulevard|Place|Court|Lane|Drive|Terrace|Alley|Way|St|Ave|Rd|Blvd|Pl|Ct|Dr|Ln)`
+**Address regex** (full string):
+```
+\b\d+\s+(?:North|South|East|West|N\.?|S\.?|E\.?|W\.?)?\s*(?:[A-Z][a-z]+\s+){1,3}(?:Street|Avenue|Road|Boulevard|Place|Court|Lane|Drive|Terrace|Alley|Way|St|Ave|Rd|Blvd|Pl|Ct|Dr|Ln)\b
+```
+
+**Nominatim User-Agent:** Requests must include a descriptive `User-Agent` header per Nominatim's usage policy. Use:
+```
+User-Agent: litany-of-lawrences/geocode.py (james@example.com)
+```
+Replace the email with the operator's real address. Requests without a valid User-Agent will be blocked.
+
+**Geocoding failure handling:** If Nominatim returns zero results for an address, write the entry with `"lat": null, "lng": null`. The map page skips null-coordinate entries silently. This allows manual correction by editing `locations.json` directly.
+
+**Incremental behaviour:** On re-runs, the script reads the existing `locations.json` and skips any address already present (matched by `address` string). Only new addresses are geocoded, keeping re-runs fast.
 
 ### 1.2 `locations.json` (committed to repo)
+
+Stored at the repo root. This file is intentionally committed — verify it is not excluded by any `.gitignore` pattern before first push.
 
 ```json
 [
@@ -46,13 +60,21 @@ A standalone Python script at the repo root, alongside existing `parse_docx.py` 
     "articles": [
       { "title": "Lawrence, James (1850–1920)", "slug": "lawrence-james-1850-1920" }
     ]
+  },
+  {
+    "address": "45 West 11th Street",
+    "lat": null,
+    "lng": null,
+    "articles": [
+      { "title": "Lawrence, Anne (1872–1940)", "slug": "lawrence-anne-1872-1940" }
+    ]
   }
 ]
 ```
 
 Each entry has:
 - `address` — the extracted string
-- `lat`, `lng` — geocoded coordinates
+- `lat`, `lng` — geocoded coordinates, or `null` if geocoding failed
 - `articles` — array of `{ title, slug }` for every article mentioning this address
 
 ---
@@ -61,20 +83,62 @@ Each entry has:
 
 ### 2.1 `site/_data/locations.js`
 
-Reads `locations.json` from the repo root and returns the array. Returns `[]` if the file does not exist, so the build never fails on a fresh checkout before `geocode.py` has been run.
+Reads `locations.json` from the repo root and returns the array. Because `_data/` is at `site/_data/`, the repo root is two levels up:
+
+```js
+const path = require("path");
+const fs   = require("fs");
+
+const LOCATIONS_FILE = path.join(__dirname, "../../locations.json");
+
+module.exports = function() {
+  try {
+    return JSON.parse(fs.readFileSync(LOCATIONS_FILE, "utf8"));
+  } catch {
+    return [];
+  }
+};
+```
+
+The `try/catch` is a deliberate departure from the other data files — it ensures a fresh checkout (before `geocode.py` has been run) never breaks the build. Other data files read from the `articles/` directory which is always present; `locations.json` may not exist yet.
 
 ### 2.2 `site/map.njk`
 
 New page at `/map/`, extending `base.njk`. Follows the same pattern as `family-tree.njk`:
 
-- Embeds locations data as `<script type="application/json" id="map-data">{{ locations | dump | safe }}</script>`
-- Loads Leaflet CSS + JS from CDN in `{% block head %}`
-- Defers `site/js/map.js`
-- Renders a full-height `<div id="map">` for Leaflet to populate
+```njk
+---
+title: Map
+permalink: /map/
+---
+{% extends "base.njk" %}
+
+{% block head %}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="/js/map.js" defer></script>
+{% endblock %}
+
+{% block content %}
+<script type="application/json" id="map-data" data-pagefind-ignore>{{ locations | dump | safe }}</script>
+<div id="map" data-pagefind-ignore></div>
+{% endblock %}
+```
+
+Key points:
+- Leaflet CSS and JS are both loaded in `{% block head %}`, with Leaflet JS appearing **before** `map.js` — same ordering pattern as D3 before `family-tree.js`
+- `data-pagefind-ignore` on both the `<script>` and `<div>` prevents Pagefind from indexing raw JSON coordinates or map tiles
 
 ### 2.3 Navigation
 
-A link to `/map/` is added to the home page nav only (same rule as the Family Tree link), using the existing `page.url === "/"` conditional in `base.njk`.
+A link to `/map/` is added inside the existing `{% if page.url === "/" %}` block in `base.njk`, alongside the Family Tree link. Both links share the same conditional:
+
+```njk
+{% if page.url === "/" %}
+<a href="/family-tree/" class="underline site-nav-link">Family Tree</a>
+<a href="/map/" class="underline site-nav-link">Map</a>
+{% endif %}
+```
 
 ---
 
@@ -83,12 +147,13 @@ A link to `/map/` is added to the home page nav only (same rule as the Family Tr
 ### Initialisation
 
 - Leaflet map centred on NYC (`[40.7128, -74.0060]`), zoom level 12
-- OpenStreetMap tile layer (no API key)
-- Map height: full viewport minus nav height, same as family tree
+- OpenStreetMap tile layer: `https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png`
+- Map `<div>` height: full viewport minus nav height, same calculation as family tree (set via `setAttribute` after reading `navEl.offsetHeight`)
 
 ### Pins
 
-- One marker per entry in the locations JSON
+- Entries where `lat` or `lng` is `null` are silently skipped
+- One marker per remaining entry
 - Clicking a marker opens a Leaflet popup
 
 ### Popup content
@@ -100,13 +165,17 @@ Lawrence, James (1850–1920) →
 Another Article (1870–1930) →
 ```
 
-- Address as a heading
-- Each article as a link (`/slug/`) opening in the same tab
-- Popup styled to match the site palette (parchment background, brown text) via CSS
+- Address as a `<strong>` heading
+- Each article as an `<a href="/slug/">` link, one per line
+- Popup styled to match site palette via `.map-popup` CSS class (parchment background `#f5f0e8`, brown text `#2c1810`)
 
 ### Empty state
 
-If the locations array is empty, the map still renders centred on NYC with a small overlay message: "No locations indexed yet — run geocode.py to populate the map."
+If all entries have null coordinates, or the locations array is empty, `map.js` appends a plain `<div class="map-empty-state">` element over the map with the message:
+
+> "No locations indexed yet — run geocode.py to populate the map."
+
+No new CSS class needed beyond basic absolute positioning and site palette colours.
 
 ---
 
@@ -119,14 +188,15 @@ If the locations array is empty, the map still renders centred on NYC with a sma
 | `site/_data/locations.js` | New — Eleventy data file |
 | `site/map.njk` | New — map page template |
 | `site/js/map.js` | New — Leaflet map initialisation |
-| `site/scss/main.scss` | Add map container height + popup styles |
-| `site/_includes/base.njk` | Add `/map/` nav link (home page only) |
+| `site/scss/main.scss` | Add `#map` height + `.map-popup` + `.map-empty-state` styles |
+| `site/_includes/base.njk` | Extend home-page nav block to include `/map/` link |
 
 ---
 
 ## 5. Constraints & Notes
 
-- **Nominatim usage policy:** 1 req/sec max, user-agent must identify the application. The script must set a descriptive `User-Agent` header.
-- **Historical addresses:** Some addresses may not geocode accurately (buildings demolished, streets renamed). The incremental JSON approach allows manual corrections — edit `locations.json` directly to fix bad coordinates.
+- **Nominatim usage policy:** 1 req/sec max; User-Agent must identify the application and include contact info. See section 1.1.
+- **Historical addresses:** Some addresses may not geocode accurately (buildings demolished, streets renamed). The null lat/lng pattern plus committed JSON allows manual correction at any time.
 - **No build-time geocoding:** `locations.js` only reads the JSON; it never calls Nominatim. Builds remain fast and offline.
-- **Leaflet version:** Load from CDN (same pattern as D3 for the family tree), pinned to a specific version to avoid surprise breaking changes.
+- **Leaflet version:** Pinned to `1.9.4` in both the CDN URLs in `map.njk`.
+- **`locations.json` must be committed:** Verify no `.gitignore` rule excludes it.
