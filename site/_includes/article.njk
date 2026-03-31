@@ -16,6 +16,11 @@
   <aside class="sidebar">
     <a href="/" class="sidebar-back">← All articles</a>
 
+    {% if not pageBacklinks.length and not pageOutgoing.length %}
+    <div class="sidebar-section-label">No links found</div>
+    {% endif %}
+
+
     {% if pageOutgoing and pageOutgoing.length %}
     <div class="sidebar-section-label">Links in this article</div>
     {% for link in pageOutgoing %}

@@ -452,3 +452,117 @@ a.underline {
     }
   }
 }
+
+// =============================================================================
+// Map page
+// =============================================================================
+
+#map {
+  width: 100%;
+}
+
+
+// Custom pin marker
+.map-marker {
+  background: $color-link;
+  border: 2px solid $color-gold;
+  border-radius: 50%;
+  box-shadow: 0 1px 4px rgba(44, 24, 16, 0.4);
+}
+
+// Popup wrapper — override Leaflet's default white/blue
+.leaflet-popup-content-wrapper {
+  background: $color-parchment;
+  border: 1px solid $color-border;
+  border-radius: 0;
+  box-shadow: 0 2px 8px rgba(44, 24, 16, 0.15);
+  color: $color-brown;
+  padding: 0;
+}
+
+.leaflet-popup-content {
+  margin: 0;
+}
+
+.leaflet-popup-tip {
+  background: $color-parchment;
+  box-shadow: none;
+}
+
+.leaflet-popup-close-button {
+  color: $color-brown-light !important;
+  font-size: 18px !important;
+  padding: 4px 6px !important;
+
+  &:hover { color: $color-brown !important; }
+}
+
+// Zoom controls
+.leaflet-control-zoom a {
+  background: $color-parchment;
+  color: $color-brown;
+  border-color: $color-border;
+  font-family: $font-serif;
+
+  &:hover {
+    background: $color-sidebar-bg;
+    color: $color-brown;
+  }
+}
+
+// Attribution
+.leaflet-control-attribution {
+  background: rgba(245, 240, 232, 0.85);
+  color: $color-muted;
+  font-family: $font-serif;
+  font-size: 11px;
+
+  a { color: $color-link; }
+}
+
+.map-popup-streetview {
+  display: block;
+  width: 100%;
+  height: 120px;
+  object-fit: cover;
+  margin-bottom: 8px;
+}
+
+.map-popup {
+  font-family: $font-serif;
+  color: $color-brown;
+  min-width: 160px;
+
+  strong {
+    display: block;
+    margin-bottom: 6px;
+    font-size: 13px;
+  }
+
+  a {
+    display: block;
+    color: $color-link;
+    font-size: 12px;
+    text-decoration: underline;
+    text-decoration-color: $color-link;
+    text-underline-offset: 2px;
+    margin-top: 2px;
+
+    &:hover { color: $color-brown; }
+  }
+}
+
+.map-empty-state {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: $color-parchment;
+  color: $color-brown;
+  padding: 16px 24px;
+  border: 1px solid $color-border;
+  font-style: italic;
+  font-family: $font-serif;
+  z-index: 1000;
+  pointer-events: none;
+}

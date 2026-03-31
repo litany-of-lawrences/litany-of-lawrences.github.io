@@ -22,7 +22,7 @@ if (articlesDataEl) {
     const container = document.getElementById("rand-cards");
     container.innerHTML = pickRandom(CARDS_COUNT).map(a => `
       <div class="random-card">
-        <div class="random-card-title">${a.title}</div>
+        <div class="random-card-title"><a href="/${a.slug}/">${a.title}</a></div>
         ${a.dates ? `<div class="random-card-dates">${a.dates}</div>` : ""}
         ${a.excerpt ? `<div class="random-card-excerpt">${a.excerpt}</div>` : ""}
         <div class="random-card-actions">

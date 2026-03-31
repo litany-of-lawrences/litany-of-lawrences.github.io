@@ -118,6 +118,7 @@
   nodeGs.filter(d => d.hasArticle)
     .append("a")
     .attr("href", d => `/${d.id}/`)
+    .attr("target", "_blank")
     .on("click", e => e.stopPropagation())
     .append("text")
     .attr("class", "node-link")

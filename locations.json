@@ -1,0 +1,61 @@
+[
+  {
+    "address": "164 East 72nd Street",
+    "lat": 40.7699157,
+    "lng": -73.9616531,
+    "articles": [
+      {
+        "title": "Alexandre, Anna Remsen (1895–1984)",
+        "slug": "alexandre-anna-remsen-1895-1984"
+      }
+    ]
+  },
+  {
+    "address": "35 East 67th Street",
+    "lat": 40.7685145,
+    "lng": -73.9670882,
+    "articles": [
+      {
+        "title": "Alexandre, James Henry (1848–1912)",
+        "slug": "alexandre-james-henry-1848-1912"
+      },
+      {
+        "title": "Alexandre Stables at 173 East 73rd  Street,",
+        "slug": "alexandre-stables-at-173-east-73rd-street"
+      }
+    ]
+  },
+  {
+    "address": "173 East 73rd  Street",
+    "lat": 40.7709003,
+    "lng": -73.9607298,
+    "articles": [
+      {
+        "title": "Alexandre Stables at 173 East 73rd  Street,",
+        "slug": "alexandre-stables-at-173-east-73rd-street"
+      }
+    ]
+  },
+  {
+    "address": "665 Fifth Avenue",
+    "lat": 42.7145216,
+    "lng": -73.7084581,
+    "articles": [
+      {
+        "title": "Ashton",
+        "slug": "ashton"
+      }
+    ]
+  },
+  {
+    "address": "28 West Thirty-eighth Street",
+    "lat": null,
+    "lng": null,
+    "articles": [
+      {
+        "title": "Alexandre, Helen Lispenard (1889–1953)",
+        "slug": "alexandre-helen-lispenard-1889-1953"
+      }
+    ]
+  }
+]

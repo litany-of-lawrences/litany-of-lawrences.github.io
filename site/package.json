@@ -5,7 +5,7 @@
   "scripts": {
     "build": "cd .. && npx @11ty/eleventy --config=site/.eleventy.js && npx pagefind --site site/_site",
     "serve": "cd .. && npx @11ty/eleventy --config=site/.eleventy.js --serve",
-    "test": "node --test test/data.test.js test/familytree.test.js"
+    "test": "node --test test/data.test.js test/familytree.test.js test/locations.test.js"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",
