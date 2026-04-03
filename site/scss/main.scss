@@ -67,6 +67,10 @@ hr {
 
   a { text-decoration: none; }
   a:hover { color: $color-nav-text; }
+  .links {
+    display:flex;
+    gap: 1rem;
+  }
 
 }
 a.underline {

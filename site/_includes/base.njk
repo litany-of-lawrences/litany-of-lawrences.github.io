@@ -14,10 +14,15 @@
   <nav class="site-nav">
     <span class="site-tagline">A Family Chronicle</span>
     <a href="/" class="site-title">A Litany of Lawrences</a>
-    {% if page.url === "/" %}
-    <a href="/family-tree/" class="underline site-nav-link">Family Tree</a>
-    <a href="/map/" class="underline site-nav-link">Map</a>
+    
+    {% if page.url === "/" or page.url === '/family-tree/' or page.url === '/map/' %}    
+    <div class="links">
+      <a href="/family-tree/" class="underline site-nav-link">Family Tree</a>
+      <a href="/map/" class="underline site-nav-link">Map</a>    
+      </div>
     {% endif %}
+    
+
 
     {% block navsearch %}{% endblock %}
   </nav>
