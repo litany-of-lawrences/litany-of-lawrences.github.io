@@ -36,4 +36,4 @@ For several decades the Alexandre Line prospered in the growing trade between th
 
 In 1888 Frederick Alexandre and his sons liquidated the enterprise and sold its vessels and routes to the Ward Line, which absorbed the Mexican service into its own operations. Frederick Alexandre died in New York on June 8, 1889, shortly after the sale of the fleet.
 
-Although the company ceased to exist as an independent line, the Alexandre Line played an important role in nineteenth-century maritime commerce. It helped establish regular passenger and mail service between New York, Cuba, and Mexico, bridged the transition from sail to steam navigation, and contributed to the early development of Caribbean tourism.
+### Although the company ceased to exist as an independent line, the Alexandre Line played an important role in nineteenth-century maritime commerce. It helped establish regular passenger and mail service between New York, Cuba, and Mexico, bridged the transition from sail to steam navigation, and contributed to the early development of Caribbean tourism.
