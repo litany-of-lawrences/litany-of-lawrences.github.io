@@ -1,4 +1,4 @@
-# Abrams, Margaret (1816–1848).
+# Abrams, Margaret (1816–1848)
 
 **Parents:** \[Not yet identified\] **Spouse:** None reported. **Children:** James Henry Caldwell (1838–1870); Edward Holland Caldwell (1844–1872). **Kinship:** Mother of James Henry Caldwell, the third great-grandfather of the post–World War II Smith generation.
 
