@@ -11,7 +11,13 @@ permalink: /family-tree/
 
 {% block content %}
 <script type="application/json" id="familytree-data" data-pagefind-ignore>{{ familytree | dump | safe }}</script>
-<svg id="family-tree" width="100%" data-pagefind-ignore>
-  <g id="tree-root"></g>
-</svg>
+<div class="tree-wrap">
+  <div class="tree-zoom-controls">
+    <button id="tree-zoom-in" aria-label="Zoom in">+</button>
+    <button id="tree-zoom-out" aria-label="Zoom out">&minus;</button>
+  </div>
+  <svg id="family-tree" width="100%" data-pagefind-ignore>
+    <g id="tree-root"></g>
+  </svg>
+</div>
 {% endblock %}

@@ -146,6 +146,14 @@
   if (!articleNodes.length) return;
   const initial = articleNodes[Math.floor(Math.random() * articleNodes.length)];
 
+  // ── Zoom buttons ──────────────────────────────────────────────────────────
+  document.getElementById("tree-zoom-in").addEventListener("click", () => {
+    d3.select(svgEl).transition().duration(200).call(zoom.scaleBy, 1.4);
+  });
+  document.getElementById("tree-zoom-out").addEventListener("click", () => {
+    d3.select(svgEl).transition().duration(200).call(zoom.scaleBy, 1 / 1.4);
+  });
+
   requestAnimationFrame(() => {
     fitToView();
     setFocus(initial, true);

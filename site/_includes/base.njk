@@ -5,9 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% if title %}{{ title }} — {% endif %}Litany of Lawrences</title>
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="stylesheet" href="/pagefind/pagefind-ui.css">
+  <link rel="stylesheet" href="/pagefind/pagefind-ui.css" onerror="this.remove()">
   {% block head %}{% endblock %}
-  <script src="/pagefind/pagefind-ui.js" defer></script>
+  <script src="/pagefind/pagefind-ui.js" defer onerror="this.remove()"></script>
   <script src="/js/main.js" defer></script>
 </head>
 <body>
@@ -15,10 +15,12 @@
     <span class="site-tagline">A Family Chronicle</span>
     <a href="/" class="site-title">A Litany of Lawrences</a>
     
-    {% if page.url === "/" or page.url === '/family-tree/' or page.url === '/map/' %}    
+    {% if page.url === "/" or page.url === '/family-tree/' or page.url === '/map/' or page.url === '/timeline/' or page.url === '/index/' %}
     <div class="links">
       <a href="/family-tree/" class="underline site-nav-link">Family Tree</a>
-      <a href="/map/" class="underline site-nav-link">Map</a>    
+      <a href="/timeline/" class="underline site-nav-link">Timeline</a>
+      <a href="/map/" class="underline site-nav-link">Map</a>
+      <a href="/index/" class="underline site-nav-link">Index</a>
       </div>
     {% endif %}
     

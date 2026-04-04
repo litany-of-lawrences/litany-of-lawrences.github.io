@@ -39,7 +39,7 @@ if (articlesDataEl) {
 
   shuffle();
 
-  new PagefindUI({ element: "#search", showSubResults: false, baseUrl: "/" });
+  if (typeof PagefindUI !== "undefined") new PagefindUI({ element: "#search", showSubResults: false, baseUrl: "/" });
   addReadLinks(document.getElementById("search"));
 
   const randomSection = document.querySelector(".random-section");
@@ -92,7 +92,7 @@ const navSearchInput = document.getElementById("nav-search-input");
 if (navSearchInput) {
   const overlay = document.getElementById("pagefind-overlay");
 
-  new PagefindUI({ element: "#nav-search-results", showSubResults: false, baseUrl: "/" });
+  if (typeof PagefindUI !== "undefined") new PagefindUI({ element: "#nav-search-results", showSubResults: false, baseUrl: "/" });
   addReadLinks(document.getElementById("nav-search-results"));
 
   navSearchInput.addEventListener("focus", () => {

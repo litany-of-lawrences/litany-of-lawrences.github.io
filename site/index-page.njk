@@ -1,0 +1,81 @@
+---
+title: Name Index
+permalink: /index/
+---
+{% extends "base.njk" %}
+
+{% block content %}
+<div class="index-page" data-pagefind-ignore>
+  <div class="index-header">
+    <h1 class="index-title">Name Index</h1>
+    <input type="text" id="index-filter" placeholder="Filter names…" aria-label="Filter names" class="index-filter">
+  </div>
+
+  <div class="index-letters" id="index-letters"></div>
+
+  <div class="index-list" id="index-list">
+    {% set people = articles | selectattr("category", "equalto", "Person") %}
+    {% set families = articles | rejectattr("category", "equalto", "Person") %}
+
+    {% set currentLetter = "" %}
+    {% for a in people %}
+      {% set letter = a.title[0] | upper %}
+      {% if letter != currentLetter %}
+        {% set currentLetter = letter %}
+        <div class="index-letter-heading" id="letter-{{ letter }}">{{ letter }}</div>
+      {% endif %}
+      <a href="/{{ a.slug }}/" class="index-entry" data-name="{{ a.title | lower }}">
+        <span class="index-entry-name">{{ a.title }}</span>
+      </a>
+    {% endfor %}
+
+    {% if families | length %}
+      <div class="index-letter-heading" id="letter-other">Other</div>
+      {% for a in families %}
+        <a href="/{{ a.slug }}/" class="index-entry" data-name="{{ a.title | lower }}">
+          <span class="index-entry-name">{{ a.title }}</span>
+        </a>
+      {% endfor %}
+    {% endif %}
+  </div>
+</div>
+
+<script>
+(function () {
+  // Build letter nav from rendered headings
+  var headings = document.querySelectorAll(".index-letter-heading");
+  var nav = document.getElementById("index-letters");
+  var links = [];
+  for (var i = 0; i < headings.length; i++) {
+    var id = headings[i].id;
+    var label = headings[i].textContent;
+    var a = document.createElement("a");
+    a.href = "#" + id;
+    a.textContent = label;
+    a.className = "index-letter-link";
+    nav.appendChild(a);
+    links.push({ el: a, heading: headings[i] });
+  }
+
+  // Filter
+  var input = document.getElementById("index-filter");
+  var entries = document.querySelectorAll(".index-entry");
+  input.addEventListener("input", function () {
+    var q = input.value.toLowerCase();
+    for (var i = 0; i < entries.length; i++) {
+      entries[i].style.display = entries[i].dataset.name.indexOf(q) !== -1 ? "" : "none";
+    }
+    // Hide letter headings with no visible entries
+    for (var i = 0; i < headings.length; i++) {
+      var next = headings[i].nextElementSibling;
+      var hasVisible = false;
+      while (next && !next.classList.contains("index-letter-heading")) {
+        if (next.style.display !== "none") hasVisible = true;
+        next = next.nextElementSibling;
+      }
+      headings[i].style.display = hasVisible ? "" : "none";
+    }
+  });
+}());
+</script>
+{% endblock %}

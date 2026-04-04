@@ -70,6 +70,12 @@ hr {
   .links {
     display:flex;
     gap: 1rem;
+    flex: 1;
+    justify-content: flex-end;
+  }
+
+  .site-tagline {
+    flex: 1;
   }
 
 }
@@ -104,6 +110,8 @@ a.underline {
 .nav-search {
   display: flex;
   gap: 6px;
+  flex: 1;
+  justify-content: flex-end;
 
   input {
     padding: 4px 8px;
@@ -253,7 +261,7 @@ a.underline {
   border-right: 1px solid $color-border;
   border-left: 1px solid $color-border;
   padding: 18px 14px;
-  font-size: 16px;
+  font-size: 18px;
   overflow-y: auto;
   height: 100%;
 }
@@ -329,7 +337,7 @@ a.underline {
 }
 
 .article-body {
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.6em;
   color: #333;
   margin-top: 16px;
@@ -501,16 +509,35 @@ a.underline {
   &:hover { color: $color-brown !important; }
 }
 
-// Zoom controls
+// Zoom controls — Google-Maps-style pill at top-right
+.leaflet-control-zoom {
+  border: none !important;
+  border-radius: 8px !important;
+  overflow: hidden;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3) !important;
+  margin-top: 10px !important;
+  margin-right: 10px !important;
+}
+
 .leaflet-control-zoom a {
-  background: $color-parchment;
+  background: #fff !important;
   color: $color-brown;
-  border-color: $color-border;
-  font-family: $font-serif;
+  border: none !important;
+  border-bottom: 1px solid #e6e6e6 !important;
+  width: 40px !important;
+  height: 40px !important;
+  line-height: 40px !important;
+  font-size: 22px !important;
+  font-weight: 300;
+  font-family: system-ui, sans-serif;
 
   &:hover {
-    background: $color-sidebar-bg;
+    background: #f5f5f5 !important;
     color: $color-brown;
+  }
+
+  &:last-child {
+    border-bottom: none !important;
   }
 }
 
@@ -556,6 +583,45 @@ a.underline {
   }
 }
 
+// =============================================================================
+// Family tree page
+// =============================================================================
+
+.tree-wrap {
+  position: relative;
+}
+
+.tree-zoom-controls {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+
+  button {
+    background: #fff;
+    border: none;
+    border-bottom: 1px solid #e6e6e6;
+    width: 40px;
+    height: 40px;
+    font-size: 22px;
+    font-weight: 300;
+    font-family: system-ui, sans-serif;
+    color: $color-brown;
+    cursor: pointer;
+    line-height: 40px;
+    text-align: center;
+    padding: 0;
+
+    &:hover { background: #f5f5f5; }
+    &:last-child { border-bottom: none; }
+  }
+}
+
 .map-empty-state {
   position: absolute;
   top: 50%;
@@ -569,4 +635,170 @@ a.underline {
   font-family: $font-serif;
   z-index: 1000;
   pointer-events: none;
+}
+
+// =============================================================================
+// Timeline page
+// =============================================================================
+
+.timeline-page {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 32px 24px;
+}
+
+.timeline-line {
+  border-left: 2px solid $color-border;
+  margin-left: 60px;
+  padding-left: 24px;
+}
+
+.timeline-year-group {
+  position: relative;
+  margin-bottom: 24px;
+}
+
+.timeline-year {
+  position: absolute;
+  left: -100px;
+  width: 60px;
+  text-align: right;
+  font-size: 15px;
+  font-weight: bold;
+  color: $color-brown;
+  line-height: 1.6;
+}
+
+.timeline-entries {
+  padding-bottom: 4px;
+}
+
+.timeline-entry {
+  position: relative;
+  font-size: 15px;
+  line-height: 1.6;
+  margin-bottom: 4px;
+
+  &::before {
+    content: "";
+    position: absolute;
+    left: -31px;
+    top: 8px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 2px solid $color-border;
+    background: $color-parchment;
+  }
+}
+
+.timeline-entry--birth {
+  &::before {
+    background: $color-gold;
+    border-color: $color-gold;
+  }
+
+  a {
+    color: $color-link;
+    text-decoration: none;
+    font-weight: 700;
+    font-size:18px;
+    &:hover { color: $color-brown; }
+  }
+}
+
+.timeline-entry--event {
+  color: $color-muted;
+}
+
+.timeline-empty {
+  text-align: center;
+  font-style: italic;
+  color: $color-muted;
+  padding: 48px 0;
+}
+
+// =============================================================================
+// Name Index page
+// =============================================================================
+
+.index-page {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 32px 24px;
+}
+
+.index-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.index-title {
+  font-size: 22px;
+  color: $color-brown;
+}
+
+.index-filter {
+  font-family: $font-serif;
+  font-size: 15px;
+  padding: 6px 10px;
+  border: 1px solid $color-border;
+  background: #fff;
+  color: $color-brown;
+  outline: none;
+  width: 200px;
+
+  &::placeholder { color: $color-placeholder; }
+  &:focus { border-color: $color-gold; }
+}
+
+.index-letters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-bottom: 24px;
+  border-bottom: 1px solid $color-border;
+  padding-bottom: 16px;
+}
+
+.index-letter-link {
+  display: inline-block;
+  width: 28px;
+  height: 28px;
+  line-height: 28px;
+  text-align: center;
+  font-size: 13px;
+  font-weight: bold;
+  color: $color-link;
+  text-decoration: none;
+  border-radius: 4px;
+
+  &:hover {
+    background: $color-sidebar-bg;
+    color: $color-brown;
+  }
+}
+
+.index-letter-heading {
+  font-size: 18px;
+  font-weight: bold;
+  color: $color-gold;
+  border-bottom: 1px solid $color-border;
+  padding: 16px 0 4px;
+  margin-bottom: 8px;
+}
+
+.index-entry {
+  display: block;
+  padding: 4px 0;
+  text-decoration: none;
+  color: $color-brown;
+  font-size: 15px;
+  line-height: 1.5;
+
+  &:hover {
+    color: $color-link;
+  }
 }

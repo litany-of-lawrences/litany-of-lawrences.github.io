@@ -16,7 +16,8 @@
     return;
   }
 
-  const map = L.map("map").setView([40.7128, -74.0060], 12);
+  const map = L.map("map", { zoomControl: false }).setView([40.7128, -74.0060], 12);
+  L.control.zoom({ position: "topright" }).addTo(map);
 
 L.tileLayer('https://maps.geoapify.com/v1/tile/osm-bright-grey/{z}/{x}/{y}.png?apiKey=415b6eccc85d49deb12a2bb1b56559e4', {
   attribution: 'Powered by <a href="https://www.geoapify.com/" target="_blank">Geoapify</a> | <a href="https://openmaptiles.org/" target="_blank">© OpenMapTiles</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">© OpenStreetMap</a> contributors',
