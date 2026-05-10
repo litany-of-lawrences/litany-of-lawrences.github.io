@@ -4,6 +4,9 @@ const path = require("path");
 
 module.exports = function (eleventyConfig) {
 
+  // Cache-busting: expose build timestamp to templates
+  eleventyConfig.addGlobalData("cacheBust", Date.now());
+
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy({ "site/js": "js" });
 

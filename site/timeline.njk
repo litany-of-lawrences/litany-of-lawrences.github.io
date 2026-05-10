@@ -5,7 +5,7 @@ permalink: /timeline/
 {% extends "base.njk" %}
 
 {% block head %}
-<script src="/js/timeline.js" defer></script>
+<script src="/js/timeline.js?v={{ cacheBust }}" defer></script>
 {% endblock %}
 
 {% block content %}

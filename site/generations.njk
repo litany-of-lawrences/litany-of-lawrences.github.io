@@ -5,7 +5,7 @@ permalink: /generations/
 {% extends "base.njk" %}
 
 {% block head %}
-<script src="/js/generations.js" defer></script>
+<script src="/js/generations.js?v={{ cacheBust }}" defer></script>
 {% endblock %}
 
 {% block content %}
