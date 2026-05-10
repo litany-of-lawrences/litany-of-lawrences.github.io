@@ -1,8 +1,6 @@
 # Alexandre Line
 
-![alexandre-line](/images/alexandre-line-1.jpeg)
-
-The Alexandre Line—later formally styled the New York, Havana & Mexico Steamship Line—was a pioneering nineteenth-century maritime enterprise that established the first regular steamship service linking New York with Cuba and the Gulf ports of Mexico. Founded by [Frederick Francis Alexandre](/alexandre-frederick-francis-1809-1889/) (François Alexandre, 1809–1889), the company became an important participant in the growing commercial and passenger traffic between the United States, the Caribbean, and Mexico during the mid- and late nineteenth century.
+![alexandre-line](asset://localhost/%2FUsers%2Fadmin%2FLibrary%2FApplication%20Support%2Flitany-of-lawrences%2Frepo%2Fimages%2Falexandre-line-1.jpeg)The Alexandre Line — later formally styled the New York, Havana & Mexico Steamship Line—was a pioneering nineteenth-century maritime enterprise that established the first regular steamship service linking New York with Cuba and the Gulf ports of Mexico. Founded by [Frederick Francis Alexandre](/alexandre-frederick-francis-1809-1889/) (François Alexandre, 1809–1889), the company became an important participant in the growing commercial and passenger traffic between the United States, the Caribbean, and Mexico during the mid- and late nineteenth century.
 
 Frederick Alexandre was born on the Island of Jersey in the Channel Islands to a farming family of French origin. After the death of his father when he was thirteen, English primogeniture laws left him little prospect of inheritance, and he chose a life at sea. Beginning as a common sailor, he rose rapidly through the ranks of the merchant marine and by the age of twenty-one had become a captain engaged in the Brazil trade, commanding vessels such as the Nina.
 
@@ -28,18 +26,14 @@ Henry William Alexandre (1853–1927), son and later manager of company operatio
 
 Among the best-known vessels of the Alexandre Line were several steamships that served the New York–Havana–Mexico route.
 
-![alexandre-line](/images/alexandre-line-2.jpeg)
-
-The City of Pueblo incorporated improvements in passenger comfort. Its saloon was furnished with small restaurant-style tables, allowing passengers to dine privately and at flexible hours rather than at large communal tables. This arrangement was unusual at the time and represented an early effort to provide a more refined passenger experience.
+![alexandre-line](asset://localhost/%2FUsers%2Fadmin%2FLibrary%2FApplication%20Support%2Flitany-of-lawrences%2Frepo%2Fimages%2Falexandre-line-2.jpeg)The City of Pueblo incorporated improvements in passenger comfort. Its saloon was furnished with small restaurant-style tables, allowing passengers to dine privately and at flexible hours rather than at large communal tables. This arrangement was unusual at the time and represented an early effort to provide a more refined passenger experience.
 
 The City of Washington, launched on August 30, 1877, at Chester, Pennsylvania, represented the modern phase of the Alexandre fleet. The vessel accommodated about one hundred first-class passengers in seventy-five staterooms and carried additional steerage passengers and cargo. After the Alexandre Line was sold, the ship continued in service under the Ward Line. On February 15, 1898, when the American battleship USS Maine exploded in Havana Harbor, the City of Washington lay anchored nearby. Despite damage from flying debris, the crew immediately launched rescue efforts, lowering boats to aid survivors and converting the dining saloon into a temporary hospital. Later in its career the vessel was cut down and used as a coal barge. In 1917 it ran aground on a reef near Key Largo, Florida, and its wreck today forms a well-known diving site in the Florida Keys.
 
-![alexandre-line](/images/alexandre-line-3.jpeg)
-
-The City of Vera Cruz was lost during a violent hurricane off the coast of Florida on August 28, 1880. Lifeboats were destroyed before they could be launched and the ship quickly foundered. Survivors struggled for hours among floating wreckage; sixty-nine passengers and crew died, while eleven men eventually reached shore after more than a day in the water. The tragedy became one of the most dramatic maritime disasters associated with the Alexandre Line.
+![alexandre-line](asset://localhost/%2FUsers%2Fadmin%2FLibrary%2FApplication%20Support%2Flitany-of-lawrences%2Frepo%2Fimages%2Falexandre-line-3.jpeg)The City of Vera Cruz was lost during a violent hurricane off the coast of Florida on August 28, 1880. Lifeboats were destroyed before they could be launched and the ship quickly foundered. Survivors struggled for hours among floating wreckage; sixty-nine passengers and crew died, while eleven men eventually reached shore after more than a day in the water. The tragedy became one of the most dramatic maritime disasters associated with the Alexandre Line.
 
 For several decades the Alexandre Line prospered in the growing trade between the United States, Cuba, and Mexico. However, its fortunes depended heavily on the Mexican mail subsidy. In 1887 the Mexican government transferred that contract to a heavily subsidized Spanish competitor. Without the subsidy the Alexandres found it difficult to compete with larger shipping companies, particularly the Ward Line (New York and Cuba Mail Steamship Company).
 
 In 1888 Frederick Alexandre and his sons liquidated the enterprise and sold its vessels and routes to the Ward Line, which absorbed the Mexican service into its own operations. Frederick Alexandre died in New York on June 8, 1889, shortly after the sale of the fleet.
 
-Although the company ceased to exist as an independent line, the Alexandre Line played an important role in nineteenth-century maritime commerce. It helped establish regular passenger and mail service between New York, Cuba, and Mexico, bridged the transition from sail to steam navigation, and contributed to the early development of Caribbean tourism.
+### Although the company ceased to exist as an independent line, the Alexandre Line played an important role in nineteenth-century maritime commerce. It helped establish regular passenger and mail service between New York, Cuba, and Mexico, bridged the transition from sail to steam navigation, and contributed to the early development of Caribbean tourism.

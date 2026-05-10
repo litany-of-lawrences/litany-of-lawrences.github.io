@@ -2,7 +2,7 @@
 
 **Parents:** James Henry Alexandre (1883–1956) and Anne Loomis (1890–1948).
 
-**Spouse:** Cynthia Lenox Banks (1918–1991), marriedJune 14, 19411.
+**Spouse:** Cynthia Lenox Banks (1918–1991), married June 14, 19411.
 
 **Children:** Anne Lenox Alexandre (1942– ), [Cynthia Lenox Banks Alexandre (1944– )](/alexandre-cynthia-lenox-banks-1944/), and Dewitt Loomis Alexandre II (1949– ).
 
