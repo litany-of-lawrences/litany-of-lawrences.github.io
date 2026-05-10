@@ -16,6 +16,9 @@ Thumbs.db
 # Worktrees
 .worktrees/
 
+# Superpowers brainstorm sessions
+.superpowers/
+
 # Editor
 .vscode/
 .idea/

@@ -1,3 +1,82 @@
+# Generations Page Implementation Plan
+
+> **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
+
+**Goal:** Add a new Generations page that displays the Lawrence family organized as centred, top-to-bottom tiers of person cards with interactive hover/click descent lines.
+
+**Architecture:** New Eleventy page (`generations.njk`) injects existing `familytree` data as JSON. A standalone JS file (`js/generations.js`) computes generations via BFS, renders tiers as HTML, and handles hover/click interactivity with an SVG overlay for descent lines. Styles go in a new section of `scss/main.scss`.
+
+**Tech Stack:** Eleventy/Nunjucks, vanilla JS, SVG for descent lines, SCSS
+
+---
+
+### Task 1: Page Template and Nav Link
+
+**Files:**
+- Create: `site/generations.njk`
+- Modify: `site/_includes/base.njk:18-25`
+
+- [ ] **Step 1: Create the page template**
+
+```njk
+---
+title: Generations
+permalink: /generations/
+---
+{% extends "base.njk" %}
+
+{% block head %}
+<script src="/js/generations.js" defer></script>
+{% endblock %}
+
+{% block content %}
+<script type="application/json" id="generations-data" data-pagefind-ignore>{{ familytree | dump | safe }}</script>
+<div class="generations-page" data-pagefind-ignore>
+  <div class="generations-container" id="generations"></div>
+</div>
+{% endblock %}
+```
+
+- [ ] **Step 2: Add nav link in `base.njk`**
+
+In `site/_includes/base.njk`, add `/generations/` to the page URL condition on line 18 and add a new nav link after the "Map" link:
+
+Change the condition from:
+```njk
+{% if page.url === "/" or page.url === '/family-tree/' or page.url === '/map/' or page.url === '/timeline/' or page.url === '/index/' %}
+```
+to:
+```njk
+{% if page.url === "/" or page.url === '/family-tree/' or page.url === '/map/' or page.url === '/timeline/' or page.url === '/index/' or page.url === '/generations/' %}
+```
+
+Add the link after the Map link:
+```njk
+<a href="/generations/" class="underline site-nav-link">Generations</a>
+```
+
+- [ ] **Step 3: Verify the page builds**
+
+Run: `cd site && npx @11ty/eleventy --dryrun 2>&1 | grep generations`
+Expected: output showing `/generations/` being generated
+
+- [ ] **Step 4: Commit**
+
+```bash
+git add site/generations.njk site/_includes/base.njk
+git commit -m "feat: add generations page template and nav link"
+```
+
+---
+
+### Task 2: Generation Assignment and Basic Rendering
+
+**Files:**
+- Create: `site/js/generations.js`
+
+- [ ] **Step 1: Create `js/generations.js` with BFS generation assignment and tier rendering**
+
+```js
 (function () {
   var container = document.getElementById("generations");
   if (!container) return;
@@ -85,7 +164,7 @@
     var level = levels[i];
     var tierNodes = byLevel[level];
 
-    html += '<div class="gen-tier" id="gen-' + (level + 1) + '">';
+    html += '<div class="gen-tier">';
     html += '<div class="gen-tier-label">Generation ' + (level + 1) + '</div>';
     html += '<div class="gen-tier-cards">';
 
@@ -115,46 +194,187 @@
   }
 
   container.innerHTML = html;
+}());
+```
 
-  // ── Dot nav for jumping between generations ────────────────────────────
-  var dotNav = document.createElement("nav");
-  dotNav.className = "gen-dot-nav";
-  dotNav.setAttribute("aria-label", "Jump to generation");
-  for (var i = 0; i < levels.length; i++) {
-    var btn = document.createElement("button");
-    btn.className = "gen-dot-nav-item";
-    btn.setAttribute("data-gen", levels[i] + 1);
-    btn.setAttribute("title", "Generation " + (levels[i] + 1));
-    btn.setAttribute("aria-label", "Generation " + (levels[i] + 1));
-    btn.textContent = levels[i] + 1;
-    dotNav.appendChild(btn);
+- [ ] **Step 2: Build the site and verify the page renders**
+
+Run: `cd site && npx @11ty/eleventy --serve`
+Expected: Visit `http://localhost:8080/generations/` and see generation tiers with person cards
+
+- [ ] **Step 3: Commit**
+
+```bash
+git add site/js/generations.js
+git commit -m "feat: add generations JS with BFS layout and tier rendering"
+```
+
+---
+
+### Task 3: Styles
+
+**Files:**
+- Modify: `site/scss/main.scss` (add new section after the timeline styles, around line 785)
+
+- [ ] **Step 1: Add generations styles to `main.scss`**
+
+Add this section after the timeline styles block (after the `// Name Index page` comment, or after the timeline section):
+
+```scss
+// =============================================================================
+// Generations page
+// =============================================================================
+
+.generations-page {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 32px 24px;
+}
+
+.generations-container {
+  position: relative;
+}
+
+.generations-empty {
+  text-align: center;
+  font-style: italic;
+  color: $color-muted;
+  padding: 48px 0;
+}
+
+.gen-tier {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.gen-tier-label {
+  font-size: 11px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: $color-gold;
+  margin-bottom: 10px;
+}
+
+.gen-tier-cards {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.gen-card {
+  background: #fff;
+  border: 1px solid $color-border;
+  border-radius: 6px;
+  padding: 10px 14px;
+  min-width: 120px;
+  max-width: 160px;
+  text-align: center;
+  transition: opacity 0.2s, background 0.2s;
+}
+
+.gen-card--has-article {
+  border-color: $color-gold;
+
+  .gen-card-name {
+    color: $color-link;
+    text-decoration: none;
+    display: block;
+
+    &:hover { color: $color-brown; }
   }
-  document.querySelector(".generations-page").appendChild(dotNav);
+}
 
-  dotNav.addEventListener("click", function (e) {
-    var btn = e.target.closest(".gen-dot-nav-item");
-    if (!btn) return;
-    var tier = document.getElementById("gen-" + btn.getAttribute("data-gen"));
-    if (tier) tier.scrollIntoView({ behavior: "smooth", block: "start" });
-  });
+.gen-card-name {
+  font-size: 13px;
+  font-weight: bold;
+  color: $color-brown;
+  font-family: $font-serif;
+  margin-bottom: 2px;
+}
 
-  // Highlight active dot on scroll
-  var tiers = container.querySelectorAll(".gen-tier");
-  var dotButtons = dotNav.querySelectorAll(".gen-dot-nav-item");
+.gen-card-dates {
+  font-size: 11px;
+  color: $color-muted;
+}
 
-  function updateActiveDot() {
-    var scrollY = window.scrollY || window.pageYOffset;
-    var activeIdx = 0;
-    for (var i = 0; i < tiers.length; i++) {
-      if (tiers[i].getBoundingClientRect().top <= 80) activeIdx = i;
-    }
-    for (var i = 0; i < dotButtons.length; i++) {
-      dotButtons[i].classList.toggle("is-active", i === activeIdx);
-    }
+.gen-card.is-dimmed {
+  opacity: 0.3;
+}
+
+.gen-card.is-highlighted {
+  background: lighten($color-gold, 30%);
+}
+
+.gen-tier-connector {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 4px 0 8px 0;
+}
+
+.gen-tier-line {
+  width: 2px;
+  height: 18px;
+  background: $color-border;
+}
+
+.gen-tier-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: $color-gold;
+}
+
+// SVG overlay for descent lines
+.gen-svg-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 0;
+
+  line {
+    stroke: $color-gold;
+    stroke-width: 1.5;
+    opacity: 0;
+    transition: opacity 0.2s;
   }
-  window.addEventListener("scroll", updateActiveDot);
-  updateActiveDot();
 
+  &.is-active line.is-visible {
+    opacity: 1;
+  }
+}
+```
+
+- [ ] **Step 2: Verify styles render correctly**
+
+Run: `cd site && npx @11ty/eleventy --serve`
+Expected: Visit `http://localhost:8080/generations/` — tiers are centred, cards have white backgrounds with proper borders, gold labels, and dot-line connectors between tiers.
+
+- [ ] **Step 3: Commit**
+
+```bash
+git add site/scss/main.scss
+git commit -m "feat: add generations page styles"
+```
+
+---
+
+### Task 4: Interactive Descent Lines
+
+**Files:**
+- Modify: `site/js/generations.js` (add interactivity after the rendering code)
+
+- [ ] **Step 1: Add SVG overlay and hover/click interaction**
+
+Append the following code inside `generations.js`, after the `container.innerHTML = html;` line (but still inside the IIFE):
+
+```js
   // ── SVG overlay for descent lines ──────────────────────────────────────
   var svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
   svg.setAttribute("class", "gen-svg-overlay");
@@ -270,4 +490,16 @@
       clearHighlight();
     }
   });
-}());
+```
+
+- [ ] **Step 2: Verify interactivity works**
+
+Run: `cd site && npx @11ty/eleventy --serve`
+Expected: Visit `http://localhost:8080/generations/`. Hovering over a card draws gold lines to its parents above and children below. Non-connected cards dim. Moving the mouse away clears the highlight.
+
+- [ ] **Step 3: Commit**
+
+```bash
+git add site/js/generations.js
+git commit -m "feat: add hover/click descent line interactivity to generations page"
+```
