@@ -60,8 +60,9 @@ L.tileLayer('https://maps.geoapify.com/v1/tile/osm-bright-grey/{z}/{x}/{y}.png?a
     const links = loc.articles
       .map(a => `<a target="_blank" href="/${a.slug}/">${a.title} \u2192</a>`)
       .join("");
-    const svUrl = `https://maps.googleapis.com/maps/api/streetview?size=560x320&location=${loc.lat},${loc.lng}&key=${STREET_VIEW_KEY}`;
-    const popupHtml = `<div class="map-popup"><div class="map-popup-img-wrap"><img class="map-popup-streetview" src="${svUrl}" alt="Street view of ${loc.address}"><div class="map-popup-btn-row"><button class="map-popup-expand" title="View full size" aria-label="View full size">&#x26F6;</button><button class="map-popup-close" title="Close" aria-label="Close">&times;</button></div></div><strong>${loc.address}</strong>${links}</div>`;
+    const streetViewUrl = `https://maps.googleapis.com/maps/api/streetview?size=560x320&location=${loc.lat},${loc.lng}&source=outdoor&key=${STREET_VIEW_KEY}`;
+    console.log(streetViewUrl)
+    const popupHtml = `<div class="map-popup"><div class="map-popup-img-wrap"><img class="map-popup-streetview" src="${streetViewUrl}" alt="Street view of ${loc.address}"><div class="map-popup-btn-row"><button class="map-popup-expand" title="View full size" aria-label="View full size">&#x26F6;</button><button class="map-popup-close" title="Close" aria-label="Close">&times;</button></div></div><strong>${loc.address}</strong>${links}</div>`;
     const marker = L.marker([loc.lat, loc.lng], { icon: markerIcon })
       .addTo(map)
       .bindPopup(popupHtml, { closeButton: false });
@@ -73,7 +74,7 @@ L.tileLayer('https://maps.geoapify.com/v1/tile/osm-bright-grey/{z}/{x}/{y}.png?a
       if (expandBtn) {
         expandBtn.addEventListener("click", function (e) {
           e.stopPropagation();
-          openLightbox(svUrl, "Street view of " + loc.address);
+          openLightbox(streetViewUrl, "Street view of " + loc.address);
         });
       }
       if (closeBtn) {
