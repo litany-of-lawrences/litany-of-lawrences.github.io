@@ -64,6 +64,9 @@ hr {
   align-items: center;
   justify-content: space-between;
   gap: 16px;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
 
   a { text-decoration: none; }
   a:hover { color: $color-nav-text; }
