@@ -1,8 +1,0 @@
-docs/
-venv/
-source-documents/
-site/_site/
-site/node_modules/
-site/test/
-site/js/
-.superpowers/
