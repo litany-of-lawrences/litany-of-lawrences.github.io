@@ -36,6 +36,55 @@ ADDRESS_RE = re.compile(
 )
 
 
+ORDINAL_WORDS = {
+    "first": "1st", "second": "2nd", "third": "3rd", "fourth": "4th",
+    "fifth": "5th", "sixth": "6th", "seventh": "7th", "eighth": "8th",
+    "ninth": "9th", "tenth": "10th", "eleventh": "11th", "twelfth": "12th",
+    "thirteenth": "13th", "fourteenth": "14th", "fifteenth": "15th",
+    "sixteenth": "16th", "seventeenth": "17th", "eighteenth": "18th",
+    "nineteenth": "19th", "twentieth": "20th", "thirtieth": "30th",
+    "fortieth": "40th", "fiftieth": "50th", "sixtieth": "60th",
+    "seventieth": "70th", "eightieth": "80th", "ninetieth": "90th",
+    "hundredth": "100th",
+}
+
+TENS_WORDS = {
+    "twenty": 20, "thirty": 30, "forty": 40, "fifty": 50,
+    "sixty": 60, "seventy": 70, "eighty": 80, "ninety": 90,
+}
+
+# Matches "Thirty-eighth", "Twenty-first", "Forty-second", etc.
+COMPOUND_ORDINAL_RE = re.compile(
+    r'\b(' + '|'.join(TENS_WORDS) + r')-(' + '|'.join(
+        w for w in ORDINAL_WORDS if ORDINAL_WORDS[w][:-2].isdigit() and int(ORDINAL_WORDS[w][:-2]) < 10
+    ) + r')\b',
+    re.IGNORECASE,
+)
+
+# Matches standalone "Twentieth", "Fifth", etc.
+SIMPLE_ORDINAL_RE = re.compile(
+    r'\b(' + '|'.join(ORDINAL_WORDS) + r')\b',
+    re.IGNORECASE,
+)
+
+
+def normalize_ordinals(address):
+    """Convert spelled-out ordinals to numeric: 'Thirty-eighth' → '38th'."""
+    def replace_compound(m):
+        tens = TENS_WORDS[m.group(1).lower()]
+        ones_str = ORDINAL_WORDS[m.group(2).lower()]
+        ones_num = int(ones_str[:-2])
+        suffix = ones_str[-2:]
+        return f"{tens + ones_num}{suffix}"
+
+    def replace_simple(m):
+        return ORDINAL_WORDS[m.group(1).lower()]
+
+    address = COMPOUND_ORDINAL_RE.sub(replace_compound, address)
+    address = SIMPLE_ORDINAL_RE.sub(replace_simple, address)
+    return address
+
+
 def extract_addresses(content):
     """Return list of address strings found in article content."""
     return ADDRESS_RE.findall(content)
@@ -68,6 +117,7 @@ def geocode_address(address):
     default to New York City, which is where most article addresses are.
     Returns (lat, lng) as floats, or (None, None) if not found.
     """
+    address = normalize_ordinals(address)
     q = address if "," in address else f"{address}, New York City"
     query = urllib.parse.urlencode({
         "q": q,

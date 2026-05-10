@@ -23,7 +23,7 @@
   },
   {
     "address": "35 East 67th Street",
-    "lat": 40.7685145,
+    "lat": 40.7685146,
     "lng": -73.9670882,
     "articles": [
       {
@@ -86,14 +86,14 @@
     "lng": -73.9644507,
     "articles": [
       {
-        "title": "Bogert, Henry Lawrence III (1938–2025)",
-        "slug": "bogert-henry-lawrence-iii-1938-2025"
+        "title": "Bogert, Walter Lawrence (1864–1959)",
+        "slug": "bogert-walter-lawrence-1864-1959"
       }
     ]
   },
   {
     "address": "37-01 Bowne Street, Flushing",
-    "lat": 40.7628913,
+    "lat": 40.7628912,
     "lng": -73.8248834,
     "articles": [
       {
@@ -108,7 +108,7 @@
     "lng": -90.0816879,
     "articles": [
       {
-        "title": "[Bradish Johnson](/johnson-bradish-1811-1892/) House",
+        "title": "Bradish Johnson House",
         "slug": "bradish-johnson-house"
       }
     ]
@@ -119,7 +119,7 @@
     "lng": null,
     "articles": [
       {
-        "title": "[Bradish Johnson](/johnson-bradish-1811-1892/) House",
+        "title": "Bradish Johnson House",
         "slug": "bradish-johnson-house"
       },
       {
@@ -188,9 +188,20 @@
     ]
   },
   {
+    "address": "3 Cherry Street",
+    "lat": 40.7710097,
+    "lng": -73.7499225,
+    "articles": [
+      {
+        "title": "Burling, Thomas (1746–1831)",
+        "slug": "burling-thomas-1746-1831"
+      }
+    ]
+  },
+  {
     "address": "24 Lawrence Lane, Palisades, New York",
-    "lat": null,
-    "lng": null,
+    "lat": 41.007878,
+    "lng": -73.903357,
     "articles": [
       {
         "title": "Cliffside",
@@ -263,8 +274,8 @@
     "lng": -0.1720669,
     "articles": [
       {
-        "title": "Johnson, Bradish (1811-1892)",
-        "slug": "johnson-bradish-1811-1892"
+        "title": "Jones, Sir Lawrence John, 4th Baronet (1857–1954)",
+        "slug": "jones-sir-lawrence-john-4th-baronet-1857-1954"
       }
     ]
   },
@@ -292,23 +303,12 @@
   },
   {
     "address": "149 Wild Rose Lane, New Castle",
-    "lat": 43.059791,
-    "lng": -70.7143955,
+    "lat": 43.0600771,
+    "lng": -70.7146594,
     "articles": [
       {
         "title": "Kelp Rock, also Beacon Rock",
         "slug": "kelp-rock-also-beacon-rock"
-      }
-    ]
-  },
-  {
-    "address": "5400 Forbes Avenue",
-    "lat": 42.6586375,
-    "lng": -73.7328314,
-    "articles": [
-      {
-        "title": "Kennedy House at 5400 Forbes Avenue",
-        "slug": "kennedy-house-at-5400-forbes-avenue"
       }
     ]
   },
@@ -318,6 +318,17 @@
     "lng": null,
     "articles": [
       {
+        "title": "Kennedy, Eliza Jane (1889–1964)",
+        "slug": "kennedy-eliza-jane-1889-1964"
+      }
+    ]
+  },
+  {
+    "address": "5400 Forbes Avenue",
+    "lat": 42.6596159,
+    "lng": -73.728059,
+    "articles": [
+      {
         "title": "Kennedy House at 5400 Forbes Avenue",
         "slug": "kennedy-house-at-5400-forbes-avenue"
       }
@@ -325,12 +336,12 @@
   },
   {
     "address": "5400  Forbes Ave",
-    "lat": 42.6586375,
-    "lng": -73.7328314,
+    "lat": 42.6596159,
+    "lng": -73.728059,
     "articles": [
       {
-        "title": "Kennedy House at 5400 Forbes Avenue",
-        "slug": "kennedy-house-at-5400-forbes-avenue"
+        "title": "Kennedy, Julian (1852-1932)",
+        "slug": "kennedy-julian-1852-1932"
       }
     ]
   },
@@ -342,17 +353,6 @@
       {
         "title": "Kennedy, Reid (1864–1953)",
         "slug": "kennedy-reid-1864-1953"
-      }
-    ]
-  },
-  {
-    "address": "3 Cherry Street",
-    "lat": 40.7240416,
-    "lng": -73.9370544,
-    "articles": [
-      {
-        "title": "The Burling Family",
-        "slug": "the-burling-family"
       }
     ]
   },
