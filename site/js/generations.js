@@ -115,4 +115,120 @@
   }
 
   container.innerHTML = html;
+
+  // ── SVG overlay for descent lines ──────────────────────────────────────
+  var svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+  svg.setAttribute("class", "gen-svg-overlay");
+  container.appendChild(svg);
+
+  function resizeSvg() {
+    svg.setAttribute("width", container.offsetWidth);
+    svg.setAttribute("height", container.offsetHeight);
+  }
+  resizeSvg();
+  window.addEventListener("resize", resizeSvg);
+
+  // Build a set of all line endpoints we might need
+  // For each link, find the source card and target card elements
+  var allCards = container.querySelectorAll(".gen-card");
+  var cardElById = {};
+  for (var i = 0; i < allCards.length; i++) {
+    cardElById[allCards[i].getAttribute("data-node-id")] = allCards[i];
+  }
+
+  var activeNodeId = null;
+
+  function clearHighlight() {
+    activeNodeId = null;
+    svg.classList.remove("is-active");
+    // Remove all drawn lines
+    while (svg.firstChild) svg.removeChild(svg.firstChild);
+    // Reset card classes
+    for (var i = 0; i < allCards.length; i++) {
+      allCards[i].classList.remove("is-dimmed", "is-highlighted");
+    }
+  }
+
+  function showDescent(nodeId) {
+    clearHighlight();
+    activeNodeId = nodeId;
+    svg.classList.add("is-active");
+    resizeSvg();
+
+    // Find connected node IDs (parents and children)
+    var connectedIds = {};
+    connectedIds[nodeId] = true;
+    var parentIds = parentsOf[nodeId] || [];
+    var childIds = childrenOf[nodeId] || [];
+    for (var i = 0; i < parentIds.length; i++) connectedIds[parentIds[i]] = true;
+    for (var i = 0; i < childIds.length; i++) connectedIds[childIds[i]] = true;
+
+    // Dim non-connected cards, highlight connected ones
+    for (var i = 0; i < allCards.length; i++) {
+      var cardId = allCards[i].getAttribute("data-node-id");
+      if (connectedIds[cardId]) {
+        allCards[i].classList.add("is-highlighted");
+      } else {
+        allCards[i].classList.add("is-dimmed");
+      }
+    }
+
+    // Draw lines from this card to parents and children
+    var containerRect = container.getBoundingClientRect();
+    var sourceEl = cardElById[nodeId];
+    if (!sourceEl) return;
+
+    // Lines to parents (from top of this card to bottom of parent card)
+    for (var i = 0; i < parentIds.length; i++) {
+      var parentEl = cardElById[parentIds[i]];
+      if (!parentEl) continue;
+      drawLine(parentEl, sourceEl, containerRect);
+    }
+
+    // Lines to children (from bottom of this card to top of child card)
+    for (var i = 0; i < childIds.length; i++) {
+      var childEl = cardElById[childIds[i]];
+      if (!childEl) continue;
+      drawLine(sourceEl, childEl, containerRect);
+    }
+  }
+
+  function drawLine(fromEl, toEl, containerRect) {
+    var fromRect = fromEl.getBoundingClientRect();
+    var toRect = toEl.getBoundingClientRect();
+
+    var x1 = fromRect.left + fromRect.width / 2 - containerRect.left;
+    var y1 = fromRect.bottom - containerRect.top;
+    var x2 = toRect.left + toRect.width / 2 - containerRect.left;
+    var y2 = toRect.top - containerRect.top;
+
+    var line = document.createElementNS("http://www.w3.org/2000/svg", "line");
+    line.setAttribute("x1", x1);
+    line.setAttribute("y1", y1);
+    line.setAttribute("x2", x2);
+    line.setAttribute("y2", y2);
+    line.setAttribute("class", "is-visible");
+    svg.appendChild(line);
+  }
+
+  // Attach hover and click listeners to cards
+  for (var i = 0; i < allCards.length; i++) {
+    (function (card) {
+      card.addEventListener("mouseenter", function () {
+        showDescent(card.getAttribute("data-node-id"));
+      });
+      card.addEventListener("mouseleave", function () {
+        if (activeNodeId === card.getAttribute("data-node-id")) {
+          clearHighlight();
+        }
+      });
+    })(allCards[i]);
+  }
+
+  // Click elsewhere to clear
+  document.addEventListener("click", function (e) {
+    if (!e.target.closest(".gen-card")) {
+      clearHighlight();
+    }
+  });
 }());
