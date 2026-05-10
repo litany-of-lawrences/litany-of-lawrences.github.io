@@ -1,0 +1,22 @@
+<h1>Litany of Lawrences</h1>
+<h2>Building the site</h2>
+<p>IMPORTANT: Never run <code>eleventy</code> directly. Always use the npm scripts from the <code>site/</code> directory:</p>
+<ul>
+<li><code>npm run build</code> — build the site (outputs to <code>site/_site/</code>)</li>
+<li><code>npm run serve</code> — build + live reload dev server</li>
+<li><code>npm run test</code> — run tests</li>
+</ul>
+<p>Running <code>npx eleventy</code> without the correct <code>--config</code> flag will output files to the wrong directory and pollute the repo root.</p>
+<h2>Deployment</h2>
+<p>Deployment is automatic via GitHub Actions. Push to <code>main</code> and the workflow builds the site and deploys to the <code>gh-pages</code> branch, which serves at https://litany-of-lawrences.github.io/.</p>
+<h2>Project structure</h2>
+<ul>
+<li><code>articles/</code> — markdown source files for all articles</li>
+<li><code>site/</code> — Eleventy site (templates, JS, SCSS, data)</li>
+<li><code>site/_site/</code> — build output (gitignored)</li>
+<li><code>site/_includes/</code> — Nunjucks templates (base.njk, article.njk)</li>
+<li><code>site/_data/</code> — data files (familytree.js, articles.js, locations.js, timeline.json)</li>
+<li><code>site/js/</code> — client-side JavaScript</li>
+<li><code>site/scss/</code> — SCSS stylesheets</li>
+<li><code>images/</code> — article images</li>
+</ul>
