@@ -2,7 +2,7 @@
 
 ![ashton](/images/ashton-1.jpeg)
 
-**Location: **Yonkers, New York.
+**Location:** Yonkers, New York.
 
 **Built:** c. 1850.
 

@@ -2,7 +2,7 @@
 
 ![alexandre-frederick-francis-jr-1920-1945](/images/alexandre-frederick-francis-jr-1920-1945-1.png)
 
-**Parents:** [Frederick Francis Alexandre](/alexandre-frederick-francis-1809-1889/) (1894–1968) and Regina Mathilde Saportas (1898–1957).
+**Parents:** [Frederick Francis Alexandre (1894–1968)](/alexandre-frederick-francis-1894-1968/) and Regina Mathilde Saportas (1898–1957).
 
 **Spouse:** None recorded.
 

@@ -10,7 +10,7 @@
 
 **Early Life and Education**
 
-[Frederick Francis Alexandre](/alexandre-frederick-francis-1894-1968/)—also known as François Alexandre—was born on August 5, 1809, in Saint Helier, on the Island of Jersey in the Channel Islands. He was the son of a farmer and was raised in modest circumstances. When his father died, he renounced the family estate—his inheritance under English primogeniture laws—in favor of his sisters, an early sign of the independence and self-reliance that would mark his later life.
+Frederick Francis Alexandre—also known as François Alexandre—was born on August 5, 1809, in Saint Helier, on the Island of Jersey in the Channel Islands. He was the son of a farmer and was raised in modest circumstances. When his father died, he renounced the family estate—his inheritance under English primogeniture laws—in favor of his sisters, an early sign of the independence and self-reliance that would mark his later life.
 
 With an inclination for the sea, he went to sea “before the mast” at a young age and spent his early years acquiring an education wherever he could—attending schools while in port and reading during his spare time aboard ship. At the age of twenty-one, he took command of the Nina on a voyage from Liverpool to Rio de Janeiro, establishing himself as a capable and enterprising mariner.
 
@@ -30,4 +30,4 @@ Though raised in the Church of England, Alexandre’s marriage brought him into 
 
 **Death**
 
-[Frederick Francis Alexandre](/alexandre-frederick-francis-1894-1968/) died in New York City on June 8, 1889. His obituary noted that he had been “a merchant, born in Jersey… who by energy, honesty, and ability, raised himself from humble beginnings to a commanding position in American commerce.” He was buried in the family plot in Greenwood Cemetery, Brooklyn.
+Frederick Francis Alexandre died in New York City on June 8, 1889. His obituary noted that he had been “a merchant, born in Jersey… who by energy, honesty, and ability, raised himself from humble beginnings to a commanding position in American commerce.” He was buried in the family plot in Greenwood Cemetery, Brooklyn.

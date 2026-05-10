@@ -1,0 +1,9 @@
+# Howland Family
+
+The Howland family descends from John Howland (c. 1592–1673), a Mayflower passenger who came to Plymouth in 1620 as a servant to Governor John Carver and later became one of the colony’s prominent freemen and landholders. His dramatic survival—he was swept overboard in a storm during the voyage and rescued by clutching a trailing halyard—entered New England legend. He married Elizabeth Tilley, another Mayflower passenger, and together they established one of the most numerous and well-documented colonial lineages in America. Their descendants spread through Massachusetts, Rhode Island, and Connecticut, entering the mercantile, political, and intellectual life of the region.
+
+By the eighteenth century, the Howlands were among the leading Quaker merchant families of Newport and New [Bedford](/bedford/), particularly associated with the whaling and shipping trades. Members of the family—such as George Howland Sr. (1781–1852) and Susan Howland (1809–1886)—were noted for their philanthropy, abolitionist sympathies, and involvement in the early women’s rights movement. The Howland School for Girls in New [Bedford](/bedford/), founded by the family, reflected their characteristic blend of moral earnestness, religious conviction, and progressive education.
+
+Through marriage, the Howlands became intertwined with other distinguished New England families, including the Rogers, Tallman, and Rotch families of Nantucket and New [Bedford](/bedford/), and later with branches of the Higgins and Reynal families. This continuity of moral idealism, mercantile enterprise, and cultural refinement marked the Howlands as exemplars of the old northeastern Quaker gentry, whose influence extended from the colonial period into the civic and philanthropic institutions of the nineteenth century.
+
+____________________________________________________________________________

@@ -1,0 +1,29 @@
+# Burling, Edward (1674–1749)
+
+**Parents:** Edward Burling (1639–1697) and Grace Norington (c.1651–1715)
+**Spouse:** Abigail Titus (1678–1733)
+**Children:** Samuel Burling (1700–1760), Edward Burling Jr. (1703–1770), Mary Burling (1705– ), Sarah Burling (1708– ), and others
+**Kinship:** Seventh great-grandfather of the post–World War II Smith generation
+
+**Early Life and Family**
+Edward Burling was born in Barking, Essex, in 1674, the eldest surviving son of Edward Burling (1639–1697), a wheelwright and tradesman, and his wife Grace Norington. Around 1680 his parents emigrated to the Colony of New York, joining the early Flushing Meeting of the Society of Friends (Quakers). Like his younger brother [William Burling (1678–1743)](/burling-william-1678-1743/), Edward was raised in a community that prized religious liberty, simplicity, and industriousness.
+
+In the 1690s Edward established himself as a merchant and shipowner in New York City, then a small but rapidly expanding port. He married Abigail Titus, daughter of Quaker settlers from Westbury, Long Island, linking two prominent Long Island Quaker families.
+
+**Merchant and Early New York Development**
+By 1702 Edward Burling had joined the New York Monthly Meeting and was listed among its “men Friends of note.” His commercial activity centered on the growing Atlantic trade between New York, the West Indies, and England. He was one of the first Quakers in the city to transition from artisan to merchant, helping to shape the commercial and civic life of early eighteenth-century Manhattan.
+
+Burling’s name became permanently associated with Burling Slip, a wharf he helped develop near what is now John Street, at the eastern edge of lower Manhattan. In 1733 he purchased adjoining lots for warehouses and wharfage, and by mid-century the area was known as Burling Slip or Burling’s Wharf, an important docking point for sloops and coastal traders. The slip gave rise to Burling Street (later Burling Slip), still identifiable near present-day South Street Seaport.
+
+Although the Burlings were Friends by origin, Edward’s mercantile success gradually integrated him into the civic life of the Anglican establishment. He served as assessor for the East Ward, was a freeman of the City of New York, and contributed to civic improvement projects such as street paving and fire prevention.
+
+**Religious and Community Activity**
+Edward maintained ties with the Quaker community throughout his life, donating to the upkeep of the New York Meeting House on Little Green Street (later Pearl Street) and subscribing to the New York Monthly Meeting School, which evolved into Friends Seminary. He also gave financial support to the poor and to visiting ministers of the Society of Friends.
+
+**Family and Descendants**
+Edward and Abigail’s descendants continued the family’s dual identity as Friends and civic leaders. Their son Samuel Burling (1700–1760) developed the family’s East River wharf property and became one of New York’s leading ship-chandlers and importers. Another son, Edward Jr. (1703–1770), served as vestryman of Trinity Church and was among the first generation of Quakers to join the Anglican communion. Through their descendants, the Burlings became connected to the Lawrence, Embree, and Townsend families of Flushing and to the Parsons family of Queens County.
+
+**Death and Legacy**
+Edward Burling died in 1749, having witnessed New York’s emergence as one of the principal ports of the Atlantic world. The Burling Slip and Burling Street retained his name for more than two centuries, a testament to the family’s early role in the city’s maritime economy.
+
+His career exemplifies the transformation of the colonial Quaker community from agrarian simplicity to urban commercial prominence, a transition that shaped the development of both New York’s economy and its culture of religious tolerance.

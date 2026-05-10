@@ -26,7 +26,7 @@ By the turn of the twentieth century, the [Alexandre Line](/alexandre-line/) had
 
 0
 
-The alliance between the Alexandre and Lawrence families was established when [James Henry Alexandre (1848–1912)](/alexandre-james-henry-1848-1912/), son of [Frederick Francis Alexandre](/alexandre-frederick-francis-1809-1889/), married Elizabeth Boyce Lawrence (1862–1906). She raised his children by his earlier marriage to Gertrude Jerome, linking the Alexandres with one of New York’s historic Quaker-descended families, and perpetuating the family’s social prominence into the next generation.
+The alliance between the Alexandre and Lawrence families was established when [James Henry Alexandre (1848–1912)](/alexandre-james-henry-1848-1912/), son of [Frederick Francis Alexandre](/alexandre-frederick-francis-1809-1889/), married Elizabeth Boyce Lawrence (1862–1906). She raised his children by his earlier marriage to [Gertrude Jerome](/jerome-gertrude-1853-1883/), linking the Alexandres with one of New York’s historic Quaker-descended families, and perpetuating the family’s social prominence into the next generation.
 
 The fourth and fifth generations transitioned into the professional class, serving primarily as stockbrokers, lawyers, and corporate executives.
 

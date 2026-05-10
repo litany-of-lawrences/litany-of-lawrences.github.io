@@ -44,7 +44,9 @@
       queue.push(node.id);
     }
   }
-  while (queue.length) {
+  const MAX_ITER = nodes.length * 2;
+  let iter = 0;
+  while (queue.length && iter++ < MAX_ITER) {
     const id = queue.shift();
     const nextLevel = genLevel.get(id) + 1;
     for (const child of (childrenOf.get(id) ?? [])) {
@@ -246,7 +248,7 @@
       w / (bounds.width  + pad * 2),
       h / (bounds.height + pad * 2),
       1
-    );
+    ) * 25;
     const tx = (w - (bounds.width  + pad * 2) * scale) / 2 - bounds.x * scale + pad * scale;
     const ty = (h - (bounds.height + pad * 2) * scale) / 2 - bounds.y * scale + pad * scale;
     d3.select("#family-tree").call(zoom.transform, d3.zoomIdentity.translate(tx, ty).scale(scale));

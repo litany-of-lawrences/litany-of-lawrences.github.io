@@ -1,5 +1,614 @@
 [
     {
+        "date": "1492",
+        "event": "Christopher Columbus, financed by Spain, lands on the island of San Salvador in the Bahamas, discovering the New World for Europe."
+    },
+    {
+        "date": "1496",
+        "event": "Santo Domingo, the oldest continuously inhabited European settlement in the Americas, is settled."
+    },
+    {
+        "date": "1497",
+        "event": "John Cabot lands in Newfoundland, beginning the British colonial presence in Continental North America."
+    },
+    {
+        "date": "1503",
+        "event": "Jaragua massacre"
+    },
+    {
+        "date": "1504",
+        "event": "Higüey massacre"
+    },
+    {
+        "date": "1507",
+        "event": "A new world map by Martin Waldseemuller names the continents of the New World \"America\" in honor of Amerigo Vespucci."
+    },
+    {
+        "date": "1508",
+        "event": "First European colony and oldest known European settlement in a United States territory is founded at Caparra, Puerto Rico, by Juan Ponce de León."
+    },
+    {
+        "date": "1512",
+        "event": "Laws of Burgos"
+    },
+    {
+        "date": "1513",
+        "event": "Vasco Núñez de Balboa crosses isthmus of Panama, sees the Pacific Ocean."
+    },
+    {
+        "date": "1517",
+        "event": "Protestant reformation"
+    },
+    {
+        "date": "1520s",
+        "event": "Spanish begin the conquest of Aztec civilization."
+    },
+    {
+        "date": "1521",
+        "event": "Hernán Cortés conquered the Aztec empire."
+    },
+    {
+        "date": "1524",
+        "event": "Giovanni da Verrazzano, working for France, explores coastline from present-day Maine to North Carolina."
+    },
+    {
+        "date": "1526",
+        "event": "Lucas Vázquez de Ayllón briefly establishes the failed settlement of San Miguel de Gualdape in South Carolina, the first site of enslavement of Africans in North America and of the first slave rebellion."
+    },
+    {
+        "date": "1534",
+        "event": "Jacques Cartier plants a cross on the Gaspé Peninsula (modern Quebec) and claimed the land for France."
+    },
+    {
+        "date": "1539",
+        "event": "Hernando de Soto had 200 executed, in what was to be called Napituca Massacre."
+    },
+    {
+        "date": "1540",
+        "event": "Francisco Vázquez de Coronado is infamous for the Tiguex Massacres, after seizing the houses, food and clothing of the Tiwa Puebloans and raped their people, his army found themselves in conflict with the Rio Grande natives, which led to the brutal Tiguex War."
+    },
+    {
+        "date": "1540",
+        "event": "Pedro de Tovar comes in contact with the Hopi people at Oraibi as part of the expedition led by Francisco Vázquez de Coronado"
+    },
+    {
+        "date": "1541",
+        "event": "Hernando de Soto discovers the Mississippi River, strengthening Spanish claims to the interior of North America."
+    },
+    {
+        "date": "1562",
+        "event": "Jean Ribault, leaves France with 150 colonists for the New World, establishing Charlesfort on Parris Island in South Carolina, which was abandoned several years later."
+    },
+    {
+        "date": "1564",
+        "event": "French Fort Caroline established on the banks of the St. Johns River, Florida; Colonized by huguenots, sacked by Pedro Menéndez de Avilés in 1565."
+    },
+    {
+        "date": "1565",
+        "event": "Admiral Pedro Menéndez de Avilés founds St. Augustine, Florida, the earliest successful Spanish/European settlement in the future continental United States."
+    },
+    {
+        "date": "1570s",
+        "event": "Iroquois Confederacy founded."
+    },
+    {
+        "date": "1579",
+        "event": "Francis Drake claims the lands of California for England and Queen Elizabeth I, landing in Drake's Bay and naming it New Albion."
+    },
+    {
+        "date": "1585",
+        "event": "Sir Walter Raleigh founds Roanoke Colony, the first English settlement in the New World, though he never set foot in it."
+    },
+    {
+        "date": "1587",
+        "event": "Virginia Dare was born on Roanoke, making her the first English child known to be born in the New World. The first Asians to set foot on what would be the United States occurred when Filipino sailors arrived in Spanish ships at Morro Bay, California; see Landing of the first Filipinos."
+    },
+    {
+        "date": "1588",
+        "event": "First battle of the English against the Spanish Armada begins, leading to their defeat and the lessening of Spain's influence in the New World and the rise of English influence in the Americas."
+    },
+    {
+        "date": "1590",
+        "event": "Roanoke Colony found deserted."
+    },
+    {
+        "date": "1599",
+        "event": "Juan de Oñate and Vicente de Zaldívar committed the Ácoma Massacre killing approximately 500 warriors and 300 civilians of the Acoma Pueblos. And committed the Sandia Mountains massacre, killing 900 Tompiro Indians. King Philip III later punished Oñate for his cruelty."
+    },
+    {
+        "date": "1602",
+        "event": "Bartholomew Gosnold is the first Englishman to land on the New England coast, exploring and naming Cape Cod and Martha's Vineyard."
+    },
+    {
+        "date": "1605",
+        "event": "First capital of Acadia (French) was established as Port-Royal in modern-day Nova Scotia; it lasted until 1613. George Weymouth explores New England."
+    },
+    {
+        "date": "1606",
+        "event": "The joint-stock company Virginia Company of London is founded and granted a Royal Charter by James I to settle in the New World."
+    },
+    {
+        "date": "1607",
+        "event": "Establishment of Jamestown, the first permanent English settlement in the Americas. The short lived Popham Colony founded in Maine by the Virginia Company of Plymouth."
+    },
+    {
+        "date": "1608",
+        "event": "Founding of Quebec (Habitation de Québec) by Samuel de Champlain."
+    },
+    {
+        "date": "1609",
+        "event": "Henry Hudson explores the Hudson River and Delaware Bay for the Dutch."
+    },
+    {
+        "date": "1609",
+        "event": "10 – The Starving Time at Jamestown."
+    },
+    {
+        "date": "1610",
+        "event": "Santa Fe, New Mexico established by Spain"
+    },
+    {
+        "date": "1612",
+        "event": "The Dutch establish a fur trading center with the Native Americans on Manhattan Island."
+    },
+    {
+        "date": "1614",
+        "event": "Dutch claim New Netherland. John Rolfe successfully harvests tobacco in Jamestown, Virginia, ensuring the colony's success."
+    },
+    {
+        "date": "1615",
+        "event": "Fort Nassau (North River) founded near Albany, New York."
+    },
+    {
+        "date": "1617",
+        "event": "19 – Smallpox kills roughly 90% of the Massachusetts Bay Indians"
+    },
+    {
+        "date": "1619",
+        "event": "First enslaved Africans to the North American colonies arrived in Jamestown, Virginia aboard the White Lion. The House of Burgesses, the first democratically elected legislative body in English North America was formed in Jamestown."
+    },
+    {
+        "date": "1619",
+        "event": "Squanto return to northeast America after living in England."
+    },
+    {
+        "date": "1620",
+        "event": "Mayflower Compact signed. Plymouth Colony is founded in what would be Massachusetts, by the Plymouth Company."
+    },
+    {
+        "date": "1621",
+        "event": "Anthony Johnson is held as an Indentured servant in the Colony of Virginia."
+    },
+    {
+        "date": "1622",
+        "event": "Indian massacre of 1622 in Virginia."
+    },
+    {
+        "date": "1624",
+        "event": "King James I revokes the Virginia Company's charter, and Virginia becomes a royal colony. Foundation of New Amsterdam by the Dutch West India Company; would later be renamed New York."
+    },
+    {
+        "date": "1625",
+        "event": "King James I dies; King Charles I becomes King of England"
+    },
+    {
+        "date": "1628",
+        "event": "Massachusetts Bay Colony founded."
+    },
+    {
+        "date": "1630",
+        "event": "Winthrop Fleet to Massachusetts Bay Colony. Manor of Rensselaerswyck founded. Boston founded."
+    },
+    {
+        "date": "1632",
+        "event": "Province of Maryland founded."
+    },
+    {
+        "date": "1634",
+        "event": "Theologian Roger Williams banished from Massachusetts Bay Colony."
+    },
+    {
+        "date": "1636",
+        "event": "Connecticut Colony founded by Thomas Hooker."
+    },
+    {
+        "date": "1636",
+        "event": "Colony of Rhode Island and Providence Plantations founded by Roger Williams."
+    },
+    {
+        "date": "1636",
+        "event": "Harvard College founded."
+    },
+    {
+        "date": "1637",
+        "event": "New Haven Colony founded."
+    },
+    {
+        "date": "1638",
+        "event": "The Free Grace Controversy ended, when Anne Hutchinson was banished from the Massachusetts Bay Colony."
+    },
+    {
+        "date": "1638",
+        "event": "Roger Williams founded the First Baptist Church in America."
+    },
+    {
+        "date": "1638",
+        "event": "Pequot War ends in New England. New Sweden established around the southern Delaware River by Peter Minuit."
+    },
+    {
+        "date": "1639",
+        "event": "Fundamental Agreement of the New Haven Colony signed. Fundamental Orders of Connecticut adopted and the Crown formally recognizes the Virginia Assembly."
+    },
+    {
+        "date": "1640",
+        "event": "French and Iroquois Wars escalate to full warfare."
+    },
+    {
+        "date": "1640",
+        "event": "Virginia courts sentence John Punch a black indentured servant to life of servitude for running away from an abusive plantation owner Hugh Gwyn."
+    },
+    {
+        "date": "1642",
+        "event": "Beginning of the English Civil War. Montreal founded."
+    },
+    {
+        "date": "1643",
+        "event": "New England Confederation created."
+    },
+    {
+        "date": "1643",
+        "event": "1645 – Kieft's War in New Netherland."
+    },
+    {
+        "date": "1644",
+        "event": "1646 – Third Anglo–Powhatan War"
+    },
+    {
+        "date": "1649",
+        "event": "Maryland Toleration Act. Execution of King Charles I and the establishment of Commonwealth in England."
+    },
+    {
+        "date": "1651",
+        "event": "In the wake of the English Civil War, Virginia acknowledges the authority of the Parliament of England."
+    },
+    {
+        "date": "1655",
+        "event": "New Sweden becomes incorporated into the Dutch colony of New Netherland"
+    },
+    {
+        "date": "1655",
+        "event": "John Casor was declared a slave for life after Anthony Johnson, a free black man, sued Robert Parker for stolen services."
+    },
+    {
+        "date": "1656",
+        "event": "Elizabeth Key Grinstead was one of the first black people to sue for freedom for alleged slavery and win."
+    },
+    {
+        "date": "1656",
+        "event": "First Quakers arrive in New England."
+    },
+    {
+        "date": "1655",
+        "event": "Peach War"
+    },
+    {
+        "date": "1658",
+        "event": "Death of Oliver Cromwell"
+    },
+    {
+        "date": "1659",
+        "event": "1663 – Esopus Wars"
+    },
+    {
+        "date": "1660",
+        "event": "Commonwealth of England collapses, Charles II is restored to the throne."
+    },
+    {
+        "date": "1660",
+        "event": "The Royal African Company is founded."
+    },
+    {
+        "date": "1662",
+        "event": "The Virginia Colony passed a law incorporating the principal of partus sequitur ventrem, ruling that children of enslaved mothers would be born into slavery, regardless of their father's race or status"
+    },
+    {
+        "date": "1662",
+        "event": "Halfway Covenant adopted."
+    },
+    {
+        "date": "1663",
+        "event": "The Rhode Island Royal Charter provided recognition to the Colony of Rhode Island and Providence Plantation, and outlined many freedoms including freedom of religion and acknowledged Indian rights to the soil."
+    },
+    {
+        "date": "1663",
+        "event": "King Charles II grants charter for a new colony, (Province of Carolina)."
+    },
+    {
+        "date": "1663",
+        "event": "Gloucester County, Virginia Revolt"
+    },
+    {
+        "date": "1664",
+        "event": "New Amsterdam captured by the English at the start of the Second Anglo-Dutch War. New Jersey and New York established as Proprietary Colonies of England."
+    },
+    {
+        "date": "1665",
+        "event": "The Duke's Laws are issued."
+    },
+    {
+        "date": "1667",
+        "event": "New Netherland ceded to England under Treaty of Breda."
+    },
+    {
+        "date": "1667",
+        "event": "Virginia law enacted, declaring that baptism of slaves does not exempt them from bondage."
+    },
+    {
+        "date": "1669",
+        "event": "Virginia law enacted, that killing one's own enslaved people was not a felony."
+    },
+    {
+        "date": "1669",
+        "event": "The Fundamental Constitutions of Carolina are drawn up."
+    },
+    {
+        "date": "1669",
+        "event": "1670 – John Lederer of Virginia explores the Appalachian Mountains."
+    },
+    {
+        "date": "1670",
+        "event": "Charles Town (Charleston) founded in present-day South Carolina."
+    },
+    {
+        "date": "1671",
+        "event": "The Batts-Fallam expedition sponsored by Abraham Wood reaches the New River (West Virginia)."
+    },
+    {
+        "date": "1672",
+        "event": "Blue Laws enacted in Connecticut."
+    },
+    {
+        "date": "1672",
+        "event": "73 – Louis Jolliet and Jacques Marquette explore the Illinois Country."
+    },
+    {
+        "date": "1674",
+        "event": "New Netherland permanently relinquished to English with Treaty of Westminster."
+    },
+    {
+        "date": "1675",
+        "event": "King Philip's War (1675–76) in New England."
+    },
+    {
+        "date": "1676",
+        "event": "Bacon's Rebellion in Virginia; Bacon writes the \"Declaration of the People of Virginia\"."
+    },
+    {
+        "date": "1677",
+        "event": "Colonists in North Carolina rebel against Thomas Colepeper, 2nd Baron Colepeper. Edmund Andros, Governor of New York, negotiates the Covenant Chain with the Iroquois. Province of Maine absorbed by Massachusetts Bay Colony."
+    },
+    {
+        "date": "1679",
+        "event": "War between the Westo and colonial South Carolina results in the destruction of the Westo. The Province of New Hampshire is created out of the Massachusetts Bay Colony by royal decree from King Charles II."
+    },
+    {
+        "date": "1680",
+        "event": "Pueblo Revolution"
+    },
+    {
+        "date": "1681",
+        "event": "William Penn receives a royal charter from Charles II to establish Pennsylvania."
+    },
+    {
+        "date": "1682",
+        "event": "René-Robert Cavelier, Sieur de La Salle explored the Ohio River Valley and the Mississippi River Valley, and he claimed the entire territory for France as far south as the Gulf of Mexico. William Penn publishes \"Frame of Government of Pennsylvania\" that provides for a precursor of a bicameral government. Philadelphia founded."
+    },
+    {
+        "date": "1685",
+        "event": "Charles II dies and his brother the Duke of York becomes King James II. Fort St. Louis (French colonization of Texas) established near Arenosa Creek on Matagorda Bay by French explorer Robert Cavelier de La Salle; the fort was abandoned in 1688."
+    },
+    {
+        "date": "1686",
+        "event": "Arkansas Post established by Henri de Tonti as the first European settlement in the lower Mississippi River Valley."
+    },
+    {
+        "date": "1688",
+        "event": "The first recorded formal protest against slavery, the 1688 Germantown Quaker Petition Against Slavery."
+    },
+    {
+        "date": "1688",
+        "event": "97 – King William's War, the North American theater of the Nine Years' War."
+    },
+    {
+        "date": "1688",
+        "event": "The Glorious Revolution occurs; King James II flees to France and is replaced by William and Mary of Orange."
+    },
+    {
+        "date": "1689",
+        "event": "The English Parliament presents the English Bill of Rights to William and Mary and is later used as one of the models for the United States Bill of Rights. The Boston Revolt and Leisler's Rebellion occurs. Toleration Act 1688 is passed by Parliament which gives limited freedom of religion to all English subject."
+    },
+    {
+        "date": "1690",
+        "event": "The first newspaper issue in the English colonies is published in Boston, the Public Occurrences."
+    },
+    {
+        "date": "1692",
+        "event": "Salem Witch Trials"
+    },
+    {
+        "date": "1693",
+        "event": "College of William & Mary founded in Williamsburg, Virginia. Rice culture introduced in the Province of Carolina."
+    },
+    {
+        "date": "1694",
+        "event": "Mary II dies, William III takes sole rule over England."
+    },
+    {
+        "date": "1696",
+        "event": "Cahokia, Illinois established by French missionaries from Quebec and is one of the earliest permanent settlements in the region."
+    },
+    {
+        "date": "1697",
+        "event": "The Treaty of Ryswick ends King William's War and restores all colonial possessions to pre-war ownership."
+    },
+    {
+        "date": "1698",
+        "event": "The Parliament of England's Trade with Africa Act 1697 comes into effect, ending the Royal African Company's monopoly on English trade with Africa, including the Atlantic slave trade. The act, which was passed in part due to heavy pressure from merchants in England's American colonies, results in the number of Africans transported to the American colonies being increased from 5,000 to 45,000 per annum."
+    },
+    {
+        "date": "1699",
+        "event": "Capital of Virginia moved from Jamestown to Williamsburg; Jamestown is slowly abandoned. The Wool Act forbade the export of wool from the American colonies. Free blacks ordered to leave the Colony of Virginia."
+    },
+    {
+        "date": "1700",
+        "event": "José Romo de Vivar becomes one of the earliest European (Spanish) settlers in the future state of Arizona."
+    },
+    {
+        "date": "1701",
+        "event": "The Collegiate school at Saybrook is founded in Connecticut; it will later be renamed as Yale College. Delaware Colony granted charter, separating it from Pennsylvania."
+    },
+    {
+        "date": "1702",
+        "event": "William III dies, is succeeded by Queen Anne. Queen Anne's War (War of the Spanish Succession) begins. East Jersey and West Jersey become crown colonies. Mobile, Alabama founded."
+    },
+    {
+        "date": "1703",
+        "event": "Kaskaskia, Illinois established as a small mission station for the French."
+    },
+    {
+        "date": "1704",
+        "event": "The first regular newspaper publishes its initial edition in Boston, the News-Letter and was begun by John Campbell. The Province of Carolina allows the arming of the enslaved population during time of war."
+    },
+    {
+        "date": "1705",
+        "event": "The House of Burgesses passes the Virginia Slave Codes of 1705."
+    },
+    {
+        "date": "1706",
+        "event": "Benjamin Franklin born in Boston. Albuquerque founded and named for the viceroy of New Spain, Francisco Fernández de la Cueva, 10th Duke of Alburquerque."
+    },
+    {
+        "date": "1710",
+        "event": "Francis Nicholson takes Port Royal."
+    },
+    {
+        "date": "1711",
+        "event": "15 – North Carolina fights the Tuscarora War with the Tuscarora people."
+    },
+    {
+        "date": "1712",
+        "event": "New York Slave Revolt of 1712."
+    },
+    {
+        "date": "1713",
+        "event": "The Treaty of Utrecht is signed, bringing an end to Queen Anne's War; England gains Nova Scotia."
+    },
+    {
+        "date": "1714",
+        "event": "Queen Anne dies; succeeded by George I. Natchitoches established by Louis Juchereau de St. Denis, making it the oldest permanent European settlement in the modern state of Louisiana."
+    },
+    {
+        "date": "1715",
+        "event": "South Carolina begins the Yamasee War."
+    },
+    {
+        "date": "1718",
+        "event": "Mission San Antonio de Valero (The Alamo) built as the first Spanish mission along the San Antonio River. New Orleans founded by the French. Blackbeard is killed in battle by lieutenant Robert Maynard in the waters off the Province of North Carolina."
+    },
+    {
+        "date": "1723",
+        "event": "The House of Burgesses passes an act to deal with slave rebellions. The French establish Fort Orleans along the Missouri River near Brunswick, Missouri."
+    },
+    {
+        "date": "1725",
+        "event": "Father Rale's War (1722–25)"
+    },
+    {
+        "date": "1727",
+        "event": "George I dies, is succeeded by George II. British construct Fort Oswego."
+    },
+    {
+        "date": "1729",
+        "event": "Province of Carolina proprietors sell out to Crown. City of Baltimore founded."
+    },
+    {
+        "date": "1732",
+        "event": "The Province of Georgia is founded by General James Oglethorpe. Where slavery was prohibited."
+    },
+    {
+        "date": "1735",
+        "event": "John Peter Zenger is found innocent of libel by the New York City trial on August 4."
+    },
+    {
+        "date": "1737",
+        "event": "Benjamin Lay writes All Slave-Keepers That Keep the Innocent in Bondage, Apostates. Published by Benjamin Franklin in Philadelphia."
+    },
+    {
+        "date": "1739",
+        "event": "The Stono Rebellion in the Province of South Carolina is crushed."
+    },
+    {
+        "date": "1739",
+        "event": "40 – George Whitefield begins his travels throughout the colonies. His message of everyday Christians having a personal connection with God resonates and begins the First Great Awakening."
+    },
+    {
+        "date": "1740",
+        "event": "The Plantation Act 1740 is passed to encourage immigration to the Thirteen Colonies and regularize the colonial naturalization procedures. Battle of Cartagena de Indias, where the colonists are called \"Americans\" for the first time. James Oglethorpe fails to take St. Augustine.  South Carolina enacts the Negro Act of 1740."
+    },
+    {
+        "date": "1741",
+        "event": "The New York Conspiracy of 1741 is suppressed."
+    },
+    {
+        "date": "1744",
+        "event": "King George's War (1744–48)"
+    },
+    {
+        "date": "1745",
+        "event": "New Englanders take Louisbourg."
+    },
+    {
+        "date": "1746",
+        "event": "Princeton University founded, with Jonathan Dickinson as its first president."
+    },
+    {
+        "date": "1747",
+        "event": "Founding of the Ohio Company."
+    },
+    {
+        "date": "1749",
+        "event": "Province of Georgia overturns its ban on slavery. Father Le Loutre's War (1749–55)"
+    },
+    {
+        "date": "1750",
+        "event": "Thomas Walker passes through the Cumberland Gap."
+    },
+    {
+        "date": "1751",
+        "event": "The ban on slavery was lifted after 19 years in the Province of Georgia."
+    },
+    {
+        "date": "1752",
+        "event": "Benjamin Kent represented slaves in court against their masters in Massachusetts."
+    },
+    {
+        "date": "1754",
+        "event": "French and Indian War begins, which was a theater of the Seven Years' War; first engagement at the Battle of Jumonville Glen. Albany Congress, in which a \"Union of Colonies\" is proposed. Columbia University founded as King's College by George II Royal Charter."
+    },
+    {
+        "date": "1757",
+        "event": "Siege of Fort William Henry."
+    },
+    {
+        "date": "1758",
+        "event": "Siege of Louisbourg; Battle of Fort Frontenac; Battle of Fort Duquesne.  The first black Baptist church is founded in Lunenburg, Virginia."
+    },
+    {
+        "date": "1759",
+        "event": "Quebec is taken, British victory assured in French and Indian War."
+    },
+
+    {
         "date": "1790",
         "event": "Rhode Island ratifies the Constitution and becomes 13th state"
     },

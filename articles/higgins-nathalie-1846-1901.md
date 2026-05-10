@@ -1,0 +1,42 @@
+# Higgins, Nathalie (1846–1901)
+
+**Parents:** [Nathaniel Dyer Higgins (1823–1882)](/higgins-nathaniel-dyer-1823-1882/) and Elizabeth C. Sturgess (1825–?).
+**Spouse:** Jules Reynal Roche Fermoy de Saint-Michel (1838–1894).
+**Children:** Mathilde Eugénie Reynal (1870–1938), Nathaniel Claude Reynal (1871–1928), Jules Reynal (1874–1879), and Eugène Sugny Reynal (1877–1939).
+**Kinship:** Mother-in-law of Sarah Caldwell, the great-grandmother of the post–World War II Smith generation.
+
+**Early Life and Marriage**
+
+Nathalie Higgins was born in 1846, the daughter of [Nathaniel Dyer Higgins](/higgins-nathaniel-dyer-1823-1882/), a prosperous carpet manufacturer whose business fortune made the family one of the wealthiest in New York. The Higgins concern, known for fine Axminster and Wilton carpets, became a cornerstone of Gilded Age domestic luxury, and Nathalie’s inheritance would later make her a social and financial force in her own right.
+
+In the late 1860s, she married Jules Reynal Roche Fermoy de Saint-Michel, a French-born gentleman of elegant manners but modest fortune. Nathalie’s immense wealth overshadowed her husband’s finances; she was known among New York society as la source—“the source (of money).” The marriage produced four children and placed the couple among the cosmopolitan elite of Gilded Age Manhattan, maintaining residences at 263 Madison Avenue and summering at Bar Harbor, Maine.
+
+**Society Life and Entertaining**
+
+Mrs. Reynal quickly established herself as one of New York’s most imaginative hostesses. Her elaborate luncheons and teas were legendary. In 1889 she entertained ninety ladies at fourteen tables, each centered by a Dresden candelabrum shaded with colored satin. Menus were printed on red satin tablets embossed with the family monogram in gold. Even the floral arrangements—miniature hats, baskets, and hampers—overflowed with seasonal blooms.
+
+A later “mauve luncheon” in 1896 became the talk of the town: “It was mauve and gold, and mostly the latter. All the plates that were not gold were mauve; even the ices were mauve-colored, and a great mound of lavender orchids crowned the table.”
+
+Her Easter gatherings were equally sumptuous. One observer described: “Mrs. Jules Reynal gave at her residence, 263 Madison Avenue, a luncheon of sixteen covers. The table decorations were moss rosebuds and lilies of the valley; decorated ivory Easter eggs were given as favors; and after luncheon came cards, followed by tea.”
+
+**Wealth and Domestic Controversy**
+
+Nathalie’s fortune—estimated at $10 million at her death (equivalent to roughly $1 billion today)—derived from the Higgins carpet empire. Her financial independence, however, strained her marriage. Jules Reynal reportedly received an allowance and once pawned her horse trophies to raise cash, selling her the pawn tickets so she could redeem them—an anecdote that became family legend.
+
+In February 1889, The Evening World published a scandalous story under the headline “Disturbance on Madison Avenue”. According to reports, Mrs. Reynal appeared on her balcony at midnight shouting for help, claiming her husband had threatened her and their child with a revolver. Police intervened, and Mr. Reynal soon decamped to a North Carolina hunting lodge. Though his attorney publicly denied the incident, the couple quietly separated soon after, Jules taking rooms at the Park Avenue Hotel.
+
+**Summers at Bar Harbor and Legal Troubles**
+
+Nathalie summered in Bar Harbor, Maine—first at her house Ban-y-Bryn, then at Cornersmeet. Her flair for luxury occasionally ran afoul of the law. When advised by her doctor to eat a partridge a day, she served twenty-five of them out of season at a dinner party in September 1889. The State Game Warden fined her $254 after her housekeeper confessed. Outraged, Nathalie left Bar Harbor in protest, vowing never to return. Society rallied to her side: “All day society has been indignantly discussing the ‘outrage,’ and the opinion has become thoroughly crystallized that a law which obstructs gastronomic enjoyment is a baneful one.”
+
+**Family Crises and Later Life**
+
+Tragedy struck again in 1901, when her son Eugène Sugny Reynal and his fiancée Adelaide Fitzgerald contracted scarlet fever while staying at Gedney Farms in White Plains. During his illness, Adelaide secretly married Eugène on his sickbed, with only the doctor and nurse as witnesses.
+
+![higgins-nathalie-1846-1901](/images/higgins-nathalie-1846-1901-1.jpeg)
+
+By then, Nathalie had converted to Catholicism and undertaken a major act of philanthropy: she built and endowed St. John the Evangelist Church in White Plains in memory of her son Jules, who had died in childhood. The church was constructed at her expense, furnished, and turned over to the parish debt-free in 1892.
+
+On April 29, 1901, as Nathalie lay dying at her Madison Avenue home, Archbishop Michael Corrigan performed the wedding of her son Nathaniel Claude Reynal to Sara Caldwell Rutter, widow of Nathaniel Rutter. Nathalie died on May 2, 1901, and was buried from St. John the Evangelist, the church she had built.
+
+_____________________________________________________________________________

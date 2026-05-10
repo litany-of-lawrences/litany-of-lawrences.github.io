@@ -4,7 +4,7 @@
 
 **Parents:** [Dewitt Loomis Alexandre (1917–1982)](/alexandre-dewitt-loomis-1917-1982/) and Cynthia Lenox Banks (1918–1991). Spouse: (1) Priscilla Baker Hill (1952– ): (2) Kristin Kuhns Gerrity (1948– ).
 
-**Children:** With Priscilla Hill: Priscilla Alexandre and Anthony Alexandre; with Kristin Kuhns: [James Andrew Alexandre (1986– )](/alexandre-james-andrew-1986/) and [Cynthia Lenox Banks Alexandre](/alexandre-cynthia-lenox-banks-1944/) (1993– ).
+**Children:** With Priscilla Hill: Priscilla Alexandre and Anthony Alexandre; with Kristin Kuhns: [James Andrew Alexandre (1986– )](/alexandre-james-andrew-1986/) and Cynthia Lenox Banks Alexandre (1993– ).
 
 **Kinship:** Second cousin of the post–World War II Smith generation.
 

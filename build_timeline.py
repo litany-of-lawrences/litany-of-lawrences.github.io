@@ -89,6 +89,8 @@ def main():
         # Skip entries where the event text is just a year
         if re.fullmatch(r'\d{4}', ev["event"].strip()):
             continue
+        if ev == "present":
+            continue
         # dates may be just a year ("1793") or a full date ("March 4, 1793")
         year_match = re.search(r'\d{4}', ev["date"])
         if not year_match:

@@ -43,9 +43,14 @@ def run_has_strong_style(run) -> bool:
 
 
 def is_article_title(para) -> bool:
-    """Bold paragraph at 18pt font size."""
+    """
+    Paragraph containing a run at 18pt font size. Bold is NOT required: in
+    some source documents titles inherit bold from a paragraph style, so
+    run.bold reports None even though the title renders bold in Word.
+    18pt alone is an unambiguous title signal — body text is ~11pt.
+    """
     for run in para.runs:
-        if run.bold and run.font.size == TITLE_FONT_SIZE and run.text.strip():
+        if run.font.size == TITLE_FONT_SIZE and run.text.strip():
             return True
     return False
 
@@ -62,6 +67,14 @@ def para_to_markdown_lines(para) -> list[str]:
     if not para.text.strip():
         return []
 
+    # Matches "**Label:**X" where X is non-whitespace — inserts a space so
+    # bold labels don't butt up against their values (e.g. "**Built:**1876").
+    LABEL_NO_SPACE_RE = re.compile(r'(\*\*[^*\n]+?:\*\*)(\S)')
+
+    def finalize(parts: list[str]) -> str:
+        line = "".join(parts).strip()
+        return LABEL_NO_SPACE_RE.sub(r'\1 \2', line)
+
     lines = []
     current: list[str] = []
     seen_non_bold = False  # reset each time we start a new line
@@ -73,7 +86,7 @@ def para_to_markdown_lines(para) -> list[str]:
         for i, segment in enumerate(segments):
             if i > 0:
                 # Flush line and reset bold-tracking for the new line
-                line = "".join(current).strip()
+                line = finalize(current)
                 if line:
                     lines.append(line)
                 current = []
@@ -83,9 +96,20 @@ def para_to_markdown_lines(para) -> list[str]:
                 apply_bold = is_bold and not seen_non_bold
                 if not is_bold:
                     seen_non_bold = True
-                current.append(f"**{segment}**" if apply_bold else segment)
+                if apply_bold:
+                    # Move leading/trailing whitespace OUTSIDE the ** markers,
+                    # otherwise "**Architect: **" won't render as bold.
+                    stripped = segment.strip()
+                    if stripped:
+                        lead = segment[:len(segment) - len(segment.lstrip())]
+                        trail = segment[len(segment.rstrip()):]
+                        current.append(f"{lead}**{stripped}**{trail}")
+                    else:
+                        current.append(segment)
+                else:
+                    current.append(segment)
 
-    last = "".join(current).strip()
+    last = finalize(current)
     if last:
         lines.append(last)
 
@@ -161,9 +185,15 @@ def extract_articles(doc_path: Path) -> list[tuple[str, list[str]]]:
     return articles
 
 
-def write_article(title: str, lines: list[str], output_dir: Path) -> Path:
-    filename = slugify(title) + ".md"
-    path = output_dir / filename
+def write_article(title: str, lines: list[str], output_dir: Path) -> Path | None:
+    if not title or not title.strip():
+        print(f"  Skipped: article has no title")
+        return None
+    slug = slugify(title)
+    if not slug:
+        print(f"  Skipped: title {title!r} slugifies to empty string")
+        return None
+    path = output_dir / f"{slug}.md"
     content = "\n".join(lines).rstrip() + "\n"
     path.write_text(content, encoding="utf-8")
     return path
@@ -183,7 +213,8 @@ def main():
         articles = extract_articles(docx_path)
         for title, lines in articles:
             out_path = write_article(title, lines, OUTPUT_DIR)
-            print(f"  Wrote: {out_path}")
+            if out_path:
+                print(f"  Wrote: {out_path}")
 
     print("Done.")
 

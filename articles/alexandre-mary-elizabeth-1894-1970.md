@@ -10,7 +10,7 @@
 
 **Early Life**
 
-Mary Elizabeth “May” Alexandre was born in 1894, the twin sister of [Frederick Francis Alexandre](/alexandre-frederick-francis-1809-1889/) (1894–1968) and the youngest daughter of [James Henry Alexandre](/alexandre-james-henry-1848-1912/) and Elizabeth Boyce Lawrence. Her mother’s early death in 1906 and her father’s in 1912 left her and her siblings to be raised largely under the care of relatives, notably her aunt, Mrs. John E. Alexandre. She was educated in New York and was known for her charm and poise within the North Shore social circle.
+Mary Elizabeth “May” Alexandre was born in 1894, the twin sister of [Frederick Francis Alexandre (1894–1968)](/alexandre-frederick-francis-1894-1968/) and the youngest daughter of [James Henry Alexandre](/alexandre-james-henry-1848-1912/) and Elizabeth Boyce Lawrence. Her mother’s early death in 1906 and her father’s in 1912 left her and her siblings to be raised largely under the care of relatives, notably her aunt, Mrs. John E. Alexandre. She was educated in New York and was known for her charm and poise within the North Shore social circle.
 
 **Marriage to Nathaniel Edward Caldwell Rutter**
 

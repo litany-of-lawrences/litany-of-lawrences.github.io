@@ -8,6 +8,8 @@
     return;
   }
 
+  entries = entries.filter(e => e.text != 'present');
+  
   // Group entries by year
   var byYear = {};
   var years = [];

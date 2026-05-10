@@ -79,12 +79,19 @@ def replace_bare(text: str, search: str, link_target: str) -> tuple[str, int]:
     """
     Replace bare (not already linked) occurrences of `search` in `text`
     with a markdown link. Returns (new_text, replacement_count).
+
+    If `search` has no trailing date, refuse to match when followed by a
+    "(YYYY…)" date expression — that mention belongs to a differently-dated
+    person and should be picked up by their dated variant instead.
     """
     escaped = re.escape(search)
+    has_trailing_date = bool(re.search(r'\(\d{4}[–\-]\d*\s*\)\s*$', search))
     # Negative lookbehind: not preceded by '[' (already link text)
-    # Negative lookahead: not followed by ']' (already link text) or immediately
-    # inside a markdown link target '(...)'
-    pattern = r'(?<!\[)' + escaped + r'(?!\])'
+    # Negative lookahead: not followed by ']' (already link text)
+    # Extra lookahead for bare names: reject if followed by " (YYYY" — that's
+    # a dated mention that must be linked by the dated variant, not the bare one.
+    tail = r'(?!\])' if has_trailing_date else r'(?!\])(?!\s*\(\d{4})'
+    pattern = r'(?<!\[)' + escaped + tail
     replacement = f"[{search}]({link_target})"
     new_text, count = re.subn(pattern, replacement, text)
     return new_text, count

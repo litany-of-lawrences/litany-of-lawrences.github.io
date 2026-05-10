@@ -1,8 +1,8 @@
 # Alexandre, James Henry (1848–1912)
 
-**Parents:** [Frederick Francis Alexandre (1809–1889)](/alexandre-frederick-francis-1809-1889/) and Marie Civilise Cipriant (1811–1882). Spouse: (1) Gertrude Jerome (1853–1883), married February 1, 1877; (2) Elizabeth Boyce Lawrence (1862–1906), married June 1, 1887; (3) Pauline Garcia de Oñativia Townsend (1871–1950), married May 24, 1910.
+**Parents:** [Frederick Francis Alexandre (1809–1889)](/alexandre-frederick-francis-1809-1889/) and Marie Civilise Cipriant (1811–1882). Spouse: (1) [Gertrude Jerome (1853–1883)](/jerome-gertrude-1853-1883/), married February 1, 1877; (2) Elizabeth Boyce Lawrence (1862–1906), married June 1, 1887; (3) Pauline Garcia de Oñativia Townsend (1871–1950), married May 24, 1910.
 
-**Children:** With Gertrude Jerome: [Gertrude Jerome Alexandre](/alexandre-gertrude-jerome-1879-1940/) (1879–1949) and James Henry Alexandre Jr. (1883–1956); with Elizabeth Boyce Lawrence: Mary Virginia Alexandre (1888–1889), Virginia Lawrence Alexandre (1891–1960), and twins [Frederick Francis Alexandre](/alexandre-frederick-francis-1809-1889/) (1894–1968) and [Mary Elizabeth Alexandre (1894–1970)](/alexandre-mary-elizabeth-1894-1970/).
+**Children:** With [Gertrude Jerome](/jerome-gertrude-1853-1883/): [Gertrude Jerome](/jerome-gertrude-1853-1883/) Alexandre (1879–1949) and James Henry Alexandre Jr. (1883–1956); with Elizabeth Boyce Lawrence: Mary Virginia Alexandre (1888–1889), Virginia Lawrence Alexandre (1891–1960), and twins [Frederick Francis Alexandre (1894–1968)](/alexandre-frederick-francis-1894-1968/) and [Mary Elizabeth Alexandre (1894–1970)](/alexandre-mary-elizabeth-1894-1970/).
 
 **Kinship:** Great-grandfather of the post–World War II Smith generation.
 
@@ -22,7 +22,7 @@ He was an avid yachtsman, and his yacht, the Sappho, frequently carried him betw
 
 **Marriages and Family**
 
-His first wife, Gertrude Jerome, died in 1883, leaving two young children. In 1898, Alexandre married Elizabeth Boyce Lawrence, linking the Alexandre family with the Lawrences of Bayside and Oyster Bay. After her death in 1906, he married Pauline Garcia de Oñativa Townsend, a woman of Spanish descent and social distinction.
+His first wife, [Gertrude Jerome](/jerome-gertrude-1853-1883/), died in 1883, leaving two young children. In 1898, Alexandre married Elizabeth Boyce Lawrence, linking the Alexandre family with the Lawrences of Bayside and Oyster Bay. After her death in 1906, he married Pauline Garcia de Oñativa Townsend, a woman of Spanish descent and social distinction.
 
 **Death**
 

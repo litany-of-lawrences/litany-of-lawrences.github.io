@@ -502,11 +502,7 @@ a.underline {
 }
 
 .leaflet-popup-close-button {
-  color: $color-brown-light !important;
-  font-size: 18px !important;
-  padding: 4px 6px !important;
-
-  &:hover { color: $color-brown !important; }
+  display: none !important;
 }
 
 // Zoom controls — Google-Maps-style pill at top-right
@@ -551,18 +547,88 @@ a.underline {
   a { color: $color-link; }
 }
 
+.map-popup-img-wrap {
+  position: relative;
+}
+
 .map-popup-streetview {
   display: block;
   width: 100%;
-  height: 120px;
+  height: 240px;
   object-fit: cover;
   margin-bottom: 8px;
+}
+
+.map-popup-btn-row {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  display: flex;
+  gap: 4px;
+}
+
+.map-popup-expand,
+.map-popup-close {
+  width: 28px;
+  height: 28px;
+  border: none;
+  border-radius: 4px;
+  background: rgba(0, 0, 0, 0.55);
+  color: #fff;
+  font-size: 16px;
+  line-height: 28px;
+  text-align: center;
+  cursor: pointer;
+  opacity: 0.75;
+  transition: opacity 0.15s;
+
+  .map-popup-img-wrap:hover & { opacity: 1; }
+}
+
+.map-lightbox {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  background: rgba(0, 0, 0, 0.85);
+  align-items: center;
+  justify-content: center;
+  cursor: zoom-out;
+
+  &.is-active { display: flex; }
+}
+
+.map-lightbox-img {
+  max-width: 90vw;
+  max-height: 90vh;
+  border-radius: 4px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
+}
+
+.map-lightbox-close {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  width: 28px;
+  height: 28px;
+  border: none;
+  border-radius: 4px;
+  background: rgba(0, 0, 0, 0.55);
+  color: #fff;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: center;
+  cursor: pointer;
+  opacity: 0.75;
+  transition: opacity 0.15s;
+
+  &:hover { opacity: 1; }
 }
 
 .map-popup {
   font-family: $font-serif;
   color: $color-brown;
-  min-width: 160px;
+  min-width: 320px;
 
   strong {
     display: block;

@@ -4,7 +4,7 @@
 
 **Spouse:** Wanda Lucille Bright (1921–1991).
 
-**Children:** Wanda Helene Alexandre (1939–2013), [Jerome Alexandre](/alexandre-jerome-1886-1925/) (1940–2009), Suzanne Alexandre (1943– ), and Stephanie Ann Alexandre (1947–1998).
+**Children:** Wanda Helene Alexandre (1939–2013), Jerome Alexandre (1940–2009), Suzanne Alexandre (1943– ), and Stephanie Ann Alexandre (1947–1998).
 
 **Kinship:** Second cousin once removed of the post–World War II Smith generation.
 

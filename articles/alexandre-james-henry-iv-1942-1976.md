@@ -4,7 +4,7 @@
 
 **Parents:** [James Henry Alexandre](/alexandre-james-henry-1848-1912/) III (1915–1963) and Catherine Holbrook Clark (1920–1982). Spouse: Nancy Maxwell Ott (1946– ).
 
-**Children:** [James Henry Alexandre](/alexandre-james-henry-1848-1912/) V (1968– ), Jennie [Jerome Alexandre](/alexandre-jerome-1886-1925/) (1966– ), and Catherine Mead Alexandre (c. 1971– ).
+**Children:** [James Henry Alexandre](/alexandre-james-henry-1848-1912/) V (1968– ), Jennie Jerome Alexandre (1966– ), and Catherine Mead Alexandre (c. 1971– ).
 
 **Kinship:** Second cousin of the post–World War II Smith generation.
 

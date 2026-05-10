@@ -1,10 +1,10 @@
 # Alexandre Stables at 173 East 73rd  Street,
 
-**Location: **North side of East 73rd Street, between Third and Lexington Avenues, Upper East Side, Manhattan.
+**Location:** North side of East 73rd Street, between Third and Lexington Avenues, Upper East Side, Manhattan.
 
 **Built:1893**
 
-**Architect: **Hobart H. Walker
+**Architect:** Hobart H. Walker
 
 **Architect**
 

@@ -4,13 +4,13 @@
 
 **Parents:** [James Henry Alexandre (1848–1912)](/alexandre-james-henry-1848-1912/) and Elizabeth Boyce Lawrence (1862–1906). Spouse: Regina Mathilde Saportas (1898–1957)..
 
-**Children:** Elizabeth Lawrence Alexandre (1917–1964), [Frederick Francis Alexandre](/alexandre-frederick-francis-1809-1889/) Jr. (1920–1945), Mathilde Marie Alexandre (1921–2009), Joan Alexandre (1923–1984), Lawrence Armitage Alexandre (1924–1996), Anthony Joseph Alexandre (1926–2021), and Patricia Jane Alexandre (1928–2017).
+**Children:** Elizabeth Lawrence Alexandre (1917–1964), Frederick Francis Alexandre Jr. (1920–1945), Mathilde Marie Alexandre (1921–2009), Joan Alexandre (1923–1984), Lawrence Armitage Alexandre (1924–1996), Anthony Joseph Alexandre (1926–2021), and Patricia Jane Alexandre (1928–2017).
 
 **Kinship:** Granduncle of the post–World War II Smith generation.
 
 **Early Life and Education**
 
-[Frederick Francis Alexandre](/alexandre-frederick-francis-1809-1889/) was born in 1894, the son of [James Henry Alexandre](/alexandre-james-henry-1848-1912/) and Elizabeth Boyce Lawrence. He married Regina Matilde Saportas in 1916,and completed his degree at Princeton University after the war, graduating in 1921.
+Frederick Francis Alexandre was born in 1894, the son of [James Henry Alexandre](/alexandre-james-henry-1848-1912/) and Elizabeth Boyce Lawrence. He married Regina Matilde Saportas in 1916,and completed his degree at Princeton University after the war, graduating in 1921.
 
 **Military Service**
 
@@ -28,8 +28,8 @@ Alexandre’s lifelong passion was the world of horses and coaching. He was a me
 
 he family’s hospitality was well known. The Brooklyn Daily Eagle reported on the Alexandres’ 1937 Christmas dinner:
 
-Lawrence, Dec. 25 — Mr. and Mrs. Frederick F. Alexandre gave their annual family Christmas dinner today at their home on the Causeway. Among those in the company were Mr. Alexandre’s brother-in-law and sister, Mr. and Mrs. N. Edward C. Rutter of Lawrence and children, the Misses Mary, a debutante; Nancy, Virginia, and Theodore and John A. Rutter; Mrs. Samuel Adams Clark; Sr. Francis A. Clark; Mr. and Mrs. J. Henry Alexandre and sons, J. Henry Alexandre Jr., Dewitt and [Jerome Alexandre](/alexandre-jerome-1886-1925/); Miss Virginia Lawrence Alexandre; Mr. and Mrs. Martin B. Saportas and their children, Charles and Miss Marjorie Towers.
+Lawrence, Dec. 25 — Mr. and Mrs. Frederick F. Alexandre gave their annual family Christmas dinner today at their home on the Causeway. Among those in the company were Mr. Alexandre’s brother-in-law and sister, Mr. and Mrs. N. Edward C. Rutter of Lawrence and children, the Misses Mary, a debutante; Nancy, Virginia, and Theodore and John A. Rutter; Mrs. [Samuel Adams Clark](/clark-samuel-adams-1875-1931/); Sr. Francis A. Clark; Mr. and Mrs. J. Henry Alexandre and sons, J. Henry Alexandre Jr., Dewitt and [Jerome Alexandre](/alexandre-jerome-1886-1925/); Miss Virginia Lawrence Alexandre; Mr. and Mrs. Martin B. Saportas and their children, Charles and Miss Marjorie Towers.
 
 **Death**
 
-[Frederick Francis Alexandre](/alexandre-frederick-francis-1809-1889/) died on May 1, 1968. He was remembered for his long financial career, his distinguished military service, and his leadership in the equestrian life of Long Island society.
+Frederick Francis Alexandre died on May 1, 1968. He was remembered for his long financial career, his distinguished military service, and his leadership in the equestrian life of Long Island society.

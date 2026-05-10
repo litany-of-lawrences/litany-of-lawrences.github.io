@@ -1,5 +1,1007 @@
 [
   {
+    "year": 1492,
+    "type": "event",
+    "text": "Christopher Columbus, financed by Spain, lands on the island of San Salvador in the Bahamas, discovering the New World for Europe.",
+    "slug": null
+  },
+  {
+    "year": 1496,
+    "type": "event",
+    "text": "Santo Domingo, the oldest continuously inhabited European settlement in the Americas, is settled.",
+    "slug": null
+  },
+  {
+    "year": 1497,
+    "type": "event",
+    "text": "John Cabot lands in Newfoundland, beginning the British colonial presence in Continental North America.",
+    "slug": null
+  },
+  {
+    "year": 1503,
+    "type": "event",
+    "text": "Jaragua massacre",
+    "slug": null
+  },
+  {
+    "year": 1504,
+    "type": "event",
+    "text": "Hig\u00fcey massacre",
+    "slug": null
+  },
+  {
+    "year": 1507,
+    "type": "event",
+    "text": "A new world map by Martin Waldseemuller names the continents of the New World \"America\" in honor of Amerigo Vespucci.",
+    "slug": null
+  },
+  {
+    "year": 1508,
+    "type": "event",
+    "text": "First European colony and oldest known European settlement in a United States territory is founded at Caparra, Puerto Rico, by Juan Ponce de Le\u00f3n.",
+    "slug": null
+  },
+  {
+    "year": 1512,
+    "type": "event",
+    "text": "Laws of Burgos",
+    "slug": null
+  },
+  {
+    "year": 1513,
+    "type": "event",
+    "text": "Vasco N\u00fa\u00f1ez de Balboa crosses isthmus of Panama, sees the Pacific Ocean.",
+    "slug": null
+  },
+  {
+    "year": 1517,
+    "type": "event",
+    "text": "Protestant reformation",
+    "slug": null
+  },
+  {
+    "year": 1520,
+    "type": "event",
+    "text": "Spanish begin the conquest of Aztec civilization.",
+    "slug": null
+  },
+  {
+    "year": 1521,
+    "type": "event",
+    "text": "Hern\u00e1n Cort\u00e9s conquered the Aztec empire.",
+    "slug": null
+  },
+  {
+    "year": 1524,
+    "type": "event",
+    "text": "Giovanni da Verrazzano, working for France, explores coastline from present-day Maine to North Carolina.",
+    "slug": null
+  },
+  {
+    "year": 1526,
+    "type": "event",
+    "text": "Lucas V\u00e1zquez de Ayll\u00f3n briefly establishes the failed settlement of San Miguel de Gualdape in South Carolina, the first site of enslavement of Africans in North America and of the first slave rebellion.",
+    "slug": null
+  },
+  {
+    "year": 1534,
+    "type": "event",
+    "text": "Jacques Cartier plants a cross on the Gasp\u00e9 Peninsula (modern Quebec) and claimed the land for France.",
+    "slug": null
+  },
+  {
+    "year": 1539,
+    "type": "event",
+    "text": "Hernando de Soto had 200 executed, in what was to be called Napituca Massacre.",
+    "slug": null
+  },
+  {
+    "year": 1540,
+    "type": "event",
+    "text": "Francisco V\u00e1zquez de Coronado is infamous for the Tiguex Massacres, after seizing the houses, food and clothing of the Tiwa Puebloans and raped their people, his army found themselves in conflict with the Rio Grande natives, which led to the brutal Tiguex War.",
+    "slug": null
+  },
+  {
+    "year": 1540,
+    "type": "event",
+    "text": "Pedro de Tovar comes in contact with the Hopi people at Oraibi as part of the expedition led by Francisco V\u00e1zquez de Coronado",
+    "slug": null
+  },
+  {
+    "year": 1541,
+    "type": "event",
+    "text": "Hernando de Soto discovers the Mississippi River, strengthening Spanish claims to the interior of North America.",
+    "slug": null
+  },
+  {
+    "year": 1562,
+    "type": "event",
+    "text": "Jean Ribault, leaves France with 150 colonists for the New World, establishing Charlesfort on Parris Island in South Carolina, which was abandoned several years later.",
+    "slug": null
+  },
+  {
+    "year": 1564,
+    "type": "event",
+    "text": "French Fort Caroline established on the banks of the St. Johns River, Florida; Colonized by huguenots, sacked by Pedro Men\u00e9ndez de Avil\u00e9s in 1565.",
+    "slug": null
+  },
+  {
+    "year": 1565,
+    "type": "event",
+    "text": "Admiral Pedro Men\u00e9ndez de Avil\u00e9s founds St. Augustine, Florida, the earliest successful Spanish/European settlement in the future continental United States.",
+    "slug": null
+  },
+  {
+    "year": 1570,
+    "type": "event",
+    "text": "Iroquois Confederacy founded.",
+    "slug": null
+  },
+  {
+    "year": 1579,
+    "type": "event",
+    "text": "Francis Drake claims the lands of California for England and Queen Elizabeth I, landing in Drake's Bay and naming it New Albion.",
+    "slug": null
+  },
+  {
+    "year": 1585,
+    "type": "event",
+    "text": "Sir Walter Raleigh founds Roanoke Colony, the first English settlement in the New World, though he never set foot in it.",
+    "slug": null
+  },
+  {
+    "year": 1587,
+    "type": "event",
+    "text": "Virginia Dare was born on Roanoke, making her the first English child known to be born in the New World. The first Asians to set foot on what would be the United States occurred when Filipino sailors arrived in Spanish ships at Morro Bay, California; see Landing of the first Filipinos.",
+    "slug": null
+  },
+  {
+    "year": 1588,
+    "type": "event",
+    "text": "First battle of the English against the Spanish Armada begins, leading to their defeat and the lessening of Spain's influence in the New World and the rise of English influence in the Americas.",
+    "slug": null
+  },
+  {
+    "year": 1590,
+    "type": "event",
+    "text": "Roanoke Colony found deserted.",
+    "slug": null
+  },
+  {
+    "year": 1599,
+    "type": "event",
+    "text": "Juan de O\u00f1ate and Vicente de Zald\u00edvar committed the \u00c1coma Massacre killing approximately 500 warriors and 300 civilians of the Acoma Pueblos. And committed the Sandia Mountains massacre, killing 900 Tompiro Indians. King Philip III later punished O\u00f1ate for his cruelty.",
+    "slug": null
+  },
+  {
+    "year": 1602,
+    "type": "event",
+    "text": "Bartholomew Gosnold is the first Englishman to land on the New England coast, exploring and naming Cape Cod and Martha's Vineyard.",
+    "slug": null
+  },
+  {
+    "year": 1605,
+    "type": "event",
+    "text": "First capital of Acadia (French) was established as Port-Royal in modern-day Nova Scotia; it lasted until 1613. George Weymouth explores New England.",
+    "slug": null
+  },
+  {
+    "year": 1606,
+    "type": "event",
+    "text": "The joint-stock company Virginia Company of London is founded and granted a Royal Charter by James I to settle in the New World.",
+    "slug": null
+  },
+  {
+    "year": 1607,
+    "type": "event",
+    "text": "Establishment of Jamestown, the first permanent English settlement in the Americas. The short lived Popham Colony founded in Maine by the Virginia Company of Plymouth.",
+    "slug": null
+  },
+  {
+    "year": 1608,
+    "type": "event",
+    "text": "Founding of Quebec (Habitation de Qu\u00e9bec) by Samuel de Champlain.",
+    "slug": null
+  },
+  {
+    "year": 1609,
+    "type": "event",
+    "text": "10 \u2013 The Starving Time at Jamestown.",
+    "slug": null
+  },
+  {
+    "year": 1609,
+    "type": "event",
+    "text": "Henry Hudson explores the Hudson River and Delaware Bay for the Dutch.",
+    "slug": null
+  },
+  {
+    "year": 1610,
+    "type": "event",
+    "text": "Santa Fe, New Mexico established by Spain",
+    "slug": null
+  },
+  {
+    "year": 1612,
+    "type": "event",
+    "text": "The Dutch establish a fur trading center with the Native Americans on Manhattan Island.",
+    "slug": null
+  },
+  {
+    "year": 1614,
+    "type": "event",
+    "text": "Dutch claim New Netherland. John Rolfe successfully harvests tobacco in Jamestown, Virginia, ensuring the colony's success.",
+    "slug": null
+  },
+  {
+    "year": 1615,
+    "type": "event",
+    "text": "Fort Nassau (North River) founded near Albany, New York.",
+    "slug": null
+  },
+  {
+    "year": 1617,
+    "type": "event",
+    "text": "19 \u2013 Smallpox kills roughly 90% of the Massachusetts Bay Indians",
+    "slug": null
+  },
+  {
+    "year": 1619,
+    "type": "event",
+    "text": "First enslaved Africans to the North American colonies arrived in Jamestown, Virginia aboard the White Lion. The House of Burgesses, the first democratically elected legislative body in English North America was formed in Jamestown.",
+    "slug": null
+  },
+  {
+    "year": 1619,
+    "type": "event",
+    "text": "Squanto return to northeast America after living in England.",
+    "slug": null
+  },
+  {
+    "year": 1620,
+    "type": "event",
+    "text": "Mayflower Compact signed. Plymouth Colony is founded in what would be Massachusetts, by the Plymouth Company.",
+    "slug": null
+  },
+  {
+    "year": 1621,
+    "type": "event",
+    "text": "Anthony Johnson is held as an Indentured servant in the Colony of Virginia.",
+    "slug": null
+  },
+  {
+    "year": 1622,
+    "type": "event",
+    "text": "Indian massacre of 1622 in Virginia.",
+    "slug": null
+  },
+  {
+    "year": 1624,
+    "type": "event",
+    "text": "King James I revokes the Virginia Company's charter, and Virginia becomes a royal colony. Foundation of New Amsterdam by the Dutch West India Company; would later be renamed New York.",
+    "slug": null
+  },
+  {
+    "year": 1625,
+    "type": "event",
+    "text": "King James I dies; King Charles I becomes King of England",
+    "slug": null
+  },
+  {
+    "year": 1627,
+    "type": "birth",
+    "text": "John I Bowne born",
+    "slug": "bowne-john-i-1627-1695"
+  },
+  {
+    "year": 1628,
+    "type": "event",
+    "text": "Massachusetts Bay Colony founded.",
+    "slug": null
+  },
+  {
+    "year": 1630,
+    "type": "event",
+    "text": "Winthrop Fleet to Massachusetts Bay Colony. Manor of Rensselaerswyck founded. Boston founded.",
+    "slug": null
+  },
+  {
+    "year": 1632,
+    "type": "event",
+    "text": "Province of Maryland founded.",
+    "slug": null
+  },
+  {
+    "year": 1634,
+    "type": "event",
+    "text": "Theologian Roger Williams banished from Massachusetts Bay Colony.",
+    "slug": null
+  },
+  {
+    "year": 1636,
+    "type": "event",
+    "text": "Colony of Rhode Island and Providence Plantations founded by Roger Williams.",
+    "slug": null
+  },
+  {
+    "year": 1636,
+    "type": "event",
+    "text": "Connecticut Colony founded by Thomas Hooker.",
+    "slug": null
+  },
+  {
+    "year": 1636,
+    "type": "event",
+    "text": "Harvard College founded.",
+    "slug": null
+  },
+  {
+    "year": 1637,
+    "type": "birth",
+    "text": "Hannah Feake Bowne born",
+    "slug": "bowne-hannah-feake-1637-1677"
+  },
+  {
+    "year": 1637,
+    "type": "event",
+    "text": "New Haven Colony founded.",
+    "slug": null
+  },
+  {
+    "year": 1638,
+    "type": "event",
+    "text": "Pequot War ends in New England. New Sweden established around the southern Delaware River by Peter Minuit.",
+    "slug": null
+  },
+  {
+    "year": 1638,
+    "type": "event",
+    "text": "Roger Williams founded the First Baptist Church in America.",
+    "slug": null
+  },
+  {
+    "year": 1638,
+    "type": "event",
+    "text": "The Free Grace Controversy ended, when Anne Hutchinson was banished from the Massachusetts Bay Colony.",
+    "slug": null
+  },
+  {
+    "year": 1639,
+    "type": "event",
+    "text": "Fundamental Agreement of the New Haven Colony signed. Fundamental Orders of Connecticut adopted and the Crown formally recognizes the Virginia Assembly.",
+    "slug": null
+  },
+  {
+    "year": 1640,
+    "type": "event",
+    "text": "French and Iroquois Wars escalate to full warfare.",
+    "slug": null
+  },
+  {
+    "year": 1640,
+    "type": "event",
+    "text": "Virginia courts sentence John Punch a black indentured servant to life of servitude for running away from an abusive plantation owner Hugh Gwyn.",
+    "slug": null
+  },
+  {
+    "year": 1642,
+    "type": "event",
+    "text": "Beginning of the English Civil War. Montreal founded.",
+    "slug": null
+  },
+  {
+    "year": 1643,
+    "type": "event",
+    "text": "1645 \u2013 Kieft's War in New Netherland.",
+    "slug": null
+  },
+  {
+    "year": 1643,
+    "type": "event",
+    "text": "New England Confederation created.",
+    "slug": null
+  },
+  {
+    "year": 1644,
+    "type": "event",
+    "text": "1646 \u2013 Third Anglo\u2013Powhatan War",
+    "slug": null
+  },
+  {
+    "year": 1649,
+    "type": "event",
+    "text": "Maryland Toleration Act. Execution of King Charles I and the establishment of Commonwealth in England.",
+    "slug": null
+  },
+  {
+    "year": 1651,
+    "type": "event",
+    "text": "In the wake of the English Civil War, Virginia acknowledges the authority of the Parliament of England.",
+    "slug": null
+  },
+  {
+    "year": 1655,
+    "type": "event",
+    "text": "John Casor was declared a slave for life after Anthony Johnson, a free black man, sued Robert Parker for stolen services.",
+    "slug": null
+  },
+  {
+    "year": 1655,
+    "type": "event",
+    "text": "New Sweden becomes incorporated into the Dutch colony of New Netherland",
+    "slug": null
+  },
+  {
+    "year": 1655,
+    "type": "event",
+    "text": "Peach War",
+    "slug": null
+  },
+  {
+    "year": 1656,
+    "type": "event",
+    "text": "Elizabeth Key Grinstead was one of the first black people to sue for freedom for alleged slavery and win.",
+    "slug": null
+  },
+  {
+    "year": 1656,
+    "type": "event",
+    "text": "First Quakers arrive in New England.",
+    "slug": null
+  },
+  {
+    "year": 1658,
+    "type": "event",
+    "text": "Death of Oliver Cromwell",
+    "slug": null
+  },
+  {
+    "year": 1659,
+    "type": "event",
+    "text": "1663 \u2013 Esopus Wars",
+    "slug": null
+  },
+  {
+    "year": 1660,
+    "type": "event",
+    "text": "Commonwealth of England collapses, Charles II is restored to the throne.",
+    "slug": null
+  },
+  {
+    "year": 1660,
+    "type": "event",
+    "text": "The Royal African Company is founded.",
+    "slug": null
+  },
+  {
+    "year": 1662,
+    "type": "event",
+    "text": "Halfway Covenant adopted.",
+    "slug": null
+  },
+  {
+    "year": 1662,
+    "type": "event",
+    "text": "The Virginia Colony passed a law incorporating the principal of partus sequitur ventrem, ruling that children of enslaved mothers would be born into slavery, regardless of their father's race or status",
+    "slug": null
+  },
+  {
+    "year": 1663,
+    "type": "event",
+    "text": "Gloucester County, Virginia Revolt",
+    "slug": null
+  },
+  {
+    "year": 1663,
+    "type": "event",
+    "text": "King Charles II grants charter for a new colony, (Province of Carolina).",
+    "slug": null
+  },
+  {
+    "year": 1663,
+    "type": "event",
+    "text": "The Rhode Island Royal Charter provided recognition to the Colony of Rhode Island and Providence Plantation, and outlined many freedoms including freedom of religion and acknowledged Indian rights to the soil.",
+    "slug": null
+  },
+  {
+    "year": 1664,
+    "type": "event",
+    "text": "New Amsterdam captured by the English at the start of the Second Anglo-Dutch War. New Jersey and New York established as Proprietary Colonies of England.",
+    "slug": null
+  },
+  {
+    "year": 1665,
+    "type": "event",
+    "text": "The Duke's Laws are issued.",
+    "slug": null
+  },
+  {
+    "year": 1667,
+    "type": "birth",
+    "text": "Samuel I Bowne born",
+    "slug": "bowne-samuel-i-1667-1745"
+  },
+  {
+    "year": 1667,
+    "type": "event",
+    "text": "New Netherland ceded to England under Treaty of Breda.",
+    "slug": null
+  },
+  {
+    "year": 1667,
+    "type": "event",
+    "text": "Virginia law enacted, declaring that baptism of slaves does not exempt them from bondage.",
+    "slug": null
+  },
+  {
+    "year": 1669,
+    "type": "event",
+    "text": "1670 \u2013 John Lederer of Virginia explores the Appalachian Mountains.",
+    "slug": null
+  },
+  {
+    "year": 1669,
+    "type": "event",
+    "text": "The Fundamental Constitutions of Carolina are drawn up.",
+    "slug": null
+  },
+  {
+    "year": 1669,
+    "type": "event",
+    "text": "Virginia law enacted, that killing one's own enslaved people was not a felony.",
+    "slug": null
+  },
+  {
+    "year": 1670,
+    "type": "event",
+    "text": "Charles Town (Charleston) founded in present-day South Carolina.",
+    "slug": null
+  },
+  {
+    "year": 1671,
+    "type": "event",
+    "text": "The Batts-Fallam expedition sponsored by Abraham Wood reaches the New River (West Virginia).",
+    "slug": null
+  },
+  {
+    "year": 1672,
+    "type": "event",
+    "text": "73 \u2013 Louis Jolliet and Jacques Marquette explore the Illinois Country.",
+    "slug": null
+  },
+  {
+    "year": 1672,
+    "type": "event",
+    "text": "Blue Laws enacted in Connecticut.",
+    "slug": null
+  },
+  {
+    "year": 1674,
+    "type": "birth",
+    "text": "Edward Burling born",
+    "slug": "burling-edward-1674-1749"
+  },
+  {
+    "year": 1674,
+    "type": "event",
+    "text": "New Netherland permanently relinquished to English with Treaty of Westminster.",
+    "slug": null
+  },
+  {
+    "year": 1675,
+    "type": "event",
+    "text": "King Philip's War (1675\u201376) in New England.",
+    "slug": null
+  },
+  {
+    "year": 1676,
+    "type": "event",
+    "text": "Bacon's Rebellion in Virginia; Bacon writes the \"Declaration of the People of Virginia\".",
+    "slug": null
+  },
+  {
+    "year": 1677,
+    "type": "event",
+    "text": "Colonists in North Carolina rebel against Thomas Colepeper, 2nd Baron Colepeper. Edmund Andros, Governor of New York, negotiates the Covenant Chain with the Iroquois. Province of Maine absorbed by Massachusetts Bay Colony.",
+    "slug": null
+  },
+  {
+    "year": 1678,
+    "type": "birth",
+    "text": "William Burling born",
+    "slug": "burling-william-1678-1743"
+  },
+  {
+    "year": 1679,
+    "type": "event",
+    "text": "War between the Westo and colonial South Carolina results in the destruction of the Westo. The Province of New Hampshire is created out of the Massachusetts Bay Colony by royal decree from King Charles II.",
+    "slug": null
+  },
+  {
+    "year": 1680,
+    "type": "event",
+    "text": "Pueblo Revolution",
+    "slug": null
+  },
+  {
+    "year": 1681,
+    "type": "event",
+    "text": "William Penn receives a royal charter from Charles II to establish Pennsylvania.",
+    "slug": null
+  },
+  {
+    "year": 1682,
+    "type": "event",
+    "text": "Ren\u00e9-Robert Cavelier, Sieur de La Salle explored the Ohio River Valley and the Mississippi River Valley, and he claimed the entire territory for France as far south as the Gulf of Mexico. William Penn publishes \"Frame of Government of Pennsylvania\" that provides for a precursor of a bicameral government. Philadelphia founded.",
+    "slug": null
+  },
+  {
+    "year": 1685,
+    "type": "event",
+    "text": "Charles II dies and his brother the Duke of York becomes King James II. Fort St. Louis (French colonization of Texas) established near Arenosa Creek on Matagorda Bay by French explorer Robert Cavelier de La Salle; the fort was abandoned in 1688.",
+    "slug": null
+  },
+  {
+    "year": 1686,
+    "type": "event",
+    "text": "Arkansas Post established by Henri de Tonti as the first European settlement in the lower Mississippi River Valley.",
+    "slug": null
+  },
+  {
+    "year": 1688,
+    "type": "event",
+    "text": "97 \u2013 King William's War, the North American theater of the Nine Years' War.",
+    "slug": null
+  },
+  {
+    "year": 1688,
+    "type": "event",
+    "text": "The Glorious Revolution occurs; King James II flees to France and is replaced by William and Mary of Orange.",
+    "slug": null
+  },
+  {
+    "year": 1688,
+    "type": "event",
+    "text": "The first recorded formal protest against slavery, the 1688 Germantown Quaker Petition Against Slavery.",
+    "slug": null
+  },
+  {
+    "year": 1689,
+    "type": "event",
+    "text": "The English Parliament presents the English Bill of Rights to William and Mary and is later used as one of the models for the United States Bill of Rights. The Boston Revolt and Leisler's Rebellion occurs. Toleration Act 1688 is passed by Parliament which gives limited freedom of religion to all English subject.",
+    "slug": null
+  },
+  {
+    "year": 1690,
+    "type": "event",
+    "text": "The first newspaper issue in the English colonies is published in Boston, the Public Occurrences.",
+    "slug": null
+  },
+  {
+    "year": 1692,
+    "type": "event",
+    "text": "Salem Witch Trials",
+    "slug": null
+  },
+  {
+    "year": 1693,
+    "type": "event",
+    "text": "College of William & Mary founded in Williamsburg, Virginia. Rice culture introduced in the Province of Carolina.",
+    "slug": null
+  },
+  {
+    "year": 1694,
+    "type": "event",
+    "text": "Mary II dies, William III takes sole rule over England.",
+    "slug": null
+  },
+  {
+    "year": 1696,
+    "type": "event",
+    "text": "Cahokia, Illinois established by French missionaries from Quebec and is one of the earliest permanent settlements in the region.",
+    "slug": null
+  },
+  {
+    "year": 1697,
+    "type": "event",
+    "text": "The Treaty of Ryswick ends King William's War and restores all colonial possessions to pre-war ownership.",
+    "slug": null
+  },
+  {
+    "year": 1698,
+    "type": "event",
+    "text": "The Parliament of England's Trade with Africa Act 1697 comes into effect, ending the Royal African Company's monopoly on English trade with Africa, including the Atlantic slave trade. The act, which was passed in part due to heavy pressure from merchants in England's American colonies, results in the number of Africans transported to the American colonies being increased from 5,000 to 45,000 per annum.",
+    "slug": null
+  },
+  {
+    "year": 1699,
+    "type": "event",
+    "text": "Capital of Virginia moved from Jamestown to Williamsburg; Jamestown is slowly abandoned. The Wool Act forbade the export of wool from the American colonies. Free blacks ordered to leave the Colony of Virginia.",
+    "slug": null
+  },
+  {
+    "year": 1700,
+    "type": "event",
+    "text": "Jos\u00e9 Romo de Vivar becomes one of the earliest European (Spanish) settlers in the future state of Arizona.",
+    "slug": null
+  },
+  {
+    "year": 1701,
+    "type": "event",
+    "text": "The Collegiate school at Saybrook is founded in Connecticut; it will later be renamed as Yale College. Delaware Colony granted charter, separating it from Pennsylvania.",
+    "slug": null
+  },
+  {
+    "year": 1702,
+    "type": "event",
+    "text": "William III dies, is succeeded by Queen Anne. Queen Anne's War (War of the Spanish Succession) begins. East Jersey and West Jersey become crown colonies. Mobile, Alabama founded.",
+    "slug": null
+  },
+  {
+    "year": 1703,
+    "type": "event",
+    "text": "Kaskaskia, Illinois established as a small mission station for the French.",
+    "slug": null
+  },
+  {
+    "year": 1704,
+    "type": "event",
+    "text": "The first regular newspaper publishes its initial edition in Boston, the News-Letter and was begun by John Campbell. The Province of Carolina allows the arming of the enslaved population during time of war.",
+    "slug": null
+  },
+  {
+    "year": 1705,
+    "type": "event",
+    "text": "The House of Burgesses passes the Virginia Slave Codes of 1705.",
+    "slug": null
+  },
+  {
+    "year": 1706,
+    "type": "event",
+    "text": "Benjamin Franklin born in Boston. Albuquerque founded and named for the viceroy of New Spain, Francisco Fern\u00e1ndez de la Cueva, 10th Duke of Alburquerque.",
+    "slug": null
+  },
+  {
+    "year": 1710,
+    "type": "event",
+    "text": "Francis Nicholson takes Port Royal.",
+    "slug": null
+  },
+  {
+    "year": 1711,
+    "type": "event",
+    "text": "15 \u2013 North Carolina fights the Tuscarora War with the Tuscarora people.",
+    "slug": null
+  },
+  {
+    "year": 1712,
+    "type": "event",
+    "text": "New York Slave Revolt of 1712.",
+    "slug": null
+  },
+  {
+    "year": 1713,
+    "type": "event",
+    "text": "The Treaty of Utrecht is signed, bringing an end to Queen Anne's War; England gains Nova Scotia.",
+    "slug": null
+  },
+  {
+    "year": 1714,
+    "type": "event",
+    "text": "Queen Anne dies; succeeded by George I. Natchitoches established by Louis Juchereau de St. Denis, making it the oldest permanent European settlement in the modern state of Louisiana.",
+    "slug": null
+  },
+  {
+    "year": 1715,
+    "type": "event",
+    "text": "South Carolina begins the Yamasee War.",
+    "slug": null
+  },
+  {
+    "year": 1717,
+    "type": "birth",
+    "text": "Ebenezer Burling born",
+    "slug": "burling-ebenezer-1717-1758"
+  },
+  {
+    "year": 1718,
+    "type": "event",
+    "text": "Mission San Antonio de Valero (The Alamo) built as the first Spanish mission along the San Antonio River. New Orleans founded by the French. Blackbeard is killed in battle by lieutenant Robert Maynard in the waters off the Province of North Carolina.",
+    "slug": null
+  },
+  {
+    "year": 1723,
+    "type": "event",
+    "text": "The House of Burgesses passes an act to deal with slave rebellions. The French establish Fort Orleans along the Missouri River near Brunswick, Missouri.",
+    "slug": null
+  },
+  {
+    "year": 1725,
+    "type": "event",
+    "text": "Father Rale's War (1722\u201325)",
+    "slug": null
+  },
+  {
+    "year": 1727,
+    "type": "event",
+    "text": "George I dies, is succeeded by George II. British construct Fort Oswego.",
+    "slug": null
+  },
+  {
+    "year": 1729,
+    "type": "event",
+    "text": "Province of Carolina proprietors sell out to Crown. City of Baltimore founded.",
+    "slug": null
+  },
+  {
+    "year": 1732,
+    "type": "event",
+    "text": "The Province of Georgia is founded by General James Oglethorpe. Where slavery was prohibited.",
+    "slug": null
+  },
+  {
+    "year": 1735,
+    "type": "event",
+    "text": "John Peter Zenger is found innocent of libel by the New York City trial on August 4.",
+    "slug": null
+  },
+  {
+    "year": 1737,
+    "type": "event",
+    "text": "Benjamin Lay writes All Slave-Keepers That Keep the Innocent in Bondage, Apostates. Published by Benjamin Franklin in Philadelphia.",
+    "slug": null
+  },
+  {
+    "year": 1739,
+    "type": "event",
+    "text": "40 \u2013 George Whitefield begins his travels throughout the colonies. His message of everyday Christians having a personal connection with God resonates and begins the First Great Awakening.",
+    "slug": null
+  },
+  {
+    "year": 1739,
+    "type": "event",
+    "text": "The Stono Rebellion in the Province of South Carolina is crushed.",
+    "slug": null
+  },
+  {
+    "year": 1740,
+    "type": "event",
+    "text": "The Plantation Act 1740 is passed to encourage immigration to the Thirteen Colonies and regularize the colonial naturalization procedures. Battle of Cartagena de Indias, where the colonists are called \"Americans\" for the first time. James Oglethorpe fails to take St. Augustine.  South Carolina enacts the Negro Act of 1740.",
+    "slug": null
+  },
+  {
+    "year": 1741,
+    "type": "event",
+    "text": "The New York Conspiracy of 1741 is suppressed.",
+    "slug": null
+  },
+  {
+    "year": 1744,
+    "type": "birth",
+    "text": "Robert Bowne born",
+    "slug": "bowne-robert-1744-1818"
+  },
+  {
+    "year": 1744,
+    "type": "event",
+    "text": "King George's War (1744\u201348)",
+    "slug": null
+  },
+  {
+    "year": 1745,
+    "type": "event",
+    "text": "New Englanders take Louisbourg.",
+    "slug": null
+  },
+  {
+    "year": 1746,
+    "type": "birth",
+    "text": "Thomas Burling born",
+    "slug": "burling-thomas-1746-1831"
+  },
+  {
+    "year": 1746,
+    "type": "event",
+    "text": "Princeton University founded, with Jonathan Dickinson as its first president.",
+    "slug": null
+  },
+  {
+    "year": 1747,
+    "type": "event",
+    "text": "Founding of the Ohio Company.",
+    "slug": null
+  },
+  {
+    "year": 1749,
+    "type": "event",
+    "text": "Province of Georgia overturns its ban on slavery. Father Le Loutre's War (1749\u201355)",
+    "slug": null
+  },
+  {
+    "year": 1750,
+    "type": "event",
+    "text": "Thomas Walker passes through the Cumberland Gap.",
+    "slug": null
+  },
+  {
+    "year": 1751,
+    "type": "event",
+    "text": "The ban on slavery was lifted after 19 years in the Province of Georgia.",
+    "slug": null
+  },
+  {
+    "year": 1752,
+    "type": "event",
+    "text": "Benjamin Kent represented slaves in court against their masters in Massachusetts.",
+    "slug": null
+  },
+  {
+    "year": 1754,
+    "type": "event",
+    "text": "French and Indian War begins, which was a theater of the Seven Years' War; first engagement at the Battle of Jumonville Glen. Albany Congress, in which a \"Union of Colonies\" is proposed. Columbia University founded as King's College by George II Royal Charter.",
+    "slug": null
+  },
+  {
+    "year": 1757,
+    "type": "event",
+    "text": "Siege of Fort William Henry.",
+    "slug": null
+  },
+  {
+    "year": 1758,
+    "type": "event",
+    "text": "Siege of Louisbourg; Battle of Fort Frontenac; Battle of Fort Duquesne.  The first black Baptist church is founded in Lunenburg, Virginia.",
+    "slug": null
+  },
+  {
+    "year": 1759,
+    "type": "event",
+    "text": "Quebec is taken, British victory assured in French and Indian War.",
+    "slug": null
+  },
+  {
+    "year": 1770,
+    "type": "birth",
+    "text": "Walter I Bowne born",
+    "slug": "bowne-walter-i-1770-1846"
+  },
+  {
+    "year": 1775,
+    "type": "birth",
+    "text": "Thamer Fisher born",
+    "slug": "fisher-thamer-1775-1870"
+  },
+  {
+    "year": 1776,
+    "type": "birth",
+    "text": "Barent Gardenier born",
+    "slug": "gardenier-barent-1776-1822"
+  },
+  {
+    "year": 1777,
+    "type": "birth",
+    "text": "William Slocum Burling born",
+    "slug": "burling-william-slocum-1777-1863"
+  },
+  {
+    "year": 1783,
+    "type": "birth",
+    "text": "Sir John Thomas, 1st Baronet Jones born",
+    "slug": "jones-sir-john-thomas-1st-baronet-1783-1843"
+  },
+  {
+    "year": 1784,
+    "type": "birth",
+    "text": "Mary Bowne born",
+    "slug": "bowne-mary-1784-1839"
+  },
+  {
+    "year": 1787,
+    "type": "birth",
+    "text": "Ker Boyce born",
+    "slug": "boyce-ker-1787-1854"
+  },
+  {
     "year": 1790,
     "type": "event",
     "text": "Rhode Island ratifies the Constitution and becomes 13th state",
@@ -34,6 +1036,12 @@
     "type": "event",
     "text": "U.S. presidential election, 1792: George Washington reelected president, John Adams reelected vice president",
     "slug": null
+  },
+  {
+    "year": 1793,
+    "type": "birth",
+    "text": "James Henry, Sr. Caldwell born",
+    "slug": "caldwell-james-henry-sr-1793-1863"
   },
   {
     "year": 1793,
@@ -76,6 +1084,12 @@
     "type": "event",
     "text": "Whiskey Rebellion",
     "slug": null
+  },
+  {
+    "year": 1795,
+    "type": "birth",
+    "text": "Lawrence Gardenier born",
+    "slug": "gardenier-lawrence-1795-1891"
   },
   {
     "year": 1795,
@@ -265,6 +1279,12 @@
   },
   {
     "year": 1807,
+    "type": "birth",
+    "text": "Theodore Sedgwick Fay born",
+    "slug": "fay-theodore-sedgwick-1807-1898"
+  },
+  {
+    "year": 1807,
     "type": "event",
     "text": "Embargo Act of 1807",
     "slug": null
@@ -313,9 +1333,21 @@
   },
   {
     "year": 1811,
+    "type": "birth",
+    "text": "Bradish Johnson born",
+    "slug": "johnson-bradish-1811-1892"
+  },
+  {
+    "year": 1811,
     "type": "event",
     "text": "First Bank of the United States charter expires",
     "slug": null
+  },
+  {
+    "year": 1812,
+    "type": "birth",
+    "text": "Henry Rutherford Bedinger born",
+    "slug": "bedinger-henry-rutherford-1812-1858"
   },
   {
     "year": 1812,
@@ -409,6 +1441,18 @@
   },
   {
     "year": 1817,
+    "type": "birth",
+    "text": "Leonard Walter Jerome born",
+    "slug": "jerome-leonard-walter-1817-1891"
+  },
+  {
+    "year": 1817,
+    "type": "birth",
+    "text": "Sir Lawrence, 2nd Baronet Jones born",
+    "slug": "jones-sir-lawrence-2nd-baronet-1817-1845"
+  },
+  {
+    "year": 1817,
     "type": "event",
     "text": "Harvard Law School founded",
     "slug": null
@@ -481,6 +1525,12 @@
   },
   {
     "year": 1820,
+    "type": "birth",
+    "text": "Sir Willoughby, 3rd Baronet Jones born",
+    "slug": "jones-sir-willoughby-3rd-baronet-1820-1884"
+  },
+  {
+    "year": 1820,
     "type": "event",
     "text": "Massachusetts divided in two with the admission of Maine as a state.",
     "slug": null
@@ -490,6 +1540,12 @@
     "type": "event",
     "text": "U.S. presidential election, 1820: James Monroe reelected president unopposed, Daniel D. Tompkins reelected vice president.",
     "slug": null
+  },
+  {
+    "year": 1821,
+    "type": "birth",
+    "text": "William Shakespeare Caldwell born",
+    "slug": "caldwell-william-shakespeare-1821-1874"
   },
   {
     "year": 1821,
@@ -511,9 +1567,21 @@
   },
   {
     "year": 1823,
+    "type": "birth",
+    "text": "Nathaniel Dyer Higgins born",
+    "slug": "higgins-nathaniel-dyer-1823-1882"
+  },
+  {
+    "year": 1823,
     "type": "event",
     "text": "Monroe Doctrine proclaimed",
     "slug": null
+  },
+  {
+    "year": 1824,
+    "type": "birth",
+    "text": "Thomas Walker Kennedy born",
+    "slug": "kennedy-thomas-walker-1824-1906"
   },
   {
     "year": 1824,
@@ -552,6 +1620,18 @@
     "slug": null
   },
   {
+    "year": 1827,
+    "type": "birth",
+    "text": "Henry Augustine Bogert born",
+    "slug": "bogert-henry-augustine-1827-1905"
+  },
+  {
+    "year": 1827,
+    "type": "birth",
+    "text": "James Petigru Boyce born",
+    "slug": "boyce-james-petigru-1827-1888"
+  },
+  {
     "year": 1828,
     "type": "event",
     "text": "First Lady-designate Rachel Jackson dies of a heart attack",
@@ -586,6 +1666,12 @@
     "type": "event",
     "text": "Second Great Awakening is the religious revival movement",
     "slug": null
+  },
+  {
+    "year": 1831,
+    "type": "birth",
+    "text": "Jonathan IV Dwight born",
+    "slug": "dwight-jonathan-iv-1831-1910"
   },
   {
     "year": 1831,
@@ -679,9 +1765,21 @@
   },
   {
     "year": 1834,
+    "type": "birth",
+    "text": "David Stewart Kennedy born",
+    "slug": "kennedy-david-stewart-1834-1898"
+  },
+  {
+    "year": 1834,
     "type": "event",
     "text": "Slavery debates at Lane Theological Seminary are one of the first major public discussions of the topic.",
     "slug": null
+  },
+  {
+    "year": 1835,
+    "type": "birth",
+    "text": "Elizabeth Miller Boyce born",
+    "slug": "boyce-elizabeth-miller-1835-1894"
   },
   {
     "year": 1835,
@@ -781,6 +1879,12 @@
   },
   {
     "year": 1838,
+    "type": "birth",
+    "text": "James Robert Keene born",
+    "slug": "keene-james-robert-1838-1913"
+  },
+  {
+    "year": 1838,
     "type": "event",
     "text": "Aroostook War",
     "slug": null
@@ -793,9 +1897,21 @@
   },
   {
     "year": 1839,
+    "type": "birth",
+    "text": "Thomas Augustus Jagger born",
+    "slug": "jagger-thomas-augustus-1839-1912"
+  },
+  {
+    "year": 1839,
     "type": "event",
     "text": "Amistad case",
     "slug": null
+  },
+  {
+    "year": 1840,
+    "type": "birth",
+    "text": "George Rust Bedinger born",
+    "slug": "bedinger-george-rust-1840-1863"
   },
   {
     "year": 1840,
@@ -841,6 +1957,12 @@
   },
   {
     "year": 1842,
+    "type": "birth",
+    "text": "Lemuel Dandridge born",
+    "slug": "dandridge-lemuel-1842-1919"
+  },
+  {
+    "year": 1842,
     "type": "event",
     "text": "January, 1843 \u2013 Attempted impeachment of President Tyler.",
     "slug": null
@@ -862,6 +1984,12 @@
     "type": "event",
     "text": "Emigrants begin their\u00a0 journey along the Oregon\u00a0Trail.",
     "slug": null
+  },
+  {
+    "year": 1844,
+    "type": "birth",
+    "text": "Edward Holland Caldwell born",
+    "slug": "caldwell-edward-holland-1844-1872"
   },
   {
     "year": 1844,
@@ -898,6 +2026,12 @@
     "type": "event",
     "text": "Texas annexation",
     "slug": null
+  },
+  {
+    "year": 1846,
+    "type": "birth",
+    "text": "Nathalie Higgins born",
+    "slug": "higgins-nathalie-1846-1901"
   },
   {
     "year": 1846,
@@ -1027,9 +2161,33 @@
   },
   {
     "year": 1852,
+    "type": "birth",
+    "text": "Julian Kennedy born",
+    "slug": "kennedy-julian-1852-1932"
+  },
+  {
+    "year": 1852,
     "type": "event",
     "text": "U.S. presidential election, 1852: Franklin Pierce elected president; William R. King elected vice president",
     "slug": null
+  },
+  {
+    "year": 1853,
+    "type": "birth",
+    "text": "Gertrude Jerome born",
+    "slug": "jerome-gertrude-1853-1883"
+  },
+  {
+    "year": 1853,
+    "type": "birth",
+    "text": "James Kennedy born",
+    "slug": "kennedy-james-1853-1928"
+  },
+  {
+    "year": 1853,
+    "type": "birth",
+    "text": "William Lawrence I Breese born",
+    "slug": "breese-william-lawrence-i-1853-1888"
   },
   {
     "year": 1853,
@@ -1048,6 +2206,18 @@
     "type": "event",
     "text": "Vice President King dies after only six weeks in office.",
     "slug": null
+  },
+  {
+    "year": 1854,
+    "type": "birth",
+    "text": "Caroline \u201cDanske\u201d Bedinger born",
+    "slug": "bedinger-caroline-danske-1854-1914"
+  },
+  {
+    "year": 1854,
+    "type": "birth",
+    "text": "James Lawrence Breese born",
+    "slug": "breese-james-lawrence-1854-1934"
   },
   {
     "year": 1854,
@@ -1093,9 +2263,27 @@
   },
   {
     "year": 1855,
+    "type": "birth",
+    "text": "Arthur Coit Gilman born",
+    "slug": "gilman-arthur-coit-1855-1890"
+  },
+  {
+    "year": 1855,
+    "type": "birth",
+    "text": "Louis Meredith Howland born",
+    "slug": "howland-louis-meredith-1855-1921"
+  },
+  {
+    "year": 1855,
     "type": "event",
     "text": "The Farmers' High School, which becomes Penn State University is founded.",
     "slug": null
+  },
+  {
+    "year": 1856,
+    "type": "birth",
+    "text": "Hugh Kennedy born",
+    "slug": "kennedy-hugh-1856-1929"
   },
   {
     "year": 1856,
@@ -1120,6 +2308,24 @@
     "type": "event",
     "text": "U.S. presidential election, 1856: James Buchanan elected president; John C. Breckinridge, vice president",
     "slug": null
+  },
+  {
+    "year": 1857,
+    "type": "birth",
+    "text": "Eloise Lawrence Breese born",
+    "slug": "breese-eloise-lawrence-1857-1921"
+  },
+  {
+    "year": 1857,
+    "type": "birth",
+    "text": "Henry Lawrence Bogert born",
+    "slug": "bogert-henry-lawrence-1857-1933"
+  },
+  {
+    "year": 1857,
+    "type": "birth",
+    "text": "Sir Lawrence John, 4th Baronet Jones born",
+    "slug": "jones-sir-lawrence-john-4th-baronet-1857-1954"
   },
   {
     "year": 1857,
@@ -1156,6 +2362,12 @@
     "type": "event",
     "text": "Utah War",
     "slug": null
+  },
+  {
+    "year": 1858,
+    "type": "birth",
+    "text": "George Edings I Chisholm born",
+    "slug": "chisholm-george-edings-i-1858-1938"
   },
   {
     "year": 1858,
@@ -1201,6 +2413,24 @@
   },
   {
     "year": 1861,
+    "type": "birth",
+    "text": "David Stewart Kennedy born",
+    "slug": "kennedy-david-stewart-1861-1919"
+  },
+  {
+    "year": 1861,
+    "type": "birth",
+    "text": "Herbert Edward Jones born",
+    "slug": "jones-herbert-edward-1861-1920"
+  },
+  {
+    "year": 1861,
+    "type": "birth",
+    "text": "Walter Truesdale Kennedy born",
+    "slug": "kennedy-walter-truesdale-1861-1924"
+  },
+  {
+    "year": 1861,
     "type": "event",
     "text": "American Civil War begins at Fort Sumter",
     "slug": null
@@ -1228,6 +2458,12 @@
     "type": "event",
     "text": "Secessionist forces in South Carolina fire at the USS Star of the West, forcing it to withdraw.",
     "slug": null
+  },
+  {
+    "year": 1862,
+    "type": "birth",
+    "text": "James Byrd Kennedy born",
+    "slug": "kennedy-james-byrd-1862-1950"
   },
   {
     "year": 1862,
@@ -1285,6 +2521,18 @@
   },
   {
     "year": 1863,
+    "type": "birth",
+    "text": "Harry David Kennedy born",
+    "slug": "kennedy-harry-david-1863-1925"
+  },
+  {
+    "year": 1863,
+    "type": "birth",
+    "text": "Mary Gwendolyn [Gwendolin] \u201cMamie\u201d Byrd Caldwell born",
+    "slug": "caldwell-mary-gwendolyn-gwendolin-mamie-byrd-1863-1909"
+  },
+  {
+    "year": 1863,
     "type": "event",
     "text": "Battle of Gettysburg",
     "slug": null
@@ -1312,6 +2560,24 @@
     "type": "event",
     "text": "The Siege of Vicksburg ends",
     "slug": null
+  },
+  {
+    "year": 1864,
+    "type": "birth",
+    "text": "John Harrison Kennedy born",
+    "slug": "kennedy-john-harrison-1864-1945"
+  },
+  {
+    "year": 1864,
+    "type": "birth",
+    "text": "Reid Kennedy born",
+    "slug": "kennedy-reid-1864-1953"
+  },
+  {
+    "year": 1864,
+    "type": "birth",
+    "text": "Walter Lawrence Bogert born",
+    "slug": "bogert-walter-lawrence-1864-1959"
   },
   {
     "year": 1864,
@@ -1348,6 +2614,18 @@
     "type": "event",
     "text": "Wade\u2013Davis Bill",
     "slug": null
+  },
+  {
+    "year": 1865,
+    "type": "birth",
+    "text": "James Henry Caldwell born",
+    "slug": "caldwell-james-henry-1865-1931"
+  },
+  {
+    "year": 1865,
+    "type": "birth",
+    "text": "Mary Elizabeth Breckenridge Byrd \u201cLina\u201d Caldwell born",
+    "slug": "caldwell-mary-elizabeth-breckenridge-byrd-lina-1865-1910"
   },
   {
     "year": 1865,
@@ -1399,6 +2677,12 @@
   },
   {
     "year": 1866,
+    "type": "birth",
+    "text": "Archie Goodwill Kennedy born",
+    "slug": "kennedy-archie-goodwill-1866-1943"
+  },
+  {
+    "year": 1866,
     "type": "event",
     "text": "Civil Rights Act of 1866",
     "slug": null
@@ -1408,6 +2692,24 @@
     "type": "event",
     "text": "Tennessee becomes the first Confederate state readmitted to the union",
     "slug": null
+  },
+  {
+    "year": 1867,
+    "type": "birth",
+    "text": "Edward Shields Caldwell born",
+    "slug": "caldwell-edward-shields-1867-1925"
+  },
+  {
+    "year": 1867,
+    "type": "birth",
+    "text": "Foxhall Parker Keene born",
+    "slug": "keene-foxhall-parker-1867-1941"
+  },
+  {
+    "year": 1867,
+    "type": "birth",
+    "text": "Samuel A. Kennedy born",
+    "slug": "kennedy-samuel-a-1867-1953"
   },
   {
     "year": 1867,
@@ -1438,6 +2740,12 @@
     "type": "event",
     "text": "The US Annexes the Midway Islands in the Pacific",
     "slug": null
+  },
+  {
+    "year": 1868,
+    "type": "birth",
+    "text": "Marston Taylor Bogert born",
+    "slug": "bogert-marston-taylor-1868-1954"
   },
   {
     "year": 1868,
@@ -1477,6 +2785,12 @@
   },
   {
     "year": 1869,
+    "type": "birth",
+    "text": "Thomas Walker Jr. Kennedy born",
+    "slug": "kennedy-thomas-walker-jr-1869-1962"
+  },
+  {
+    "year": 1869,
     "type": "event",
     "text": "Grant becomes the 18th president and Colfax becomes the 17th vice president.",
     "slug": null
@@ -1492,6 +2806,12 @@
     "type": "event",
     "text": "The First transcontinental railroad is completed at Promontory Summit, Utah Territory.",
     "slug": null
+  },
+  {
+    "year": 1870,
+    "type": "birth",
+    "text": "Sarah Woodruff Caldwell born",
+    "slug": "caldwell-sarah-woodruff-1870-1947"
   },
   {
     "year": 1870,
@@ -1516,6 +2836,12 @@
     "type": "event",
     "text": "Virginia, Mississippi, Texas, and Georgia are readmitted to the union",
     "slug": null
+  },
+  {
+    "year": 1871,
+    "type": "birth",
+    "text": "Thomas Augustus Jr. Jagger born",
+    "slug": "jagger-thomas-augustus-jr-1871-1953"
   },
   {
     "year": 1871,
@@ -1618,6 +2944,12 @@
     "type": "event",
     "text": "Red River Indian War",
     "slug": null
+  },
+  {
+    "year": 1875,
+    "type": "birth",
+    "text": "Samuel Adams Clark born",
+    "slug": "clark-samuel-adams-1875-1931"
   },
   {
     "year": 1875,
@@ -1735,6 +3067,12 @@
   },
   {
     "year": 1878,
+    "type": "birth",
+    "text": "(Arthur) Lawrence Gilman born",
+    "slug": "gilman-arthur-lawrence-1878-1939"
+  },
+  {
+    "year": 1878,
     "type": "event",
     "text": "Bland\u2013Allison Act",
     "slug": null
@@ -1762,6 +3100,24 @@
     "type": "event",
     "text": "Thomas Edison creates first commercially viable light bulb",
     "slug": null
+  },
+  {
+    "year": 1880,
+    "type": "birth",
+    "text": "Clifton Stevenson I Brown born",
+    "slug": "brown-clifton-stevenson-i-1880-1928"
+  },
+  {
+    "year": 1880,
+    "type": "birth",
+    "text": "Edmund Pendleton Dandridge born",
+    "slug": "dandridge-edmund-pendleton-1880-1959"
+  },
+  {
+    "year": 1880,
+    "type": "birth",
+    "text": "Lucy Belle Kennedy born",
+    "slug": "kennedy-lucy-belle-1880-1962"
   },
   {
     "year": 1880,
@@ -1831,6 +3187,18 @@
   },
   {
     "year": 1882,
+    "type": "birth",
+    "text": "Eloise Lawrence Breese born",
+    "slug": "breese-eloise-lawrence-1882-1953"
+  },
+  {
+    "year": 1882,
+    "type": "birth",
+    "text": "William Lawrence II Breese born",
+    "slug": "breese-william-lawrence-ii-1882-1915"
+  },
+  {
+    "year": 1882,
     "type": "event",
     "text": "Chinese Exclusion Act",
     "slug": null
@@ -1844,8 +3212,20 @@
   {
     "year": 1883,
     "type": "birth",
+    "text": "Henry Lawrence Jr. Bogert born",
+    "slug": "bogert-henry-lawrence-jr-1883-1965"
+  },
+  {
+    "year": 1883,
+    "type": "birth",
     "text": "James Henry Jr. Alexandre born",
     "slug": "alexandre-james-henry-jr-1883-1956"
+  },
+  {
+    "year": 1883,
+    "type": "birth",
+    "text": "Sydney Salisbury I Breese born",
+    "slug": "breese-sydney-salisbury-i-1883-1974"
   },
   {
     "year": 1883,
@@ -1885,6 +3265,18 @@
   },
   {
     "year": 1884,
+    "type": "birth",
+    "text": "James Lawrence II Breese born",
+    "slug": "breese-james-lawrence-ii-1884-1959"
+  },
+  {
+    "year": 1884,
+    "type": "birth",
+    "text": "Joseph Walker Kennedy born",
+    "slug": "kennedy-joseph-walker-1884-1950"
+  },
+  {
+    "year": 1884,
     "type": "event",
     "text": "U.S. presidential election, 1884: Grover Cleveland elected president and Thomas A. Hendricks elected vice president",
     "slug": null
@@ -1894,6 +3286,24 @@
     "type": "event",
     "text": "Washington Monument completed",
     "slug": null
+  },
+  {
+    "year": 1885,
+    "type": "birth",
+    "text": "Bayard Cushing Hoppin born",
+    "slug": "hoppin-bayard-cushing-1885-1956"
+  },
+  {
+    "year": 1885,
+    "type": "birth",
+    "text": "Elizabeth Lawrence Howland born",
+    "slug": "howland-elizabeth-lawrence-1885-1973"
+  },
+  {
+    "year": 1885,
+    "type": "birth",
+    "text": "Sir Lawrence Evelyn, 5th Baronet Jones born",
+    "slug": "jones-sir-lawrence-evelyn-5th-baronet-1885-1969"
   },
   {
     "year": 1885,
@@ -1933,6 +3343,12 @@
   },
   {
     "year": 1887,
+    "type": "birth",
+    "text": "Robert Potter Breese born",
+    "slug": "breese-robert-potter-1887-1958"
+  },
+  {
+    "year": 1887,
     "type": "event",
     "text": "Dawes Act",
     "slug": null
@@ -1951,6 +3367,12 @@
   },
   {
     "year": 1888,
+    "type": "birth",
+    "text": "Lawrence Effingham Dandridge born",
+    "slug": "dandridge-lawrence-effingham-1888-1920"
+  },
+  {
+    "year": 1888,
     "type": "event",
     "text": "National Geographic Society founded",
     "slug": null
@@ -1966,6 +3388,24 @@
     "type": "event",
     "text": "U.S. presidential election, 1888: Benjamin Harrison elected president and Levi P. Morton vice president despite coming in second in the popular vote.",
     "slug": null
+  },
+  {
+    "year": 1889,
+    "type": "birth",
+    "text": "Anne Parsons Breese born",
+    "slug": "breese-anne-parsons-1889-1959"
+  },
+  {
+    "year": 1889,
+    "type": "birth",
+    "text": "Eliza Jane Kennedy born",
+    "slug": "kennedy-eliza-jane-1889-1964"
+  },
+  {
+    "year": 1889,
+    "type": "birth",
+    "text": "Eric Gugler born",
+    "slug": "gugler-eric-1889-1974"
   },
   {
     "year": 1889,
@@ -2084,6 +3524,12 @@
   {
     "year": 1891,
     "type": "birth",
+    "text": "Livingston Waddell Houston born",
+    "slug": "houston-livingston-waddell-1891-1977"
+  },
+  {
+    "year": 1891,
+    "type": "birth",
     "text": "Marie Civilise Alexandre born",
     "slug": "alexandre-marie-civilise-1891-1967"
   },
@@ -2137,6 +3583,12 @@
   },
   {
     "year": 1893,
+    "type": "birth",
+    "text": "Frances Tileston \u201cTanty\u201d Breese born",
+    "slug": "breese-frances-tileston-tanty-1893-1985"
+  },
+  {
+    "year": 1893,
     "type": "event",
     "text": "Cleveland becomes the 24th president; Stevenson becomes the 23rd vice president",
     "slug": null
@@ -2162,8 +3614,20 @@
   {
     "year": 1894,
     "type": "birth",
+    "text": "Edward Osgood Bogert born",
+    "slug": "bogert-edward-osgood-1894-1956"
+  },
+  {
+    "year": 1894,
+    "type": "birth",
     "text": "Frederick Francis Alexandre born",
     "slug": "alexandre-frederick-francis-1894-1968"
+  },
+  {
+    "year": 1894,
+    "type": "birth",
+    "text": "Marjorie Howard Gorges born",
+    "slug": "gorges-marjorie-howard-1894-1948"
   },
   {
     "year": 1894,
@@ -2275,6 +3739,12 @@
   },
   {
     "year": 1898,
+    "type": "birth",
+    "text": "Marguerite \u201cMargery\u201d Josephine Caldwell born",
+    "slug": "caldwell-marguerite-margery-josephine-1898-1959"
+  },
+  {
+    "year": 1898,
     "type": "event",
     "text": "American Anti-Imperialist League organized",
     "slug": null
@@ -2344,6 +3814,12 @@
     "type": "event",
     "text": "Vice President Garret Hobart dies",
     "slug": null
+  },
+  {
+    "year": 1900,
+    "type": "birth",
+    "text": "Robert \u201cBobby\u201d McKee Hyde born",
+    "slug": "hyde-robert-bobby-mckee-1900-1969"
   },
   {
     "year": 1900,
@@ -2491,6 +3967,12 @@
   },
   {
     "year": 1905,
+    "type": "birth",
+    "text": "Elizabeth Lawrence Gilman born",
+    "slug": "gilman-elizabeth-lawrence-1905-2006"
+  },
+  {
+    "year": 1905,
     "type": "event",
     "text": "Albert Einstein publishes his theory of relativity",
     "slug": null
@@ -2599,6 +4081,12 @@
   },
   {
     "year": 1909,
+    "type": "birth",
+    "text": "William Lawrence III Breese born",
+    "slug": "breese-william-lawrence-iii-1909-2000"
+  },
+  {
+    "year": 1909,
     "type": "event",
     "text": "NAACP founded by W. E. B. Du Bois",
     "slug": null
@@ -2641,6 +4129,12 @@
   },
   {
     "year": 1910,
+    "type": "birth",
+    "text": "Samuel Adams Jr. Clark born",
+    "slug": "clark-samuel-adams-jr-1910-1998"
+  },
+  {
+    "year": 1910,
     "type": "event",
     "text": "Mann Act",
     "slug": null
@@ -2668,6 +4162,12 @@
     "type": "event",
     "text": "Triangle Shirtwaist Factory fire",
     "slug": null
+  },
+  {
+    "year": 1912,
+    "type": "birth",
+    "text": "Molly Pender Brown born",
+    "slug": "brown-molly-pender-1912-1997"
   },
   {
     "year": 1912,
@@ -2761,6 +4261,12 @@
   },
   {
     "year": 1914,
+    "type": "birth",
+    "text": "Clifton Stevenson Jr. Brown born",
+    "slug": "brown-clifton-stevenson-jr-1914-1952"
+  },
+  {
+    "year": 1914,
     "type": "event",
     "text": "ABC Powers",
     "slug": null
@@ -2812,6 +4318,24 @@
     "type": "event",
     "text": "The Birth of a Nation opens",
     "slug": null
+  },
+  {
+    "year": 1916,
+    "type": "birth",
+    "text": "Allan Tupper Brown born",
+    "slug": "brown-allan-tupper-1916-1944"
+  },
+  {
+    "year": 1916,
+    "type": "birth",
+    "text": "Elizabeth Lanier Fenno born",
+    "slug": "fenno-elizabeth-lanier-1916-1969"
+  },
+  {
+    "year": 1916,
+    "type": "birth",
+    "text": "Frances Potter Breese born",
+    "slug": "breese-frances-potter-1916-1998"
   },
   {
     "year": 1916,
@@ -2965,6 +4489,12 @@
   },
   {
     "year": 1919,
+    "type": "birth",
+    "text": "Mary NC \u201cEncy\u201d Breese born",
+    "slug": "breese-mary-nc-ency-1919-1999"
+  },
+  {
+    "year": 1919,
     "type": "event",
     "text": "18th Amendment, establishing Prohibition",
     "slug": null
@@ -3079,6 +4609,12 @@
   },
   {
     "year": 1921,
+    "type": "birth",
+    "text": "James Lawrence III Breese born",
+    "slug": "breese-james-lawrence-iii-1921-2009"
+  },
+  {
+    "year": 1921,
     "type": "event",
     "text": "After refusing to sign the Treaty of Versailles and join the League of Nations, the U.S. Senate signed separate treaties with Germany, Austria, and Hungary.",
     "slug": null
@@ -3106,6 +4642,12 @@
     "type": "event",
     "text": "Washington Disarmament Conference of 1921",
     "slug": null
+  },
+  {
+    "year": 1922,
+    "type": "birth",
+    "text": "Sydney Salisbury Jr. Breese born",
+    "slug": "breese-sydney-salisbury-jr-1922-2006"
   },
   {
     "year": 1922,
@@ -3154,6 +4696,18 @@
     "type": "event",
     "text": "Yankee Stadium was built",
     "slug": null
+  },
+  {
+    "year": 1924,
+    "type": "birth",
+    "text": "Ann Breese born",
+    "slug": "breese-ann-1924-2019"
+  },
+  {
+    "year": 1924,
+    "type": "birth",
+    "text": "Susan \u201cSusy\u201d Borden Hyde born",
+    "slug": "hyde-susan-susy-borden-1924-2016"
   },
   {
     "year": 1924,
@@ -3224,6 +4778,12 @@
   {
     "year": 1926,
     "type": "birth",
+    "text": "Anne Gale \u201cAngy\u201d Hyde born",
+    "slug": "hyde-anne-gale-angy-1926-2015"
+  },
+  {
+    "year": 1926,
+    "type": "birth",
     "text": "Anthony \u201cTony\u201d Joseph Alexandre born",
     "slug": "alexandre-anthony-tony-joseph-1926-2021"
   },
@@ -3250,6 +4810,12 @@
     "type": "event",
     "text": "United States intervenes in Nicaragua",
     "slug": null
+  },
+  {
+    "year": 1927,
+    "type": "birth",
+    "text": "Joseph Lawrence Hyde born",
+    "slug": "hyde-joseph-lawrence-1927-2007"
   },
   {
     "year": 1927,
@@ -3343,6 +4909,12 @@
   },
   {
     "year": 1930,
+    "type": "birth",
+    "text": "Gavin Hyde born",
+    "slug": "hyde-gavin-1930-2019"
+  },
+  {
+    "year": 1930,
     "type": "event",
     "text": "Clyde Tombaugh discovers Pluto",
     "slug": null
@@ -3418,6 +4990,18 @@
     "type": "event",
     "text": "\u201cThe Star-Spangled Banner\u201d becomes official U.S. national anthem",
     "slug": null
+  },
+  {
+    "year": 1932,
+    "type": "birth",
+    "text": "Fran\u00e7ois Tonetti Hyde born",
+    "slug": "hyde-fran\u00e7ois-tonetti-1932-2012"
+  },
+  {
+    "year": 1932,
+    "type": "birth",
+    "text": "George Edings II Chisholm born",
+    "slug": "chisholm-george-edings-ii-1932"
   },
   {
     "year": 1932,
@@ -3763,6 +5347,12 @@
   },
   {
     "year": 1938,
+    "type": "birth",
+    "text": "Henry Lawrence III Bogert born",
+    "slug": "bogert-henry-lawrence-iii-1938-2025"
+  },
+  {
+    "year": 1938,
     "type": "event",
     "text": "Fair Labor Standards Act",
     "slug": null
@@ -3817,6 +5407,12 @@
   },
   {
     "year": 1940,
+    "type": "birth",
+    "text": "Sir Christopher, 6th Baronet Lawrence-Jones born",
+    "slug": "lawrence-jones-sir-christopher-6th-baronet-1940"
+  },
+  {
+    "year": 1940,
     "type": "event",
     "text": "Alien Registration (Smith) Act",
     "slug": null
@@ -3856,6 +5452,18 @@
     "type": "event",
     "text": "U.S. presidential election, 1940: Franklin D. Roosevelt is reelected president to a record third term, Henry A. Wallace is elected vice president",
     "slug": null
+  },
+  {
+    "year": 1941,
+    "type": "birth",
+    "text": "Allen Tupper Jr. Brown born",
+    "slug": "brown-allen-tupper-jr-1941"
+  },
+  {
+    "year": 1941,
+    "type": "birth",
+    "text": "Lawrence Breese Kilham born",
+    "slug": "kilham-lawrence-breese-1941"
   },
   {
     "year": 1941,
@@ -4315,6 +5923,12 @@
   },
   {
     "year": 1948,
+    "type": "birth",
+    "text": "Joan Justice Bernard born",
+    "slug": "bernard-joan-justice-1948"
+  },
+  {
+    "year": 1948,
     "type": "event",
     "text": "Alger Hiss Case",
     "slug": null
@@ -4531,6 +6145,12 @@
   },
   {
     "year": 1954,
+    "type": "birth",
+    "text": "Gretchen Elizabeth Breese born",
+    "slug": "breese-gretchen-elizabeth-1954-2016"
+  },
+  {
+    "year": 1954,
     "type": "event",
     "text": "Brown v. Board of Education, a landmark decision of the Supreme Court, declares state laws establishing separate public schools for black and white students and denying black children equal educational opportunities unconstitutional",
     "slug": null
@@ -4618,6 +6238,12 @@
     "type": "event",
     "text": "The U.S. becomes a member of the Southeast Asia Treaty Organization (or SEATO) alliance",
     "slug": null
+  },
+  {
+    "year": 1955,
+    "type": "birth",
+    "text": "George Edings IV Chisholm born",
+    "slug": "chisholm-george-edings-iv-1955"
   },
   {
     "year": 1955,
@@ -4861,6 +6487,12 @@
   },
   {
     "year": 1961,
+    "type": "birth",
+    "text": "Joanna Gilman Hyde born",
+    "slug": "hyde-joanna-gilman-1961"
+  },
+  {
+    "year": 1961,
     "type": "event",
     "text": "23rd Amendment, which grants electors to the District of Columbia",
     "slug": null
@@ -4930,6 +6562,12 @@
     "type": "event",
     "text": "Vietnam War officially begins with 900 military advisors landing in Saigon",
     "slug": null
+  },
+  {
+    "year": 1962,
+    "type": "birth",
+    "text": "Howard Talbot Walden Hyde born",
+    "slug": "hyde-howard-talbot-walden-1962-2007"
   },
   {
     "year": 1962,

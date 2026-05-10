@@ -1,0 +1,31 @@
+# Flushing Remonstrance (1657)
+
+**Summary**
+The Flushing Remonstrance was a petition addressed in 1657 to Peter Stuyvesant, the Director-General of New Netherland, protesting his ban on Quaker worship. Signed by thirty residents of the settlement of Vlissingen (now Flushing, Queens), none of whom were Quakers, it is regarded as one of the earliest and clearest statements of religious liberty in the American colonies and a forerunner of the First Amendment to the United States Constitution.
+
+**Background**
+In 1645 Governor Willem Kieft granted a charter to English colonists from New England to settle at Vlissingen in the Dutch colony of New Netherland. Their charter guaranteed the same freedom of religion that existed in the Dutch Republic, at that time one of the most tolerant nations in Europe.
+
+When Peter Stuyvesant became governor, he imposed strict conformity to the Dutch Reformed Church, forbidding the public practice of other faiths, including Quakerism. His policy led to arrests, fines, and banishments of those who defied the law, among them William Hallett, William Wickenden, and Robert Hodgson.
+
+This repression contrasted with the more flexible practice in the Netherlands itself, where the Reformed Church was recognized as official, but dissenting groups were often tolerated. Even within Stuyvesant’s household there was disagreement; his wife Judith Stuyvesant was noted for her compassion toward enslaved Africans and for advocating their baptism.
+
+**The Petition**
+On December 27, 1657, at the home of Edward Hart, the town clerk of Vlissingen, thirty inhabitants signed a petition challenging Stuyvesant’s order. The Flushing Remonstrance declared that his persecution of Quakers and others violated both divine law and the patent granted to the town by the Dutch West India Company.
+
+The petition appealed to the “law of love, peace and liberty” and extended tolerance to “Jews, Turks, and Egyptians” as “sons of Adam.” It stated that all men should be treated according to conscience and that to harm others for their beliefs was contrary to both God and man.
+
+The Remonstrance concluded:
+“…we are bound by the law of God and man to do good unto all men and evil to none. And this is according to the patent and charter of our town, given unto us in the name of the States General, which we are not willing to infringe, but shall hold to our patent and remain your humble subjects, the inhabitants of Vlishing.”
+
+**Aftermath**
+Stuyvesant reacted by dissolving the local government and appointing new magistrates. Four signers were arrested; two recanted, but Edward Hart and Sheriff Tobias Feake refused and were imprisoned on bread and water for more than a month. Hart was eventually released on condition of banishment, and Feake, after further confinement, recanted and was fined.
+
+In 1658 Stuyvesant proclaimed a Day of Prayer to atone for the colony’s “sin of religious tolerance.” Despite this, Quaker meetings continued. In 1662 John Bowne of Flushing, an English-born resident, allowed Quakers to meet in his home and was arrested. He refused to renounce his actions and was banished to Holland. There he petitioned the Dutch West India Company, arguing that the colony’s founding charter guaranteed freedom of conscience.
+
+In 1663 the Company agreed and ordered Stuyvesant to end religious persecution in New Netherland. The following year the English seized the colony, but the principle of religious tolerance was already established.
+
+**Legacy**
+The Flushing Remonstrance is one of the most important early documents in the history of American liberty. It expressed the conviction that freedom of conscience was a universal human right, rooted in divine law rather than in the authority of any government.
+
+The John [Bowne House](/bowne-house/), built around 1661, still stands on Bowne Street and serves as a museum of Quaker history. The Old Quaker Meeting House, erected in 1694, remains the oldest house of worship in continuous use in New York State. The original Flushing Remonstrance is preserved in the New York State Archives in Albany.

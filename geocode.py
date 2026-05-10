@@ -23,13 +23,16 @@ LOCATIONS_FILE       = os.path.join(os.path.dirname(os.path.abspath(__file__)), 
 NOMINATIM_USER_AGENT = "litany-of-lawrences/geocode.py (jpodles@gmail.com)"
 
 ADDRESS_RE = re.compile(
-    r'\b\d+\s+'
+    r'\b\d+(?:-\d+)?\s+'  # house number, optionally hyphenated (Queens-style: 58-02)
     r'(?:(?:North|South|East|West|N\.?|S\.?|E\.?|W\.?)\s+)?'
     r'(?:'
     r'(?:(?:[A-Z][a-z]+(?:-[A-Za-z]+)?|[0-9]+(?:st|nd|rd|th))\s+){1,3}'
     r'(?:Street|Avenue|Road|Boulevard|Place|Court|Lane|Drive|Terrace|Alley|Way|St|Ave|Rd|Blvd|Pl|Ct|Dr|Ln)'
     r'|Broadway'
     r')\b'
+    # Optional trailing ", Town[, State]" — e.g. ", Palisades, New York"
+    r'(?:,\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+){0,3}'
+    r'(?:,\s+(?:New York|NY|New Jersey|NJ|Connecticut|CT))?)?'
 )
 
 
@@ -58,11 +61,16 @@ def save_locations(locations):
 
 def geocode_address(address):
     """
-    Call Nominatim for a single address appended with 'New York City'.
+    Call Nominatim for a single address.
+
+    If the extracted address already carries its own town/state context
+    (e.g. "24 Lawrence Lane, Palisades, New York"), use it as-is. Otherwise
+    default to New York City, which is where most article addresses are.
     Returns (lat, lng) as floats, or (None, None) if not found.
     """
+    q = address if "," in address else f"{address}, New York City"
     query = urllib.parse.urlencode({
-        "q": f"{address}, New York City",
+        "q": q,
         "format": "json",
         "limit": 1,
     })

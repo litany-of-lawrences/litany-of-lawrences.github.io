@@ -1,6 +1,6 @@
 # Alexandre, Dewitt Loomis (1917–1982)
 
-**Parents:** [James Henry Alexandre](/alexandre-james-henry-1848-1912/) (1883–1956) and Anne Loomis (1890–1948).
+**Parents:** James Henry Alexandre (1883–1956) and Anne Loomis (1890–1948).
 
 **Spouse:** Cynthia Lenox Banks (1918–1991), marriedJune 14, 19411.
 

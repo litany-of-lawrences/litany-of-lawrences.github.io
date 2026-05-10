@@ -1,16 +1,16 @@
 # Alexandre, James Henry Jr. (1883–1956)
 
-**Parents:** [James Henry Alexandre (1848–1912)](/alexandre-james-henry-1848-1912/) and Gertrude Jerome (1853–1883).
+**Parents:** [James Henry Alexandre (1848–1912)](/alexandre-james-henry-1848-1912/) and [Gertrude Jerome (1853–1883)](/jerome-gertrude-1853-1883/).
 
 **Spouse:** (1) Anne Loomis (1890–1948), married November 29, 1913; (2) Olivia Dulaney Wheeler (1903–2001), married January 22, 1955.
 
-**Children:** With Anne Loomis: [James Henry Alexandre](/alexandre-james-henry-1848-1912/) III (1915–1963), DeWitt Loomis Alexandre (1917–1982), and Lawrence [Jerome Alexandre](/alexandre-jerome-1886-1925/) (1923–2001).
+**Children:** With Anne Loomis: [James Henry Alexandre](/alexandre-james-henry-1848-1912/) III (1915–1963), DeWitt Loomis Alexandre (1917–1982), and Lawrence Jerome Alexandre (1923–2001).
 
 **Kinship:** Granduncle of the post–World War II Smith generation.
 
 **Early Life**
 
-[James Henry Alexandre](/alexandre-james-henry-1848-1912/) Jr. was born in 1883, the elder child of [James Henry Alexandre](/alexandre-james-henry-1848-1912/) and Gertrude Jerome. His mother died when he was an infant, and he was brought up largely under the influence of his stepmother, Elizabeth Boyce Lawrence Alexandre, connecting him closely with the Lawrence and Boyce families of Bayside and Staten Island.
+[James Henry Alexandre](/alexandre-james-henry-1848-1912/) Jr. was born in 1883, the elder child of [James Henry Alexandre](/alexandre-james-henry-1848-1912/) and [Gertrude Jerome](/jerome-gertrude-1853-1883/). His mother died when he was an infant, and he was brought up largely under the influence of his stepmother, Elizabeth Boyce Lawrence Alexandre, connecting him closely with the Lawrence and Boyce families of Bayside and Staten Island.
 
 **Career and Activities**
 

@@ -1,0 +1,17 @@
+# Dwight Family
+
+**Origins and Colonial Settlement**
+The Dwights were among the most prominent and long-established families of colonial New England. Their American progenitor was John Dwight (1601–1660), born in Dedham, Essex, England, who emigrated to Massachusetts Bay in 1634 and was one of the founders of Dedham, Massachusetts. He was a selectman, deputy to the General Court, and one of the organizers of the first town school in America. Through his sons Timothy and Nathaniel, he became the ancestor of two distinguished lines that contributed for more than three centuries to American education, religion, and public life.
+
+**The Connecticut Valley** **Dwights**
+By the late seventeenth century the family had become centered in the Connecticut River Valley, especially in Northampton and Springfield. Captain Henry Dwight (1676–1732) of Hatfield, grandson of the immigrant, established the branch later known as the “Dwights of Springfield.” His sons were merchants, lawyers, and judges, and they intermarried with the families of Pynchon, Williams, Strong, and Stoddard, forming part of the clerical and mercantile elite of western Massachusetts. Among his descendants were Major Josiah Dwight (1703–1768) of Springfield and Timothy Dwight (1726–1777) of Northampton, the latter a Continental Congress delegate and father of President Timothy Dwight IV (1752–1817) of Yale College.
+(Sources: B. W. Dwight, Descendants of John Dwight, I:194–317; New England Historical and Genealogical Register, vol. 18 [1864].)
+
+**Education, Ministry, and Public Service**
+The Dwights produced an exceptional number of clergymen, educators, and public servants. Timothy Dwight IV, a Calvinist theologian and poet, served as chaplain to the Continental Army and later as President of Yale College (1795–1817), where he was a leading figure in the intellectual revival of the Federalist era. His grandson Timothy Dwight V (1828–1916) also became President of Yale (1886–1899), while other members of the extended family founded or taught at Williams, Hamilton, and Amherst Colleges. From the eighteenth through the nineteenth centuries the Dwights ranked with the Edwardses, Stoddards, and Mathers among New England’s dynasties of education and faith.
+
+**Industrial and Professional Expansion**
+During the nineteenth century the Dwights diversified into commerce and engineering. Jonathan Dwight III (1799–1856) and his son Jonathan Dwight IV (1831–1910) of Springfield and New York were civil engineers and industrialists who participated in the great age of railroad construction. Jonathan IV, a Harvard and West Point graduate, built bridges for the New York Central and supervised the foundations of the Statue of Liberty and early subway works in New York. His son Jonathan Dwight V (1858–1929) combined scientific and medical training with a passion for natural history, becoming president of the American Ornithologists’ Union and assembling one of the largest bird collections in North America, later donated to the Smithsonian Institution.
+
+**Character and Influence**
+Throughout their history the Dwights exemplified the classical New England virtues of learning, piety, and civic responsibility. Their family alliances linked them with the Edwards, Stoddard, and Lawrence families, and later with the Caldwells and Rutters of New York and Maryland. As theologians, educators, and scientists, they helped shape American intellectual and moral life from the colonial period through the early twentieth century.

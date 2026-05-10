@@ -1,0 +1,40 @@
+# Hyde, Anne Gale “Angy” (1926–2015)
+
+![hyde-anne-gale-angy-1926-2015](/images/hyde-anne-gale-angy-1926-2015-1.jpeg)
+
+**Parents:** Robert McKee Hyde (1900–1969) and Lydia Lawrence Tonetti (1904–1943).
+**Spouse:** Filip Lloyd Bjorklund (1927-1973).
+**Children:** Eric Filip Bjorklund (1955-), Robert Bjorklund (1956 - ), twins Susan A. and Gail Bjorklund (1958- ).
+**Kinship:** Fifth cousin once removed of the post–WWII Smith generation.
+
+**Early Life**
+
+Anne Gale Hyde, always known as “Angy,” was born in 1926 to Robert “Bobby” Hyde and Lydia Lawrence Tonetti. Her early childhood was marked by both privilege and loss. Her mother Lydia, granddaughter of the sculptor Mary Lawrence Tonetti of Snedens Landing, died while Angy was still very young. With her father increasingly drawn back to Santa Barbara to establish his bohemian enclaves, Angy and her siblings were largely raised at Pirate’s Lair, the Tonetti family home overlooking the Hudson. Their formidable grandmother Mary Lawrence Tonetti became their guardian, supported by the loyal family butler James. Angy grew up in an atmosphere that was part Hudson Valley gentility, part avant-garde artist colony, steeped in Tonetti eccentricity and Lawrence family traditions.
+
+**Education and Adventurous Youth**
+
+Like her Hyde and Tonetti relatives, Angy was independent, creative, and unconventional. At 17, she was given a brand-new 1943 Ford truck — and immediately transformed it into her ticket to adventure. She started her own trucking business under the name Angy’s Trucking and commuted into New York City to haul loads, an unusual pursuit for a young woman in the 1940s. When she expressed interest in learning traditional thatching, her grandmother arranged for her to travel to rural England. There she apprenticed with an elderly craftsman, living alone in a stone lighthouse, donning wool pajamas and taking nightly sips of whiskey to keep out the cold.
+
+Her return to Snedens Landing brought another project: building her own stone house from ruins of a Civil War fortress. When the walls became too high for her to lift the stones alone, she decided she needed a partner — a man to help her finish the task.
+
+**Marriage and Bohemian Life**
+
+Her search for both companionship and adventure led her across the country in her Ford truck. Along the way she worked riveting planes in San Diego during World War II, lived briefly in Venice Beach, and met Lloyd Bjorklund, a tall Swede who offered to help her move into a rental — and then to teach her fishing. The two fell in love. Together they returned to Snedens Landing to finish the stone house, christened the LloyAnne House.
+
+Following her father’s encouragement, Angy and Lloyd moved to California. They homesteaded in the Mojave Desert, where they built the Desert Castle, a stone house that still stands. Later, as a wedding gift, her father Bobby and stepmother “Floppy” gave them 10 acres on Old San Marcos Road above Santa Barbara. On it, Angy and Lloyd built the White Tipi, a distinctive family home that became a hub for Mountain Drive’s bohemian community.
+
+**Community and Creative Work**
+
+Angy thrived in the Mountain Drive community, where her father had envisioned a utopia of creative, free-spirited families. She participated in the famous Wine Stomp festivals of the 1950s, revelled in the Pot Wars crafts fairs of the 1960s, and taught hand-spinning and weaving workshops at UC Santa Barbara and in the local hills. Her home was filled with looms, burlap sacks of raw wool, and pots of natural dye simmering on the stove. She carded, spun, and dyed wool into her signature ANGY hats, and led “Mountain Spinning Workshops” under the slogan “Leave with a Wall Hanging.”
+
+Her creativity extended to music — she drummed, played concertina, and sang old folk songs, carrying forward the Lawrence–Tonetti musical traditions.
+
+**Family Life**
+
+Angy and Lloyd raised four children in Santa Barbara, while also spending long summers on Quadra and Cortes Islands in British Columbia. There they built a rustic family cabin, caught salmon, gathered oysters, and harvested lichen for dyeing wool. The yearly car ride home was famously cramped with children and sacks of raw Canadian fleece.
+
+Her children and grandchildren remember her as adventurous, artistic, and utterly unconventional — someone who lived a “free-spirit life” shaped by the artistic Lawrence heritage and her father’s bohemian dream.
+
+**Later Years and Legacy**
+
+Angy died in 2015, surrounded by family, with folk songs sung at her bedside. Her legacy lives on in the White Tipi home she created with Lloyd, in her textiles and teaching, and in the stories told by her children and grandchildren. She embodied the merging of Lawrence stability with Hyde experimentation, rooted in Snedens Landing but flourishing in Santa Barbara’s bohemian hills.
