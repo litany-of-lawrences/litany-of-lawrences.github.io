@@ -120,17 +120,22 @@ def main():
             changed = False
             link_target = "/" + target_path.stem + "/"  # e.g. "/alexandre-james-henry-1848-1912/"
 
+            # Split off the title line so we never inject links into headings
+            first_newline = text.index("\n") if "\n" in text else len(text)
+            title_line = text[:first_newline]
+            body = text[first_newline:]
+
             for variant in variants:
                 # Don't link a name that also describes the article being scanned
                 if variant in other_variants:
                     continue
-                text, count = replace_bare(text, variant, link_target)
+                body, count = replace_bare(body, variant, link_target)
                 if count:
                     total_links += count
                     changed = True
 
             if changed:
-                other_path.write_text(text, encoding="utf-8")
+                other_path.write_text(title_line + body, encoding="utf-8")
                 print(f"  Linked '{target_title}' in {other_path.name}")
 
     print(f"\nDone. {total_links} link(s) added across {len(md_files)} articles.")

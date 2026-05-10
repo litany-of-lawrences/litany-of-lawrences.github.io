@@ -1,4 +1,4 @@
-# [Bradish Johnson](/johnson-bradish-1811-1892/) House
+# Bradish Johnson House
 
 ![bradish-johnson-house](/images/bradish-johnson-house-1.png)
 
