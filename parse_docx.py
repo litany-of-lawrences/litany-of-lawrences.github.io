@@ -208,6 +208,13 @@ def write_article(title: str, lines: list[str], output_dir: Path) -> Path | None
 def main():
     OUTPUT_DIR.mkdir(exist_ok=True)
     IMAGES_DIR.mkdir(exist_ok=True)
+    
+    for f in OUTPUT_DIR.glob("*.md"):
+        f.unlink()
+    for f in IMAGES_DIR.iterdir():
+        if f.is_file():
+            f.unlink()
+
     docx_files = sorted(SOURCE_DIR.glob("*.docx"))
 
     if not docx_files:
