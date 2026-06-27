@@ -19,12 +19,12 @@ This act made John Bowne a foundational figure in the history of American religi
 **Growth and Prominence in the Eighteenth Century**
 John’s descendants continued to live in Flushing and remained faithful members of the Society of Friends. His son Samuel Bowne (1667–1745) became a Quaker minister and was remembered for his hospitality to traveling Friends. The family’s influence extended through Samuel’s sons and grandsons, who intermarried with the Lawrences and other prominent Quaker lines.
 
-During the eighteenth century, the Bownes combined their religious devotion with business enterprise. [Robert Bowne (1744–1818)](/bowne-robert-1744-1818/), a great-grandson of John I, founded Bowne & Co., printers, in 1775—now the oldest continuously operating commercial firm in New York. He was also a founder of the Bank of New York (1785) and a leader in the New York Manumission Society (1785), which worked for the abolition of slavery and established the African Free School.
+During the eighteenth century, the Bownes combined their religious devotion with business enterprise. Robert Bowne (1744–1818), a great-grandson of John I, founded Bowne & Co., printers, in 1775—now the oldest continuously operating commercial firm in New York. He was also a founder of the Bank of New York (1785) and a leader in the New York Manumission Society (1785), which worked for the abolition of slavery and established the African Free School.
 
 **Public Service and the Nineteenth Century**
 The family remained active in public and civic life after the Revolution. Walter Bowne (1770–1846), a descendant of Robert’s branch, served as mayor of New York City from 1829 to 1833, guiding the city through the 1832 cholera epidemic and overseeing major municipal improvements. His estate, Bowne Park in Flushing, preserves part of the original family lands.
 
-Other members carried forward the family’s humanitarian traditions. [Mary Bowne](/bowne-mary-1784-1839/) Parsons (1784–1839) and her husband, Samuel Parsons, were leading Quaker abolitionists, and their children participated in the Underground Railroad. Samuel Bowne Parsons Sr. (1819–1906) and Samuel Bowne Parsons Jr. (1844–1923) developed the Parsons Nursery in Flushing, introducing new ornamental plants and contributing to the design of Central Park and other public landscapes.
+Other members carried forward the family’s humanitarian traditions. Mary Bowne Parsons (1784–1839) and her husband, Samuel Parsons, were leading Quaker abolitionists, and their children participated in the Underground Railroad. Samuel Bowne Parsons Sr. (1819–1906) and Samuel Bowne Parsons Jr. (1844–1923) developed the Parsons Nursery in Flushing, introducing new ornamental plants and contributing to the design of Central Park and other public landscapes.
 
 **Allied Families**
 Through marriage, the Bowne family became intertwined with several other historically significant New York families:

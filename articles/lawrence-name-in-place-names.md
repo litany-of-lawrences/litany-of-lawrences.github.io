@@ -12,17 +12,17 @@ The Lawrence Park Historic District in Bronxville was developed by [William Van 
 Sarah Lawrence College was named for Sarah Bates Lawrence, wife of [William Van Duzer Lawrence](/lawrence-william-van-duzer-1842-1927/), who founded the institution. Established initially as a women’s college emphasizing the arts and individualized education, it later became coeducational and remains one of the leading liberal arts colleges in the United States. The naming reflects the philanthropic spirit and educational interests of this branch of the Lawrence family.
 
 **Lawrence Rocks, Victoria, Australia**
-The Lawrence Rocks are two small rocky islets with an adjacent reef off the coast of Portland, in the state of Victoria, Australia. They are remnants of an extinct volcano composed of basalt and tuff. The islets were sighted on 5 December 1800 by Lieutenant James Grant aboard HMS Lady Nelson and were named for [Captain](/captain/) [Effingham Lawrence](/lawrence-effingham-1760-1800/), a member of the Lawrence family and one of the Elder Brethren of Trinity House, the English maritime authority.
+The Lawrence Rocks are two small rocky islets with an adjacent reef off the coast of Portland, in the state of Victoria, Australia. They are remnants of an extinct volcano composed of basalt and tuff. The islets were sighted on 5 December 1800 by Lieutenant James Grant aboard HMS Lady Nelson and were named for Captain [Effingham Lawrence](/lawrence-effingham-1760-1800/), a member of the Lawrence family and one of the Elder Brethren of Trinity House, the English maritime authority.
 
-**Places Named After [Captain](/captain/) James Lawrence (Connection to This Family Uncertain)**
+**Places Named After Captain James Lawrence (Connection to This Family Uncertain)**
 
-A number of American places bear the Lawrence name because of the national fame of [Captain](/captain/) James Lawrence (1781–1813), the naval officer best remembered for his dying command, “Don’t give up the ship!” during the War of 1812. Whether [Captain](/captain/) Lawrence belongs to the Long Island Lawrence family has been often asserted but remains unproven; the matter is discussed under his individual entry in this encyclopedia.
+A number of American places bear the Lawrence name because of the national fame of Captain James Lawrence (1781–1813), the naval officer best remembered for his dying command, “Don’t give up the ship!” during the War of 1812. Whether Captain Lawrence belongs to the Long Island Lawrence family has been often asserted but remains unproven; the matter is discussed under his individual entry in this encyclopedia.
 
 **Lawrence, New Jersey (formerly Maidenhead)**
-Originally called Maidenhead, this township lay along the dividing line between East and West Jersey. On 24 January 1816, it was renamed Lawrence in honor of [Captain](/captain/) James Lawrence.
+Originally called Maidenhead, this township lay along the dividing line between East and West Jersey. On 24 January 1816, it was renamed Lawrence in honor of Captain James Lawrence.
 
 **Lawrenceville, New Jersey**
-The village within Lawrence Township was likewise renamed for [Captain](/captain/) James Lawrence in 1816. William Maltbie, the first postmaster, suggested the name “Lawrenceville.”
+The village within Lawrence Township was likewise renamed for Captain James Lawrence in 1816. William Maltbie, the first postmaster, suggested the name “Lawrenceville.”
 
 **Lawrence School (now The Lawrenceville School), New Jersey**
-The Maidenhead Academy, founded in the eighteenth century, retained its original name even after the township became Lawrence. In 1828 it was renamed Lawrenceville High School in honor of [Captain](/captain/) Lawrence, and it evolved into the present-day Lawrenceville School, one of the leading preparatory schools in the United States.
+The Maidenhead Academy, founded in the eighteenth century, retained its original name even after the township became Lawrence. In 1828 it was renamed Lawrenceville High School in honor of Captain Lawrence, and it evolved into the present-day Lawrenceville School, one of the leading preparatory schools in the United States.

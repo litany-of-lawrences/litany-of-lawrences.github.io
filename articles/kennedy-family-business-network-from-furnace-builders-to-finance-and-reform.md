@@ -32,7 +32,7 @@ John Reid Kennedy (1821–1869): Father of several industrial and legal cousins.
 
 **Thomas W****alker** **Kennedy Jr.** (1869–1962): Fuel executive. Managed Isabella Furnace, then became President of Mystic Iron Company and the New England Gas and Fuel Company.
 
-**[James Kennedy](/kennedy-james-1853-1928/)** (1853–1928): [U.S. Congressman](/us-congressman/) from Ohio. Advocated protectionist tariffs to support the American iron and steel industry.
+**[James Kennedy](/kennedy-james-1853-1928/)** (1853–1928): U.S. Congressman from Ohio. Advocated protectionist tariffs to support the American iron and steel industry.
 
 **III. Integration and Expansion**
 

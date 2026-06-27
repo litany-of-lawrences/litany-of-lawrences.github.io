@@ -6,7 +6,7 @@
 **Kinship:** Fourth cousin three times removed of the post–World War II Smith generation.
 
 **Early Life and Education:**
-Lawrence Evelyn Jones—known to friends as “Jonah” and to readers as L. E. Jones—was born in Norfolk and privately educated before attending Eton College in 1897 with his elder brother Willoughby. At Eton, he was [Captain](/captain/) of Boats and President of “Pop.” He went on to Balliol College, Oxford, where he took a second-class degree in Greats.
+Lawrence Evelyn Jones—known to friends as “Jonah” and to readers as L. E. Jones—was born in Norfolk and privately educated before attending Eton College in 1897 with his elder brother Willoughby. At Eton, he was Captain of Boats and President of “Pop.” He went on to Balliol College, Oxford, where he took a second-class degree in Greats.
 
 **Career and War Service:**
 After Oxford he first pursued the law, later turning to merchant banking in 1912, the year of his marriage to Lady Evelyn Alice Grey, daughter of the fourth Earl Grey. During the First World War he joined the [Bedford](/bedford/)shire Yeomanry, served in France from June 1915, and later transferred to the Machine Gun Squadron and Infantry. He was severely wounded and taken prisoner in 1918. He was awarded the Military Cross and the Territorial Decoration and retired with the rank of major.

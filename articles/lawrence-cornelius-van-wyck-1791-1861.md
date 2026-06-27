@@ -1,6 +1,6 @@
 # Lawrence, Cornelius Van Wyck (1791–1861)
 
-[U.S. Congressman](/us-congressman/), [Mayor of New York City](/mayor-of-new-york-city/)
+U.S. Congressman, Mayor of New York City
 
 ![lawrence-cornelius-van-wyck-1791-1861](/images/lawrence-cornelius-van-wyck-1791-1861-1.jpeg)
 
@@ -136,7 +136,7 @@ Cornelius Van Wyck Lawrence died on February 20, 1861, closing a life that had s
 
 In honor of his service as Collector of the Port of New York, the revenue cutter Cornelius W. Lawrence was named after him. It had a brief and checkered history. It was a Baltimore clipper (i.e., fast), built in Foggy Bottom, and commissioned in October 1848.
 
-“She was assigned to the west coast, with [Captain](/captain/) Fraser’s orders being to secure the revenue, enforce U.S. laws on the seas, aid distressed vessels, and to sound and chart the new territory’s harbors and inlets. With a crew of 43 aboard, with most of Fraser’s officers being political appointees with no seagoing experience, Lawrence set sail for the Pacific on 1 November 1848 around Cape Horn. After an arduous voyage of over 11 months, including five weeks spent attempting to sail around the Horn, she arrived in San Francisco on 31 October 1849.
+“She was assigned to the west coast, with Captain Fraser’s orders being to secure the revenue, enforce U.S. laws on the seas, aid distressed vessels, and to sound and chart the new territory’s harbors and inlets. With a crew of 43 aboard, with most of Fraser’s officers being political appointees with no seagoing experience, Lawrence set sail for the Pacific on 1 November 1848 around Cape Horn. After an arduous voyage of over 11 months, including five weeks spent attempting to sail around the Horn, she arrived in San Francisco on 31 October 1849.
 
 “Difficulties soon visited the cutter though when the crew learned of the vast fortunes being made by those hunting gold inland and Fraser soon found himself without a crew. Even his officers resigned to join the gold rush.”
 

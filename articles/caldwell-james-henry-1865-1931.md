@@ -2,14 +2,14 @@
 
 ![caldwell-james-henry-1865-1931](/images/caldwell-james-henry-1865-1931-1.jpeg)
 
-**Parents:** [Edward Holland Caldwell (1844–1872)](/caldwell-edward-holland-1844-1872/) and Caroline Amelia Shields (1856–1934).
+**Parents:** Edward Holland Caldwell (1844–1872) and Caroline Amelia Shields (1856–1934).
 **Married:** Marguerite Josephine Christie (1865–1919).
 **Children:** Marguerite “Margery” Josephine Caldwell (1889–1959), John Christie Caldwell (1893–1923), and Carolyn Christie Caldwell (1899–1950).
 **Kinship:** Second great-granduncle of the post–World War II Smith generation.
 
 **Early Life and Education**
 
-James Henry Caldwell, the eldest son of [Edward Holland Caldwell](/caldwell-edward-holland-1844-1872/) and Caroline Amelia Shields Caldwell, was born in Mobile, Alabama, on March 21, 1865. He grew up amid the wealth and prominence that his grandfather, the actor and industrial pioneer James Henry Caldwell (1793–1863), had established through the gas lighting enterprises of the family. His father, [Edward Holland Caldwell](/caldwell-edward-holland-1844-1872/), managed the Mobile Gas Light and Coke Company until his premature death in 1872, leaving Caroline a young widow with three children.
+James Henry Caldwell, the eldest son of Edward Holland Caldwell and Caroline Amelia Shields Caldwell, was born in Mobile, Alabama, on March 21, 1865. He grew up amid the wealth and prominence that his grandfather, the actor and industrial pioneer James Henry Caldwell (1793–1863), had established through the gas lighting enterprises of the family. His father, Edward Holland Caldwell, managed the Mobile Gas Light and Coke Company until his premature death in 1872, leaving Caroline a young widow with three children.
 
 James received his early education in private schools in Maryland and New York City, environments that reflected both the refinement and the ambition of his family. In 1882, at the age of seventeen, he entered the Rensselaer Polytechnic Institute in Troy, New York—then the leading engineering school in the United States—and graduated with the Bachelor of Science degree in 1886.
 

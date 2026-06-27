@@ -25,7 +25,7 @@ Maria Carter Hall Wormeley (1790–1859) — His first wife, widow of Warner Lew
 
 Jane Placide (1804–1835) — A New York–born actress and businesswoman, she collaborated with Caldwell in numerous theatrical ventures. The precise nature of their relationship remains uncertain, though they were close professional and possibly personal partners.
 
-[Margaret Abrams (1816–1848)](/abrams-margaret-1816-1848/) — Caldwell’s mistress, with whom he had two illegitimate sons later legitimized by an act of the Louisiana Legislature: [James Henry Caldwell](/caldwell-james-henry-1865-1931/) Jr. and [Edward Holland Caldwell](/caldwell-edward-holland-1844-1872/).
+[Margaret Abrams (1816–1848)](/abrams-margaret-1816-1848/) — Caldwell’s mistress, with whom he had two illegitimate sons later legitimized by an act of the Louisiana Legislature: [James Henry Caldwell](/caldwell-james-henry-1865-1931/) Jr. and Edward Holland Caldwell.
 
 Josephine Rowe (1829–1857) — An actress from a theatrical family, whom Caldwell married in 1850 when he was fifty-seven and she was twenty-one. They had one child, Harry Stroud Caldwell.
 

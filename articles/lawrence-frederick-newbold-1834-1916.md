@@ -3,7 +3,7 @@
 ![lawrence-frederick-newbold-1834-1916](/images/lawrence-frederick-newbold-1834-1916-1.png)
 
 **Parents:** [Edward Newbold Lawrence (1805–1839)](/lawrence-edward-newbold-1805-1839/) and [Lydia Ann Lawrence (1811–1879)](/lawrence-lydia-ann-1811-1879/).
-**Spouse:** [Elizabeth Miller Boyce (1835–1894)](/boyce-elizabeth-miller-1835-1894/), in 1855, in South Carolina.
+**Spouse:** Elizabeth Miller Boyce (1835–1894), in 1855, in South Carolina.
 **Children:** Lydia Ann Lawrence (1857–1920), [Mary Lawrence (1860–1942)](/lawrence-mary-1860-1942/), Elizabeth Boyce Lawrence (1862–1906), and [Virginia Lee Lawrence (1864–1891)](/lawrence-virginia-lee-1864-1891/).
 **Kinship:** Second great-grandfather of the post–World War II Smith generation.
 

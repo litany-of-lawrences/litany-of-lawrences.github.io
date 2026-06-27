@@ -1,6 +1,6 @@
 # Bowne, Walter I (1770–1846)
 
-**[Mayor of New York City](/mayor-of-new-york-city/)**
+**Mayor of New York City**
 
 ![bowne-walter-i-1770-1846](/images/bowne-walter-i-1770-1846-1.png)
 

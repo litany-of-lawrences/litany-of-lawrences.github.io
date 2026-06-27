@@ -6,7 +6,7 @@
 **Kinship:** First cousin six times removed of the post–World War II Smith generation.
 
 **Early Life and Family Background**
-William Effingham was the eldest son of [Captain](/captain/) Effingham Erasmus Lawrence, a London merchant and member of the Corporation of the Elder Brethren of Trinity House, and his wife Catherine, née Farmer. With his brother Edward Billopp Lawrence, he continued his father’s mercantile business, principally in shipping, maintaining houses in London, Liverpool, and New York.
+William Effingham was the eldest son of Captain Effingham Erasmus Lawrence, a London merchant and member of the Corporation of the Elder Brethren of Trinity House, and his wife Catherine, née Farmer. With his brother Edward Billopp Lawrence, he continued his father’s mercantile business, principally in shipping, maintaining houses in London, Liverpool, and New York.
 
 **Connections and Decision to Emigrate**
 Highly educated, intellectually curious, and well connected, William was a close friend of the philosopher Jeremy Bentham. When William contemplated emigration for reasons of health and business concerns, Bentham wrote to Buenos Aires in 1822: “Our excellent friend on his way to Australia is not without thoughts of touching at Rio de Janeiro: a worthier man, a more benevolent cosmopolite, never left any country; and very few better informed or more intelligent.”

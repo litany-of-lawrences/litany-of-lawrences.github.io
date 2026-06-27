@@ -145,12 +145,20 @@ def extract_articles(doc_path: Path) -> list[tuple[str, list[str]]]:
     current_slug = None
     current_lines = []
     current_image_counter = [1]
+    current_has_body = False
     count = 0
 
     for para in doc.paragraphs:
         if is_article_title(para):
             title = para.text.strip()
             if not title:
+                continue
+
+            # If no body content yet, this is a subtitle — fold it in rather than
+            # starting a new article, which would leave the previous one empty.
+            if current_title and not current_has_body:
+                current_lines.append(title)
+                current_lines.append("")
                 continue
 
             # Save previous article
@@ -165,18 +173,21 @@ def extract_articles(doc_path: Path) -> list[tuple[str, list[str]]]:
             current_slug = slugify(title)
             current_lines = [f"# {title}", ""]
             current_image_counter = [1]
+            current_has_body = False
         elif current_title:
             # Images
             image_tags = extract_images(para, doc, current_slug, current_image_counter)
             for tag in image_tags:
                 current_lines.append(tag)
                 current_lines.append("")
+                current_has_body = True
 
             # Text
             lines = para_to_markdown_lines(para)
             if lines:
                 current_lines.extend(lines)
                 current_lines.append("")
+                current_has_body = True
 
     # Save last article if within limit
     if current_title and (MAX_ARTICLES is None or len(articles) < MAX_ARTICLES):

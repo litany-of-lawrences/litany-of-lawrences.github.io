@@ -1,6 +1,6 @@
 # Lawrence, Mary (1860–1942)
 
-**Parents**: [Frederick Newbold Lawrence (1834–1916)](/lawrence-frederick-newbold-1834-1916/) and [Elizabeth Miller Boyce (1835–1894)](/boyce-elizabeth-miller-1835-1894/).
+**Parents**: [Frederick Newbold Lawrence (1834–1916)](/lawrence-frederick-newbold-1834-1916/) and Elizabeth Miller Boyce (1835–1894).
 **Spouse:** (1) Frank Worth White (1856–1887); (2) [Foxhall Parker Keene (1867–1941)](/keene-foxhall-parker-1867-1941/).
 **Children:** Loomis Lawrence White (1879–1948).
 **Kinship:** Great-grandaunt of the post–World War II Smith generation.

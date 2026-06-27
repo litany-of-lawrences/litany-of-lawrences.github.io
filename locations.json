@@ -803,5 +803,27 @@
         "slug": "the-gables-the-also-gusty-gables"
       }
     ]
+  },
+  {
+    "address": "68 Wall Street",
+    "lat": 40.7056664,
+    "lng": -74.0083579,
+    "articles": [
+      {
+        "title": "Lawrence, Augustine Hicks (1770–1828)",
+        "slug": "lawrence-augustine-hicks-1770-1828"
+      }
+    ]
+  },
+  {
+    "address": "94 Greenwich Street",
+    "lat": 40.7080709,
+    "lng": -74.0137437,
+    "articles": [
+      {
+        "title": "Lawrence, Augustine Hicks (1770–1828)",
+        "slug": "lawrence-augustine-hicks-1770-1828"
+      }
+    ]
   }
 ]

@@ -48,7 +48,7 @@ Upon reading Edith Wharton, one Lawrence descendant exclaimed, “These are my p
 
 **Public Role and Character**
 
-The Lawrences were prominent in New York life but less so on the national political stage. Apart from [Captain](/captain/) James Lawrence of “Don’t give up the ship!” fame—whose relationship to the Long Island Lawrences is doubtful—the family name rarely appears in standard American history texts. Their influence was more often exercised in the second tier of American society: finance, commerce, and civic life. Their legacy ranges from the New York Stock Exchange to architectural contributions to the White House.
+The Lawrences were prominent in New York life but less so on the national political stage. Apart from Captain James Lawrence of “Don’t give up the ship!” fame—whose relationship to the Long Island Lawrences is doubtful—the family name rarely appears in standard American history texts. Their influence was more often exercised in the second tier of American society: finance, commerce, and civic life. Their legacy ranges from the New York Stock Exchange to architectural contributions to the White House.
 
 **The Lawrences and Slavery**
 

@@ -6,7 +6,7 @@
 
 **Origins and Land Grant**
 
-Formosa was established by [William Effingham Lawrence (1781–1841)](/lawrence-william-effingham-1781-1841/), an English merchant and colonist and son of [Captain](/captain/) [Effingham Lawrence](/lawrence-effingham-1760-1800/). Lawrence arrived in Van Diemen’s Land in February 1823 aboard his own cutter, Lord Liverpool, carrying instructions from the British Colonial Office authorizing a substantial land grant.
+Formosa was established by [William Effingham Lawrence (1781–1841)](/lawrence-william-effingham-1781-1841/), an English merchant and colonist and son of Captain [Effingham Lawrence](/lawrence-effingham-1760-1800/). Lawrence arrived in Van Diemen’s Land in February 1823 aboard his own cutter, Lord Liverpool, carrying instructions from the British Colonial Office authorizing a substantial land grant.
 
 By official order, Lawrence and his brother were to receive 4,000 acres each, with a reserve of a further 4,000 acres after five years, contingent on the land being “exclusive of waste land,” meaning land suitable for productive use rather than swamps, rocky ground, or other unusable terrain. The intention was therefore an eventual grant of 8,000 acres under strict conditions.
 

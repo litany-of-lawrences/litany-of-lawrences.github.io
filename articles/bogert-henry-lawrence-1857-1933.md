@@ -2,7 +2,7 @@
 
 ![bogert-henry-lawrence-1857-1933](/images/bogert-henry-lawrence-1857-1933-1.jpeg)
 
-**Parents:** Henry Augustine Bogert (1827–1905) and [Mary Bowne](/bowne-mary-1784-1839/) Lawrence (1830–1898).
+**Parents:** Henry Augustine Bogert (1827–1905) and [Mary Bowne Lawrence (1830–1898)](/lawrence-mary-bowne-1830-1898/).
 **Spouse:** Carrie Lawrence Osgood (1859–1924).
 **Children:** Caroline Lawrence Bogert (1881–1942), Henry Lawrence Bogert Jr. (1883–1965), and Edward Osgood Bogert (1894–1956).
 **Kinship:** In addition to being descended from the Lawrences, he is the husband of Carrie Lawrence Osgood, the third cousin three times removed of the post–World War II Smith generation.
@@ -19,7 +19,7 @@ His work was characterized by the meticulous research typical of the Bogert lega
 A lifelong resident of Flushing, Henry Lawrence Bogert was active in local affairs, serving on boards related to education and church life. Like his father, he was a vestryman of St. George’s Episcopal Church, Flushing, where generations of the Bogert and Lawrence families were baptized and buried. He later became affiliated with the Collegiate Reformed Church of New York, maintaining the family’s ancestral connection to the Dutch Reformed tradition. He was also a dedicated member of the Holland Society of New York, serving as an officer and helping to preserve the history of the city’s early Dutch settlers.
 
 **Marriage and Family Connections**
-In 1880, he married Carrie Lawrence Osgood (1859–1924), daughter of Edward Osgood and Caroline Lawrence, further intertwining the Bogert, Osgood, and Lawrence families. Their daughter, Caroline Lawrence Bogert (1881–1942), continued the pattern of family alliances. Their eldest son, Henry Lawrence Bogert Jr. (1883–1965), followed the family professional path as an attorney and civic leader. Their youngest son, Edward Osgood Bogert (1894–1956), served as a [Captain](/captain/) in the U.S. Marine Corps during World War I.
+In 1880, he married Carrie Lawrence Osgood (1859–1924), daughter of Edward Osgood and Caroline Lawrence, further intertwining the Bogert, Osgood, and Lawrence families. Their daughter, Caroline Lawrence Bogert (1881–1942), continued the pattern of family alliances. Their eldest son, Henry Lawrence Bogert Jr. (1883–1965), followed the family professional path as an attorney and civic leader. Their youngest son, Edward Osgood Bogert (1894–1956), served as a Captain in the U.S. Marine Corps during World War I.
 
 **Later Life and Legacy**
 Henry Lawrence Bogert maintained his law practice into the early 1930s, remaining active in Columbia alumni affairs and professional societies. He was remembered for his quiet dignity, professional integrity, and devotion to education and public service—traits that had characterized his family for generations.

@@ -2,17 +2,17 @@
 
 ![lawrence-mary-bowne-1830-1898](/images/lawrence-mary-bowne-1830-1898-1.jpeg)
 
-[Mary Bowne](/bowne-mary-1784-1839/) Lawrence  (left), [Anna Louise Lawrence](/lawrence-anna-louise-1834-1908/) (right)
+Mary Bowne Lawrence  (left), [Anna Louise Lawrence](/lawrence-anna-louise-1834-1908/) (right)
 
 **Parents: John Watson Lawrence (1800**–1888) and Mary King Lawrence Bowne (1808–1874).
 
 **Spouse****:** **[Henry Augustine Bogert](/bogert-henry-augustine-1827-1905/)** **(1827**–1905).
 
-**Children:** **Mary “Minnie” Lawrence Bogert (1855**–1893), Henry Lawrence Bogert (1857–1933), [John Lawrence](/lawrence-john-1618-1699/) Bogert (1857–1956), Emily Lawrence Bogert (1860–1864), Edward Ludlow Bogert (1862–1863), [Walter Lawrence Bogert (1864–1959)](/bogert-walter-lawrence-1864-1959/), James Lawrence Bogert (1867–1867), [Marston Taylor Bogert (1868–1954)](/bogert-marston-taylor-1868-1954/), Francis Lawrence Bogert (1869–1869), Frances Lawrence Bogert (1870–1947), and Theodore Lawrence Bobert (1875–1947).
+**Children:** **Mary “Minnie” Lawrence Bogert (1855**–1893), Henry Lawrence Bogert (1857–1933), [John Lawrence](/lawrence-john-1618-1699/) Bogert (1857–1956), Emily Lawrence Bogert (1860–1864), Edward Ludlow Bogert (1862–1863), [Walter Lawrence](/lawrence-walter-1781-1872/) Bogert (1864–1959), James Lawrence Bogert (1867–1867), Marston Taylor Bogert (1868–1954), Francis Lawrence Bogert (1869–1869), Frances Lawrence Bogert (1870–1947), and Theodore Lawrence Bobert (1875–1947).
 
 **Kinship:** Second cousin four times removed of the post-World War II Smith generation.
 
-[Mary Bowne](/bowne-mary-1784-1839/) Lawrence married [Henry Augustine Bogert](/bogert-henry-augustine-1827-1905/), a Columbia graduate and a successful lawyer. They had eleven children, but infant mortality was high, and heartaches many.
+Mary Bowne Lawrence married [Henry Augustine Bogert](/bogert-henry-augustine-1827-1905/), a Columbia graduate and a successful lawyer. They had eleven children, but infant mortality was high, and heartaches many.
 
 Frank (July 11, 1869 – July 19, 1870) was Mary’s ninth child.
 

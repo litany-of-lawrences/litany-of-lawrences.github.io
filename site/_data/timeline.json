@@ -294,12 +294,6 @@
     "slug": null
   },
   {
-    "year": 1627,
-    "type": "birth",
-    "text": "John I Bowne born",
-    "slug": "bowne-john-i-1627-1695"
-  },
-  {
     "year": 1628,
     "type": "event",
     "text": "Massachusetts Bay Colony founded.",
@@ -340,12 +334,6 @@
     "type": "event",
     "text": "Harvard College founded.",
     "slug": null
-  },
-  {
-    "year": 1637,
-    "type": "birth",
-    "text": "Hannah Feake Bowne born",
-    "slug": "bowne-hannah-feake-1637-1677"
   },
   {
     "year": 1637,
@@ -526,12 +514,6 @@
     "type": "event",
     "text": "The Duke's Laws are issued.",
     "slug": null
-  },
-  {
-    "year": 1667,
-    "type": "birth",
-    "text": "Samuel I Bowne born",
-    "slug": "bowne-samuel-i-1667-1745"
   },
   {
     "year": 1667,
@@ -925,12 +907,6 @@
   },
   {
     "year": 1744,
-    "type": "birth",
-    "text": "Robert Bowne born",
-    "slug": "bowne-robert-1744-1818"
-  },
-  {
-    "year": 1744,
     "type": "event",
     "text": "King George's War (1744\u201348)",
     "slug": null
@@ -1120,12 +1096,6 @@
     "type": "birth",
     "text": "Sir John Thomas, 1st Baronet Jones born",
     "slug": "jones-sir-john-thomas-1st-baronet-1783-1843"
-  },
-  {
-    "year": 1784,
-    "type": "birth",
-    "text": "Mary Bowne born",
-    "slug": "bowne-mary-1784-1839"
   },
   {
     "year": 1785,
@@ -2131,12 +2101,6 @@
   },
   {
     "year": 1835,
-    "type": "birth",
-    "text": "Elizabeth Miller Boyce born",
-    "slug": "boyce-elizabeth-miller-1835-1894"
-  },
-  {
-    "year": 1835,
     "type": "event",
     "text": "Alexis de Tocqueville's Democracy in America published.",
     "slug": null
@@ -2380,12 +2344,6 @@
     "type": "event",
     "text": "Emigrants begin their\u00a0 journey along the Oregon\u00a0Trail.",
     "slug": null
-  },
-  {
-    "year": 1844,
-    "type": "birth",
-    "text": "Edward Holland Caldwell born",
-    "slug": "caldwell-edward-holland-1844-1872"
   },
   {
     "year": 1844,
@@ -3067,12 +3025,6 @@
   },
   {
     "year": 1864,
-    "type": "birth",
-    "text": "Walter Lawrence Bogert born",
-    "slug": "bogert-walter-lawrence-1864-1959"
-  },
-  {
-    "year": 1864,
     "type": "event",
     "text": "Gen. Ulysses S. Grant put in command of all Union forces",
     "slug": null
@@ -3256,12 +3208,6 @@
     "type": "birth",
     "text": "John Watson II Lawrence born",
     "slug": "lawrence-john-watson-ii-1868-1895"
-  },
-  {
-    "year": 1868,
-    "type": "birth",
-    "text": "Marston Taylor Bogert born",
-    "slug": "bogert-marston-taylor-1868-1954"
   },
   {
     "year": 1868,
@@ -3787,12 +3733,6 @@
   },
   {
     "year": 1883,
-    "type": "birth",
-    "text": "Sydney Salisbury I Breese born",
-    "slug": "breese-sydney-salisbury-i-1883-1974"
-  },
-  {
-    "year": 1883,
     "type": "event",
     "text": "Brooklyn Bridge opens",
     "slug": null
@@ -3856,12 +3796,6 @@
     "type": "event",
     "text": "Washington Monument completed",
     "slug": null
-  },
-  {
-    "year": 1885,
-    "type": "birth",
-    "text": "Bayard Cushing Hoppin born",
-    "slug": "hoppin-bayard-cushing-1885-1956"
   },
   {
     "year": 1885,
@@ -4952,12 +4886,6 @@
   {
     "year": 1916,
     "type": "birth",
-    "text": "Elizabeth Lanier Fenno born",
-    "slug": "fenno-elizabeth-lanier-1916-1969"
-  },
-  {
-    "year": 1916,
-    "type": "birth",
     "text": "Frances Potter Breese born",
     "slug": "breese-frances-potter-1916-1998"
   },
@@ -5110,12 +5038,6 @@
     "type": "event",
     "text": "Spanish flu pandemic begins",
     "slug": null
-  },
-  {
-    "year": 1919,
-    "type": "birth",
-    "text": "Mary NC \u201cEncy\u201d Breese born",
-    "slug": "breese-mary-nc-ency-1919-1999"
   },
   {
     "year": 1919,
@@ -5320,12 +5242,6 @@
     "type": "event",
     "text": "Yankee Stadium was built",
     "slug": null
-  },
-  {
-    "year": 1924,
-    "type": "birth",
-    "text": "Ann Breese born",
-    "slug": "breese-ann-1924-2019"
   },
   {
     "year": 1924,
@@ -5968,12 +5884,6 @@
     "type": "event",
     "text": "President Roosevelt and Vice President Garner begin second terms.",
     "slug": null
-  },
-  {
-    "year": 1938,
-    "type": "birth",
-    "text": "Henry Lawrence III Bogert born",
-    "slug": "bogert-henry-lawrence-iii-1938-2025"
   },
   {
     "year": 1938,

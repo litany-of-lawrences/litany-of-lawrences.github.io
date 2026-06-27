@@ -6,13 +6,13 @@ The [Lawrence Family](/lawrence-family/) Cemetery is located at the corner of 21
 
 **Historical Background**
 
-[John Lawrence](/lawrence-john-1618-1699/), one of the original grantees of the land on which the cemetery stands, served as [Mayor of New York City](/mayor-of-new-york-city/) in the late seventeenth century, holding office in 1672 and again in 1691. For many generations the Lawrences used part of the property as a family picnic ground known as “Pine Grove,” a name that reflects the wooded setting that once characterized the area.
+[John Lawrence](/lawrence-john-1618-1699/), one of the original grantees of the land on which the cemetery stands, served as Mayor of New York City in the late seventeenth century, holding office in 1672 and again in 1691. For many generations the Lawrences used part of the property as a family picnic ground known as “Pine Grove,” a name that reflects the wooded setting that once characterized the area.
 
 **Burials**
 
 There are between forty and fifty graves within the cemetery grounds. Interments began in 1832 and continued until 1939. Among those buried there are notable members of the Lawrence family, including:
 
-• Cornelius W. Lawrence, [Mayor of New York City](/mayor-of-new-york-city/)
+• Cornelius W. Lawrence, Mayor of New York City
 • Judge [Effingham Lawrence](/lawrence-effingham-1760-1800/)
 • [Frederick Newbold Lawrence](/lawrence-frederick-newbold-1834-1916/)
 • Mary Nicolls Lawrence, second wife of Mayor Andrew H. Mickle

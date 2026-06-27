@@ -8,10 +8,10 @@
 **Kinship:** Fifth cousin three times removed of the post–World War II Smith generation.
 
 **Family Background**
-Lawrence Milton Lawson was born in Tennessee on June 29, 1880. His mother, Laura Lawrence, was the daughter of Horace Lawrence (1814–1851), who in turn was the son of [Samuel Adams Lawrence (1775–1851)](/lawrence-samuel-adams-1775-1851/), linking him to the Lawrence family of Queens, New York. His father, [Captain](/captain/) Gaines Lawson, served with distinction in the Union Army during the Civil War and was awarded the Congressional Medal of Honor for his actions at Minville, Tennessee, on November 29, 1863.
+Lawrence Milton Lawson was born in Tennessee on June 29, 1880. His mother, Laura Lawrence, was the daughter of Horace Lawrence (1814–1851), who in turn was the son of [Samuel Adams Lawrence (1775–1851)](/lawrence-samuel-adams-1775-1851/), linking him to the Lawrence family of Queens, New York. His father, Captain Gaines Lawson, served with distinction in the Union Army during the Civil War and was awarded the Congressional Medal of Honor for his actions at Minville, Tennessee, on November 29, 1863.
 
 **Medal of Honor Citation**
-[Captain](/captain/) Gaines Lawson received the Congressional Medal of Honor for gallantry at Minville, Tennessee, risking his life under heavy fire to rescue wounded comrades from the battlefield. After the Civil War, he continued his military service in the West, including participation in the 1876–77 campaigns involving the Lakota and the aftermath of the Battle of the Little Big Horn.
+Captain Gaines Lawson received the Congressional Medal of Honor for gallantry at Minville, Tennessee, risking his life under heavy fire to rescue wounded comrades from the battlefield. After the Civil War, he continued his military service in the West, including participation in the 1876–77 campaigns involving the Lakota and the aftermath of the Battle of the Little Big Horn.
 
 **Education**
 Lawson attended private schools in California and graduated from Stanford University. His education prepared him for a professional career in engineering and public works.

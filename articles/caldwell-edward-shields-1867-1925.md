@@ -2,13 +2,13 @@
 
 ![caldwell-edward-shields-1867-1925](/images/caldwell-edward-shields-1867-1925-1.png)
 
-**Parents:** [Edward Holland Caldwell (1844–1872)](/caldwell-edward-holland-1844-1872/) and Caroline Amelia Shields (1856–1934).
+**Parents:** Edward Holland Caldwell (1844–1872) and Caroline Amelia Shields (1856–1934).
 **Married:** (1) Stella Peter (1882–1923); (2) Adelaide Hodapp (1895–1985).
 **Kinship:** Great-granduncle of the post–World War II Smith generation.
 
 **Early Life**
 
-Edward Shields Caldwell was born in 1867, the son of [Edward Holland Caldwell](/caldwell-edward-holland-1844-1872/) and Caroline Amelia Shields of Mobile, Alabama.
+Edward Shields Caldwell was born in 1867, the son of Edward Holland Caldwell and Caroline Amelia Shields of Mobile, Alabama.
 
 **Career and Residences**
 

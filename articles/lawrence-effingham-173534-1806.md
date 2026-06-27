@@ -1,6 +1,6 @@
 # Lawrence, Effingham (1735/34–1806)
 
-[Captain](/captain/)
+Captain
 
 **Parents:** Richard Lawrence (1691–1781) and Hannah Bowne (1697–1748).
 **Spouse:** Catharine Farmer (1752–1806).

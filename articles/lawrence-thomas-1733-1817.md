@@ -1,6 +1,6 @@
 # Lawrence, Thomas (1733–1817)
 
-**[Captain](/captain/)**
+**Captain**
 
 **Parents:** John Lawrence (1695–1765) and Patience Sackett (1701–1772)
 

@@ -6,7 +6,7 @@
 **Kinship:** Wife of the sixth cousin three times removed of the post–World War II Smith generation.
 
 **Early Life**
-Marjorie Howard Gorges was born in Montreal, Quebec, in 1894, the daughter of [Captain](/captain/) Edward Howard Gorges, a British Army officer of Irish descent, and Margaret Malone of County Cork. The Gorges family had long-standing Anglo-Irish and military connections; several members had served in the British armed forces in both Ireland and Canada. Marjorie’s early years were spent in Montreal, where her family belonged to the English-speaking professional and military class that maintained close cultural ties with both London and Dublin.
+Marjorie Howard Gorges was born in Montreal, Quebec, in 1894, the daughter of Captain Edward Howard Gorges, a British Army officer of Irish descent, and Margaret Malone of County Cork. The Gorges family had long-standing Anglo-Irish and military connections; several members had served in the British armed forces in both Ireland and Canada. Marjorie’s early years were spent in Montreal, where her family belonged to the English-speaking professional and military class that maintained close cultural ties with both London and Dublin.
 
 **Marriage to [James Lawrence Breese](/breese-james-lawrence-1854-1934/)**
 In 1915 she married James Lawrence Breese (1887–1958), an engineer, inventor, and photographer, and a member of the socially prominent Breese family of New York. After their marriage, the couple moved from the East Coast to Santa Fe, New Mexico, where they became part of the city’s small but influential community of artists, architects, and intellectuals.

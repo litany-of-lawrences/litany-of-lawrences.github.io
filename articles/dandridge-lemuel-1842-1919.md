@@ -1,6 +1,6 @@
 # Dandridge, Lemuel (1842–1919)
 
-[Captain](/captain/), C.S.A.
+Captain, C.S.A.
 
 **Parents:** William Dandridge (1810–1884) and Mary Elizabeth Pendleton (1818–1891).
 **Spouse:** [Isabella Lawrence (1846–1914)](/lawrence-isabella-1846-1914/)

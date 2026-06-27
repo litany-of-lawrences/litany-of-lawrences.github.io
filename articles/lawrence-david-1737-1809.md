@@ -13,7 +13,7 @@ Charles Lawrence (1771–1846); Caleb Lawrence (1773 - ); [Samuel Adams Lawrence
 David Lawrence was born in Newport, Rhode Island, and later settled in Providence, where he became a prosperous merchant. He moved in the commercial and patriotic circles of the Revolutionary period and was acquainted with Benjamin Franklin and Samuel Adams.
 
 **Revolutionary War Service**
-David Lawrence served as a Lieutenant in the Rhode Island troops during the American Revolution, under [Captain](/captain/) Jonathan Russell and Colonel Jabez Bowen. He appears in the Rhode Island Military Census of April 1777, recorded at Providence among the men eligible for service. His military service has been verified by the Daughters of the American Revolution, which lists him as Patriot Ancestor A067127. His descendants are eligible for membership in the DAR and SAR.
+David Lawrence served as a Lieutenant in the Rhode Island troops during the American Revolution, under Captain Jonathan Russell and Colonel Jabez Bowen. He appears in the Rhode Island Military Census of April 1777, recorded at Providence among the men eligible for service. His military service has been verified by the Daughters of the American Revolution, which lists him as Patriot Ancestor A067127. His descendants are eligible for membership in the DAR and SAR.
 
 **Hudson, New York**
 After retiring from business, David moved to Hudson, Columbia County, New York, where he was one of the thirty original proprietors of the town. He became a leading figure in civic affairs, serving as Judge, Recorder, and later Mayor of Hudson. Through his public roles and the marriages of his children, the family became connected with influential households throughout New England and the Hudson River Valley.

@@ -8,7 +8,7 @@
 **Kinship:** Second cousin five times removed of the post–World War II Smith generation.
 
 **Early Life**
-Effingham Billopp Lawrence was born in Tasmania in 1834, the sixth son of William Effingham and Mary Ann George (Smither) Lawrence. His parents belonged to the Tasmanian branch of the Lawrence family, descended from [Captain](/captain/) [Effingham Lawrence](/lawrence-effingham-1760-1800/), who settled in Tasmania in the early nineteenth century.
+Effingham Billopp Lawrence was born in Tasmania in 1834, the sixth son of William Effingham and Mary Ann George (Smither) Lawrence. His parents belonged to the Tasmanian branch of the Lawrence family, descended from Captain [Effingham Lawrence](/lawrence-effingham-1760-1800/), who settled in Tasmania in the early nineteenth century.
 
 **Marriage and Family**
 He married Clara Barnard on 2 April 1857 in Tasmania. Following her death in 1861, he married her younger sister, Grace Barnard, a practice not uncommon among the Lawrences and other families of the period, as it maintained familial continuity and ensured the care of the children within the same kinship circle.
