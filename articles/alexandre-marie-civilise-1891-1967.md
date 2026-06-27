@@ -10,11 +10,11 @@ Kinship: First cousin twice removed of the post–World War II Smith generation.
 
 **Early Life**
 
-Marie Civilise Alexandre was born in 1891 into a family that combined mercantile achievement and social prominence. Her father, John Ernest Alexandre, had been a leading shipping merchant and founder of the Alexandre Steamship Line, while her mother, Helen Lispenard Webb, was a granddaughter of General Alexander S. Webb, president of the College of the City of New York and a Civil War hero. The family divided their time between their Manhattan residence and their summer estate, Spring Lawn, in Lenox, Massachusetts.
+Marie Civilise Alexandre was born in 1891 into a family that combined mercantile achievement and social prominence. Her father, John Ernest Alexandre, had been a leading shipping merchant and founder of the Alexandre Steamship Line, while her mother, Helen Lispenard Webb, was a granddaughter of General Alexander S. Webb, president of the College of the City of New York and a Civil War hero. The family divided their time between their Manhattan residence and their summer estate, Spring Lawn, in [Lenox](/lenox/), Massachusetts.
 
 **Marriage to Frederic Schenck**
 
-Marie Alexandre’s wedding to Frederic Schenck, instructor in English literature at Harvard University and son of Mrs. J. Frederick Schenck of Lenox, took place on June 30, 1917, in St. Anne’s Catholic Church, Lenox. The event was one of the season’s most distinguished ceremonies and reflected the wartime alliance of American and French intellectual circles.
+Marie Alexandre’s wedding to Frederic Schenck, instructor in English literature at Harvard University and son of Mrs. J. Frederick Schenck of [Lenox](/lenox/), took place on June 30, 1917, in St. Anne’s Catholic Church, [Lenox](/lenox/). The event was one of the season’s most distinguished ceremonies and reflected the wartime alliance of American and French intellectual circles.
 
 A report described:
 
@@ -30,4 +30,4 @@ Tragically, the marriage was short-lived; Frederic Schenck died in 1919. Marie, 
 
 **Death**
 
-Marie Civilise Alexandre Schenck died on September 25, 1967. She was remembered for her grace, her early participation in the distinguished social world of Lenox and New York, and her later devotion to humanitarian work during one of the most difficult periods of the twentieth century.
+Marie Civilise Alexandre Schenck died on September 25, 1967. She was remembered for her grace, her early participation in the distinguished social world of [Lenox](/lenox/) and New York, and her later devotion to humanitarian work during one of the most difficult periods of the twentieth century.

@@ -20,7 +20,7 @@ The former Grannis home no longer survives, but Eloise’s adjoining carriage ho
 
 Eloise Breese was celebrated for her independence and unconventional tastes. She was the only female member of the New York Yacht Club, owning the steam yacht Elsa, whose swan-shaped prow recalled Wagner’s Lohengrin. A devoted opera enthusiast, she used the yacht to attend society events such as the 1901 Newport Harbor fête honoring Admiral Higginson’s North Atlantic Squadron.
 
-Long known as a bachelorette, Eloise married late in life, in 1907 at the age of fifty, to Adam Girdin Norrie, a widower. She maintained her strong connections with New York’s cultural institutions; her box at the old Metropolitan Opera was Number 45. When her nephew William Lawrence Breese was killed in battle in 1915, she donated an ambulance in his memory.
+Long known as a bachelorette, Eloise married late in life, in 1907 at the age of fifty, to Adam Girdin Norrie, a widower. She maintained her strong connections with New York’s cultural institutions; her box at the old Metropolitan Opera was Number 45. When her nephew [William Lawrence](/lawrence-william-1776-1848/) Breese was killed in battle in 1915, she donated an ambulance in his memory.
 
 **Patronage and Legacy**
 

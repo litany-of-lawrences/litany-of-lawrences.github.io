@@ -12,7 +12,7 @@
 
 **Marriage and Wartime Service**
 
-In 1936 Clark married [Elizabeth Lanier Fenno (1916–1969)](/fenno-elizabeth-lanier-1916-1969/), daughter of Mr. and Mrs. John Brooks Fenno of New York and Lenox, Massachusetts. Their wedding took place in the gardens of Three Acres, the Lenox estate of Elizabeth’s mother, a frequent setting for social events reported in the New York Times. The marriage lasted four years; the couple divorced in 1940.
+In 1936 Clark married [Elizabeth Lanier Fenno (1916–1969)](/fenno-elizabeth-lanier-1916-1969/), daughter of Mr. and Mrs. John Brooks Fenno of New York and [Lenox](/lenox/), Massachusetts. Their wedding took place in the gardens of Three Acres, the [Lenox](/lenox/) estate of Elizabeth’s mother, a frequent setting for social events reported in the New York Times. The marriage lasted four years; the couple divorced in 1940.
 
 During the Second World War, Clark served in the United States Army from 1942 to 1945. Details of his service are sparse, but military records confirm his enlistment and honorable discharge near the war’s end.
 

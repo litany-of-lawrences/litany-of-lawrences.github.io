@@ -30,7 +30,7 @@ Though a slave owner before the Civil War, Boyce’s later writings reveal a con
 
 **New York Connections**
 
-[Ker Boyce](/boyce-ker-1787-1854/)’s daughter [Elizabeth Miller Boyce (1835–1894)](/boyce-elizabeth-miller-1835-1894/) married Frederick Newbold Lawrence of Bayside, New York, thus joining the Boyce family to the long-established Lawrence and Bowne lines of Queens County. This marriage represented the cultural and commercial ties between the Charleston mercantile elite and New York financiers in the mid-nineteenth century. Later descendants carried the family’s intellectual and religious legacy into the twentieth century.
+[Ker Boyce](/boyce-ker-1787-1854/)’s daughter [Elizabeth Miller Boyce (1835–1894)](/boyce-elizabeth-miller-1835-1894/) married [Frederick Newbold Lawrence](/lawrence-frederick-newbold-1834-1916/) of Bayside, New York, thus joining the Boyce family to the long-established Lawrence and Bowne lines of Queens County. This marriage represented the cultural and commercial ties between the Charleston mercantile elite and New York financiers in the mid-nineteenth century. Later descendants carried the family’s intellectual and religious legacy into the twentieth century.
 
 **Faith, Commerce, and the Southern Ethos**
 

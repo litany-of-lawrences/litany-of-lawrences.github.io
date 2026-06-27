@@ -8,7 +8,7 @@
 
 **Children:** None recorded
 
-**Kinship:** Stepson of Caroline Bowne Lawrence (1827–1869),  the second cousin 4 times removed of wife
+**Kinship:** Stepson of [Caroline Bowne Lawrence (1827–1869)](/lawrence-caroline-bowne-1827-1869/),  the second cousin 4 times removed of wife
 
 **Early Life and Education**
 
@@ -26,8 +26,8 @@ Artillery: On August 26, 1861, he transferred to the famous Rockbridge Battery, 
 
 Cavalry: On April 28, 1862, he transferred to Company E, 3rd Regiment, Virginia Cavalry (known as Ashby’s Cavalry), engaging in the Valley Campaign.
 
-Infantry Commission: On August 11, 1862, by special order of General Robert E. Lee, he was commissioned Captain. He subsequently transferred on November 19, 1862, to command Company E of the 33rd Regiment, Virginia Infantry (part of the Stonewall Brigade).
+Infantry Commission: On August 11, 1862, by special order of General Robert E. Lee, he was commissioned [Captain](/captain/). He subsequently transferred on November 19, 1862, to command Company E of the 33rd Regiment, Virginia Infantry (part of the Stonewall Brigade).
 
 **Death at Gettysburg**
 
-Captain Bedinger led his company during the Gettysburg Campaign. He was killed in action on July 3, 1863, during the fierce fighting for Culp's Hill, where the Stonewall Brigade suffered heavy casualties attempting to storm the Union breastworks.
+[Captain](/captain/) Bedinger led his company during the Gettysburg Campaign. He was killed in action on July 3, 1863, during the fierce fighting for Culp's Hill, where the Stonewall Brigade suffered heavy casualties attempting to storm the Union breastworks.

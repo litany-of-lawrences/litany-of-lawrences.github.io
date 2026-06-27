@@ -4,13 +4,13 @@ Bishop of the Episcopal Church
 
 ![dandridge-edmund-pendleton-1880-1959](/images/dandridge-edmund-pendleton-1880-1959-1.png)
 
-**Parents:** [Lemuel Dandridge (1842–1919)](/dandridge-lemuel-1842-1919/) and Isabella Lawrence (1846–1914), daughter of John Watson Lawrence (1800-1888).
+**Parents:** [Lemuel Dandridge (1842–1919)](/dandridge-lemuel-1842-1919/) and [Isabella Lawrence (1846–1914)](/lawrence-isabella-1846-1914/), daughter of John Watson Lawrence (1800-1888).
 **Spouse:** Mary Robertson Lloyd (1881–1951).
 **Children:** Edmund Pendleton Dandridge Jr. (1912–1989) and Elizabeth Lloyd Dandridge (1914–1996).
 **Kinship:** Third cousin three times removed of the post–World War II Smith generation.
 
 **Early Life and Education**
-Edmund Pendleton Dandridge was born in Flushing, Queens, New York, in 1880, a descendant of the distinguished Virginia Dandridges and the Lawrences of Flushing. His mother was Isabella Lawrence (1846–1914), daughter of John Watson Lawrence (1800–1888).
+Edmund Pendleton Dandridge was born in Flushing, Queens, New York, in 1880, a descendant of the distinguished Virginia Dandridges and the Lawrences of Flushing. His mother was [Isabella Lawrence (1846–1914)](/lawrence-isabella-1846-1914/), daughter of [John Watson Lawrence (1800–1888)](/lawrence-john-watson-1800-1888/).
 
 He attended the University of Virginia, earning the Bachelor of Arts degree in 1902 and the Master of Arts in 1903. He pursued theological studies at Oriel College, Oxford, receiving the Bachelor of Arts in Theology in 1908. He was later awarded honorary Doctor of Divinity degrees by the Virginia Theological Seminary (1921) and the University of the South at Sewanee (1938).
 

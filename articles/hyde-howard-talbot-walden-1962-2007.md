@@ -4,7 +4,7 @@
 
 **Married:** Karen Ellet (common law).
 
-**Children**: None recorded.
+Children: None recorded.
 **Kinship:** Sixth cousin of the post–World War II Smith generation.
 
 **E****arly Life**

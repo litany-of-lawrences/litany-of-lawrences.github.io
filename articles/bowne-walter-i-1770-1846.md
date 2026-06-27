@@ -1,16 +1,16 @@
 # Bowne, Walter I (1770–1846)
 
-**Mayor of New York City**
+**[Mayor of New York City](/mayor-of-new-york-city/)**
 
 ![bowne-walter-i-1770-1846](/images/bowne-walter-i-1770-1846-1.png)
 
 **Parents:** James Bowne (1728–1793) and Caroline Rodman (1734–1818)
 **Spouse:** Elizabeth “Liza” Southgate (1783–1809).
 **Children:** Walter Bowne II (1806–1877) and Mary King Bowne (1808–1874)
-**Kinship:** Father-in-law of John Watson Lawrence (1800–1888), the first cousin five times removed of the post–World War II Smith generation
+**Kinship:** Father-in-law of [John Watson Lawrence (1800–1888)](/lawrence-john-watson-1800-1888/), the first cousin five times removed of the post–World War II Smith generation
 
 **Early Life and Family**
-Walter Bowne I was born in Flushing, Queens, on September 26, 1770, the son of James Bowne and Caroline Rodman, descendants of early Quaker settlers of Long Island. In May 1803, he married Elizabeth Southgate, daughter of Dr. Robert Southgate of Scarborough, Maine, and Mary King. The marriage produced two children, Walter II and Mary King Bowne. His daughter Mary married John Watson Lawrence, uniting two prominent New York mercantile and Quaker-descended families.
+Walter Bowne I was born in Flushing, Queens, on September 26, 1770, the son of James Bowne and Caroline Rodman, descendants of early Quaker settlers of Long Island. In May 1803, he married Elizabeth Southgate, daughter of Dr. Robert Southgate of Scarborough, Maine, and Mary King. The marriage produced two children, Walter II and Mary King Bowne. His daughter Mary married [John Watson Lawrence](/lawrence-john-watson-1800-1888/), uniting two prominent New York mercantile and Quaker-descended families.
 
 **Political Career**
 Bowne entered public life as a young man, first serving in the New York State Senate from 1816 to 1822 and again from 1823 to 1824. He was active in the Democratic Party and a member of the powerful Tammany Hall political organization. He was also a founder, in 1792, of the Union Engine Company No. 18 at John and Pearl Streets—nicknamed the “Shad Belly”—a volunteer fire company typical of civic-minded New Yorkers of the period.
@@ -23,7 +23,7 @@ One of the greatest challenges of Bowne’s mayoralty was the cholera epidemic o
 **Civic Improvements**
 Bowne was instrumental in overseeing several key urban projects. His administration widened downtown streets, renamed Marketfield Street as Battery Place, opened Jefferson Market, and erected Tompkins Market. He also oversaw the expansion of Union Square Park and supported the early construction of the New York and Harlem Railroad, which would become part of the modern Metro-North line.
 
-Recognizing the city’s desperate need for a reliable water supply, Bowne advocated for a reservoir and aqueduct system, though the project proved beyond the city’s financial reach during his tenure. His successor—John Watson Lawrence’s relative—would see the project realized in the form of the Croton Aqueduct.
+Recognizing the city’s desperate need for a reliable water supply, Bowne advocated for a reservoir and aqueduct system, though the project proved beyond the city’s financial reach during his tenure. His successor—[John Watson Lawrence](/lawrence-john-watson-1800-1888/)’s relative—would see the project realized in the form of the Croton Aqueduct.
 
 Bowne also continued the mayoral duty of acknowledging Manumission Certificates, formalizing the freedom of enslaved persons under New York’s gradual abolition laws, which reached full effect in 1827.
 

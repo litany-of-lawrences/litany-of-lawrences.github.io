@@ -2,14 +2,14 @@
 
 ![breese-william-lawrence-ii-1882-1915](/images/breese-william-lawrence-ii-1882-1915-1.jpeg)
 
-**Parents:** William Lawrence Breese (1853–1888) and Marie Louise Parsons (1857–1948).
+**Parents:** [William Lawrence](/lawrence-william-1776-1848/) Breese (1853–1888) and Marie Louise Parsons (1857–1948).
 **Spouse:** Julia Kean Fish (1884–1960).
-**Children:** William Lawrence Breese III (1909–2000) and Hamilton Fish Breese (1910–1920).
+**Children:** [William Lawrence](/lawrence-william-1776-1848/) Breese III (1909–2000) and Hamilton Fish Breese (1910–1920).
 **Kinship:** Sixth cousin three times removed of the post–World War II Smith generation.
 
 **Early Life and Education**
 
-Born in New York City on February 24, 1882, William Lawrence Breese II was raised partly in England after his widowed mother’s marriage to Henry Vincent Higgins, solicitor and Covent Garden manager. Educated at Bengo, Harrow, and briefly at Trinity College, Cambridge, William moved easily between Anglo-American society.0
+Born in New York City on February 24, 1882, [William Lawrence](/lawrence-william-1776-1848/) Breese II was raised partly in England after his widowed mother’s marriage to Henry Vincent Higgins, solicitor and Covent Garden manager. Educated at Bengo, Harrow, and briefly at Trinity College, Cambridge, William moved easily between Anglo-American society.0
 
 ![breese-william-lawrence-ii-1882-1915](/images/breese-william-lawrence-ii-1882-1915-2.jpeg)
 

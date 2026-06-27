@@ -13,9 +13,9 @@ Ann Breese was born on May 27, 1924. She began drawing and painting at an early 
 
 She recalled that Santa Fe artist Will Shuster designed the Breese family’s Christmas cards, and that as a teenager she occasionally encountered Georgia O’Keeffe painting near Abiquiú—O’Keeffe’s brusque attempt to shoo her away with a candy bar left an indelible memory rather than a discouragement.
 
-**Life at Los Vientos and Santa Fe Society**
+**Life at [Los Vientos](/los-vientos/) and Santa Fe Society**
 
-In later recollections, Ann vividly described her childhood at Los Vientos, the family’s ranch on Upper Canyon Road, and her friendships with other Santa Fe families such as the Packs of Ghost Ranch. Her account of early Santa Fe life captured the world of artists, architects, and eccentrics—John Gaw Meem, whose Pueblo Revival architecture helped define the city’s appearance; Faith Weight and Charles Mintun, who ran experimental schools; and colorful figures like Brian Behru Dunne, the self-made town character and newspaper columnist.
+In later recollections, Ann vividly described her childhood at [Los Vientos](/los-vientos/), the family’s ranch on Upper Canyon Road, and her friendships with other Santa Fe families such as the Packs of Ghost Ranch. Her account of early Santa Fe life captured the world of artists, architects, and eccentrics—John Gaw Meem, whose Pueblo Revival architecture helped define the city’s appearance; Faith Weight and Charles Mintun, who ran experimental schools; and colorful figures like Brian Behru Dunne, the self-made town character and newspaper columnist.
 
 She remembered her family’s casual exchanges of art for their own inventions—“a Breese Burner in exchange for a painting”—and the camaraderie of artists like the Baumanns, whose marionette plays she recalled with affection.
 

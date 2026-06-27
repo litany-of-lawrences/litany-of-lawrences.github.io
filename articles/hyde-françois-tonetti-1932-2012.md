@@ -3,7 +3,7 @@
 ![hyde-françois-tonetti-1932-2012](/images/hyde-françois-tonetti-1932-2012-1.png)
 
 **Parents:** Robert McKee Hyde (1900–1969) and Lydia Lawrence Tonetti (1904–1943).
-**Spouses:** (1) Elizabeth Joyce Walden (1934–1992; (2) Joyce Burnett  Kirkwood (1931–2021)
+**Spouses:** **(1)** Elizabeth Joyce Walden (1934–1992; (2) Joyce Burnett  Kirkwood (1931–2021)
 
 **Children:** With Elizabeth Joyce Walden: [Joanna Gilman Hyde (1961– )](/hyde-joanna-gilman-1961/), [Howard Talbot Walden Hyde (1962–2007)](/hyde-howard-talbot-walden-1962-2007/); with Joyce Burnett Lirkwood: Lydia Hyde (1970–  ).
 
@@ -11,7 +11,7 @@
 
 **Early Life**
 
-Born in New York City in 1932, François (“Francy”) was the youngest child of Bobby Hyde and Lydia Lawrence Tonetti. With his mother’s death and his father’s departure to California, Francy grew up under Mary Lawrence Tonetti’s roof at Snedens Landing, nurtured by the same combination of Tonetti artistry and Lawrence tradition as his siblings.
+Born in New York City in 1932, François (“Francy”) was the youngest child of Bobby Hyde and Lydia Lawrence Tonetti. With his mother’s death and his father’s departure to California, Francy grew up under [Mary Lawrence](/lawrence-mary-1640-1704/) Tonetti’s roof at Snedens Landing, nurtured by the same combination of Tonetti artistry and Lawrence tradition as his siblings.
 
 **Career and Travels**
 

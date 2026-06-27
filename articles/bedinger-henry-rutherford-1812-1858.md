@@ -5,7 +5,7 @@ Congressman and Diplomat
 ![bedinger-henry-rutherford-1812-1858](/images/bedinger-henry-rutherford-1812-1858-1.jpeg)
 
 **Parents:** Gen. John Daniel Bedinger (1760–1817) and Sarah Rutherford (1771–1844).
-**Spouse:** (1) Margaret Rust (1818–1843), (2) Caroline Bowne Lawrence (1827–1869).
+**Spouse:** (1) Margaret Rust (1818–1843), (2) [Caroline Bowne Lawrence (1827–1869)](/lawrence-caroline-bowne-1827-1869/).
 **Children:** With Margaret Rust: George Rust Bedinger (1840–1863)–killed at Gettysburg, Virginia “Diddie” Bedinger (1842–1919), and Margaret Rust Bedinger (1843–1844); with Caroline Lawrence: Mary “Minnie” Bedinger (1850–1896), Henry Bedinger (1853–1935), and Caroline “Danske” Bedinger (1858–1914).
 **Kinship:** Husband of the second cousin four times removed of the post–World War II Smith generation.
 

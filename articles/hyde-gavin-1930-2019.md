@@ -3,7 +3,7 @@
 ![hyde-gavin-1930-2019](/images/hyde-gavin-1930-2019-1.png)
 
 **Parents:** Robert McKee “Bobby” Hyde (1900–1969) and Florence “Floppy” Tuckerman Andrews (1904–1980).
-**Married****:** Maria del Pilar Alvarez y Ruiz (known as Pilar Alvarez VonDracek).
+**Married:** Maria del Pilar Alvarez y Ruiz (known as Pilar Alvarez VonDracek).
 **Children:** Richard Alvarez Hyde (1960–2018).
 **Kinship:** Fourth cousin once removed of the post–World War II Smith generation.
 

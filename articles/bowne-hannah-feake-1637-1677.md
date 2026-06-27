@@ -9,7 +9,7 @@ Quaker Minister
 **Kinship:** Eighth great-grandmother of the post–World War II Smith generation.
 
 **Family Background and Early Life**
-Hannah Feake was born in 1637 in Watertown, Massachusetts Bay Colony, the daughter of Captain Robert Feake and Elizabeth Fones Winthrop Feake. Her mother was the niece of Governor John Winthrop of Massachusetts and cousin of Governor Robert Winthrop of Connecticut, placing Hannah within one of the most prominent Puritan families in New England.
+Hannah Feake was born in 1637 in Watertown, Massachusetts Bay Colony, the daughter of [Captain](/captain/) Robert Feake and Elizabeth Fones Winthrop Feake. Her mother was the niece of Governor John Winthrop of Massachusetts and cousin of Governor Robert Winthrop of Connecticut, placing Hannah within one of the most prominent Puritan families in New England.
 
 The Feakes settled in Greenwich, Connecticut, where family tensions and religious controversies drew them into disputes with colonial authorities. Elizabeth Fones Feake, an independent-minded woman whose remarriage without formal approval caused scandal among Puritan leaders, exposed her daughter to unorthodox and tolerant religious circles. This early atmosphere of dissent shaped Hannah’s spiritual outlook.
 

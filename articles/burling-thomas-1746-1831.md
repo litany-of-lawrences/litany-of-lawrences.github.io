@@ -6,7 +6,7 @@
 **Kinship:** First cousin six times removed of the post–World War II Smith generation
 
 **Early Life and Apprenticeship**
-Thomas Burling was born in 1746, the son of [Ebenezer Burling](/burling-ebenezer-1717-1758/) and Mary Lawrence, members of the Society of Friends. The Burlings were part of a closely knit Quaker community in Flushing and New York that included craftsmen, merchants, and clockmakers. Thomas was the first cousin of the noted Quaker clockmaker Effingham Embree, and the two may have collaborated, with Thomas crafting the fine mahogany cases for Embree’s longcase clocks.
+Thomas Burling was born in 1746, the son of [Ebenezer Burling](/burling-ebenezer-1717-1758/) and [Mary Lawrence](/lawrence-mary-1640-1704/), members of the Society of Friends. The Burlings were part of a closely knit Quaker community in Flushing and New York that included craftsmen, merchants, and clockmakers. Thomas was the first cousin of the noted Quaker clockmaker Effingham Embree, and the two may have collaborated, with Thomas crafting the fine mahogany cases for Embree’s longcase clocks.
 
 Burling trained as a cabinetmaker under Samuel Prince, a leading New York artisan whose workshop produced some of the city’s finest furniture in the English taste. Under Prince’s influence, Burling acquired the technical and aesthetic skill that would soon make him one of the foremost cabinetmakers in the early United States.
 

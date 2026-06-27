@@ -6,7 +6,7 @@
 **Kinship:** Wife of the first cousin once removed (Clark) of the post–World War II Smith generation.
 
 **Early Life and First Marriage:**
-Elizabeth Lanier Fenno, known socially as “Betty,” was the daughter of Allen Blanchard Fenno and Elizabeth Lanier Turnure, and the stepdaughter of George K. Livermore, a wealthy and socially prominent New Yorker. She married [Samuel Adams Clark](/clark-samuel-adams-1875-1931/) in 1936 in the gardens of her mother’s Lenox, Massachusetts, estate. In 1940, after four years of marriage, she announced her intention to seek a divorce in Reno, Nevada—the fashionable “divorce capital” of the day.
+Elizabeth Lanier Fenno, known socially as “Betty,” was the daughter of Allen Blanchard Fenno and Elizabeth Lanier Turnure, and the stepdaughter of George K. Livermore, a wealthy and socially prominent New Yorker. She married [Samuel Adams Clark](/clark-samuel-adams-1875-1931/) in 1936 in the gardens of her mother’s [Lenox](/lenox/), Massachusetts, estate. In 1940, after four years of marriage, she announced her intention to seek a divorce in Reno, Nevada—the fashionable “divorce capital” of the day.
 
 **The Reno Years and Marriage to the Cowboy:**
 In Reno, Betty joined the circle of Eastern socialites waiting out their six-week residencies. She purchased the historic Mayberry Ranch on the Truckee River for $60,000, later spending thousands more on renovations.

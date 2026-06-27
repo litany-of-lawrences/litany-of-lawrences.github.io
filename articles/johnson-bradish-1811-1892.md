@@ -4,7 +4,7 @@
 
 **Spouse:** Louisa Ann Lawrence (1817-1870).
 
-**Children:** Lucy Ann Johnson (1837-), William Martin Johnson (1839-1875), Margaret Lawrence Johnson (1841-1884), George Washington Johnson (1843-1883), Louisa Johnson (1846-1901), Sarah Rice Johnson (1847-1920), Bradish Johnson Jr. (1851-1918), Helena Johnson (1855-1927), Henry Meyer Johnson (1855-1907), and Effingham Lawrence Johnson (1860-1897).
+**Children:** Lucy Ann Johnson (1837-), William Martin Johnson (1839-1875), Margaret Lawrence Johnson (1841-1884), George Washington Johnson (1843-1883), Louisa Johnson (1846-1901), Sarah Rice Johnson (1847-1920), Bradish Johnson Jr. (1851-1918), Helena Johnson (1855-1927), Henry Meyer Johnson (1855-1907), and [Effingham Lawrence](/lawrence-effingham-1760-1800/) Johnson (1860-1897).
 
 **Kinship:** Husband of sixth cousin four times removed of the post-World War II Smith generation.
 
@@ -18,7 +18,7 @@ Johnson bought out his brother’s share of the Woodland Plantation before the C
 
 **New York Connections**
 
-Bradish Johnson was named after his father’s business partner, George Bradish. By 1820,  Captain William Johnson had also begun purchasing property on the West Side of Manhattan and had gone into the distillery and sugar refining business in New York. Bradish Johnson, who was born in Louisiana, attended Columbia College in New York City, graduating in the class of 1831. He then studied law and was admitted to the bar. When his father became ill, he abandoned the legal profession to enter the family business.
+Bradish Johnson was named after his father’s business partner, George Bradish. By 1820,  [Captain](/captain/) William Johnson had also begun purchasing property on the West Side of Manhattan and had gone into the distillery and sugar refining business in New York. Bradish Johnson, who was born in Louisiana, attended Columbia College in New York City, graduating in the class of 1831. He then studied law and was admitted to the bar. When his father became ill, he abandoned the legal profession to enter the family business.
 
 Johnson started out as a partner in the distilling company William Johnson and Sons. After his father's death, he went into business for decades with a man named Moses Lazarus, the father of poet Emma Lazarus, as Johnson and Lazarus. Upon the retirement of Lazarus, the firm was renamed Bradish Johnson and Sons. The Johnsons owned several properties. The largest facility occupied two city blocks near the Hudson River, from Ninth Avenue to Eleventh Avenue between 15th and 16th Streets. The distillery was east of Tenth Avenue, while the cow barns and dairy were located west of Tenth.
 

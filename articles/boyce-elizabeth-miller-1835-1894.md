@@ -5,8 +5,8 @@ Southern Matriarch of Bayside
 ![boyce-elizabeth-miller-1835-1894](/images/boyce-elizabeth-miller-1835-1894-1.jpeg)
 
 **Parents:** Ker Boyce (1787–1855) and Amanda Caroline Johnston (1806–1837).
-**Spouse:** Frederick Newbold Lawrence (1834–1916), married December6, 1855.
-**Children:** Lydia Ann Lawrence (1857–1920), Mary Lawrence (1860–1942), Elizabeth Boyce Lawrence (1862–1906), and Virginia Lee Lawrence (1864–1891).
+**Spouse:** [Frederick Newbold Lawrence (1834–1916)](/lawrence-frederick-newbold-1834-1916/), married December6, 1855.
+**Children:** Lydia Ann Lawrence (1857–1920), [Mary Lawrence (1860–1942)](/lawrence-mary-1860-1942/), Elizabeth Boyce Lawrence (1862–1906), and [Virginia Lee Lawrence (1864–1891)](/lawrence-virginia-lee-1864-1891/).
 **Kinship:** Second great-grandmother of the post–World War II Smith generation.
 
 **Early Life and Family Background**
@@ -17,7 +17,7 @@ Charleston in Elizabeth’s youth was a cosmopolitan port city, where trade with
 ![boyce-elizabeth-miller-1835-1894](/images/boyce-elizabeth-miller-1835-1894-2.jpeg)
 
 **Marriage and Move to New York**
-In the antebellum period, social and economic connections between Charleston and New York were exceptionally close. New York shipyards built vessels for the Southern trade, and Manhattan bankers and insurers underwrote much of the cotton and slave economy. It was through this commercial and social network that Elizabeth met Frederick Newbold Lawrence (1834–1916), a member of the old Quaker-descended Lawrence family of Flushing and Bayside, Queens. The Lawrence and Boyce wharves were adjacent on the Charleston waterfront.
+In the antebellum period, social and economic connections between Charleston and New York were exceptionally close. New York shipyards built vessels for the Southern trade, and Manhattan bankers and insurers underwrote much of the cotton and slave economy. It was through this commercial and social network that Elizabeth met [Frederick Newbold Lawrence (1834–1916)](/lawrence-frederick-newbold-1834-1916/), a member of the old Quaker-descended Lawrence family of Flushing and Bayside, Queens. The Lawrence and Boyce wharves were adjacent on the Charleston waterfront.
 
 They were married on December 6, 1855, and settled at Bayside, Queens, where the Lawrences maintained extensive estates. The marriage symbolized both the cultural interchange and the tensions between North and South on the eve of the Civil War.
 

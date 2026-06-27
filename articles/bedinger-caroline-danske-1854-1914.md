@@ -2,7 +2,7 @@
 
 ![bedinger-caroline-danske-1854-1914](/images/bedinger-caroline-danske-1854-1914-1.png)
 
-**Parents: [Henry Rutherford Bedinger](/bedinger-henry-rutherford-1812-1858/)** (1812–1858) and Caroline Bowne Lawrence (1827–1869).
+**Parents: [Henry Rutherford Bedinger](/bedinger-henry-rutherford-1812-1858/)** (1812–1858) and [Caroline Bowne Lawrence (1827–1869)](/lawrence-caroline-bowne-1827-1869/).
 
 **Spouse:** Adam Stephen Dandridge (1844–1924).
 
@@ -13,7 +13,7 @@
 **Early Life and Family Background**
 Caroline “Danske” Bedinger was born on 19 November 1854 in Copenhagen, Denmark, where her father served as the first United States minister to Denmark, appointed by President James Buchanan. Her father was also a poet, publishing verse in The Southern Literary Messenger. Her mother, Caroline Lawrence Bedinger, was a granddaughter of Eliza Southgate Bowne, whose letters provide a vivid portrait of early nineteenth-century New England society.
 
-Danske was brought to the United States in 1857, and the family lived in Flushing, Long Island near her Lawrence relatives. After her father’s death shortly before the Civil War, her mother returned with her three children to Shepherdstown, then in Virginia. There she purchased an estate called Poplar Grove, renaming it “Rose Brake,” and the household aided wounded soldiers during the Battle of Antietam. Following her mother’s early death, Danske and her siblings were taken into the care of their maternal grandfather, Hon. John Watson Lawrence, in Flushing.
+Danske was brought to the United States in 1857, and the family lived in Flushing, Long Island near her Lawrence relatives. After her father’s death shortly before the Civil War, her mother returned with her three children to Shepherdstown, then in Virginia. There she purchased an estate called Poplar Grove, renaming it “Rose Brake,” and the household aided wounded soldiers during the Battle of Antietam. Following her mother’s early death, Danske and her siblings were taken into the care of their maternal grandfather, Hon. [John Watson Lawrence](/lawrence-john-watson-1800-1888/), in Flushing.
 
 **Education and Literary Formation**
 Frail in health and sensitive in temperament, Danske began writing verse in childhood but withheld publication until she believed her work had matured. She cultivated a lifelong habit of singing and close attention to rhythm and sound, which shaped the musical quality of her poetry.

@@ -5,7 +5,7 @@
 ![jagger-thomas-augustus-1839-1912](/images/jagger-thomas-augustus-1839-1912-1.jpeg)
 
 **Parents:** Walter A. Jagger (1808–1879) and Julia Ann Niles (1808–1877).
-**Spouse:** (1) Anna Louise Lawrence (1834–1908); (2) Mary Elizabeth Jellison (1864–1931).
+**Spouse:** (1) [Anna Louise Lawrence (1834–1908)](/lawrence-anna-louise-1834-1908/); (2) Mary Elizabeth Jellison (1864–1931).
 **Children:** With Anna Lawrence: Thomas Augustus Jagger (1871–1953).
 **Kinship:** Husband of Anna Lawrence,  the second cousin four times removed of the post–World War II Smith generation.
 
@@ -19,4 +19,4 @@ He was ordained deacon on November 10, 1860, and began his clerical career as as
 On April 28, 1875, Jagger was consecrated Bishop of Southern Ohio by Presiding Bishop Benjamin Bosworth Smith. After the election of Boyd Vincent as coadjutor in 1889, Jagger was given episcopal oversight of American churches in Europe. He resigned his bishopric in October 1904 and in 1906 became the tenth rector of the Cathedral Church of St. Paul, Boston, Massachusetts. He died in Cannes, France, in 1912.
 
 **Family**
-On April 22, 1862, Jagger married Anna Louise Lawrence, daughter of John W. Lawrence and Mary King Bowne, the latter a daughter of Walter Bowne, Mayor of New York City. Their son, Thomas Augustus Jagger, Jr., became a noted volcanologist and founder of the Hawaiian Volcano Observatory. After Anna’s death in 1908, Bishop Jagger married Mary Elizabeth Jellison in 1910.
+On April 22, 1862, Jagger married [Anna Louise Lawrence](/lawrence-anna-louise-1834-1908/), daughter of John W. Lawrence and Mary King Bowne, the latter a daughter of Walter Bowne, [Mayor of New York City](/mayor-of-new-york-city/). Their son, Thomas Augustus Jagger, Jr., became a noted volcanologist and founder of the Hawaiian Volcano Observatory. After Anna’s death in 1908, Bishop Jagger married Mary Elizabeth Jellison in 1910.

@@ -2,7 +2,7 @@
 
 **Parents:** Henry Kneeland Bogert (1801–1875) and Mary Elizabeth Bogert (1804–1891).
 **Spouse:** [Mary Bowne](/bowne-mary-1784-1839/) Lawrence (1830–1898).
-**Children:** Mary “Minnie” Lawrence Bogert (1855–1893), Henry Lawrence Bogert (1857–1933), John Lawrence Bogert (1857–1956), Emily Lawrence Bobert (1860–1864), Edward Ludlow Bobert (1862–1863), [Walter Lawrence Bogert (1864–1959)](/bogert-walter-lawrence-1864-1959/), James Lawrence Bogert (1867–1867), [Marston Taylor Bogert (1868–1954)](/bogert-marston-taylor-1868-1954/), Francis Lawrence Bogert (1869–1870), Frances Lawrence Bogert (1870–1947), and Theodore Lawrence Bobert (1875–1947).
+**Children:** Mary “Minnie” Lawrence Bogert (1855–1893), Henry Lawrence Bogert (1857–1933), [John Lawrence](/lawrence-john-1618-1699/) Bogert (1857–1956), Emily Lawrence Bobert (1860–1864), Edward Ludlow Bobert (1862–1863), [Walter Lawrence Bogert (1864–1959)](/bogert-walter-lawrence-1864-1959/), James Lawrence Bogert (1867–1867), [Marston Taylor Bogert (1868–1954)](/bogert-marston-taylor-1868-1954/), Francis Lawrence Bogert (1869–1870), Frances Lawrence Bogert (1870–1947), and Theodore Lawrence Bobert (1875–1947).
 **Kinship:** Husband of [Mary Bowne](/bowne-mary-1784-1839/) Lawrence, the second cousin four times removed of the post–World War II Smith generation.
 
 **Early Life and Education**
@@ -17,7 +17,7 @@ A resident of Flushing, he helped found the Queens County Savings Bank, serving 
 An active Republican, Bogert served as secretary of the first Republican club organized in Flushing after the Civil War. He was also a vestryman of St. George’s Episcopal Church, where he taught Sunday School for many years, before later transferring his membership to the local Congregational Church. His civic and religious involvements reflected the broader social conscience of the professional classes of postbellum New York.
 
 **Family and Education Legacy**
-Education was a defining theme in the Bogert family. Several of Henry’s sons followed him to Columbia: John Lawrence Bogert (A.B. 1878), [Henry Lawrence Bogert](/bogert-henry-lawrence-1857-1933/) (A.B. 1878), [Marston Taylor Bogert](/bogert-marston-taylor-1868-1954/) (A.B. 1890)—later a distinguished chemist and Columbia professor—and Theodore Lawrence Bogert (A.B. 1897). Their shared connection to Columbia underscores the family’s multi-generational engagement with the city’s intellectual and professional life.
+Education was a defining theme in the Bogert family. Several of Henry’s sons followed him to Columbia: [John Lawrence](/lawrence-john-1618-1699/) Bogert (A.B. 1878), [Henry Lawrence Bogert](/bogert-henry-lawrence-1857-1933/) (A.B. 1878), [Marston Taylor Bogert](/bogert-marston-taylor-1868-1954/) (A.B. 1890)—later a distinguished chemist and Columbia professor—and Theodore Lawrence Bogert (A.B. 1897). Their shared connection to Columbia underscores the family’s multi-generational engagement with the city’s intellectual and professional life.
 
 **Death**
 Henry Augustine Bogert’s life ended tragically on July 12, 1905 1905 when he was struck and fatally injured by an electric cab on Broadway in New York City. He was remembered as a man of deep moral principle, civic generosity, and quiet scholarship—a representative of the conscientious nineteenth-century New York professional class.

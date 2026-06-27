@@ -4,7 +4,7 @@
 
 **Parents:** John Bowne (1698–1757) and Dinah Underhill (1705–1770).
 **Spouse:** Elizabeth Hartshorne (1750–1837).
-**Children:** Mary Bowne (1774–1852), Robert Hartshorne Bowne (1776–1843), John Lawrence Bowne (1779–1847), Sarah Bowne (1781–1862), Hannah Bowne (1784–1860), Elizabeth Bowne (1787–1787), Elizabeth Bowne (1789–1793), Jane Bowne (1792–1843), and William Hartshorne Bowne (1794–1815.
+**Children:** Mary Bowne (1774–1852), Robert Hartshorne Bowne (1776–1843), [John Lawrence](/lawrence-john-1618-1699/) Bowne (1779–1847), Sarah Bowne (1781–1862), Hannah Bowne (1784–1860), Elizabeth Bowne (1787–1787), Elizabeth Bowne (1789–1793), Jane Bowne (1792–1843), and William Hartshorne Bowne (1794–1815.
 
 **Kinship:** First cousin seven times removed of the post–World War II Smith generation.
 

@@ -2,9 +2,9 @@
 
 **Parents:** [James Henry Alexandre (1848–1912)](/alexandre-james-henry-1848-1912/) and [Gertrude Jerome (1853–1883)](/jerome-gertrude-1853-1883/).
 
-**Spouse:** (1) Anne Loomis (1890–1948), married November 29, 1913; (2) Olivia Dulaney Wheeler (1903–2001), married January 22, 1955.
+**Spouse:** (1) [Anne Loomis (1890–1948)](/loomis-anne-1890-1948/), married November 29, 1913; (2) Olivia Dulaney Wheeler (1903–2001), married January 22, 1955.
 
-**Children:** With Anne Loomis: [James Henry Alexandre](/alexandre-james-henry-1848-1912/) III (1915–1963), DeWitt Loomis Alexandre (1917–1982), and Lawrence Jerome Alexandre (1923–2001).
+**Children:** With [Anne Loomis](/loomis-anne-1890-1948/): [James Henry Alexandre](/alexandre-james-henry-1848-1912/) III (1915–1963), DeWitt Loomis Alexandre (1917–1982), and Lawrence Jerome Alexandre (1923–2001).
 
 **Kinship:** Granduncle of the post–World War II Smith generation.
 
@@ -14,7 +14,7 @@
 
 **Career and Activities**
 
-Alexandre worked at Effingham Lawrence & Co., a firm with deep family associations, reflecting the long-standing commercial ties between the Alexandres and the Lawrences. His professional life centered on finance and investment management, typical of his generation within these interrelated New York families.
+Alexandre worked at [Effingham Lawrence](/lawrence-effingham-1760-1800/) & Co., a firm with deep family associations, reflecting the long-standing commercial ties between the Alexandres and the Lawrences. His professional life centered on finance and investment management, typical of his generation within these interrelated New York families.
 
 **Residences and Social Life**
 
@@ -22,7 +22,7 @@ He owned Valleybrook, an estate in Glen Cove, Long Island, where he and his fami
 
 **Later Life**
 
-After the death of his first wife, Anne Loomis, in 1948, he married Olivia Dulaney Wheeler, a member of an old Maryland family. The couple maintained a quiet social presence during their later years, dividing time between Long Island and New York City.
+After the death of his first wife, [Anne Loomis](/loomis-anne-1890-1948/), in 1948, he married Olivia Dulaney Wheeler, a member of an old Maryland family. The couple maintained a quiet social presence during their later years, dividing time between Long Island and New York City.
 
 **Death**
 

@@ -8,7 +8,7 @@ His sons were distinguished patriots of the American Revolution:
 
 Major Henry Bedinger (1753–1843): Known as “Old Major,” he served in the Virginia Line, was captured at the Battle of Fort Washington (1776), and endured years as a prisoner of war. He later founded the family seat Poplar Grove and served as a stabilizing figure in the valley gentry.
 
-Major George Michael Bedinger (1756–1843): He served as a scout and soldier, eventually migrating to Kentucky where he became a U.S. Congressman.
+Major George Michael Bedinger (1756–1843): He served as a scout and soldier, eventually migrating to Kentucky where he became a [U.S. Congressman](/us-congressman/).
 
 Daniel Bedinger (1761–1818): Known as the “boy hero” of the Revolution, he ran away to join the army at 16, was captured at the Battle of Brandywine, and survived British imprisonment. He later served as the U.S. Navy Agent at Norfolk (1802–1808) under President Jefferson. He built the celebrated family estate, "[Bedford](/bedford/)," near Shepherdstown.
 

@@ -246,6 +246,12 @@
     "slug": null
   },
   {
+    "year": 1618,
+    "type": "birth",
+    "text": "John Lawrence born",
+    "slug": "lawrence-john-1618-1699"
+  },
+  {
     "year": 1619,
     "type": "event",
     "text": "First enslaved Africans to the North American colonies arrived in Jamestown, Virginia aboard the White Lion. The House of Burgesses, the first democratically elected legislative body in English North America was formed in Jamestown.",
@@ -370,6 +376,12 @@
     "type": "event",
     "text": "Fundamental Agreement of the New Haven Colony signed. Fundamental Orders of Connecticut adopted and the Crown formally recognizes the Virginia Assembly.",
     "slug": null
+  },
+  {
+    "year": 1640,
+    "type": "birth",
+    "text": "Mary Lawrence born",
+    "slug": "lawrence-mary-1640-1704"
   },
   {
     "year": 1640,
@@ -637,6 +649,12 @@
   },
   {
     "year": 1685,
+    "type": "birth",
+    "text": "John Lawrence born",
+    "slug": "lawrence-john-1685-1765"
+  },
+  {
+    "year": 1685,
     "type": "event",
     "text": "Charles II dies and his brother the Duke of York becomes King James II. Fort St. Louis (French colonization of Texas) established near Arenosa Creek on Matagorda Bay by French explorer Robert Cavelier de La Salle; the fort was abandoned in 1688.",
     "slug": null
@@ -810,10 +828,22 @@
     "slug": null
   },
   {
+    "year": 1721,
+    "type": "birth",
+    "text": "John Lawrence born",
+    "slug": "lawrence-john-1721-1764"
+  },
+  {
     "year": 1723,
     "type": "event",
     "text": "The House of Burgesses passes an act to deal with slave rebellions. The French establish Fort Orleans along the Missouri River near Brunswick, Missouri.",
     "slug": null
+  },
+  {
+    "year": 1725,
+    "type": "birth",
+    "text": "Richard Lawrence born",
+    "slug": "lawrence-richard-1725-1781"
   },
   {
     "year": 1725,
@@ -840,10 +870,28 @@
     "slug": null
   },
   {
+    "year": 1733,
+    "type": "birth",
+    "text": "Thomas Lawrence born",
+    "slug": "lawrence-thomas-1733-1817"
+  },
+  {
     "year": 1735,
     "type": "event",
     "text": "John Peter Zenger is found innocent of libel by the New York City trial on August 4.",
     "slug": null
+  },
+  {
+    "year": 1737,
+    "type": "birth",
+    "text": "David Lawrence born",
+    "slug": "lawrence-david-1737-1809"
+  },
+  {
+    "year": 1737,
+    "type": "birth",
+    "text": "Jonathan Lawrence born",
+    "slug": "lawrence-jonathan-1737-1812-major-new-york-provincial-militia"
   },
   {
     "year": 1737,
@@ -949,9 +997,21 @@
   },
   {
     "year": 1758,
+    "type": "birth",
+    "text": "Hannah Lawrence born",
+    "slug": "lawrence-hannah-1758-1838"
+  },
+  {
+    "year": 1758,
     "type": "event",
     "text": "Siege of Louisbourg; Battle of Fort Frontenac; Battle of Fort Duquesne.  The first black Baptist church is founded in Lunenburg, Virginia.",
     "slug": null
+  },
+  {
+    "year": 1759,
+    "type": "birth",
+    "text": "Jonathan Jr. Lawrence born",
+    "slug": "lawrence-jonathan-jr-1759-1802"
   },
   {
     "year": 1759,
@@ -960,10 +1020,46 @@
     "slug": null
   },
   {
+    "year": 1760,
+    "type": "birth",
+    "text": "Effingham Lawrence born",
+    "slug": "lawrence-effingham-1760-1800"
+  },
+  {
+    "year": 1767,
+    "type": "birth",
+    "text": "Samuel Lawrence born",
+    "slug": "lawrence-samuel-1767-1850"
+  },
+  {
+    "year": 1768,
+    "type": "birth",
+    "text": "Isaac Lawrence born",
+    "slug": "lawrence-isaac-1768-1841"
+  },
+  {
+    "year": 1770,
+    "type": "birth",
+    "text": "Augustine Hicks Lawrence born",
+    "slug": "lawrence-augustine-hicks-1770-1828"
+  },
+  {
     "year": 1770,
     "type": "birth",
     "text": "Walter I Bowne born",
     "slug": "bowne-walter-i-1770-1846"
+  },
+  {
+    "year": 1774,
+    "type": "birth",
+    "text": "John Burling I Lawrence born",
+    "slug": "lawrence-john-burling-i-1774-1844"
+  },
+  {
+    "year": 1775,
+    "type": "birth",
+    "text": "Samuel Adams Lawrence born",
+    "slug": "lawrence-samuel-adams-1775-1851"
   },
   {
     "year": 1775,
@@ -978,10 +1074,46 @@
     "slug": "gardenier-barent-1776-1822"
   },
   {
+    "year": 1776,
+    "type": "birth",
+    "text": "William Lawrence born",
+    "slug": "lawrence-william-1776-1848"
+  },
+  {
     "year": 1777,
     "type": "birth",
     "text": "William Slocum Burling born",
     "slug": "burling-william-slocum-1777-1863"
+  },
+  {
+    "year": 1779,
+    "type": "birth",
+    "text": "Effingham Lawrence born",
+    "slug": "lawrence-effingham-1779-1850"
+  },
+  {
+    "year": 1780,
+    "type": "birth",
+    "text": "Abraham Riker Lawrence born",
+    "slug": "lawrence-abraham-riker-1780-1863"
+  },
+  {
+    "year": 1781,
+    "type": "birth",
+    "text": "Walter Lawrence born",
+    "slug": "lawrence-walter-1781-1872"
+  },
+  {
+    "year": 1781,
+    "type": "birth",
+    "text": "William Effingham Lawrence born",
+    "slug": "lawrence-william-effingham-1781-1841"
+  },
+  {
+    "year": 1783,
+    "type": "birth",
+    "text": "Joseph Lawrence born",
+    "slug": "lawrence-joseph-1783-1817"
   },
   {
     "year": 1783,
@@ -996,16 +1128,40 @@
     "slug": "bowne-mary-1784-1839"
   },
   {
+    "year": 1785,
+    "type": "birth",
+    "text": "John Lawrence Lawrence born",
+    "slug": "lawrence-john-lawrence-1785-1849"
+  },
+  {
     "year": 1787,
     "type": "birth",
     "text": "Ker Boyce born",
     "slug": "boyce-ker-1787-1854"
   },
   {
+    "year": 1788,
+    "type": "birth",
+    "text": "Watson Effingham Lawrence born",
+    "slug": "lawrence-watson-effingham-1788-1872"
+  },
+  {
+    "year": 1788,
+    "type": "birth",
+    "text": "William Thomas Lawrence born",
+    "slug": "lawrence-william-thomas-1788-1859"
+  },
+  {
     "year": 1790,
     "type": "event",
     "text": "Rhode Island ratifies the Constitution and becomes 13th state",
     "slug": null
+  },
+  {
+    "year": 1791,
+    "type": "birth",
+    "text": "Cornelius Van Wyck Lawrence born",
+    "slug": "lawrence-cornelius-van-wyck-1791-1861"
   },
   {
     "year": 1791,
@@ -1189,6 +1345,18 @@
   },
   {
     "year": 1800,
+    "type": "birth",
+    "text": "John Watson Lawrence born",
+    "slug": "lawrence-john-watson-1800-1888"
+  },
+  {
+    "year": 1800,
+    "type": "birth",
+    "text": "William Beach Lawrence born",
+    "slug": "lawrence-william-beach-1800-1881"
+  },
+  {
+    "year": 1800,
     "type": "event",
     "text": "Convention of 1800 ends the Quasi-War",
     "slug": null
@@ -1273,9 +1441,27 @@
   },
   {
     "year": 1805,
+    "type": "birth",
+    "text": "Edward Newbold Lawrence born",
+    "slug": "lawrence-edward-newbold-1805-1839"
+  },
+  {
+    "year": 1805,
     "type": "event",
     "text": "President Jefferson begins second term; Clinton becomes the fourth vice president",
     "slug": null
+  },
+  {
+    "year": 1806,
+    "type": "birth",
+    "text": "George Newbold Lawrence born",
+    "slug": "lawrence-george-newbold-1806-1895"
+  },
+  {
+    "year": 1807,
+    "type": "birth",
+    "text": "Robert William Lawrence born",
+    "slug": "lawrence-robert-william-1807-1833"
   },
   {
     "year": 1807,
@@ -1315,6 +1501,12 @@
   },
   {
     "year": 1809,
+    "type": "birth",
+    "text": "Newbold Lawrence born",
+    "slug": "lawrence-newbold-1809-1885"
+  },
+  {
+    "year": 1809,
     "type": "event",
     "text": "Madison becomes the fourth president; Vice President Clinton begins second term",
     "slug": null
@@ -1327,6 +1519,12 @@
   },
   {
     "year": 1810,
+    "type": "birth",
+    "text": "Henry Effingham Lawrence born",
+    "slug": "lawrence-henry-effingham-1810-1875"
+  },
+  {
+    "year": 1810,
     "type": "event",
     "text": "Fletcher v. Peck (10 US 87 1810) marks first time U.S. Supreme Court invalidates a state legislative act",
     "slug": null
@@ -1336,6 +1534,12 @@
     "type": "birth",
     "text": "Bradish Johnson born",
     "slug": "johnson-bradish-1811-1892"
+  },
+  {
+    "year": 1811,
+    "type": "birth",
+    "text": "Lydia Ann Lawrence born",
+    "slug": "lawrence-lydia-ann-1811-1879"
   },
   {
     "year": 1811,
@@ -1378,6 +1582,18 @@
     "type": "event",
     "text": "War of 1812, an offshoot of the Napoleonic Wars, begins",
     "slug": null
+  },
+  {
+    "year": 1813,
+    "type": "birth",
+    "text": "Alfred Newbold Lawrence born",
+    "slug": "lawrence-alfred-newbold-1813-1884"
+  },
+  {
+    "year": 1813,
+    "type": "birth",
+    "text": "William Effingham Lawrence born",
+    "slug": "lawrence-william-effingham-1813-1871"
   },
   {
     "year": 1813,
@@ -1442,6 +1658,18 @@
   {
     "year": 1817,
     "type": "birth",
+    "text": "John Burling II Lawrence born",
+    "slug": "lawrence-john-burling-ii-1817-1887"
+  },
+  {
+    "year": 1817,
+    "type": "birth",
+    "text": "Joseph A. Lawrence born",
+    "slug": "lawrence-joseph-a-1817-1889"
+  },
+  {
+    "year": 1817,
+    "type": "birth",
     "text": "Leonard Walter Jerome born",
     "slug": "jerome-leonard-walter-1817-1891"
   },
@@ -1450,6 +1678,12 @@
     "type": "birth",
     "text": "Sir Lawrence, 2nd Baronet Jones born",
     "slug": "jones-sir-lawrence-2nd-baronet-1817-1845"
+  },
+  {
+    "year": 1817,
+    "type": "birth",
+    "text": "William Thomas Lawrence born",
+    "slug": "lawrence-william-thomas-1817-1893"
   },
   {
     "year": 1817,
@@ -1477,6 +1711,18 @@
   },
   {
     "year": 1818,
+    "type": "birth",
+    "text": "Frederick Arthur Lawrence born",
+    "slug": "lawrence-frederick-arthur-1818-1882"
+  },
+  {
+    "year": 1818,
+    "type": "birth",
+    "text": "John Smith Lawrence born",
+    "slug": "lawrence-john-smith-1818-1880"
+  },
+  {
+    "year": 1818,
     "type": "event",
     "text": "Cumberland Road opened",
     "slug": null
@@ -1492,6 +1738,12 @@
     "type": "event",
     "text": "Jackson Purchase in Kentucky",
     "slug": null
+  },
+  {
+    "year": 1819,
+    "type": "birth",
+    "text": "Thomas S. Lawrence born",
+    "slug": "lawrence-thomas-s-1819-1902"
   },
   {
     "year": 1819,
@@ -1522,6 +1774,12 @@
     "type": "event",
     "text": "Panic of 1819",
     "slug": null
+  },
+  {
+    "year": 1820,
+    "type": "birth",
+    "text": "Effingham Lawrence born",
+    "slug": "lawrence-effingham-1820-1878"
   },
   {
     "year": 1820,
@@ -1573,9 +1831,27 @@
   },
   {
     "year": 1823,
+    "type": "birth",
+    "text": "William Lawrence born",
+    "slug": "lawrence-william-1823-1898"
+  },
+  {
+    "year": 1823,
     "type": "event",
     "text": "Monroe Doctrine proclaimed",
     "slug": null
+  },
+  {
+    "year": 1824,
+    "type": "birth",
+    "text": "Caroline Effingham Elizabeth Lawrence born",
+    "slug": "lawrence-caroline-effingham-elizabeth-1824-1889"
+  },
+  {
+    "year": 1824,
+    "type": "birth",
+    "text": "Joseph Effingham (\u201cJoe\u201d) Lawrence born",
+    "slug": "lawrence-joseph-effingham-joe-1824-1878"
   },
   {
     "year": 1824,
@@ -1594,6 +1870,12 @@
     "type": "event",
     "text": "U.S. presidential election, 1824: Presidential results inconclusive. John C. Calhoun elected vice president.",
     "slug": null
+  },
+  {
+    "year": 1825,
+    "type": "birth",
+    "text": "William Beach Jr. Lawrence born",
+    "slug": "lawrence-william-beach-jr-1825-1870"
   },
   {
     "year": 1825,
@@ -1622,6 +1904,18 @@
   {
     "year": 1827,
     "type": "birth",
+    "text": "Caroline Bowne Lawrence born",
+    "slug": "lawrence-caroline-bowne-1827-1869"
+  },
+  {
+    "year": 1827,
+    "type": "birth",
+    "text": "Francis Effingham, Rev. Lawrence born",
+    "slug": "lawrence-francis-effingham-rev-1827-1879"
+  },
+  {
+    "year": 1827,
+    "type": "birth",
     "text": "Henry Augustine Bogert born",
     "slug": "bogert-henry-augustine-1827-1905"
   },
@@ -1630,6 +1924,18 @@
     "type": "birth",
     "text": "James Petigru Boyce born",
     "slug": "boyce-james-petigru-1827-1888"
+  },
+  {
+    "year": 1828,
+    "type": "birth",
+    "text": "Eliza Southgate \u201cLily\u201d Lawrence born",
+    "slug": "lawrence-eliza-southgate-lily-1828-1858"
+  },
+  {
+    "year": 1828,
+    "type": "birth",
+    "text": "Isaac Lawrence born",
+    "slug": "lawrence-isaac-1828-1919"
   },
   {
     "year": 1828,
@@ -1645,9 +1951,21 @@
   },
   {
     "year": 1829,
+    "type": "birth",
+    "text": "Henry Effingham Lawrence born",
+    "slug": "lawrence-henry-effingham-1829-1890"
+  },
+  {
+    "year": 1829,
     "type": "event",
     "text": "Jackson becomes the seventh president; Vice President Calhoun begins second term",
     "slug": null
+  },
+  {
+    "year": 1830,
+    "type": "birth",
+    "text": "Mary Bowne Lawrence born",
+    "slug": "lawrence-mary-bowne-1830-1898"
   },
   {
     "year": 1830,
@@ -1666,6 +1984,12 @@
     "type": "event",
     "text": "Second Great Awakening is the religious revival movement",
     "slug": null
+  },
+  {
+    "year": 1831,
+    "type": "birth",
+    "text": "Edward Arthur Lawrence born",
+    "slug": "lawrence-edward-arthur-1831-1883"
   },
   {
     "year": 1831,
@@ -1696,6 +2020,18 @@
     "type": "event",
     "text": "The Liberator begins publication in 1831",
     "slug": null
+  },
+  {
+    "year": 1832,
+    "type": "birth",
+    "text": "Abraham Riker Lawrence born",
+    "slug": "lawrence-abraham-riker-1832-1917"
+  },
+  {
+    "year": 1832,
+    "type": "birth",
+    "text": "Esther Gracie Lawrence born",
+    "slug": "lawrence-esther-gracie-1832-1893"
   },
   {
     "year": 1832,
@@ -1766,8 +2102,26 @@
   {
     "year": 1834,
     "type": "birth",
+    "text": "Anna Louise Lawrence born",
+    "slug": "lawrence-anna-louise-1834-1908"
+  },
+  {
+    "year": 1834,
+    "type": "birth",
     "text": "David Stewart Kennedy born",
     "slug": "kennedy-david-stewart-1834-1898"
+  },
+  {
+    "year": 1834,
+    "type": "birth",
+    "text": "Effingham Billopp Lawrence born",
+    "slug": "lawrence-effingham-billopp-1834-1908"
+  },
+  {
+    "year": 1834,
+    "type": "birth",
+    "text": "Frederick Newbold Lawrence born",
+    "slug": "lawrence-frederick-newbold-1834-1916"
   },
   {
     "year": 1834,
@@ -1792,6 +2146,12 @@
     "type": "event",
     "text": "Second Seminole War begins in Florida as members of the Seminole tribe resist relocation.",
     "slug": null
+  },
+  {
+    "year": 1836,
+    "type": "birth",
+    "text": "Albert Gallatin Lawrence born",
+    "slug": "lawrence-albert-gallatin-1836-1887"
   },
   {
     "year": 1836,
@@ -1828,6 +2188,12 @@
     "type": "event",
     "text": "U.S. presidential election, 1836: Martin Van Buren elected president, no one is elected vice president.",
     "slug": null
+  },
+  {
+    "year": 1837,
+    "type": "birth",
+    "text": "Emlen Newbold Lawrence born",
+    "slug": "lawrence-emlen-newbold-1837-1925"
   },
   {
     "year": 1837,
@@ -1903,6 +2269,12 @@
   },
   {
     "year": 1839,
+    "type": "birth",
+    "text": "Walter Bowne Lawrence born",
+    "slug": "lawrence-walter-bowne-1839-1912"
+  },
+  {
+    "year": 1839,
     "type": "event",
     "text": "Amistad case",
     "slug": null
@@ -1912,6 +2284,18 @@
     "type": "birth",
     "text": "George Rust Bedinger born",
     "slug": "bedinger-george-rust-1840-1863"
+  },
+  {
+    "year": 1840,
+    "type": "birth",
+    "text": "Jeanne Osgood Effingham (Jeanne Nuola) Lawrence born",
+    "slug": "lawrence-jeanne-osgood-effingham-jeanne-nuola-1840-1934"
+  },
+  {
+    "year": 1840,
+    "type": "birth",
+    "text": "Mary Elizabeth Van Sinderen Lawrence born",
+    "slug": "lawrence-mary-elizabeth-van-sinderen-1840-1933"
   },
   {
     "year": 1840,
@@ -1958,8 +2342,20 @@
   {
     "year": 1842,
     "type": "birth",
+    "text": "Edwin Seabury Lawrence born",
+    "slug": "lawrence-edwin-seabury-1842-1900"
+  },
+  {
+    "year": 1842,
+    "type": "birth",
     "text": "Lemuel Dandridge born",
     "slug": "dandridge-lemuel-1842-1919"
+  },
+  {
+    "year": 1842,
+    "type": "birth",
+    "text": "William Van Duzer Lawrence born",
+    "slug": "lawrence-william-van-duzer-1842-1927"
   },
   {
     "year": 1842,
@@ -1993,6 +2389,18 @@
   },
   {
     "year": 1844,
+    "type": "birth",
+    "text": "James Gore King Lawrence born",
+    "slug": "lawrence-james-gore-king-1844-1895"
+  },
+  {
+    "year": 1844,
+    "type": "birth",
+    "text": "John Burling Lawrence born",
+    "slug": "lawrence-john-burling-1844-1929"
+  },
+  {
+    "year": 1844,
     "type": "event",
     "text": "Mormon leader, Joseph Smith Jr. assassinated.",
     "slug": null
@@ -2011,6 +2419,12 @@
   },
   {
     "year": 1845,
+    "type": "birth",
+    "text": "Chester Bulkley Lawrence born",
+    "slug": "lawrence-chester-bulkley-1845-1918"
+  },
+  {
+    "year": 1845,
     "type": "event",
     "text": "Florida and Texas become states",
     "slug": null
@@ -2026,6 +2440,12 @@
     "type": "event",
     "text": "Texas annexation",
     "slug": null
+  },
+  {
+    "year": 1846,
+    "type": "birth",
+    "text": "Isabella Lawrence born",
+    "slug": "lawrence-isabella-1846-1914"
   },
   {
     "year": 1846,
@@ -2068,6 +2488,12 @@
     "type": "event",
     "text": "Wilmot Proviso",
     "slug": null
+  },
+  {
+    "year": 1847,
+    "type": "birth",
+    "text": "Annie Townsend Lawrence born",
+    "slug": "lawrence-annie-townsend-1847-1942"
   },
   {
     "year": 1847,
@@ -2160,10 +2586,22 @@
     "slug": null
   },
   {
+    "year": 1851,
+    "type": "birth",
+    "text": "Albert Effingham Lawrence born",
+    "slug": "lawrence-albert-effingham-1851-1923"
+  },
+  {
     "year": 1852,
     "type": "birth",
     "text": "Julian Kennedy born",
     "slug": "kennedy-julian-1852-1932"
+  },
+  {
+    "year": 1852,
+    "type": "birth",
+    "text": "Robert Bowne Lawrence born",
+    "slug": "lawrence-robert-bowne-1852-1942"
   },
   {
     "year": 1852,
@@ -2216,8 +2654,20 @@
   {
     "year": 1854,
     "type": "birth",
+    "text": "Constantine Scaramanga-Ralli born",
+    "slug": "scaramanga-ralli-constantine-1854-1934"
+  },
+  {
+    "year": 1854,
+    "type": "birth",
     "text": "James Lawrence Breese born",
     "slug": "breese-james-lawrence-1854-1934"
+  },
+  {
+    "year": 1854,
+    "type": "birth",
+    "text": "Mary Anne Lawrence born",
+    "slug": "lawrence-mary-anne-1854-1915"
   },
   {
     "year": 1854,
@@ -2282,6 +2732,12 @@
   {
     "year": 1856,
     "type": "birth",
+    "text": "Effingham Lawrence born",
+    "slug": "lawrence-effingham-1856-1899"
+  },
+  {
+    "year": 1856,
+    "type": "birth",
     "text": "Hugh Kennedy born",
     "slug": "kennedy-hugh-1856-1929"
   },
@@ -2320,6 +2776,12 @@
     "type": "birth",
     "text": "Henry Lawrence Bogert born",
     "slug": "bogert-henry-lawrence-1857-1933"
+  },
+  {
+    "year": 1857,
+    "type": "birth",
+    "text": "John Lawrence Lawrence born",
+    "slug": "lawrence-john-lawrence-1857-1930"
   },
   {
     "year": 1857,
@@ -2407,6 +2869,24 @@
   },
   {
     "year": 1860,
+    "type": "birth",
+    "text": "John Smith II Lawrence born",
+    "slug": "lawrence-john-smith-ii-1860-1903"
+  },
+  {
+    "year": 1860,
+    "type": "birth",
+    "text": "Julia Townsend Lawrence born",
+    "slug": "lawrence-julia-townsend-1860-1933"
+  },
+  {
+    "year": 1860,
+    "type": "birth",
+    "text": "Mary Lawrence born",
+    "slug": "lawrence-mary-1860-1942"
+  },
+  {
+    "year": 1860,
     "type": "event",
     "text": "Pony Express begins from St. Joseph, Missouri to Sacramento, California.",
     "slug": null
@@ -2428,6 +2908,12 @@
     "type": "birth",
     "text": "Walter Truesdale Kennedy born",
     "slug": "kennedy-walter-truesdale-1861-1924"
+  },
+  {
+    "year": 1861,
+    "type": "birth",
+    "text": "William Miner Lawrence born",
+    "slug": "lawrence-william-miner-1861-1935"
   },
   {
     "year": 1861,
@@ -2576,6 +3062,12 @@
   {
     "year": 1864,
     "type": "birth",
+    "text": "Virginia Lee Lawrence born",
+    "slug": "lawrence-virginia-lee-1864-1891"
+  },
+  {
+    "year": 1864,
+    "type": "birth",
     "text": "Walter Lawrence Bogert born",
     "slug": "bogert-walter-lawrence-1864-1959"
   },
@@ -2614,6 +3106,12 @@
     "type": "event",
     "text": "Wade\u2013Davis Bill",
     "slug": null
+  },
+  {
+    "year": 1865,
+    "type": "birth",
+    "text": "Effingham Edward Lawrence born",
+    "slug": "lawrence-effingham-edward-1865-1911"
   },
   {
     "year": 1865,
@@ -2683,6 +3181,12 @@
   },
   {
     "year": 1866,
+    "type": "birth",
+    "text": "Ruth Woodhull Lawrence born",
+    "slug": "lawrence-ruth-woodhull-1866-1956"
+  },
+  {
+    "year": 1866,
     "type": "event",
     "text": "Civil Rights Act of 1866",
     "slug": null
@@ -2692,6 +3196,12 @@
     "type": "event",
     "text": "Tennessee becomes the first Confederate state readmitted to the union",
     "slug": null
+  },
+  {
+    "year": 1867,
+    "type": "birth",
+    "text": "Annette \u201cAnita\u201d Townsend Lawrence born",
+    "slug": "lawrence-annette-anita-townsend-1867-1922"
   },
   {
     "year": 1867,
@@ -2744,6 +3254,12 @@
   {
     "year": 1868,
     "type": "birth",
+    "text": "John Watson II Lawrence born",
+    "slug": "lawrence-john-watson-ii-1868-1895"
+  },
+  {
+    "year": 1868,
+    "type": "birth",
     "text": "Marston Taylor Bogert born",
     "slug": "bogert-marston-taylor-1868-1954"
   },
@@ -2782,6 +3298,12 @@
     "type": "event",
     "text": "Ulysses S. Grant is elected president and Schuyler Colfax is elected vice president.",
     "slug": null
+  },
+  {
+    "year": 1869,
+    "type": "birth",
+    "text": "Mary Trimble Lawrence born",
+    "slug": "lawrence-mary-trimble-1869-1945"
   },
   {
     "year": 1869,
@@ -2845,6 +3367,12 @@
   },
   {
     "year": 1871,
+    "type": "birth",
+    "text": "Townsend Bowne Lawrence born",
+    "slug": "lawrence-townsend-bowne-1871-1951"
+  },
+  {
+    "year": 1871,
     "type": "event",
     "text": "Civil Service Reform Act passes",
     "slug": null
@@ -2872,6 +3400,12 @@
     "type": "event",
     "text": "Treaty of Washington with the British Empire regarding Canada",
     "slug": null
+  },
+  {
+    "year": 1872,
+    "type": "birth",
+    "text": "Esther Gracie Lawrence born",
+    "slug": "lawrence-esther-gracie-1872-1976"
   },
   {
     "year": 1872,
@@ -2944,6 +3478,12 @@
     "type": "event",
     "text": "Red River Indian War",
     "slug": null
+  },
+  {
+    "year": 1875,
+    "type": "birth",
+    "text": "Arthur William Lawrence born",
+    "slug": "lawrence-arthur-william-1875-1937"
   },
   {
     "year": 1875,
@@ -3073,6 +3613,12 @@
   },
   {
     "year": 1878,
+    "type": "birth",
+    "text": "Effingham, Jr. Lawrence born",
+    "slug": "lawrence-effingham-jr-1878-1956"
+  },
+  {
+    "year": 1878,
     "type": "event",
     "text": "Bland\u2013Allison Act",
     "slug": null
@@ -3082,6 +3628,12 @@
     "type": "event",
     "text": "Morgan silver dollars first minted",
     "slug": null
+  },
+  {
+    "year": 1879,
+    "type": "birth",
+    "text": "Bruce Effingham Lawrence born",
+    "slug": "lawrence-bruce-effingham-1879-1948"
   },
   {
     "year": 1879,
@@ -3116,6 +3668,12 @@
   {
     "year": 1880,
     "type": "birth",
+    "text": "Lawrence Milton Lawson born",
+    "slug": "lawson-lawrence-milton-1880-1969"
+  },
+  {
+    "year": 1880,
+    "type": "birth",
     "text": "Lucy Belle Kennedy born",
     "slug": "kennedy-lucy-belle-1880-1962"
   },
@@ -3136,6 +3694,12 @@
     "type": "event",
     "text": "University of Southern California founded",
     "slug": null
+  },
+  {
+    "year": 1881,
+    "type": "birth",
+    "text": "Owen Effingham Lawrence born",
+    "slug": "lawrence-owen-effingham-1881-1956"
   },
   {
     "year": 1881,
@@ -3277,6 +3841,12 @@
   },
   {
     "year": 1884,
+    "type": "birth",
+    "text": "Sarah Ray \u201cDimple\u201d Lawrence born",
+    "slug": "lawrence-sarah-ray-dimple-1884-1902"
+  },
+  {
+    "year": 1884,
     "type": "event",
     "text": "U.S. presidential election, 1884: Grover Cleveland elected president and Thomas A. Hendricks elected vice president",
     "slug": null
@@ -3325,6 +3895,12 @@
   },
   {
     "year": 1886,
+    "type": "birth",
+    "text": "William Beach Lawrence born",
+    "slug": "lawrence-william-beach-1886-1954"
+  },
+  {
+    "year": 1886,
     "type": "event",
     "text": "American Federation of Labor founded in Columbus, Ohio",
     "slug": null
@@ -3340,6 +3916,12 @@
     "type": "event",
     "text": "Statue of Liberty (Liberty Enlightening the World) dedicated",
     "slug": null
+  },
+  {
+    "year": 1887,
+    "type": "birth",
+    "text": "Effingham Nicoll Lawrence born",
+    "slug": "lawrence-effingham-nicoll-1887-1963"
   },
   {
     "year": 1887,
@@ -3370,6 +3952,12 @@
     "type": "birth",
     "text": "Lawrence Effingham Dandridge born",
     "slug": "dandridge-lawrence-effingham-1888-1920"
+  },
+  {
+    "year": 1888,
+    "type": "birth",
+    "text": "William Effingham Lawrence born",
+    "slug": "lawrence-william-effingham-1888-1974"
   },
   {
     "year": 1888,
@@ -3460,6 +4048,12 @@
     "type": "event",
     "text": "Oklahoma Land Rush (April 22, 1889)",
     "slug": null
+  },
+  {
+    "year": 1890,
+    "type": "birth",
+    "text": "Anne Loomis born",
+    "slug": "loomis-anne-1890-1948"
   },
   {
     "year": 1890,
@@ -3721,6 +4315,12 @@
   },
   {
     "year": 1897,
+    "type": "birth",
+    "text": "Clement Miner Lawrence born",
+    "slug": "lawrence-clement-miner-1897-1918"
+  },
+  {
+    "year": 1897,
     "type": "event",
     "text": "Boston subway completed",
     "slug": null
@@ -3865,6 +4465,12 @@
   },
   {
     "year": 1902,
+    "type": "birth",
+    "text": "Ruth Lavinia Lawrence born",
+    "slug": "lawrence-ruth-lavinia-1902-1992"
+  },
+  {
+    "year": 1902,
     "type": "event",
     "text": "Drago Doctrine",
     "slug": null
@@ -3880,6 +4486,12 @@
     "type": "event",
     "text": "Newlands Reclamation Act",
     "slug": null
+  },
+  {
+    "year": 1903,
+    "type": "birth",
+    "text": "Alfred Newbold Lawrence born",
+    "slug": "lawrence-alfred-newbold-1903-1978"
   },
   {
     "year": 1903,
@@ -4048,6 +4660,12 @@
     "type": "event",
     "text": "Oklahoma becomes a state",
     "slug": null
+  },
+  {
+    "year": 1908,
+    "type": "birth",
+    "text": "Dorothy Quincy Lawrence born",
+    "slug": "lawrence-dorothy-quincy-1908-1981"
   },
   {
     "year": 1908,
@@ -4294,6 +4912,12 @@
     "type": "event",
     "text": "World War I begins when Austria\u2013Hungary declares war on Serbia",
     "slug": null
+  },
+  {
+    "year": 1915,
+    "type": "birth",
+    "text": "Effingham Nicoll  Jr. Lawrence born",
+    "slug": "lawrence-effingham-nicoll-jr-1915-1991"
   },
   {
     "year": 1915,

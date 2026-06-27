@@ -9,7 +9,7 @@
 
 **Early Life**
 
-Joseph was born in Palisades in 1927, the middle child of Bobby Hyde and Lydia Lawrence Tonetti. His mother Lydia was the daughter of the sculptor Mary Lawrence Tonetti, the matriarch of Snedens Landing. His father, restless and unconventional, soon left the family and returned to California to marry his childhood sweetheart. The three Hyde children — Angy, Joe, and François — were largely raised in Snedens under the care of “Granny” Tonetti and her faithful butler James.
+Joseph was born in Palisades in 1927, the middle child of Bobby Hyde and Lydia Lawrence Tonetti. His mother Lydia was the daughter of the sculptor [Mary Lawrence](/lawrence-mary-1640-1704/) Tonetti, the matriarch of Snedens Landing. His father, restless and unconventional, soon left the family and returned to California to marry his childhood sweetheart. The three Hyde children — Angy, Joe, and François — were largely raised in Snedens under the care of “Granny” Tonetti and her faithful butler James.
 
 **Culinary Apprenticeship**
 

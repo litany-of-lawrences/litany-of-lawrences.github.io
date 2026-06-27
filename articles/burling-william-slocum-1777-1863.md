@@ -4,7 +4,7 @@
 
 **Parents:** Thomas Burling (1746–1841) and Susanna Carter (1749–1831).
 **Spouse:** Elizabeth Earle (1778–1861).
-**Children:** Mary Lawrence Burling (1801–1877), and Joseph Burling (1815–1857)
+**Children:** [Mary Lawrence](/lawrence-mary-1640-1704/) Burling (1801–1877), and Joseph Burling (1815–1857)
 
 Kinship: The sixth great-granduncle of the post–World War II Smith generation.
 

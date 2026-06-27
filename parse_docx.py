@@ -185,14 +185,20 @@ def extract_articles(doc_path: Path) -> list[tuple[str, list[str]]]:
     return articles
 
 
+MAX_SLUG_LENGTH = 200
+
 def write_article(title: str, lines: list[str], output_dir: Path) -> Path | None:
     if not title or not title.strip():
         print(f"  Skipped: article has no title")
         return None
+    if len(title) > 120:
+        print(f"  Warning: suspiciously long title ({len(title)} chars) — may be a mis-formatted paragraph: {title[:80]!r}…")
     slug = slugify(title)
     if not slug:
         print(f"  Skipped: title {title!r} slugifies to empty string")
         return None
+    if len(slug) > MAX_SLUG_LENGTH:
+        slug = slug[:MAX_SLUG_LENGTH].rstrip('-')
     path = output_dir / f"{slug}.md"
     content = "\n".join(lines).rstrip() + "\n"
     path.write_text(content, encoding="utf-8")

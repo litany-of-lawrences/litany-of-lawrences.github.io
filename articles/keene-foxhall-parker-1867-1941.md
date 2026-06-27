@@ -3,9 +3,9 @@
 ![keene-foxhall-parker-1867-1941](/images/keene-foxhall-parker-1867-1941-1.png)
 
 **Parents:** [James Robert Keene (1838–1913)](/keene-james-robert-1838-1913/) and Sara Joy Daingerfield (1830–1916).
-**Married:** Mary Lawrence (1860–1942).
+**Married:** [Mary Lawrence (1860–1942)](/lawrence-mary-1860-1942/).
 **Children:** None, though Mary had a son by her first marriage to Frank Worth White (1856–1887).
-**Kinship:** Husband of Mary Lawrence, the great-grandaunt of the post–World War II Smith generation.
+**Kinship:** Husband of [Mary Lawrence](/lawrence-mary-1640-1704/), the great-grandaunt of the post–World War II Smith generation.
 
 **Early Life**
 
@@ -27,7 +27,7 @@ In his memoir Full Tilt, Keene recounted countless mishaps with characteristic b
 
 **Marriage and Separation**
 
-On December 11, 1892, Keene married Mary Lawrence, widow of Frank Worth White, in a quiet ceremony at her father Newbold Lawrence’s home on Twenty-Second Street in Manhattan. The couple soon sailed for England, where they lived among the hunting set in Leicestershire. Keene hunted with the Meath in Ireland and endured a near-fatal fall that left him bloodied and half-conscious, but still managed to ride eight miles home.
+On December 11, 1892, Keene married [Mary Lawrence](/lawrence-mary-1640-1704/), widow of Frank Worth White, in a quiet ceremony at her father [Newbold Lawrence](/lawrence-newbold-1809-1885/)’s home on Twenty-Second Street in Manhattan. The couple soon sailed for England, where they lived among the hunting set in Leicestershire. Keene hunted with the Meath in Ireland and endured a near-fatal fall that left him bloodied and half-conscious, but still managed to ride eight miles home.
 
 The marriage, however, could not endure his relentless risk-taking. Mary had to face endless headlines like these:
 

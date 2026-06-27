@@ -7,7 +7,7 @@
 **Parents:** James Keene (1810–1894) and Selina Hicken (1808–1863).
 **Married:** Sarah Joy Daingerfield (1830–1916).
 **Children:** Jessica Harwar Keene (1867–1938) and [Foxhall Parker Keene (1867–1941)](/keene-foxhall-parker-1867-1941/).
-**Kinship:** Father-in-law of Mary Lawrence, the great-grandaunt of the post–World War II Smith generation.
+**Kinship:** Father-in-law of [Mary Lawrence](/lawrence-mary-1640-1704/), the great-grandaunt of the post–World War II Smith generation.
 
 **Early Life and Marriage**
 

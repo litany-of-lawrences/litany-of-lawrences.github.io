@@ -1,6 +1,6 @@
 # Breese Family
 
-The Breese family occupies a colorful and complex place within the larger Lawrence family network—distinguished by artistic brilliance, scientific and engineering innovation, and, in some cases, reckless extravagance. The connection between the two families was established when Josiah Salisbury Breese (1812–1865) married Augusta Eloise Lawrence (1829–1907), a descendant in the fifth generation of William Lawrence the Settler (1622–1680). Through this marriage, the Breeses became entwined with one of New York’s oldest and most influential families. Augusta was the fourth cousin five times removed of the post–World War II Smith generation.
+The Breese family occupies a colorful and complex place within the larger Lawrence family network—distinguished by artistic brilliance, scientific and engineering innovation, and, in some cases, reckless extravagance. The connection between the two families was established when Josiah Salisbury Breese (1812–1865) married Augusta Eloise Lawrence (1829–1907), a descendant in the fifth generation of [William Lawrence](/lawrence-william-1776-1848/) the Settler (1622–1680). Through this marriage, the Breeses became entwined with one of New York’s oldest and most influential families. Augusta was the fourth cousin five times removed of the post–World War II Smith generation.
 
 All the Breeses included in this section descend from Josiah and Augusta. The family’s trajectory, from early mercantile and clerical respectability to artistic daring and mechanical genius, reflects both the opportunities and the excesses of the American Gilded Age and its aftermath.
 
@@ -28,7 +28,7 @@ His descendants continued this inventive and artistic lineage: his daughter Ann 
 
 **Scientific and Humanitarian Legacy**
 
-Later generations turned the family’s energy toward science, exploration, and public service. William Lawrence Breese II (1882–1915), educated at Harrow and Cambridge, renounced his U.S. citizenship to join the British Army and was killed testing an experimental mortar in France. His son, William Lawrence Breese III (1909–2000), became a diplomat and humanitarian, founding the Longview Foundation for Education in World Affairs. Sydney Salisbury Breese Jr. (1922–2006) pursued viral research at Walter Reed and Plum Island, contributing to early studies in animal virology.
+Later generations turned the family’s energy toward science, exploration, and public service. [William Lawrence](/lawrence-william-1776-1848/) Breese II (1882–1915), educated at Harrow and Cambridge, renounced his U.S. citizenship to join the British Army and was killed testing an experimental mortar in France. His son, [William Lawrence](/lawrence-william-1776-1848/) Breese III (1909–2000), became a diplomat and humanitarian, founding the Longview Foundation for Education in World Affairs. Sydney Salisbury Breese Jr. (1922–2006) pursued viral research at Walter Reed and Plum Island, contributing to early studies in animal virology.
 
 **Character and Reputation**
 

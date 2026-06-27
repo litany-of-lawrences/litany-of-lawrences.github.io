@@ -2,7 +2,7 @@
 
 ![jagger-thomas-augustus-jr-1871-1953](/images/jagger-thomas-augustus-jr-1871-1953-1.jpeg)
 
-**Parents:** [Thomas Augustus Jagger (1839–1912)](/jagger-thomas-augustus-1839-1912/) and Anna Louise Lawrence (1834–1908).
+**Parents:** [Thomas Augustus Jagger (1839–1912)](/jagger-thomas-augustus-1839-1912/) and [Anna Louise Lawrence (1834–1908)](/lawrence-anna-louise-1834-1908/).
 **Spouse:** Helen Kline (1872–1955).
 **Children:** None known.
 **Kinship:** Third cousin three times removed of the post–World War II Smith generation.

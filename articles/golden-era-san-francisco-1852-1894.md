@@ -10,7 +10,7 @@ The Golden Era was founded in 1852 by Rollin M. Daggett and J. McDonough Ford in
 **Editorial Character**
 From its earliest years, The Golden Era promoted a distinctly Western literary voice, calling for a national literature “racy of the soil.” It argued that foreign writers should not dominate the reading public and urged the encouragement of native authors who could capture the life and color of the Pacific frontier. Its rural readers, scattered across mining camps and small towns, looked forward to each issue as a link to civilization and amusement.
 
-**Joseph Effingham Lawrence’s Editorship**
+**Joseph [Effingham Lawrence](/lawrence-effingham-1760-1800/)’s Editorship**
 **Joseph Effingham Lawrence (1825–1878)** joined the paper in 1854 and in 1860 became its editor and co-owner. Under his leadership The Golden Era entered its most influential period. Lawrence shifted the paper away from crude local color toward more polished satire, serialized fiction, and literary criticism. He combined what contemporaries called “European intellectualism and Pacific Coast empiricism,” helping to create what later scholars described as “one of history’s most exciting intellectual atmospheres.” Lawrence’s genial personality and taste made him a beloved figure among young writers; one observer recalled “amiable Joe Lawrence, an inveterate pipe-smoker, a pillar of cloud as he sat in his editorial chair, an air of literary mystery enveloping him.”
 
 **Notable Contributors**
@@ -28,4 +28,4 @@ The world of The Golden Era was that described later by Twain in Roughing It: ov
 After Lawrence’s death the paper declined, eventually ceasing publication in the 1890s. Yet its influence was lasting. It had fostered the first true Western literary culture and served as the crucible for the two writers—Twain and Harte—who would carry California’s voice to the wider world.
 
 **Name and Identification**
-Although later family and biographical sources refer to the editor as Joseph Effingham Lawrence, the middle name Effingham was never used in California. In all contemporary San Francisco newspapers, advertisements, and legal records he appears simply as Joseph E. Lawrence or J. E. Lawrence, and was familiarly known as “Joe Lawrence.” Effingham was, however, his baptismal name, bestowed in honor of the long-standing imaginary Lawrence and Townley family tradition of that name. See Effingham.
+Although later family and biographical sources refer to the editor as Joseph [Effingham Lawrence](/lawrence-effingham-1760-1800/), the middle name Effingham was never used in California. In all contemporary San Francisco newspapers, advertisements, and legal records he appears simply as Joseph E. Lawrence or J. E. Lawrence, and was familiarly known as “Joe Lawrence.” Effingham was, however, his baptismal name, bestowed in honor of the long-standing imaginary Lawrence and Townley family tradition of that name. See Effingham.

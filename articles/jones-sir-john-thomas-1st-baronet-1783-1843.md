@@ -13,7 +13,7 @@ Jones was commissioned second lieutenant in the Royal Engineers on 30 August 179
 
 In 1805 he sailed with Sir James Craig’s expedition, serving at Malta, Naples, and Sicily. At Messina and Milazzo he supervised fortifications and produced a report on Sicilian defenses that earned the praise of Sir John Moore. He fought at the Battle of Maida (1806) and directed the siege of Scylla Castle, which he regarded as his greatest professional achievement.
 
-During the Peninsular War, Jones served under Sir John Leith and later under the Duke of Wellington. He distinguished himself at the sieges of Ciudad Rodrigo and Badajoz, saving Captain Holloway’s life during the latter engagement and earning promotion to brevet lieutenant-colonel. He was severely wounded at Burgos in 1812 and returned to England after prolonged suffering.
+During the Peninsular War, Jones served under Sir John Leith and later under the Duke of Wellington. He distinguished himself at the sieges of Ciudad Rodrigo and Badajoz, saving [Captain](/captain/) Holloway’s life during the latter engagement and earning promotion to brevet lieutenant-colonel. He was severely wounded at Burgos in 1812 and returned to England after prolonged suffering.
 
 While recovering, he published Journal of Sieges carried on by the Allies in Spain (1814), a detailed critique of the engineer service that, though critical of the Board of Ordnance, won Wellington’s respect for its accuracy and candor.
 

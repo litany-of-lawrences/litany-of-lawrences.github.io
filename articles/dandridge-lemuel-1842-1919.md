@@ -1,9 +1,9 @@
 # Dandridge, Lemuel (1842–1919)
 
-Captain, C.S.A.
+[Captain](/captain/), C.S.A.
 
 **Parents:** William Dandridge (1810–1884) and Mary Elizabeth Pendleton (1818–1891).
-**Spouse:** Isabella Lawrence (1846–1914)
+**Spouse:** [Isabella Lawrence (1846–1914)](/lawrence-isabella-1846-1914/)
 **Children:** [Edmund Pendleton Dandridge (1880–1959)](/dandridge-edmund-pendleton-1880-1959/) and others who died in infancy.
 **Kinship:** Husband of the second cousin four times removed of the post–World War II Smith generation.
 
@@ -21,8 +21,8 @@ Following the war, Dandridge readmitted himself to the bar but found the practic
 
 **Marriage and Family**
 
-On November 16, 1876, at Flushing, Long Island, he married Isabella Lawrence (1846–1914),  daughter of John Watson Lawrence (1812–1888) and Elizabeth Bowne (1815–1891), thereby
-uniting two prominent colonial lines. The Lawrences were an old Quaker mercantile family descended from John Lawrence (1618–1699), one of the founders and later mayor of New York, and from the Bownes and Townsends of Flushing. Their marriage symbolized the reconciliation of Northern and Southern elites after the Civil War — Virginia gentry meeting New York Quaker merchants through shared education, Anglican worship, and civic standing.
+On November 16, 1876, at Flushing, Long Island, he married [Isabella Lawrence (1846–1914)](/lawrence-isabella-1846-1914/),  daughter of John Watson Lawrence (1812–1888) and Elizabeth Bowne (1815–1891), thereby
+uniting two prominent colonial lines. The Lawrences were an old Quaker mercantile family descended from [John Lawrence (1618–1699)](/lawrence-john-1618-1699/), one of the founders and later mayor of New York, and from the Bownes and Townsends of Flushing. Their marriage symbolized the reconciliation of Northern and Southern elites after the Civil War — Virginia gentry meeting New York Quaker merchants through shared education, Anglican worship, and civic standing.
 
 Their only surviving child, [Edmund Pendleton Dandridge (1880–1959)](/dandridge-edmund-pendleton-1880-1959/), educated at Virginia, Oxford, and Sewanee, became Bishop of Tennessee (1938–1953). Lemuel’s piety, reserve, and sense of duty deeply influenced his son’s clerical vocation.
 
@@ -30,4 +30,4 @@ Their only surviving child, [Edmund Pendleton Dandridge (1880–1959)](/dandridg
 
 The Dandridge family descends from John Dandridge (1700–1756) of “Chestnut Grove,” New Kent County, Virginia, and his wife Frances Jones (1710–1785), whose daughter Martha Dandridge married George Washington in 1759. The branch from which Bishop Dandridge descended stemmed from William Dandridge (1699–1743), brother of John, who settled at “Elsing Green” on the Pamunkey River. Members of this collateral line removed to western Virginia and, by the early nineteenth century, to New York and New Jersey.
 
-His mother’s family, the Lawrences of Flushing, descended from John Lawrence (1618–1699), an early mayor of New York and brother of Thomas and William Lawrence, founders of the family’s numerous American branches. Through his maternal grandfather John Watson Lawrence (1812–1888), a prominent Flushing Quaker merchant, Bishop Dandridge was related to the Lawrence, Bowne, and Townsend families, whose marriages interlinked the leading Quaker mercantile clans of Long Island and New York City.
+His mother’s family, the Lawrences of Flushing, descended from [John Lawrence (1618–1699)](/lawrence-john-1618-1699/), an early mayor of New York and brother of Thomas and [William Lawrence](/lawrence-william-1776-1848/), founders of the family’s numerous American branches. Through his maternal grandfather John Watson Lawrence (1812–1888), a prominent Flushing Quaker merchant, Bishop Dandridge was related to the Lawrence, Bowne, and Townsend families, whose marriages interlinked the leading Quaker mercantile clans of Long Island and New York City.

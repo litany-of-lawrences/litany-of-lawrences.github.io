@@ -22,4 +22,4 @@ In the mid-nineteenth century, around the 1860s, the house was substantially exp
 
 In the twentieth century, the Ding Dong House became part of the artistic and intellectual milieu for which Snedens Landing became known. The hamlet attracted writers, musicians, actors, and visual artists seeking privacy and inspiration within easy reach of New York City. Among the notable figures associated with the house at various times were composer Aaron Copland, choreographer Jerome Robbins, and actress Margot Kidder. In the late twentieth and early twenty-first centuries, it was owned jointly by actors Uma Thurman and Ethan Hawke.
 
-**Mary Trimble Lawrence** Tonetti also lived in the Ding Dong House, adding the property to the network of residences associated with the Lawrence family and its descendants along the Hudson River.
+**[Mary Trimble Lawrence](/lawrence-mary-trimble-1869-1945/)** Tonetti also lived in the Ding Dong House, adding the property to the network of residences associated with the Lawrence family and its descendants along the Hudson River.

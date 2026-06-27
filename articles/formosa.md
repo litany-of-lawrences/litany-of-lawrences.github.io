@@ -6,7 +6,7 @@
 
 **Origins and Land Grant**
 
-Formosa was established by William Effingham Lawrence (1781–1841), an English merchant and colonist and son of Captain Effingham Lawrence. Lawrence arrived in Van Diemen’s Land in February 1823 aboard his own cutter, Lord Liverpool, carrying instructions from the British Colonial Office authorizing a substantial land grant.
+Formosa was established by [William Effingham Lawrence (1781–1841)](/lawrence-william-effingham-1781-1841/), an English merchant and colonist and son of [Captain](/captain/) [Effingham Lawrence](/lawrence-effingham-1760-1800/). Lawrence arrived in Van Diemen’s Land in February 1823 aboard his own cutter, Lord Liverpool, carrying instructions from the British Colonial Office authorizing a substantial land grant.
 
 By official order, Lawrence and his brother were to receive 4,000 acres each, with a reserve of a further 4,000 acres after five years, contingent on the land being “exclusive of waste land,” meaning land suitable for productive use rather than swamps, rocky ground, or other unusable terrain. The intention was therefore an eventual grant of 8,000 acres under strict conditions.
 
@@ -26,6 +26,6 @@ Following the destruction of the initial dwelling, Lawrence constructed a larger
 
 **Family and Management**
 
-Formosa played a central role in the Lawrence family’s Tasmanian enterprises. Lawrence’s eldest son, Robert William Lawrence (1807–1833), regarded as one of Tasmania’s pioneering botanists, managed the estate for a period. He died at Formosa at a young age, possibly as the result of an epileptic seizure. Other sons of William Effingham Lawrence continued pastoral operations at Formosa and at related family properties.
+Formosa played a central role in the Lawrence family’s Tasmanian enterprises. Lawrence’s eldest son, [Robert William Lawrence (1807–1833)](/lawrence-robert-william-1807-1833/), regarded as one of Tasmania’s pioneering botanists, managed the estate for a period. He died at Formosa at a young age, possibly as the result of an epileptic seizure. Other sons of William [Effingham Lawrence](/lawrence-effingham-1760-1800/) continued pastoral operations at Formosa and at related family properties.
 
 Beyond Formosa, Lawrence acquired numerous additional estates, including Billopp (approximately 2,000 acres near Formosa), Point Effingham (over 9,000 acres on the Tamar River), Vermont, Penquite, and other holdings around Launceston. Collectively, these properties made him one of the most substantial private landowners in the colony.

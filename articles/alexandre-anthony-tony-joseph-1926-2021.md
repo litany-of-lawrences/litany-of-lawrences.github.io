@@ -16,7 +16,7 @@ Anthony “Tony” Joseph Alexandre was born in 1926, the son of [Frederick Fran
 
 **Military Service**
 
-Following his graduation, Tony joined the U.S. Air Force and trained as a pilot, continuing a family tradition established by his older brother, Frederick “Freddy” Alexandre. His time in flight school proved momentous in another way: there he met the sister of his best friend, Louisa Gilbert, who would later become his wife. He served as a pilot in the U.S. Air Force during the Korean War era, attaining the rank of Captain.
+Following his graduation, Tony joined the U.S. Air Force and trained as a pilot, continuing a family tradition established by his older brother, Frederick “Freddy” Alexandre. His time in flight school proved momentous in another way: there he met the sister of his best friend, Louisa Gilbert, who would later become his wife. He served as a pilot in the U.S. Air Force during the Korean War era, attaining the rank of [Captain](/captain/).
 
 **Marriage and Family Life**
 

@@ -22,7 +22,7 @@ As the family moved from making money to spending it, their culture became synon
 
 **Decline and Transition**
 
-By the turn of the twentieth century, the [Alexandre Line](/alexandre-line/) had been sold, and the family capital began to dissipate through division among heirs and the maintenance of lavish estates such as Shore Acres (Staten Island), Nirvana (Stamford), and Spring Lawn (Lenox) (see Houses and Estates Appendix). The family trajectory followed a classic pattern: the first generation built the fortune, the second and third consolidated social status through leisure and alliances.
+By the turn of the twentieth century, the [Alexandre Line](/alexandre-line/) had been sold, and the family capital began to dissipate through division among heirs and the maintenance of lavish estates such as Shore Acres (Staten Island), Nirvana (Stamford), and Spring Lawn ([Lenox](/lenox/)) (see Houses and Estates Appendix). The family trajectory followed a classic pattern: the first generation built the fortune, the second and third consolidated social status through leisure and alliances.
 
 0
 

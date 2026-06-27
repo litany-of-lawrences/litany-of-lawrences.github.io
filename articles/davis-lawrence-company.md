@@ -20,7 +20,7 @@ Davis and his son Edmund (Perry Davis & Son) built the business in Providence, R
 
 **T****ransition to Davis & Lawrence Company**
 
-By the later 19th century, the business expanded into Canada. William Van Duzer Lawrence (1842–1927), a New York-born entrepreneur, became involved after moving to Montreal. He joined the wholesale drug operations tied to Perry Davis' product, initially through Perry Davis & Son's Canadian interests.
+By the later 19th century, the business expanded into Canada. [William Van Duzer Lawrence (1842–1927)](/lawrence-william-van-duzer-1842-1927/), a New York-born entrepreneur, became involved after moving to Montreal. He joined the wholesale drug operations tied to Perry Davis' product, initially through Perry Davis & Son's Canadian interests.
 
 Around the 1880s, it was reorganized  as the Davis & Lawrence Company, with operations based in Montreal, Canada. Lawrence rose quickly, becoming a partner and managing the Canadian side. The firm continued producing and marketing the Pain Killer (labeled under Davis & Lawrence Co. in many surviving bottles and artifacts), along with other remedies. It was a key player in the North American patent medicine trade, publishing almanacs and distributing widely.
 

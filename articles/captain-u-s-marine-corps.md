@@ -16,7 +16,7 @@ His first taste of active service came during the border tensions with Mexico. H
 
 **World War I and Marine Corps Service**
 
-When the United States entered World War I, Bogert enlisted in the United States Marine Corps on May 23, 1917. He was commissioned as a Second Lieutenant on July 6, 1917, and assigned to the 10th Regiment Field Artillery. He rose quickly through the ranks, receiving promotions to First Lieutenant in August 1917 and Captain on October 15, 1917.
+When the United States entered World War I, Bogert enlisted in the United States Marine Corps on May 23, 1917. He was commissioned as a Second Lieutenant on July 6, 1917, and assigned to the 10th Regiment Field Artillery. He rose quickly through the ranks, receiving promotions to First Lieutenant in August 1917 and [Captain](/captain/) on October 15, 1917.
 
 He deployed to France aboard the USS Henderson in August 1918. In France, he saw combat with Company B, 5th Regiment USMC (part of the famous 2nd Division, AEF). During the Meuse-Argonne Offensive—the largest operation of the American Expeditionary Forces—he was wounded by machine gun fire on November 1, 1918, just days before the Armistice.
 

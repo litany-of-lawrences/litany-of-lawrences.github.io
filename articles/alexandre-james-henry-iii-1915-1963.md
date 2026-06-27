@@ -2,7 +2,7 @@
 
 ![alexandre-james-henry-iii-1915-1963](/images/alexandre-james-henry-iii-1915-1963-1.png)
 
-**Parents:** [James Henry Alexandre](/alexandre-james-henry-1848-1912/) Jr. (1883–1956) and Anne Loomis (1890–1948).
+**Parents:** [James Henry Alexandre](/alexandre-james-henry-1848-1912/) Jr. (1883–1956) and [Anne Loomis (1890–1948)](/loomis-anne-1890-1948/).
 
 **Spouse:** (1) Catherine Holbrook Clark (1920–1982); (2) Florence Gilbert Tucker (1920–1998), formerly Mrs. Leslie Carlisle.
 
@@ -12,7 +12,7 @@ Children: With Catherine Holbrook Clark: [James Henry Alexandre](/alexandre-jame
 
 **Early Life and Education**
 
-[James Henry Alexandre](/alexandre-james-henry-1848-1912/) III was born in 1915, the eldest son of [James Henry Alexandre](/alexandre-james-henry-1848-1912/) Jr. and Anne Loomis. He was educated at the Pomfret School, Le Rosey in Switzerland, and Harvard University, where he continued to Harvard Law School. While at Harvard he was a member of the Hasty Pudding Institute of 1770 and the Iroquois Club.
+[James Henry Alexandre](/alexandre-james-henry-1848-1912/) III was born in 1915, the eldest son of [James Henry Alexandre](/alexandre-james-henry-1848-1912/) Jr. and [Anne Loomis](/loomis-anne-1890-1948/). He was educated at the Pomfret School, Le Rosey in Switzerland, and Harvard University, where he continued to Harvard Law School. While at Harvard he was a member of the Hasty Pudding Institute of 1770 and the Iroquois Club.
 
 **Career**
 

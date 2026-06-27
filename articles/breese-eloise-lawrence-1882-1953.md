@@ -4,14 +4,14 @@ COUNTESS OF ANCASTER
 
 ![breese-eloise-lawrence-1882-1953](/images/breese-eloise-lawrence-1882-1953-1.jpeg)
 
-**Parents:** William Lawrence Breese (1854–1888) and Mary Louise Parsons (1857–1948).
+**Parents:** [William Lawrence](/lawrence-william-1776-1848/) Breese (1854–1888) and Mary Louise Parsons (1857–1948).
 **Spouse:** Gilbert Heathcote-Drummond-Willoughby (1867–1951), later 2nd Earl of Ancaster, married December 6, 1905.
 **Children:** Lady Catherine Mary Clementina Heathcote-Drummond-Willoughby (1906–1996), James Heathcote-Drummond-Willoughby, 3rd Earl of Ancaster (1907–1983), Lady Priscilla Heathcote-Drummond-Willoughby (1909–2002), Hon. John Heathcote-Drummond-Willoughby (1914–1970).
 **Kinship:** Sixth cousin three times removed of the post–World War II Smith generation.
 
 **Early Life**
 
-Eloise Lawrence Breese was born into a prominent American family with deep colonial roots. Her father, William Lawrence Breese, died when she was a child, and in 1893 her widowed mother married Henry Vincent Higgins (1856–1928), a solicitor and manager of Covent Garden. After this marriage, the family relocated to London, where Eloise studied singing under Signor Allenesi.
+Eloise Lawrence Breese was born into a prominent American family with deep colonial roots. Her father, [William Lawrence](/lawrence-william-1776-1848/) Breese, died when she was a child, and in 1893 her widowed mother married Henry Vincent Higgins (1856–1928), a solicitor and manager of Covent Garden. After this marriage, the family relocated to London, where Eloise studied singing under Signor Allenesi.
 
 **Marriage to Lord Willoughby de Eresby**
 
@@ -43,7 +43,7 @@ Lord Willoughby de Eresby—later the 2nd Earl of Ancaster—had served as a Con
 
 Eloise and her husband had four children: two sons and two daughters. Her eldest son, James, succeeded as the 3rd and last Earl of Ancaster. Her younger son, John, died unmarried in 1970.
 
-The Countess suffered a personal tragedy during World War I when her brother, William Lawrence Breese, who had become a naturalized British subject and joined the British Army, was killed in action in France in 1915.
+The Countess suffered a personal tragedy during World War I when her brother, [William Lawrence](/lawrence-william-1776-1848/) Breese, who had become a naturalized British subject and joined the British Army, was killed in action in France in 1915.
 
 Eloise and her husband had one surviving son, James Heathcote Drummond Willoughby (1907–1983), who succeeded as the 3rd and last Earl of Ancaster. His own son and heir, Timothy Gilbert Willoughby, was lost at sea in 1963, and the earldom became extinct upon James’s death.
 

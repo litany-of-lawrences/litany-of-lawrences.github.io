@@ -3,12 +3,12 @@
 **Congressman**
 
 **Parents:** Derick Gardenier (1750– ) and Elizabeth Van Alen (1758–1854).
-**Married:** Sarah (Sally) Lawrence (1775–1854), daughter of David Lawrence (1737–1809) and Sybil Sterry (1742–1831).
+**Married:** Sarah (Sally) Lawrence (1775–1854), daughter of [David Lawrence (1737–1809)](/lawrence-david-1737-1809/) and Sybil Sterry (1742–1831).
 **Children:** [Lawrence Gardenier (1795–1891)](/gardenier-lawrence-1795-1891/), Anna Eliza Gardenier (1797– ), Laura Gardenier (1799– ), and John Randolph Gardenier (1801– ).
 **Kinship:** Husband of the granddaughter of the great-granduncle of the post–World War II Smith generation.
 
 **Early Life and Education**
-Barent Gardenier was born in Kinderhook, New York, in 1776, the son of Derick Gardenier and Elizabeth Van Alen. He studied law at the Litchfield Law School in Connecticut, the foremost legal academy in the early United States, and was admitted to the bar. In November 1801 he married Sarah Lawrence, daughter of David Lawrence (1737–1809) and Sybil Sterry (1742–1831), thus linking the Gardenier and Lawrence families, both prominent in Hudson Valley and New York political circles.
+Barent Gardenier was born in Kinderhook, New York, in 1776, the son of Derick Gardenier and Elizabeth Van Alen. He studied law at the Litchfield Law School in Connecticut, the foremost legal academy in the early United States, and was admitted to the bar. In November 1801 he married Sarah Lawrence, daughter of [David Lawrence (1737–1809)](/lawrence-david-1737-1809/) and Sybil Sterry (1742–1831), thus linking the Gardenier and Lawrence families, both prominent in Hudson Valley and New York political circles.
 
 **Legal and Journalistic Career**
 Gardenier began practicing law in Kingston, Ulster County, where he became known for his eloquence and sharp debating style. He also served as editor and publisher of the New York Courier, a Federalist newspaper that strongly opposed the Jefferson administration.

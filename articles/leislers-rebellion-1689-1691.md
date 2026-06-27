@@ -1,0 +1,35 @@
+# Leisler’s Rebellion (1689–1691)
+
+**Background and Origins**
+Leisler’s Rebellion was a political and social upheaval in the Province of New York that unfolded between 1689 and 1691, during the broader imperial crisis triggered by the Glorious Revolution in England. In November–December 1688, King James II was deposed and fled to France, replaced by his Protestant daughter Mary and her husband, William of Orange, who ascended as William III and Mary II. While the transition of power in England was comparatively orderly, the political shock waves were felt across the Atlantic. In North America, colonial populations, long resentful of James II’s consolidation of control, seized the opportunity to challenge or overthrow his appointed officials.
+
+**Collapse of Dominion Government in America**
+Under James II, New York had been incorporated into the Dominion of New England, a centralized administrative structure that abolished local assemblies and placed several colonies under the authority of Governor Edmund Andros. When news of the revolution reached Massachusetts, the people of Boston arrested Andros on April 18, 1689. In New York, his lieutenant governor, Francis Nicholson, faced mounting opposition and fled to England in June. With the dominion apparatus disintegrating, there was no settled constitutional basis for a government in New York, unlike in New England colonies that could revert to earlier charters. This vacuum contributed to deep divisions over who held legitimate authority in the province.
+
+“The government here being dissolved, we know not by what authority any man shall command us.”   (New York resident, 1689)
+
+**Rise of Jacob Leisler and the Provisional Government**
+In June 1689 a Committee of Safety—formed by New Yorkers seeking to preserve order—appointed Jacob Leisler, a prominent merchant of German (Huguenot-Walloon) background, to command Fort James on Manhattan. By August he acted as the colony’s chief executive. Leisler governed in the name of William and Mary and considered himself a defender of Protestant liberties. Although he had not initially sought power, the political conflict soon became identified with him personally, and supporters and opponents were labeled Leislerians and Anti-Leislerians.
+
+**Factional Divisions and Escalation of Conflict**
+New York’s population at the time was ethnically and religiously diverse, including English, Dutch, Huguenot, Walloon, and German settlers. Divisions over Leisler’s regime reflected longstanding tensions. Leislerians tended to come from Dutch and Huguenot backgrounds, supported more rigorous Calvinist Protestantism, and included many artisans, small merchants, and farmers. Anti-Leislerians included some of the colony’s leading English families and officeholders, often associated with the former royal administration or with established commercial and landholding interests. The political divide penetrated deeply into counties, towns, congregations, and families.
+
+“Those who favor Leisler cry that the Popish party would betray us to France.”
+
+(Letter from New York to Boston, 1690)
+
+Leisler’s suspicion of Catholic influence led him to govern assertively. He referred to opponents as enemies of the Protestant succession and imprisoned several critics. Albany initially resisted his authority, especially with French Canada threatening the northern frontier. Following a devastating French and Indigenous raid on Schenectady in February 1690, Albany finally acknowledged Leisler’s authority under pressure, and an assembly was called to raise funds for a Canada expedition, which ultimately failed.
+
+**Overthrow and Execution**
+By late 1690, Leisler’s support had eroded. Meanwhile, the English government resolved New York’s political uncertainty. In early 1691, Colonel Henry Sloughter arrived as the new royal governor. Sloughter and his officers sided with the Anti-Leislerians. Leisler initially refused to surrender the fort, believing he was upholding William III’s authority. When he yielded, he and his principal associate, Jacob Milborne, were arrested and charged with treason. After a controversial trial, both were executed on May 16, 1691. Their deaths generated lasting bitterness among supporters, who regarded them as martyrs to the Protestant cause.
+
+“We die for the cause of our King and the Protestant religion.”  (Jacob Leisler on the scaffold, 1691)
+
+**Aftermath and Legacy**
+Leisler’s Rebellion did not lead to civil war, but it inaugurated decades of factional politics in New York. The labels Leislerian and Anti-Leislerian persisted into the early eighteenth century, shaping elections, appointments, and alliances. Later historians have interpreted the conflict through various lenses, including ethnicity, religion, class, and family networks. Most agree that no single cause explains the rebellion; rather, New York’s unique social composition, lack of a charter-based political tradition, and the Dominion’s collapse created a volatile environment in which personal rivalries and family connections played decisive roles.
+
+**Key Terms**
+• Dominion of New England (1686–1689): A royal consolidation of several colonies under one appointed governor, Edmund Andros, abolishing local assemblies.
+• Committee of Safety: A provisional body formed by New Yorkers in 1689 to maintain order after the collapse of dominion government.
+• Williamites and Jacobites: Williamites supported William III and Mary II; Jacobites supported James II. In New York, these terms aligned loosely with Leislerian and Anti-Leislerian factions.
+• Fort James: The principal fortification in Manhattan, later renamed Fort William Henry, Fort Anne, and Fort George at different times.

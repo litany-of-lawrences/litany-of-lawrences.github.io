@@ -2,7 +2,7 @@
 
 ![alexandre-lawrence-jerome-jerry-1923-2001](/images/alexandre-lawrence-jerome-jerry-1923-2001-1.png)
 
-**Parents:** [James Henry Alexandre](/alexandre-james-henry-1848-1912/) III (1915–1963) and Anne Loomis (1890–1948).
+**Parents:** [James Henry Alexandre](/alexandre-james-henry-1848-1912/) III (1915–1963) and [Anne Loomis (1890–1948)](/loomis-anne-1890-1948/).
 
 **Spouse:** (1) Rhea Munroe Elliman (1934–1993),  (2) Katharine Ward  Dickinson Saunders (1929-1984); (3) Margot Edwards (1935–1996).
 
@@ -12,7 +12,7 @@
 
 **Early Life and Education**
 
-Lawrence Jerome “Jerry” Alexandre was born in Glen Cove, Long Island, in 1923, the youngest of the three sons of [James Henry Alexandre](/alexandre-james-henry-1848-1912/) III and Anne Loomis. He attended the Pomfret School, graduating in 1941, and then entered Harvard University. His studies were interrupted by the Second World War.
+Lawrence Jerome “Jerry” Alexandre was born in Glen Cove, Long Island, in 1923, the youngest of the three sons of [James Henry Alexandre](/alexandre-james-henry-1848-1912/) III and [Anne Loomis](/loomis-anne-1890-1948/). He attended the Pomfret School, graduating in 1941, and then entered Harvard University. His studies were interrupted by the Second World War.
 
 **Military Service**
 

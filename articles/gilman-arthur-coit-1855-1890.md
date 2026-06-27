@@ -2,7 +2,7 @@
 
 **Parents:** Rev. Edward Whiting Gilman (1823–1900) and Julia Silliman (1826–1892).
 **Married:** Bessie Amelia Lawrence (1858-1937).
-**Children:** Arthur Lawrence Gilman (1878–1939), Edward Coit Gilman (1879–1909), and Joseph Lawrence Gilman (1881–1882).
+**Children:** Arthur Lawrence Gilman (1878–1939), Edward Coit Gilman (1879–1909), and [Joseph Lawrence](/lawrence-joseph-1783-1817/) Gilman (1881–1882).
 **Kinship:** Husband of the first cousin four times removed of the post–World War II Smith generation.
 
 **Early Life and Marriage**

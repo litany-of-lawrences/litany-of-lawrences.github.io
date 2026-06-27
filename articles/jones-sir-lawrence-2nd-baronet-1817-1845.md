@@ -6,7 +6,7 @@
 **Kinship:** Second cousin five times removed of the post–World War II Smith generation.
 
 **Early Life**
-Lawrence Jones was the eldest son of Sir John Thomas Jones, K.C.B., 1st Baronet of [Cranmer Hall](/cranmer-hall/), Norfolk, and Catherine Maria Lawrence, daughter of Effingham Lawrence of Bayside, Long Island, who had returned to England.
+Lawrence Jones was the eldest son of Sir John Thomas Jones, K.C.B., 1st Baronet of [Cranmer Hall](/cranmer-hall/), Norfolk, and Catherine Maria Lawrence, daughter of [Effingham Lawrence](/lawrence-effingham-1760-1800/) of Bayside, Long Island, who had returned to England.
 
 **Career and Travels**
 Educated in England, Sir Lawrence inherited the baronetcy on his father’s death in 1843. He traveled extensively through Europe and the Levant.
@@ -14,7 +14,7 @@ Educated in England, Sir Lawrence inherited the baronetcy on his father’s deat
 **Death and Newspaper Account**
 He was murdered by brigands near Dalaman, in southwestern Turkey, on 7 November 1845. The following report appeared in The Observer on 12 January 1846:
 
-“A correspondent of the morning papers, writing from Constantinople, says:—‘I send you the following deposition of Captain Twopenny relative to the attack made upon him and Sir Lawrence Jones, and the assassination of Sir Lawrence, by the Zeybecks, who are mountaineers, constantly on the watch to plunder travelers, near Macri........It is as follows:—On the 7th November, towards noon, we were near Dallamany, at about eight leagues distant from Macri; we were crossing a little valley, planted with a low shrubbery, from whence the sea might be seen. Our little caravan consisted of Sir L. Jones and myself, a dragoman [guide and interpreter], a sulyee (a groom), an imaum of Zanthus, and two Greeks of Macri.
+“A correspondent of the morning papers, writing from Constantinople, says:—‘I send you the following deposition of [Captain](/captain/) Twopenny relative to the attack made upon him and Sir Lawrence Jones, and the assassination of Sir Lawrence, by the Zeybecks, who are mountaineers, constantly on the watch to plunder travelers, near Macri........It is as follows:—On the 7th November, towards noon, we were near Dallamany, at about eight leagues distant from Macri; we were crossing a little valley, planted with a low shrubbery, from whence the sea might be seen. Our little caravan consisted of Sir L. Jones and myself, a dragoman [guide and interpreter], a sulyee (a groom), an imaum of Zanthus, and two Greeks of Macri.
 
 Suddenly the imaum stopped, loaded his carbine, and it seemed that he had perceived two Zeybecks, who were hiding in the bushes. We continued to move on with caution, till we had arrived at a fountain, shaded by some oak trees. Sir Lawrence then said, “I think it is better to halt and breakfast. If these fellows intend to attack us, we can't escape them, and it is better to fight with a full stomach than with an empty one.” I made no objection.
 

@@ -20,7 +20,7 @@ At fourteen she returned to Santa Barbara to live with her father, who had remar
 
 **Courtship and Marriage**
 
-Susy maintained her ties to Snedens Landing and Martha’s Vineyard. At sixteen, while spending the summer at Tashmoo, she met Eliot “Bud” Macy, whose family had a summer camp across the lake. The two fell in love and were married on July 4, 1942, in a memorable outdoor ceremony beside the Hudson River in Snedens Landing. The bride and bridesmaids arrived by catboat, and the ceremony was performed by Bud’s father, a Congregational minister, on July 4, 1942, in a riverbank ceremony under Mary Lawrence Tonetti’s stone pergola.
+Susy maintained her ties to Snedens Landing and Martha’s Vineyard. At sixteen, while spending the summer at Tashmoo, she met Eliot “Bud” Macy, whose family had a summer camp across the lake. The two fell in love and were married on July 4, 1942, in a memorable outdoor ceremony beside the Hudson River in Snedens Landing. The bride and bridesmaids arrived by catboat, and the ceremony was performed by Bud’s father, a Congregational minister, on July 4, 1942, in a riverbank ceremony under [Mary Lawrence](/lawrence-mary-1640-1704/) Tonetti’s stone pergola.
 
 **Life During and After World War II**
 

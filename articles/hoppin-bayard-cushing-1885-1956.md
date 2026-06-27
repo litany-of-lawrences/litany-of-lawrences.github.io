@@ -3,7 +3,7 @@
 **Parents:** William Warner Hoppin (1839–1880) and Catherine Beekman (1841–1923).
 **Spouses:** (1) [Helen Lispenard Alexandre (1889–1953)](/alexandre-helen-lispenard-1889-1953/); (2) Laurette Kennedy Brundage (1900–1963).
 
-**Children:** None recorded.
+**Children:** None recorded
 **Kinship:** Husband of [Helen Lispenard Alexandre](/alexandre-helen-lispenard-1889-1953/), the first cousin twice removed of the post–World War II Smith generation.
 
 **Family Background and Education**
@@ -14,13 +14,13 @@ Educated at Groton School under the Reverend Endicott Peabody, Hoppin went on to
 
 **Military and Professional Life**
 
-Hoppin served as a Captain in the U.S. Army during World War I. After the war, he entered finance, founding the brokerage firm Abbott, Hoppin & Co. in New York. Like many Gilded Age heirs, he saw his fortune fluctuate dramatically: the firm collapsed during the 1929 stock market crash, but he reestablished himself three years later with Hoppin Brothers, a smaller but respected Wall Street house.
+Hoppin served as a [Captain](/captain/) in the U.S. Army during World War I. After the war, he entered finance, founding the brokerage firm Abbott, Hoppin & Co. in New York. Like many Gilded Age heirs, he saw his fortune fluctuate dramatically: the firm collapsed during the 1929 stock market crash, but he reestablished himself three years later with Hoppin Brothers, a smaller but respected Wall Street house.
 
 Bayard was active in philanthropy and civic life, serving as President of the Southside Hospital and as a board member of the Seamen’s Church Institute, one of the leading maritime charities in New York.
 
 **Marriage and Personal Life**
 
-In 1910, Bayard married [Helen Lispenard Alexandre](/alexandre-helen-lispenard-1889-1953/), daughter of John E. Alexandre and Helen Lispenard Webb. Their wedding, originally planned as a grand society event in Lenox, was hastily simplified when Helen’s father died days before the ceremony. The couple wed quietly in the family’s Manhattan residence.
+In 1910, Bayard married [Helen Lispenard Alexandre](/alexandre-helen-lispenard-1889-1953/), daughter of John E. Alexandre and Helen Lispenard Webb. Their wedding, originally planned as a grand society event in [Lenox](/lenox/), was hastily simplified when Helen’s father died days before the ceremony. The couple wed quietly in the family’s Manhattan residence.
 
 Helen inherited nearly $500,000 in 1930 (roughly $9 million today). Their marriage was childless. Bayard wished to adopt a child, but Helen declined, and after years of separation, they divorced.
 

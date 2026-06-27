@@ -6,7 +6,7 @@
 **Kinship:** Third cousin five times removed of the post–World War II Smith generation.
 
 **Early Life and Education**
-Lawrence Gardenier was born in 1795, the eldest child of Congressman [Barent Gardenier](/gardenier-barent-1776-1822/) and Sarah Lawrence, daughter of David Lawrence of Flushing. He was educated in New York and attended Columbia University, where he studied law. His family’s social position and his father’s prominence in politics and journalism gave him entry into the intellectual circles of early nineteenth-century New York.
+Lawrence Gardenier was born in 1795, the eldest child of Congressman [Barent Gardenier](/gardenier-barent-1776-1822/) and Sarah Lawrence, daughter of [David Lawrence](/lawrence-david-1737-1809/) of Flushing. He was educated in New York and attended Columbia University, where he studied law. His family’s social position and his father’s prominence in politics and journalism gave him entry into the intellectual circles of early nineteenth-century New York.
 
 **Legal Career and Association with Aaron Burr**
 After completing his studies, Gardenier entered the legal profession. By 1825 he had formed a law partnership with Aaron Burr, the former Vice President of the United States. Newspaper accounts of the period noted his brilliance, wit, and polished manners, describing him as one of the most dashing young men in New York society.

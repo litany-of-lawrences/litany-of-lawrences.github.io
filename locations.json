@@ -377,5 +377,431 @@
         "slug": "the-gables-the-also-gusty-gables"
       }
     ]
+  },
+  {
+    "address": "25 Nassau Street",
+    "lat": 40.6408744,
+    "lng": -74.0906382,
+    "articles": [
+      {
+        "title": "Lawrence, Abraham Riker (1832–1917)",
+        "slug": "lawrence-abraham-riker-1832-1917"
+      }
+    ]
+  },
+  {
+    "address": "69 Washington Place",
+    "lat": 40.7300519,
+    "lng": -73.9956606,
+    "articles": [
+      {
+        "title": "Lawrence, Abraham Riker (1832–1917)",
+        "slug": "lawrence-abraham-riker-1832-1917"
+      }
+    ]
+  },
+  {
+    "address": "282 Marlborough Street",
+    "lat": 40.643113,
+    "lng": -73.9648972,
+    "articles": [
+      {
+        "title": "Lawrence, Anna Louise (1834–1908)",
+        "slug": "lawrence-anna-louise-1834-1908"
+      }
+    ]
+  },
+  {
+    "address": "36 West Twentieth Street, Manhattan",
+    "lat": 40.7403613,
+    "lng": -73.9931055,
+    "articles": [
+      {
+        "title": "Lawrence, Annette “Anita” Townsend (1867–1922)",
+        "slug": "lawrence-annette-anita-townsend-1867-1922"
+      }
+    ]
+  },
+  {
+    "address": "3 Craven Street, Strand",
+    "lat": null,
+    "lng": null,
+    "articles": [
+      {
+        "title": "Lawrence, Edward Arthur (1831–1883)",
+        "slug": "lawrence-edward-arthur-1831-1883"
+      }
+    ]
+  },
+  {
+    "address": "3 Craven Street",
+    "lat": 40.8102885,
+    "lng": -73.8921505,
+    "articles": [
+      {
+        "title": "Lawrence, Edward Arthur (1831–1883)",
+        "slug": "lawrence-edward-arthur-1831-1883"
+      }
+    ]
+  },
+  {
+    "address": "99 Pearl Street",
+    "lat": 40.70452,
+    "lng": -74.009654,
+    "articles": [
+      {
+        "title": "Lawrence, Effingham (1760–1800)",
+        "slug": "lawrence-effingham-1760-1800"
+      }
+    ]
+  },
+  {
+    "address": "227 Queen Street",
+    "lat": 40.6028502,
+    "lng": -74.1289788,
+    "articles": [
+      {
+        "title": "Lawrence, Effingham (1760–1800)",
+        "slug": "lawrence-effingham-1760-1800"
+      }
+    ]
+  },
+  {
+    "address": "40 Wall Street",
+    "lat": 40.7070219,
+    "lng": -74.0096669,
+    "articles": [
+      {
+        "title": "Lawrence, Effingham, Jr. (1878–1956)",
+        "slug": "lawrence-effingham-jr-1878-1956"
+      }
+    ]
+  },
+  {
+    "address": "440 East 48th Street",
+    "lat": 40.651022,
+    "lng": -73.9324107,
+    "articles": [
+      {
+        "title": "Lawrence, Effingham, Jr. (1878–1956)",
+        "slug": "lawrence-effingham-jr-1878-1956"
+      }
+    ]
+  },
+  {
+    "address": "375 Park Avenue",
+    "lat": 40.7584073,
+    "lng": -73.9719841,
+    "articles": [
+      {
+        "title": "Lawrence, Effingham, Jr. (1878–1956)",
+        "slug": "lawrence-effingham-jr-1878-1956"
+      }
+    ]
+  },
+  {
+    "address": "45 East Twenty-first Street",
+    "lat": 40.6535185,
+    "lng": -73.960496,
+    "articles": [
+      {
+        "title": "Lawrence, Emlen Newbold (1837–1925)",
+        "slug": "lawrence-emlen-newbold-1837-1925"
+      }
+    ]
+  },
+  {
+    "address": "18 West 53rd Street",
+    "lat": 40.7608384,
+    "lng": -73.9771415,
+    "articles": [
+      {
+        "title": "Lawrence, Frederick Newbold (1834–1916)",
+        "slug": "lawrence-frederick-newbold-1834-1916"
+      }
+    ]
+  },
+  {
+    "address": "314 Broadway",
+    "lat": 40.7163965,
+    "lng": -74.0043037,
+    "articles": [
+      {
+        "title": "Lawrence, Henry Effingham (1829–1890)",
+        "slug": "lawrence-henry-effingham-1829-1890"
+      }
+    ]
+  },
+  {
+    "address": "57 East 25th Street",
+    "lat": 40.7407892,
+    "lng": -73.9835868,
+    "articles": [
+      {
+        "title": "Lawrence, Henry Effingham (1829–1890)",
+        "slug": "lawrence-henry-effingham-1829-1890"
+      }
+    ]
+  },
+  {
+    "address": "295 Breezy Way, Lawrence",
+    "lat": null,
+    "lng": null,
+    "articles": [
+      {
+        "title": "Lawrence House at 295 Breezy Way, Lawrence, Long Island.",
+        "slug": "lawrence-house-at-295-breezy-way-lawrence-long-island"
+      }
+    ]
+  },
+  {
+    "address": "295 Breezy Way, Back Lawrence",
+    "lat": null,
+    "lng": null,
+    "articles": [
+      {
+        "title": "Lawrence House at 295 Breezy Way, Lawrence, Long Island.",
+        "slug": "lawrence-house-at-295-breezy-way-lawrence-long-island"
+      }
+    ]
+  },
+  {
+    "address": "295 Breezy Way",
+    "lat": null,
+    "lng": null,
+    "articles": [
+      {
+        "title": "Lawrence House at 295 Breezy Way, Lawrence, Long Island.",
+        "slug": "lawrence-house-at-295-breezy-way-lawrence-long-island"
+      }
+    ]
+  },
+  {
+    "address": "285 Breezy Way",
+    "lat": null,
+    "lng": null,
+    "articles": [
+      {
+        "title": "Lawrence House at 295 Breezy Way, Lawrence, Long Island.",
+        "slug": "lawrence-house-at-295-breezy-way-lawrence-long-island"
+      }
+    ]
+  },
+  {
+    "address": "45 East 29th Street",
+    "lat": 40.6475341,
+    "lng": -73.950089,
+    "articles": [
+      {
+        "title": "Lawrence House at 45 East 29th Street",
+        "slug": "lawrence-house-at-45-east-29th-street"
+      },
+      {
+        "title": "Lawrence, Newbold (1809–1885)",
+        "slug": "lawrence-newbold-1809-1885"
+      }
+    ]
+  },
+  {
+    "address": "45 East 59th Street",
+    "lat": 40.6532239,
+    "lng": -73.921626,
+    "articles": [
+      {
+        "title": "Lawrence House at 45 East 59th Street",
+        "slug": "lawrence-house-at-45-east-59th-street"
+      }
+    ]
+  },
+  {
+    "address": "50 Broadway",
+    "lat": 40.7062329,
+    "lng": -74.0124325,
+    "articles": [
+      {
+        "title": "Lawrence House at 45 East 59th Street",
+        "slug": "lawrence-house-at-45-east-59th-street"
+      }
+    ]
+  },
+  {
+    "address": "969 Fifth Avenue",
+    "lat": 40.7760887,
+    "lng": -73.9640088,
+    "articles": [
+      {
+        "title": "Lawrence House at 969 Fifth Avenue",
+        "slug": "lawrence-house-at-969-fifth-avenue"
+      },
+      {
+        "title": "Lawrence, William Van Duzer (1842–1927)",
+        "slug": "lawrence-william-van-duzer-1842-1927"
+      }
+    ]
+  },
+  {
+    "address": "162 Queen Street",
+    "lat": 40.6028121,
+    "lng": -74.1267254,
+    "articles": [
+      {
+        "title": "Lawrence, Isaac (1768–1841)",
+        "slug": "lawrence-isaac-1768-1841"
+      }
+    ]
+  },
+  {
+    "address": "154 Water Street",
+    "lat": 40.6271289,
+    "lng": -74.0772118,
+    "articles": [
+      {
+        "title": "Lawrence, Isaac (1768–1841)",
+        "slug": "lawrence-isaac-1768-1841"
+      }
+    ]
+  },
+  {
+    "address": "208 Pearl Street",
+    "lat": 40.7068944,
+    "lng": -74.0067163,
+    "articles": [
+      {
+        "title": "Lawrence, Isaac (1768–1841)",
+        "slug": "lawrence-isaac-1768-1841"
+      }
+    ]
+  },
+  {
+    "address": "65 Broadway",
+    "lat": 40.7073084,
+    "lng": -74.0126174,
+    "articles": [
+      {
+        "title": "Lawrence, Isaac (1768–1841)",
+        "slug": "lawrence-isaac-1768-1841"
+      }
+    ]
+  },
+  {
+    "address": "480 Broadway",
+    "lat": 40.7214412,
+    "lng": -73.9999538,
+    "articles": [
+      {
+        "title": "Lawrence, Isaac (1768–1841)",
+        "slug": "lawrence-isaac-1768-1841"
+      }
+    ]
+  },
+  {
+    "address": "498 Broadway",
+    "lat": 40.7055054,
+    "lng": -73.9508318,
+    "articles": [
+      {
+        "title": "Lawrence, Isaac (1768–1841)",
+        "slug": "lawrence-isaac-1768-1841"
+      }
+    ]
+  },
+  {
+    "address": "15 East 80th Street",
+    "lat": 40.7774256,
+    "lng": -73.9621974,
+    "articles": [
+      {
+        "title": "Lawrence, Isaac (1828–1919)",
+        "slug": "lawrence-isaac-1828-1919"
+      }
+    ]
+  },
+  {
+    "address": "62 East 54th Street",
+    "lat": 40.6576783,
+    "lng": -73.9273646,
+    "articles": [
+      {
+        "title": "Lawrence, John Burling (1844–1929)",
+        "slug": "lawrence-john-burling-1844-1929"
+      }
+    ]
+  },
+  {
+    "address": "36 East 19th Street, New York City",
+    "lat": 40.7381308,
+    "lng": -73.9893286,
+    "articles": [
+      {
+        "title": "Lawrence, John Smith (1818–1880)",
+        "slug": "lawrence-john-smith-1818-1880"
+      }
+    ]
+  },
+  {
+    "address": "150 Broadway",
+    "lat": 40.7092067,
+    "lng": -74.0100477,
+    "articles": [
+      {
+        "title": "Lawrence, John Smith (1818–1880)",
+        "slug": "lawrence-john-smith-1818-1880"
+      }
+    ]
+  },
+  {
+    "address": "19 East 22nd Street",
+    "lat": 40.7404295,
+    "lng": -73.9887798,
+    "articles": [
+      {
+        "title": "Lawrence, Mary (1860–1942)",
+        "slug": "lawrence-mary-1860-1942"
+      }
+    ]
+  },
+  {
+    "address": "135 East 40th Street",
+    "lat": 40.6523887,
+    "lng": -73.9399163,
+    "articles": [
+      {
+        "title": "Lawrence, Mary Trimble (1869–1945)",
+        "slug": "lawrence-mary-trimble-1869-1945"
+      }
+    ]
+  },
+  {
+    "address": "328 East 51st St",
+    "lat": 40.7549039,
+    "lng": -73.9670437,
+    "articles": [
+      {
+        "title": "Lawrence, Mary Trimble (1869–1945)",
+        "slug": "lawrence-mary-trimble-1869-1945"
+      }
+    ]
+  },
+  {
+    "address": "58 Yokun Avenue",
+    "lat": null,
+    "lng": null,
+    "articles": [
+      {
+        "title": "The Gables, The, also Gusty Gables",
+        "slug": "the-gables-the-also-gusty-gables"
+      }
+    ]
+  },
+  {
+    "address": "9 Cliffwood Street",
+    "lat": null,
+    "lng": null,
+    "articles": [
+      {
+        "title": "The Gables, The, also Gusty Gables",
+        "slug": "the-gables-the-also-gusty-gables"
+      }
+    ]
   }
 ]

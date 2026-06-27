@@ -4,7 +4,7 @@ Lady Alastair Innes-Ker
 
 ![breese-anne-parsons-1889-1959](/images/breese-anne-parsons-1889-1959-1.jpeg)
 
-**Parents:** William Lawrence Breese (1853–1888) and Mary Louise Parsons (1857–1948).
+**Parents:** [William Lawrence](/lawrence-william-1776-1848/) Breese (1853–1888) and Mary Louise Parsons (1857–1948).
 **Spouse:** Alastair Robert Innes-Ker (1880–1936).
 **Children:** Alastair James Innes-Ker (1908–1944), David Charles Innes-Ker (1910–1957), and Eloise Jena Innes-Ker (1915–1996).
 **Kinship:** Sixth cousin three times removed of the post–World War II Smith generation.
@@ -13,7 +13,7 @@ Lady Alastair Innes-Ker
 
 ![breese-anne-parsons-1889-1959](/images/breese-anne-parsons-1889-1959-2.png)
 
-Anne Breese was born in 1889, the daughter of William Lawrence Breese and Mary Louise Parsons. After the death of her father, her mother married Henry Vincent Higgins, impresario of Covent Garden, and the family settled in England.
+Anne Breese was born in 1889, the daughter of [William Lawrence](/lawrence-william-1776-1848/) Breese and Mary Louise Parsons. After the death of her father, her mother married Henry Vincent Higgins, impresario of Covent Garden, and the family settled in England.
 
 Like her sister Eloise, Anne entered the British aristocracy through marriage. On October 10, 1907, she wed Alastair Robert Innes-Ker (left), the younger brother of the then-childless 8th Duke of Roxburghe.
 

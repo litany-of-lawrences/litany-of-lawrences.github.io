@@ -18,7 +18,7 @@ The house occupied a slightly elevated site overlooking the Hudson River and was
 
 **History**
 
-Forest Hill was the summer residence of John Burling Lawrence, situated on a wooded rise overlooking the Hudson River in what was then the rural northern portion of Manhattan. During the period of Lawrence family ownership the surrounding land remained largely undeveloped. A nearly continuous forest stretched from the property northward toward the tip of Manhattan Island, giving the estate its name and preserving a distinctly rural atmosphere despite its relative proximity to the expanding city.
+Forest Hill was the summer residence of [John Burling Lawrence](/lawrence-john-burling-1844-1929/), situated on a wooded rise overlooking the Hudson River in what was then the rural northern portion of Manhattan. During the period of Lawrence family ownership the surrounding land remained largely undeveloped. A nearly continuous forest stretched from the property northward toward the tip of Manhattan Island, giving the estate its name and preserving a distinctly rural atmosphere despite its relative proximity to the expanding city.
 
 Forest Hill served as a seasonal retreat for the Lawrence family during the first half of the nineteenth century, when upper Manhattan was still sparsely settled and characterized by country estates and farmland. The Hudson River corridor attracted merchants, professionals, and intellectuals who sought country houses within convenient distance of New York City.
 
@@ -26,7 +26,7 @@ During the period of Lawrence residence, the naturalist and artist John James Au
 
 **Natural History and Associations**
 
-George Newbold Lawrence, the distinguished American ornithologist and son of John Burling Lawrence, spent many summers at Forest Hill. The property lay directly beneath one of the major migratory bird routes along the Hudson River. From this advantageous vantage point Lawrence conducted numerous observations of birdlife, noting the movements and seasonal appearances of species that later informed his scientific work.
+[George Newbold Lawrence](/lawrence-george-newbold-1806-1895/), the distinguished American ornithologist and son of [John Burling Lawrence](/lawrence-john-burling-1844-1929/), spent many summers at Forest Hill. The property lay directly beneath one of the major migratory bird routes along the Hudson River. From this advantageous vantage point Lawrence conducted numerous observations of birdlife, noting the movements and seasonal appearances of species that later informed his scientific work.
 
 While residing at Forest Hill he developed close friendships with Victor Audubon and John Woodhouse Audubon, the sons of John James Audubon. These relationships linked the Lawrence and Audubon families through shared scientific interests and helped establish the Hudson River estates of upper Manhattan as an early setting for American ornithological observation and collaboration..
 

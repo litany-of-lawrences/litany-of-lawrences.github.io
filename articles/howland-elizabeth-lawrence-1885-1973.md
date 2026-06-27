@@ -1,13 +1,15 @@
 # Howland, Elizabeth Lawrence (1885–1973)
 
-**Parents:** [Louis Meredith Howland (1855–1921)](/howland-louis-meredith-1855-1921/) and Virginia Lee Lawrence (1864–1891).
+**Parents:** [Louis Meredith Howland (1855–1921)](/howland-louis-meredith-1855-1921/) and [Virginia Lee Lawrence (1864–1891)](/lawrence-virginia-lee-1864-1891/).
 **Spouse:** Frederic Kernochan (1878–1937).
 **Children:** Virginia M. Kernochan (1911–1981) and Mary Kernochan (1914–1992).
 **Kinship:** Fourth cousin once removed of the post–World War II Smith generation.
 
+![howland-elizabeth-lawrence-1885-1973](/images/howland-elizabeth-lawrence-1885-1973-1.png)
+
 **Early Life**
 
-Elizabeth Lawrence Howland was born in 1885 to [Louis Meredith Howland](/howland-louis-meredith-1855-1921/) and Virginia Lee Lawrence, uniting two distinguished New York families—the mercantile Howlands and the old Lawrence family of Long Island. She grew up largely in New York and Newport, in an atmosphere of transatlantic sophistication: her father was educated in France and Germany, and her step-grandmother, Louise-Marie Delaroche-La Perrière, was of an old French family.
+Elizabeth Lawrence Howland was born in 1885 to [Louis Meredith Howland](/howland-louis-meredith-1855-1921/) and [Virginia Lee Lawrence](/lawrence-virginia-lee-1864-1891/), uniting two distinguished New York families—the mercantile Howlands and the old Lawrence family of Long Island. She grew up largely in New York and Newport, in an atmosphere of transatlantic sophistication: her father was educated in France and Germany, and her step-grandmother, Louise-Marie Delaroche-La Perrière, was of an old French family.
 
 **Marriage**
 

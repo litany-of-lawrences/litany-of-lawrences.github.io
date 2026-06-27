@@ -2,7 +2,7 @@
 
 ![the-gables-the-also-gusty-gables](/images/the-gables-the-also-gusty-gables-1.png)
 
-**Location:** 58 Yokun Avenue, Lenox, Massachusetts.
+**Location:** 58 Yokun Avenue, [Lenox](/lenox/), Massachusetts.
 
 **Date of Construction:** 1879.
 
@@ -41,4 +41,4 @@ The sleeping porch remains a light-filled, seasonal room, enclosed by broad band
 
 **Ownership and Social History**
 
-Designed by Charles F. McKim and built in 1879 for Miss Mary DePeyster Carey. The DePeysters are also connected to the Lawrences and Remsens. In 1917 the house was sold to Mr. and Mrs. Thomas Strong, and in 1931 it was acquired by Miss [Anna Remsen Alexandre](/alexandre-anna-remsen-1895-1984/), daughter of John Alexandre, builder of Spring Lawn. During her ownership, Miss Alexandre used the house as a center of summer social life in Lenox, entertaining family and friends such as members of the Bayard Hoppin, Buffin, Gould, and Morgan families, as well as figures from the arts including D. W. Griffith and Cornelia Otis Skinner. Luncheon parties for thirty to forty guests were not uncommon. In May 1939 the house was burglarized and ransacked, an incident noted in local accounts. In 1955 Miss Alexandre sold The Gables to Dr. and Mrs. Milos Krofta and moved to a smaller Lenox residence, The Homestead, which she renamed Strawberry House, at 9 Cliffwood Street, Lenox, Massachusetts.
+Designed by Charles F. McKim and built in 1879 for Miss Mary DePeyster Carey. The DePeysters are also connected to the Lawrences and Remsens. In 1917 the house was sold to Mr. and Mrs. Thomas Strong, and in 1931 it was acquired by Miss [Anna Remsen Alexandre](/alexandre-anna-remsen-1895-1984/), daughter of John Alexandre, builder of Spring Lawn. During her ownership, Miss Alexandre used the house as a center of summer social life in [Lenox](/lenox/), entertaining family and friends such as members of the Bayard Hoppin, Buffin, Gould, and Morgan families, as well as figures from the arts including D. W. Griffith and Cornelia Otis Skinner. Luncheon parties for thirty to forty guests were not uncommon. In May 1939 the house was burglarized and ransacked, an incident noted in local accounts. In 1955 Miss Alexandre sold The Gables to Dr. and Mrs. Milos Krofta and moved to a smaller [Lenox](/lenox/) residence, The Homestead, which she renamed Strawberry House, at 9 Cliffwood Street, [Lenox](/lenox/), Massachusetts.

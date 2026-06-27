@@ -9,7 +9,7 @@
 
 **Early Life**
 
-Anne Gale Hyde, always known as “Angy,” was born in 1926 to Robert “Bobby” Hyde and Lydia Lawrence Tonetti. Her early childhood was marked by both privilege and loss. Her mother Lydia, granddaughter of the sculptor Mary Lawrence Tonetti of Snedens Landing, died while Angy was still very young. With her father increasingly drawn back to Santa Barbara to establish his bohemian enclaves, Angy and her siblings were largely raised at Pirate’s Lair, the Tonetti family home overlooking the Hudson. Their formidable grandmother Mary Lawrence Tonetti became their guardian, supported by the loyal family butler James. Angy grew up in an atmosphere that was part Hudson Valley gentility, part avant-garde artist colony, steeped in Tonetti eccentricity and Lawrence family traditions.
+Anne Gale Hyde, always known as “Angy,” was born in 1926 to Robert “Bobby” Hyde and Lydia Lawrence Tonetti. Her early childhood was marked by both privilege and loss. Her mother Lydia, granddaughter of the sculptor [Mary Lawrence](/lawrence-mary-1640-1704/) Tonetti of Snedens Landing, died while Angy was still very young. With her father increasingly drawn back to Santa Barbara to establish his bohemian enclaves, Angy and her siblings were largely raised at Pirate’s Lair, the Tonetti family home overlooking the Hudson. Their formidable grandmother [Mary Lawrence](/lawrence-mary-1640-1704/) Tonetti became their guardian, supported by the loyal family butler James. Angy grew up in an atmosphere that was part Hudson Valley gentility, part avant-garde artist colony, steeped in Tonetti eccentricity and Lawrence family traditions.
 
 **Education and Adventurous Youth**
 
