@@ -4,11 +4,11 @@
 
 The Alexandre family originated in the Channel Islands, where they were prosperous farmers. Although their names were French, they were Anglicans by religion—typical of Channel Islanders whose culture blended English and Norman elements. Descendants are often surprised to discover that they have a substantial share of Scandinavian genes. The family’s rise to prominence began with [Frederick Francis Alexandre (1809–1889)](/alexandre-frederick-francis-1809-1889/), who became the first member to emigrate to North America.
 
-**[Frederick Francis Alexandre](/alexandre-frederick-francis-1809-1889/) and the [Alexandre Line](/alexandre-line/)**
+[**Frederick Francis Alexandre**](/alexandre-frederick-francis-1809-1889/) **and the [Alexandre Line](/alexandre-line/)**
 
 [Frederick Francis Alexandre](/alexandre-frederick-francis-1809-1889/) went to sea as a young man and became a ship’s captain by the age of twenty-one. After settling in New York, he founded a commission house that prospered and later established the [Alexandre Line](/alexandre-line/), a successful shipping company. The firm gained distinction when it secured a U.S. government contract to carry mail to Mexico. This connection with government service provided both credibility and financial stability, forming the foundation of the family’s wealth.
 
-As was true of several mercantile families of the nineteenth century, the Alexandre fortune was built in part through such government contracts—not through favoritism, but through competence and reliability. The prestige of official association often led other firms to seek out the Alexandre company as a trusted business partner, thereby compounding its success.
+As was true of several mercantile families of the nineteenth century, the Alexandre fortune was built in part through such government contracts — not through favoritism, but through competence and reliability. The prestige of official association often led other firms to seek out the Alexandre company as a trusted business partner, thereby compounding its success.
 
 **Social Position and Alliances**
 
