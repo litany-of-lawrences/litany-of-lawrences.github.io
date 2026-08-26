@@ -2,16 +2,11 @@
 
 COUNTESS OF ANCASTER
 
-![breese-eloise-lawrence-1882-1953](/images/breese-eloise-lawrence-1882-1953-1.jpeg)
-
-**Parents:** [William Lawrence](/lawrence-william-1776-1848/) Breese (1854–1888) and Mary Louise Parsons (1857–1948).
-**Spouse:** Gilbert Heathcote-Drummond-Willoughby (1867–1951), later 2nd Earl of Ancaster, married December 6, 1905.
-**Children:** Lady Catherine Mary Clementina Heathcote-Drummond-Willoughby (1906–1996), James Heathcote-Drummond-Willoughby, 3rd Earl of Ancaster (1907–1983), Lady Priscilla Heathcote-Drummond-Willoughby (1909–2002), Hon. John Heathcote-Drummond-Willoughby (1914–1970).
-**Kinship:** Sixth cousin three times removed of the post–World War II Smith generation.
+![breese-eloise-lawrence-1882-1953](asset://localhost/%2FUsers%2Fadmin%2FLibrary%2FApplication%20Support%2Flitany-of-lawrences%2Frepo%2Fimages%2Fbreese-eloise-lawrence-1882-1953-1.jpeg)**Parents:** [William Lawrence](/lawrence-william-1776-1848/) Breese (1854–1888) and Mary Louise Parsons (1857–1948). **Spouse:** Gilbert Heathcote-Drummond-Willoughby (1867–1951), later 2nd Earl of Ancaster, married December 6, 1905. **Children:** Lady Catherine Mary Clementina Heathcote-Drummond-Willoughby (1906–1996), James Heathcote-Drummond-Willoughby, 3rd Earl of Ancaster (1907–1983), Lady Priscilla Heathcote-Drummond-Willoughby (1909–2002), Hon. John Heathcote-Drummond-Willoughby (1914–1970). **Kinship:** Sixth cousin three times removed of the post–World War II Smith generation.
 
 **Early Life**
 
-Eloise Lawrence Breese was born into a prominent American family with deep colonial roots. Her father, [William Lawrence](/lawrence-william-1776-1848/) Breese, died when she was a child, and in 1893 her widowed mother married Henry Vincent Higgins (1856–1928), a solicitor and manager of Covent Garden. After this marriage, the family relocated to London, where Eloise studied singing under Signor Allenesi.
+Eloise Lawrence Breese was born into a prominent American family with deep colonial roots. Her father, [William Lawrence](/lawrence-william-1776-1848/) Breese, died when she was a child, and in 1893 her widowed mother married Henry Vincent Higgins (1856–1928), a solicitor and manager of Covent Garden. After this marriage, the family relocated to London, where Eloise studied singing under Signor Allenesi….
 
 **Marriage to Lord Willoughby de Eresby**
 
@@ -21,7 +16,7 @@ The wedding was a spectacular social event attended by leading figures of the Br
 
 The New York Times reported: “The church was crowded with a fashionable throng that included nearly all the prominent members of the American colony and royalty. Seldom has been seen a more beautiful dress than that worn by the bride. It was made of ivory satin, with full Court train of Brussels lace chiffon. The bridesmaids looked remarkably pretty in lavender gowns trimmed with sable, and picture hats.”
 
-The Ancasters  for some reason inspired Americans to claim their properties: “there is no Peer of the British realm whose properties, especially the Drummond estates, have been more frequently claimed by people hailing from America.” Another claimant was the daughter of the late Earl of Perth.  She resided for many years in Brooklyn. Lord Drummond died in St. Luke’s Hospital after having earned his living for a time in New York as ticket chopper on the elevated railroad and as a reporter of one of the leading metropolitan daily newspapers.
+The Ancasters for some reason inspired Americans to claim their properties: “there is no Peer of the British realm whose properties, especially the Drummond estates, have been more frequently claimed by people hailing from America.” Another claimant was the daughter of the late Earl of Perth.  She resided for many years in Brooklyn. Lord Drummond died in St. Luke’s Hospital after having earned his living for a time in New York as ticket chopper on the elevated railroad and as a reporter of one of the leading metropolitan daily newspapers.
 
 At the ceremony, Eloise’s stepfather, Henry Vincent Higgins, gave her away. Her attendants included her sister, Miss Anne Breese (later Lady Alastair Innes-Ker), and the Ladies Alice Willoughby, Dorothy Onslow, Gladys Fellowes, Blanche and Diana Somerset, Moyra Goff, and Peggie Cavendish.
 

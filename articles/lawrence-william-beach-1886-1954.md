@@ -1,6 +1,6 @@
 # Lawrence, William Beach (1886–1954)
 
-**Parents:** [Isaac Lawrence (1828–1919)](/lawrence-isaac-1828-1919/) and Lee Gwynne! (1857–1946). **Spouse:** Mabel Dawson (1884–1936). **Children:** Gwendoline (“Gwynne”) Lawrence (1909–1954), Mabel G. Lawrence (1910–1920), Ada Lawrence (1912–2004), and William Beach Lawrence (1919–2009). **Kinship:** Seventh cousin three times removed of the post–World War II Smith generation.
+**Parents:** [Isaac Lawrence (1828–1919)](/lawrence-isaac-1828-1919/) and Lee Gwynne (1857–1946). **Spouse:** Mabel Dawson (1884–1936). **Children:** Gwendoline (“Gwynne”) Lawrence (1909–1954), Mabel G. Lawrence (1910–1920), Ada Lawrence (1912–2004), and William Beach Lawrence (1919–2009). **Kinship:** Seventh cousin three times removed of the post–World War II Smith generation.
 
 **Early Life and Family Background**Born into the socially prominent Lawrence and Gwynne families, William grew up between New York City and Newport, Rhode Island. His mother, Lee Gwynne, was a well-known figure in New York society, and William inherited the tradition of Newport summer residency from both parental lines. His upbringing was characteristic of old New York families of the period, combining private education, club life, and seasonal movement between the city and resort communities.
 
