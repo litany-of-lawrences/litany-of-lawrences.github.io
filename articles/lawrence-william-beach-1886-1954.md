@@ -1,20 +1,13 @@
 # Lawrence, William Beach (1886–1954)
 
-**Parents:** [Isaac Lawrence (1828–1919)](/lawrence-isaac-1828-1919/) and Lee Gwynne (1857–1946).
-**Spouse:** Mabel Dawson (1884–1936).
-**Children:** Gwendoline (“Gwynne”) Lawrence (1909–1954), Mabel G. Lawrence (1910–1920), Ada Lawrence (1912–2004), and William Beach Lawrence (1919–2009).
-**Kinship:** Seventh cousin three times removed of the post–World War II Smith generation.
+**Parents:** [Isaac Lawrence (1828–1919)](/lawrence-isaac-1828-1919/) and Lee Gwynne! (1857–1946). **Spouse:** Mabel Dawson (1884–1936). **Children:** Gwendoline (“Gwynne”) Lawrence (1909–1954), Mabel G. Lawrence (1910–1920), Ada Lawrence (1912–2004), and William Beach Lawrence (1919–2009). **Kinship:** Seventh cousin three times removed of the post–World War II Smith generation.
 
-**Early Life and Family Background**
-Born into the socially prominent Lawrence and Gwynne families, William grew up between New York City and Newport, Rhode Island. His mother, Lee Gwynne, was a well-known figure in New York society, and William inherited the tradition of Newport summer residency from both parental lines. His upbringing was characteristic of old New York families of the period, combining private education, club life, and seasonal movement between the city and resort communities.
+**Early Life and Family Background**Born into the socially prominent Lawrence and Gwynne families, William grew up between New York City and Newport, Rhode Island. His mother, Lee Gwynne, was a well-known figure in New York society, and William inherited the tradition of Newport summer residency from both parental lines. His upbringing was characteristic of old New York families of the period, combining private education, club life, and seasonal movement between the city and resort communities.
 
-**Career and Military Service**
-Like many men of his social class, William’s professional life combined club, military, and civic engagements rather than a single career. He served in the Seventh Regiment, National Guard of New York, a socially prestigious unit whose membership was drawn heavily from New York’s old families. His military involvement continued through middle age, including training camps and peacetime regimental activities.
+**Career and Military Service**Like many men of his social class, William’s professional life combined club, military, and civic engagements rather than a single career. He served in the Seventh Regiment, National Guard of New York, a socially prestigious unit whose membership was drawn heavily from New York’s old families. His military involvement continued through middle age, including training camps and peacetime regimental activities.
 
-**Residences and Social Life**
-William and his family divided their time between Newport, Rhode Island, and Bar Harbor, Maine, both central nodes in the early twentieth-century American “summer colony” circuit. His Newport residence placed him among the “cottage” society that persisted after the Gilded Age, while the Bar Harbor estate reflects the shift of upper-class summering patterns northward in the early 1900s.
+**Residences and Social Life**William and his family divided their time between Newport, Rhode Island, and Bar Harbor, Maine, both central nodes in the early twentieth-century American “summer colony” circuit. His Newport residence placed him among the “cottage” society that persisted after the Gilded Age, while the Bar Harbor estate reflects the shift of upper-class summering patterns northward in the early 1900s.
 
 He was a member of the New York Athletic Club. His participation in club life, Newport social events, and the Bar Harbor summer colony placed him in the last generation of New York society to maintain the pre-World War II seasonal social rhythm before World War II and postwar suburbanization altered it.
 
-**Later Years and Death**
-William outlived his wife by nearly two decades and saw the transformation of Newport from an exclusive summer colony into a more diversified community. Two of his children—Ada and William Jr.—lived well into the twenty-first century, preserving family connections to both Newport and Bar Harbor. He died in 1954.
+**Later Years and Death**William outlived his wife by nearly two decades and saw the transformation of Newport from an exclusive summer colony into a more diversified community. Two of his children—Ada and William Jr.—lived well into the twenty-first century, preserving family connections to both Newport and Bar Harbor. He died in 1954.
