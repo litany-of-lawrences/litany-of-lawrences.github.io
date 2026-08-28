@@ -1,6 +1,6 @@
 # Alexandre, Helen Lispenard (1889–1953)
 
-**Parents:** John Ernest Alexandre (1840–1910) and Helen Lispenard Webb (1859–1910).\ Spouse: Bayard Cushing Hoppin (1885–1956), married September 10, 1910.
+**Parents:** John Ernest Alexandre (1840–1910) and Helen Lispenard Webb (1859–1910). Spouse: Bayard Cushing Hoppin (1885–1956), married September 10, 1910.
 
 **Children:** None recorded.
 
