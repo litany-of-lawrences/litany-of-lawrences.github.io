@@ -12,8 +12,14 @@
 
  [Dewitt Loomis Alexandre](/alexandre-dewitt-loomis-1917-1982/) II was born in 1949, the son of [Dewitt Loomis Alexandre](/alexandre-dewitt-loomis-1917-1982/) and Cynthia Lenox Banks Alexandre. He attended Salisbury School in Connecticut and later graduated from the University of Denver.
 
-**Career** He began his professional career in finance, serving as an associate with the investment firm Kidder, Peabody & Co., where he worked in corporate and securities analysis during the firm’s expansion years in the 1970s and 1980s.
+**Career** 
 
-**Personal Life** Alexandre first married Priscilla Baker Hill in 1976, with whom he had two children. After their separation, he married Kristin Kuhns Gerrity, a designer and arts philanthropist, with whom he has two more children.
+He began his professional career in finance, serving as an associate with the investment firm Kidder, Peabody & Co., where he worked in corporate and securities analysis during the firm’s expansion years in the 1970s and 1980s.
 
-**Residences and Affiliations** He has been associated with business and family circles in both New York and Florida and remains active in private investment and family ventures.
+**Personal Life** 
+
+Alexandre first married Priscilla Baker Hill in 1976, with whom he had two children. After their separation, he married Kristin Kuhns Gerrity, a designer and arts philanthropist, with whom he has two more children.
+
+**Residences and Affiliations** 
+
+He has been associated with business and family circles in both New York and Florida and remains active in private investment and family ventures.
