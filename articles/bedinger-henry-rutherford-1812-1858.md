@@ -2,14 +2,15 @@
 
 Congressman and Diplomat
 
-![bedinger-henry-rutherford-1812-1858](/images/bedinger-henry-rutherford-1812-1858-1.jpeg)
+![bedinger-henry-rutherford-1812-1858](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbedinger-henry-rutherford-1812-1858-1.jpeg)**Parents:** Gen. John Daniel Bedinger (1760–1817) and Sarah Rutherford (1771–1844).
 
-**Parents:** Gen. John Daniel Bedinger (1760–1817) and Sarah Rutherford (1771–1844).
-**Spouse:** (1) Margaret Rust (1818–1843), (2) [Caroline Bowne Lawrence (1827–1869)](/lawrence-caroline-bowne-1827-1869/).
-**Children:** With Margaret Rust: George Rust Bedinger (1840–1863)–killed at Gettysburg, Virginia “Diddie” Bedinger (1842–1919), and Margaret Rust Bedinger (1843–1844); with Caroline Lawrence: Mary “Minnie” Bedinger (1850–1896), Henry Bedinger (1853–1935), and Caroline “Danske” Bedinger (1858–1914).
+ **Spouse:** (1) Margaret Rust (1818–1843), (2) [Caroline Bowne Lawrence (1827–1869)](/lawrence-caroline-bowne-1827-1869/). 
+
+**Children:** With Margaret Rust: George Rust Bedinger (1840–1863)–killed at Gettysburg, Virginia “Diddie” Bedinger (1842–1919), and Margaret Rust Bedinger (1843–1844); with Caroline Lawrence: Mary “Minnie” Bedinger (1850–1896), Henry Bedinger (1853–1935), and Caroline “Danske” Bedinger (1858–1914). 
+
 **Kinship:** Husband of the second cousin four times removed of the post–World War II Smith generation.
 
-**Early Life and Education**)
+**Early Life and Education**
 
 Born at [Bedford](/bedford/), the family estate near Shepherdstown, Virginia (now West Virginia), Henry Rutherford Bedinger was the fourth of five sons and the twelfth of thirteen children of Sarah Rutherford and Gen. John Daniel Bedinger. His maternal grandfather was the lower Shenandoah Valley’s first congressman. His paternal grandfather, the first Henry Bedinger (1729–1772), had emigrated from Alsace. His uncles Major Henry Bedinger (1753–1843) and George M. Bedinger served as patriots in the American Revolution—the former also representing Berkeley County in the Virginia House of Delegates and helping to found Mecklenburg (later Shepherdstown) in 1794.
 
@@ -22,6 +23,7 @@ Around 1832, Bedinger moved to Charles Town to read law under William Lucas, a p
 Known for his eloquence—earning the nickname “The dreamy-eyed orator”—Bedinger entered politics as a Democrat. He defeated his former mentor, William Lucas, in 1844 and again in 1847 to represent Virginia's 10th District in the U.S. House of Representatives (1845–1849). In Washington, he was a staunch supporter of the Polk administration, endorsing the annexation of Texas as a slave state and the Walker Tariff of 1846, while opposing Nativist/Whig attempts to restrict the voting rights of Irish and German immigrants.
 
 **Diplomatic Career**
+
 After losing reelection in 1849, Bedinger resumed his legal practice, first in New York and later in Virginia. In 1853 President Franklin Pierce appointed him Chargé d’Affaires to Denmark, and in 1854 promoted him to Minister Resident.. At the court of King Frederick VII, Bedinger successfully negotiated the abolition of the Danish Sound Dues—tolls levied on ships passing between the North Sea and the Baltic.
 
 The resulting 1857 treaty granted American vessels free passage in exchange for a modest contribution to Denmark’s lighthouse and channel-maintenance fund, making Bedinger effectively the first U.S. ambassador to Denmark.
