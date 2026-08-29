@@ -12,13 +12,13 @@
 
 Leonie Alexandre was born in 1890, the daughter of James Joseph Alexandre, a steamship magnate, and Nathalie Edsall Alexandre. She grew up at Nirvana, the family estate on the Stamford waterfront, which became a setting for many Alexandre family gatherings and charitable events.
 
-From an early age, Leonie displayed an artistic and philanthropic temperament. On March 20, 1909, she participated in a Chocolatière et Tableaux at the Plaza Hotel, a charity event at which “chocolate and other refreshments [were] sold by women and girls in chocolatière costumes after the famous painting in the Dresden Gallery.” The painting referred to was La Belle Chocolatière by Jean-Étienne Liotard. Later that same month she performed as an Egyptian dancer in another benefit for working girls’ dancing classes hosted by sculptor François Tonetti and his wife, [Mary Trimble Lawrence](/lawrence-mary-trimble-1869-1945/) Tonetti. In March 1910, Leonie took part in The Castle of Liguria during the Italian Carnival held at the Waldorf Astoria.
+From an early age, Leonie displayed an artistic and philanthropic temperament. On March 20, 1909, she participated in a "Chocolatière et Tableaux" at the Plaza Hotel, a charity event at which “chocolate and other refreshments \[were\] sold by women and girls in chocolatière costumes after the famous painting in the Dresden Gallery.” The painting referred to was "La Belle Chocolatière" by Jean-Étienne Liotard. Later that same month she performed as an Egyptian dancer in another benefit for working girls’ dancing classes hosted by sculptor François Tonetti and his wife, [Mary Trimble Lawrence](/lawrence-mary-trimble-1869-1945/) Tonetti. In March 1910, Leonie took part in The Castle of Liguria during the Italian Carnival held at the Waldorf Astoria.
 
 **Marriage and Wedding Festivities**
 
 Leonie’s engagement to Francis Jenkins Danforth, an industrial engineer, was announced in the spring of 1911. Her fiancé gave his bachelor dinner at Delmonico’s on May 19, where, according to The New York Times, “a colored band” played. The couple was married on May 27, 1911, in St. John’s Episcopal Church in Stamford, Connecticut. The wedding, performed by the Rev. Charles Morris Addison, was followed by a reception at Nirvana, her mother’s estate, attended by about three hundred guests, most arriving from New York on a special train.
 
-From the New York Times wedding report:
+From the *New York Times* wedding report:
 
 “Miss Alexandre’s brother, [Jerome Alexandre](/alexandre-jerome-1886-1925/), gave her in marriage. ... Miss Alexandre’s maid of honor was Miss Gertrude Slocum, her cousin, of New York. ... The bride’s gown was of white satin. She wore a lace veil and her flowers were lilies of the valley and gardenias. After a fortnight away Mr. and Mrs. Danforth will return to New York, and in the summer they will be at Nirvana.”
 
