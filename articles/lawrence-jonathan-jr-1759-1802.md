@@ -2,13 +2,13 @@
 
 **Captain**
 
-**Parents:** **Jonathan Lawrence (1695–1775) and Elisabet Van Klocek (1729**\*\*–\*\***1816).**
+**Parents:** **Jonathan Lawrence (1695–1775) and Elisabet Van Klocek (1729**–**1816).**
 
-**Spouse:** **(1)** **Jeanette Neale** **(1767**\*\*–**1790)**;\*\* \*\*(**2) Mary Mann (1763**–\*\***1835)**
+**Spouse:** (1) Jeanette Neale (1767–1790);(2) Mary Mann (1763–1835)
 
-**Children:** **With Jeanette Neale: Charles Lawrence (1786**\*\*–1854), Herbert Lawrence (1788–1882), Eleanor N. Lawrence);\*\* **with Mary Mann**\*\*: [Jonathan Lawrence](/lawrence-jonathan-1737-1812-major-new-york-provincial-militia/) III (1795–1883), Jennet Lawrence (1797–1870), George M. Lawrence (1799–1872).\*\*
+**Children:** With Jeanette Neale: Charles Lawrence (1786\*\*–1854), Herbert Lawrence (1788–1882), Eleanor N. Lawrence);\*\* **with Mary Mann\*\***: [Jonathan Lawrence](/lawrence-jonathan-1737-1812-major-new-york-provincial-militia/) III (1795–1883), Jennet Lawrence (1797–1870), George M. Lawrence (1799–1872).\*\*
 
-**Kinship**\*\*:\*\* **Third cousin seven times removed of post-World War II Smith generation.**
+**Kinship**: Third cousin seven times removed of post-World War II Smith generation.
 
 There were numerous men named [Jonathan Lawrence](/lawrence-jonathan-1737-1812-major-new-york-provincial-militia/), all related, many of them contemporaries, and several of whom served in Revolutionary forces. The following account concerns [Jonathan Lawrence](/lawrence-jonathan-1737-1812-major-new-york-provincial-militia/) Jr. (1759–1802) and appears to be the most reliable reconstruction of his life and service.
 
@@ -34,6 +34,6 @@ Facing financial and personal hardship, Lawrence submitted a renewed appeal for 
 
 [Jonathan Lawrence](/lawrence-jonathan-1737-1812-major-new-york-provincial-militia/) Jr. died in 1802 at the age of forty-two, probably of tuberculosis, a disease with which he had struggled for many years. His tombstone, and that of his second wife Mary, are both located in the Palisades Cemetery.
 
-Captain Lawrence was the third of four men named [Jonathan Lawrence](/lawrence-jonathan-1737-1812-major-new-york-provincial-militia/) to live in the Big House, his grandfather having purchased the house and approximately 504 acres in 1749. During the Revolutionary War, he played an active role in combat and intelligence gathering and is remembered in particular for the capture of James Moody in 1780.
+This Captain Jonathan Lawrence Jr. was the third of four men named [Jonathan Lawrence](/lawrence-jonathan-1737-1812-major-new-york-provincial-militia/) to live in the Big House, his grandfather having purchased the house and approximately 504 acres in 1749. During the Revolutionary War, he played an active role in combat and intelligence gathering and is remembered in particular for the capture of James Moody in 1780.
 
 It is traditionally said that during the Revolution, General George Washington, the Marquis de Lafayette, and Baron von Steuben were guests of Captain [Jonathan Lawrence](/lawrence-jonathan-1737-1812-major-new-york-provincial-militia/) Jr. at the Big House and may have dined at the table now preserved in the Palisades Library. Given that all three officers were present at the nearby trial of Major John André in Tappan in 1780, and that Washington personally supervised construction of the blockhouse overlooking Snedens Landing that same year, such a gathering is entirely plausible.
