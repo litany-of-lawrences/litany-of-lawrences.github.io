@@ -12,6 +12,6 @@
 
 [James Henry Alexandre](/alexandre-james-henry-1848-1912/) V was born in 1968, the son of [James Henry Alexandre](/alexandre-james-henry-1848-1912/) IV and Nancy Maxwell Ott. He represents the fifth generation of the Alexandre family to bear the name James Henry, a tradition reflecting both family continuity and respect for its mercantile and professional heritage.
 
-**Education and Affiliation**
+**Education and Affiliations**
 
-**s** He was a member of Sigma Alpha Epsilon fraternity, Louisiana Tau-Upsilon chapter, indicating college attendance in the southern United States.
+He was a member of Sigma Alpha Epsilon fraternity, Louisiana Tau-Upsilon chapter, indicating college attendance in the southern United States.
