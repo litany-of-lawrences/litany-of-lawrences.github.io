@@ -1,70 +1,52 @@
 # Lawrence, Mary Trimble (1869–1945)
 
-![lawrence-mary-trimble-1869-1945](/images/lawrence-mary-trimble-1869-1945-1.png)
+![lawrence-mary-trimble-1869-1945](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Flawrence-mary-trimble-1869-1945-1.png)**Parents:** [Henry Effingham Lawrence (1829–1890)](/lawrence-henry-effingham-1829-1890/) and Lydia Greene Underhill (1830–1913). 
 
-**Parents:** [Henry Effingham Lawrence (1829–1890)](/lawrence-henry-effingham-1829-1890/) and Lydia Greene Underhill (1830–1913).
-**Spouse****:** **François Michel Louis Tonetti** (1864–1929).
-**Children:** Oliver Pellier Tonetti (d. 1901), Ann Elizabeth Tonetti (1903–1990), Lydia Lawrence Tonetti (1904–1943), [Joseph Lawrence](/lawrence-joseph-1783-1817/) Tonetti (1905–1963), Marie Françoise “Chrissie” Tonetti (1907–1972), and Alexandra Tonetti (1909–1991).
+**Spouse:** **François Michel Louis Tonetti** (1864–1929). 
+
+**Children:** Oliver Pellier Tonetti (d. 1901), Ann Elizabeth Tonetti (1903–1990), Lydia Lawrence Tonetti (1904–1943), [Joseph Lawrence](/lawrence-joseph-1783-1817/) Tonetti (1905–1963), Marie Françoise “Chrissie” Tonetti (1907–1972), and Alexandra Tonetti (1909–1991). 
+
 **Kinship:** Third cousin three times removed of the post–World War II Smith generation.
 
 **Early Life and Family Background**
+
 Mary Trimble Lawrence was born in New York City in 1869 into a cultivated and socially prominent Lawrence family. She was the youngest of five children of Henry [Effingham Lawrence](/lawrence-effingham-1760-1800/) and Lydia Greene Underhill. Her sisters Edith and Margaret, her brother Joseph, and her sister Lillian formed a close-knit sibling circle. The family lived in Manhattan on East 25th Street, next door to Mary’s beloved Aunt Annie Underhill Trimble and her husband, Merritt Trimble. Mary’s middle name honored Merritt Trimble, and her warm relationship with her Aunt Annie remained one of the formative influences of her early life.
 
 The family attended Grace Church on Broadway and Tenth Street, where they occupied the pew directly behind the celebrated author Edith Wharton, reflecting the Lawrences’ placement within New York’s cultivated society. Summers, however, were spent in the countryside, where Mary’s artistic sensibilities were awakened and encouraged.
 
 **Childhood at Snedens Landing and Family Circle**
+
 Mary’s father purchased a farm at Snedens Landing, across the Hudson from Dobbs Ferry. The property, known as Arcadia, included the country house he built and named [Cliffside](/cliffside/).. Snedens Landing would become an enduring part of Mary’s identity and later a magnet for artists, writers, and actors. In Mary’s childhood, it served as a place of family intimacy and imaginative freedom.
 
-![lawrence-mary-trimble-1869-1945](/images/lawrence-mary-trimble-1869-1945-2.png)
+![lawrence-mary-trimble-1869-1945](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Flawrence-mary-trimble-1869-1945-2.png)*The Family at Snedens Landing*
 
-The Family at Snedens Landing
+*L to r: Edith Lawrence, Grandmother Underhill, Mrs. Merritt Trimble, Merritt Trimble, [Joseph Lawrence](/lawrence-joseph-1783-1817/), Lydia Greene, Annie Underhill, Mrs. Henry E. Lawrence*
 
-L to r: Edith Lawrence, Grandmother Underhill, Mrs. Merritt Trimble, Merritt Trimble, [Joseph Lawrence](/lawrence-joseph-1783-1817/), Lydia Greene, Annie Underhill, Mrs. Henry E. Lawrence
+![lawrence-mary-trimble-1869-1945](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Flawrence-mary-trimble-1869-1945-3.png)Snedens Landing was also the site of early artistic influence from beyond the family. The Lawrences bought their shoes from Bernard St. Gaudens, father of the sculptor Augustus Saint-Gaudens. In 1876, when Mary was about seven years old, the young Augustus Saint-Gaudens visited Snedens Landing to give drawing lessons to several children in the area. It is likely that Mary was among his pupils, and this early exposure to a rising artistic figure foreshadowed the professional connection that would later shape her career. With her early artistic promise encouraged and nurtured, Mary soon progressed from childhood sketching at Snedens Landing to more intentional artistic study and expression.
 
-![lawrence-mary-trimble-1869-1945](/images/lawrence-mary-trimble-1869-1945-3.png)
+![lawrence-mary-trimble-1869-1945](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Flawrence-mary-trimble-1869-1945-4.png)**First Artistic Work and Early Sculptures**
 
-Snedens Landing was also the site of early artistic influence from beyond the family. The Lawrences bought their shoes from Bernard St. Gaudens, father of the sculptor Augustus Saint-Gaudens. In 1876, when Mary was about seven years old, the young Augustus Saint-Gaudens visited Snedens Landing to give drawing lessons to several children in the area. It is likely that Mary was among his pupils, and this early exposure to a rising artistic figure foreshadowed the professional connection that would later shape her career. With her early artistic promise encouraged and nurtured, Mary soon progressed from childhood sketching at Snedens Landing to more intentional artistic study and expression.
-
-![lawrence-mary-trimble-1869-1945](/images/lawrence-mary-trimble-1869-1945-4.png)
-
-**First Artistic Work and Early Sculptures**
 Mary’s family recognized her artistic talent early. At Snedens Landing she converted a small summer house on the property into her own studio. Her earliest surviving sculpture was a touching model of her dog Dandy, a work that demonstrates both sensitivity and a natural instinct for form.
 
 Family encouragement remained constant. Her Aunt Annie Underhill Trimble, in particular, took an active interest in Mary’s creative development. The cultivated atmosphere of both the Lawrence and Underhill families fostered a belief that artistic pursuits were not merely acceptable for a young woman, but admirable. This atmosphere, combined with the influence of early contact with Augustus Saint-Gaudens, gave Mary an unusual confidence for a woman pursuing sculpture in the late nineteenth century.
 
 Anne Trimble, by Mary (Left)
 
-![lawrence-mary-trimble-1869-1945](/images/lawrence-mary-trimble-1869-1945-5.png)
+![lawrence-mary-trimble-1869-1945](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Flawrence-mary-trimble-1869-1945-5.png)**European Travel and the Grand Tour (1886–1887)**
 
-**European Travel and the Grand Tour (1886–1887)**
+![lawrence-mary-trimble-1869-1945](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Flawrence-mary-trimble-1869-1945-6.png)In 1886–1887 Mary and her sister Edith embarked on the Grand Tour of Europe, accompanied by their aunt, Annie Underhill Trimble. Mary kept a highly entertaining illustrated journal of the trip, capturing social observations, humorous commentary, and sketches of what she saw along the way. She gently mocked those who admired according to guidebooks rather than their own eyes, remarking that “everyone knew what to admire because Baedeker put a star next to the thing.”
 
-![lawrence-mary-trimble-1869-1945](/images/lawrence-mary-trimble-1869-1945-6.png)
-
-In 1886–1887 Mary and her sister Edith embarked on the Grand Tour of Europe, accompanied by their aunt, Annie Underhill Trimble. Mary kept a highly entertaining illustrated journal of the trip, capturing social observations, humorous commentary, and sketches of what she saw along the way. She gently mocked those who admired according to guidebooks rather than their own eyes, remarking that “everyone knew what to admire because Baedeker put a star next to the thing.”
-
-![lawrence-mary-trimble-1869-1945](/images/lawrence-mary-trimble-1869-1945-7.png)
-
-![lawrence-mary-trimble-1869-1945](/images/lawrence-mary-trimble-1869-1945-8.png)
-
-Hotels and hotel life particularly amused her. She sketched the parade of personalities in the grand hotel dining rooms, corridors, and lobbies, noting how the “important” people performed themselves in public. She recorded her encounters with tipping culture, writing that “one must run the gauntlet of tipped individuals before one can escape a hotel alive.” Her humorous sketches of waiters, porters, chambermaids, and other travelers form a vivid social record of European travel in the 1880s.
+![lawrence-mary-trimble-1869-1945](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Flawrence-mary-trimble-1869-1945-7.png)![lawrence-mary-trimble-1869-1945](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Flawrence-mary-trimble-1869-1945-8.png)Hotels and hotel life particularly amused her. She sketched the parade of personalities in the grand hotel dining rooms, corridors, and lobbies, noting how the “important” people performed themselves in public. She recorded her encounters with tipping culture, writing that “one must run the gauntlet of tipped individuals before one can escape a hotel alive.” Her humorous sketches of waiters, porters, chambermaids, and other travelers form a vivid social record of European travel in the 1880s.
 
 Mary also commented on the contrast between fashionable European dress and her own practical instincts. After a dressmaker in Paris proposed an elaborate strolling costume suitable for promenading in the Bois de Boulogne, Mary noted wryly that she had grown up in the country and had quite different ideas of what proper walking attire should be.
 
-![lawrence-mary-trimble-1869-1945](/images/lawrence-mary-trimble-1869-1945-9.png)
+![lawrence-mary-trimble-1869-1945](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Flawrence-mary-trimble-1869-1945-9.png)![lawrence-mary-trimble-1869-1945](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Flawrence-mary-trimble-1869-1945-10.png)By the end of the journey, Mary returned home with broadened cultural horizons, sharpened artistic judgment, and a portfolio of illustrated impressions that reveal both her observation skills and her wry sense of humor. The Grand Tour had confirmed her artistic vocation and prepared her for more formal study.
 
-![lawrence-mary-trimble-1869-1945](/images/lawrence-mary-trimble-1869-1945-10.png)
-
-By the end of the journey, Mary returned home with broadened cultural horizons, sharpened artistic judgment, and a portfolio of illustrated impressions that reveal both her observation skills and her wry sense of humor. The Grand Tour had confirmed her artistic vocation and prepared her for more formal study.
-
-![lawrence-mary-trimble-1869-1945](/images/lawrence-mary-trimble-1869-1945-11.jpeg)
-
-**Training in Paris and the Art Students League**
+![lawrence-mary-trimble-1869-1945](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Flawrence-mary-trimble-1869-1945-11.jpeg)**Training in Paris and the Art Students League**
 
 “The Studio” by Académie Julian student Marie Bashkirtseff.
 
-![lawrence-mary-trimble-1869-1945](/images/lawrence-mary-trimble-1869-1945-12.png)
-
-In April 1887, Mary Trimble Lawrence entered the Académie Julian in Paris, as women were not admitted to the École des Beaux-Arts until 1897. Within a week of her arrival, she was invited to visit the studio of Auguste Rodin, where Camille Claudel, a young student and Rodin’s assistant and companion, also worked. Mary observed the preparation of models for The Burghers of Calais and various figures for The Gates of Hell. She later wrote that the experience “opened my eyes to the intensity of modern sculpture and the precision of French ateliers,” capturing both her admiration and the disciplined atmosphere of the studio.
+![lawrence-mary-trimble-1869-1945](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Flawrence-mary-trimble-1869-1945-12.png)In April 1887, Mary Trimble Lawrence entered the Académie Julian in Paris, as women were not admitted to the École des Beaux-Arts until 1897. Within a week of her arrival, she was invited to visit the studio of Auguste Rodin, where Camille Claudel, a young student and Rodin’s assistant and companion, also worked. Mary observed the preparation of models for The Burghers of Calais and various figures for The Gates of Hell. She later wrote that the experience “opened my eyes to the intensity of modern sculpture and the precision of French ateliers,” capturing both her admiration and the disciplined atmosphere of the studio.
 
 The Art Students League
 
@@ -74,24 +56,20 @@ St. Gaudens is standing, second from right
 
 After completing her time at the Académie, Mary returned to New York in 1888 to work with Augustus Saint-Gaudens. She later returned to Paris in December 1893 to continue her studies before assuming teaching duties in New York at the Art Students League, where she instructed under the guidance of Saint-Gaudens and mentored younger students in sculpture techniques. Her early work from this period reflects careful observation of form and an attention to naturalistic detail, likely inspired by both Rodin and Saint-Gaudens.
 
-![lawrence-mary-trimble-1869-1945](/images/lawrence-mary-trimble-1869-1945-13.jpeg)
+![lawrence-mary-trimble-1869-1945](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Flawrence-mary-trimble-1869-1945-13.jpeg)Mary in a Work Smock (right)
 
-Mary in a Work Smock (right)
+![lawrence-mary-trimble-1869-1945](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Flawrence-mary-trimble-1869-1945-14.png)**The Columbus Statue and Major Public Works**
 
-![lawrence-mary-trimble-1869-1945](/images/lawrence-mary-trimble-1869-1945-14.png)
-
-**The Columbus Statue and Major Public Works**
 In 1891, plans for the Columbia Exhibition in Chicago included a central statue of Christopher Columbus. Saint-Gaudens recommended Mary to model and execute the main figure. At only twenty-three years old, Mary undertook the commission, producing a work praised for its vigor and breadth. Frank Millet, a fair organizer, attempted to move the statue to a less prominent location near the train station, but the architect Charles Follen McKim, who had become enamored with Mary’s skill and character, successfully restored it to its intended placement. Saint-Gaudens later commented, “Miss [Mary Lawrence](/lawrence-mary-1640-1704/), now Mrs. François M. L. Tonetti, modeled and executed it; and to her goes all the credit of the virility and breadth of treatment which it revealed.”
 
 Model of Christopher Columbus for the Chicago World’s Fair, 1893 (left)
 
-![lawrence-mary-trimble-1869-1945](/images/lawrence-mary-trimble-1869-1945-15.jpeg)
-
-Following this project, Mary assisted Saint-Gaudens with the General John A. Logan monument in Grant Park, Chicago. Her work during this period demonstrates both technical mastery and an early professional confidence, establishing her reputation in American sculpture. Her contributions were recognized by contemporaries as reflecting both her skill and her capacity to interpret monumental subjects with sensitivity and authority.
+![lawrence-mary-trimble-1869-1945](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Flawrence-mary-trimble-1869-1945-15.jpeg)Following this project, Mary assisted Saint-Gaudens with the General John A. Logan monument in Grant Park, Chicago. Her work during this period demonstrates both technical mastery and an early professional confidence, establishing her reputation in American sculpture. Her contributions were recognized by contemporaries as reflecting both her skill and her capacity to interpret monumental subjects with sensitivity and authority.
 
 General Logan Monument (left)
 
 **Marriage and Artistic Partnership with François Tonetti**
+
 Mary Trimble Lawrence met François Michel Louis Tonetti through artistic circles in New York and Paris. François, who was taken with Mary, persuaded Monnies to send him to New York to assist with the completion of sculptures for the Brooklyn Memorial Arch on Grand Army Plaza. They were engaged in 1899. St. Gaudens was delighted. He wrote to Mrs. Lawrence: “I never knew two people more made for one another, and that they should have been brought together is a smile of fortune. Besides the qualities that befit him peculiarly for Mary, he is a most affectionate and loveable man…I know they will be happy together.”
 
 They married in 1900 at Grace Church, New York, when Mary was thirty-two and François thirty-six. Following their marriage, they converted the former Murray Hill Presbyterian Church at 135 East 40th Street (where the Rum, Romanism, and Rebellion sermon was preached) into a combined residence and studio. The space allowed Mary to continue her sculptural work while François executed commissions for significant public monuments.
@@ -99,21 +77,21 @@ They married in 1900 at Grace Church, New York, when Mary was thirty-two and Fra
 Mary and François spent summers and weekends at Snedens Landing, where Mary had grown up. The property became a lively artistic hub, attracting painters, sculptors, and other creatives. Mary’s studio there served as a space for experimentation and teaching, while François worked on commissions including the Brooklyn Memorial Arch. The couple maintained a blend of domestic life and professional practice, balancing their children’s upbringing with an active artistic schedule.
 
 **Snedens Landing as an Artistic Colony**
+
 Snedens Landing became a collaborative and educational environment. Mary encouraged young artists, sometimes taking over Saint-Gaudens’s classes at the Art Students League when he returned to Paris. She continued producing public works, teaching techniques, and supervising apprentices. The estate hosted notable figures of the American Renaissance, including Chester French, Saint-Gaudens, and other sculptors, who collaborated on various projects. Mary also worked on portraits and private commissions, demonstrating her ability to manage multiple complex projects simultaneously.
 
 About 1900, judging from the age of the models, Mary did a sculpture of Louis Comfort Tiffany’s twins, Louise Comfort and Julia DeForest. Katherine Cornell, the actress, who had a house at Snedens Landing apparently liked the sculpture so much that when she moved from Snedens Landing in 1965, Mary’s daughter Anne Gugler gave the sculpture to her as a housewarming present. Cornell installed it over the door at her new residence at 328 East 51st St., where it can be seen today.
 
-![lawrence-mary-trimble-1869-1945](/images/lawrence-mary-trimble-1869-1945-16.png)
+![lawrence-mary-trimble-1869-1945](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Flawrence-mary-trimble-1869-1945-16.png)![lawrence-mary-trimble-1869-1945](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Flawrence-mary-trimble-1869-1945-17.png)**Children and Family Life**
 
-![lawrence-mary-trimble-1869-1945](/images/lawrence-mary-trimble-1869-1945-17.png)
-
-**C****hildren and Family Life**
 Mary and François had six children: Oliver Pellier Tonetti, who died shortly after birth in 1901; Ann Elizabeth Tonetti (1903–1990), who married architect [Eric Gugler](/gugler-eric-1889-1974/); Lydia Lawrence Tonetti (1904–1943), who married Robert McKee Hyde; [Joseph Lawrence](/lawrence-joseph-1783-1817/) Tonetti (1905–1963), who married Susan McKee Hyde; Marie Françoise “Chrissie” Tonetti (1907–1972), who married first John Drury Ratcliff and then Allan B. Sheldon; and Alexandra Tonetti (1909–1991), who married Harwood A. White. Despite a busy professional life, Mary ensured her children were educated and exposed to the arts, continuing the family tradition of cultural engagement.
 
 **Later Life, Final Works, and Legacy**
+
 In the 1920s and 1930s, Mary Trimble Lawrence continued to produce sculptures, focusing on portraits and commemorative works. She maintained her studio at Snedens Landing and the Murray Hill residence, balancing family responsibilities with artistic production. Her teaching, which began under Saint-Gaudens and continued at the Art Students League, influenced a generation of sculptors, and her estate at Snedens Landing remained an informal artistic hub.
 
 Mary also completed commissions for private patrons and participated in exhibitions, demonstrating her sustained prominence in American sculpture. Her works were noted for attention to naturalistic detail, expressive composition, and technical skill, reflecting the combination of French academic training and American Renaissance influence she received throughout her career.
 
 **Death and Burial**
+
 Mary Trimble Lawrence died in 1945 at the age of seventy-six. She was survived by her children and grandchildren, many of whom continued the family’s artistic and professional legacy. She is remembered as a pioneering female sculptor, teacher, and mentor, whose contributions bridged American and European sculptural traditions. Mary is buried in the family plot, alongside her parents and siblings, leaving a lasting imprint on both her family and the broader American artistic landscape.
