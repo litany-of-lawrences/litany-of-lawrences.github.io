@@ -1,9 +1,11 @@
 # Breese, Eloise Lawrence (1857–1921)
 
-![breese-eloise-lawrence-1857-1921](/images/breese-eloise-lawrence-1857-1921-1.png)
+![breese-eloise-lawrence-1857-1921](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-eloise-lawrence-1857-1921-1.png)**Parents:** Josiah Salisbury Breese (1812–1865) and Augusta Eloise Lawrence (1828–1907). 
 
-**Parents:** Josiah Salisbury Breese (1812–1865) and Augusta Eloise Lawrence (1828–1907).
 **Spouse:** Adam Gordon Norrie (1862–1927), married November 1906.
+
+**Children:** None recorded
+
 **Kinship:** Fifth cousin four times removed of the post–World War II Smith generation.
 
 **Neighborly Problems and Public Life**
@@ -12,7 +14,7 @@ Eloise Lawrence Breese, known as E. L. Breese, was a prominent New York socialit
 
 Her town house at 35 East Twenty-Second Street was equally well known, not only for its lavish concerts and soirées but for her long feud with her next-door neighbor, Mrs. Elizabeth B. Grannis of No. 33. Mrs. Grannis, president of both the Woman’s Social Purity League and the National League for the Protection of Purity, waged campaigns against fashionable dress and modern dancing. “The décolleté gown,” she told The Evening World in 1894, “and the round dance are the twin evils corrupting society.” Eloise, whose daring gowns and fondness for the waltz symbolized the very world Mrs. Grannis sought to reform, became her frequent adversary.
 
-After years of complaints and disputes—Eloise about “smells” and fires from next door, Mrs. Grannis about moral decay—Eloise finally purchased her neighbor’s house in 1902 “with the understanding that it was to be pulled down,” The Sun reported. Instead, she transformed it into a boarding house decorated “with bows and arrows of primitive peoples and the heads of savages in war paint”. The following year she sued Mrs. Grannis for $249 for removing “a bathtub and the chandeliers.” The reformer retorted, “It is my personal, individual tub… Of course I took it with me.”
+After years of complaints and disputes—Eloise about “smells” and fires from next door, Mrs. Grannis about moral decay—Eloise finally purchased her neighbor’s house in 1902 “with the understanding that it was to be pulled down,” The *Sun* reported. Instead, she transformed it into a boarding house decorated “with bows and arrows of primitive peoples and the heads of savages in war paint”. The following year she sued Mrs. Grannis for $249 for removing “a bathtub and the chandeliers.” The reformer retorted, “It is my personal, individual tub… Of course I took it with me.”
 
 The former Grannis home no longer survives, but Eloise’s adjoining carriage house, at what is now 150 East 22nd Street, remains in altered form.
 
@@ -24,6 +26,6 @@ Long known as a bachelorette, Eloise married late in life, in 1907 at the age of
 
 **Patronage and Legacy**
 
-Eloise Breese’s patronage extended to the arts as well as society. Upon her death on January 28, 1921, she bequeathed two major paintings to the Metropolitan Museum of Art—one by Rousseau and another by Corot, The Wheelwright’s Yard on the Bank of the Seine—along with an extraordinary set of seventeenth-century Audenarde tapestries depicting the story of the Sabine women.
+Eloise Breese’s patronage extended to the arts as well as society. Upon her death on January 28, 1921, she bequeathed two major paintings to the Metropolitan Museum of Art—one by Rousseau and another by Corot, "The Wheelwright’s Yard on the Bank of the Seine"—along with an extraordinary set of seventeenth-century Audenarde tapestries depicting the story of the Sabine women.
 
 These works remain among the museum’s most distinguished gifts from the early twentieth century, emblematic of the taste and flamboyance of a woman who delighted in defying convention.
