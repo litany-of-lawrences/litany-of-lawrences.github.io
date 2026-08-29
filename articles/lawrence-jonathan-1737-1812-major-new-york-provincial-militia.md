@@ -1,12 +1,12 @@
 # Lawrence, Jonathan (1737–1812)
 
-Major, New York Provincial Militia
+**Major, New York Provincial Militia**
 
-![lawrence-jonathan-1737-1812-major-new-york-provincial-militia](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Flawrence-jonathan-1737-1812-major-new-york-provincial-militia-1.png)**Parents:** [John Lawrence (1685–1765)](/lawrence-john-1685-1765/) and Patience Sackett (1701–1772). 
+![lawrence-jonathan-1737-1812-major-new-york-provincial-militia](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Flawrence-jonathan-1737-1812-major-new-york-provincial-militia-1.png)**Parents:** [John Lawrence (1685–1765)](/lawrence-john-1685-1765/) and Patience Sackett (1701–1772).
 
 **Spouse:** (1) 1766, Judith Fish (1749–1767). (2) 1768, Ruth Riker (1746–1818), of the Riker family for whom Rikers Island is named.
 
- **Children:** Jonathan Lawrence (1767–1850), merchant (m. Elizabeth Rogers); Judith Lawrence (1769–1827), m. John Ireland; Margaret Lawrence (1771–1851); Samuel Lawrence (1773–1837), U.S. Representative (m. Elizabeth Ireland); Andrew Lawrence (1775–1806), died abroad of “African fever”; Richard M. Lawrence (1778–1856), merchant and insurance executive; [Abraham Riker Lawrence (1780–1863)](/lawrence-abraham-riker-1780-1863/), early president of the New York & Harlem Railroad; [Joseph Lawrence (1783–1817)](/lawrence-joseph-1783-1817/); [John Lawrence](/lawrence-john-1618-1699/) Lawrence (1785–1849), diplomat; N.Y. State Senator (m. Sarah Augusta Smith); [William Thomas Lawrence (1788–1859)](/lawrence-william-thomas-1788-1859/), merchant (m. Margaret Sophia Muller). **Kinship:** Third cousin seven times removed of the post–World War II Smith generation.
+**Children:** Jonathan Lawrence (1767–1850), merchant (m. Elizabeth Rogers); Judith Lawrence (1769–1827), m. John Ireland; Margaret Lawrence (1771–1851); Samuel Lawrence (1773–1837), U.S. Representative (m. Elizabeth Ireland); Andrew Lawrence (1775–1806), died abroad of “African fever”; Richard M. Lawrence (1778–1856), merchant and insurance executive; [Abraham Riker Lawrence (1780–1863)](/lawrence-abraham-riker-1780-1863/), early president of the New York & Harlem Railroad; [Joseph Lawrence (1783–1817)](/lawrence-joseph-1783-1817/); [John Lawrence](/lawrence-john-1618-1699/) Lawrence (1785–1849), diplomat; N.Y. State Senator (m. Sarah Augusta Smith); [William Thomas Lawrence (1788–1859)](/lawrence-william-thomas-1788-1859/), merchant (m. Margaret Sophia Muller). **Kinship:** Third cousin seven times removed of the post–World War II Smith generation.
 
 **Early Life and Mercantile Career**
 

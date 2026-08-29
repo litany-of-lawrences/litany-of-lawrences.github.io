@@ -1,14 +1,14 @@
 # Lawrence, Jonathan Jr. (1759–1802)
 
-Captain
+**Captain**
 
-**Parents:** **Jonathan Lawrence (1695–1775) and Elisabet Van Klocek (1729****–****1816).**
+**Parents:** **Jonathan Lawrence (1695–1775) and Elisabet Van Klocek (1729**\*\*–\*\***1816).**
 
-**Spouse:** **(1)** **Jeanette Neale** **(1767****–****1790)****;** **(****2) Mary Mann** **(1763****–****1835)**
+**Spouse:** **(1)** **Jeanette Neale** **(1767**\*\*–**1790)**;\*\* \*\*(**2) Mary Mann (1763**–\*\***1835)**
 
-**Children:** **With Jeanette Neale: Charles Lawrence (1786****–1854), Herbert Lawrence (1788–1882),  Eleanor N. Lawrence);** **with Mary Mann****: [Jonathan Lawrence](/lawrence-jonathan-1737-1812-major-new-york-provincial-militia/) III (1795–1883), Jennet Lawrence (1797–1870), George M. Lawrence (1799–1872).**
+**Children:** **With Jeanette Neale: Charles Lawrence (1786**\*\*–1854), Herbert Lawrence (1788–1882), Eleanor N. Lawrence);\*\* **with Mary Mann**\*\*: [Jonathan Lawrence](/lawrence-jonathan-1737-1812-major-new-york-provincial-militia/) III (1795–1883), Jennet Lawrence (1797–1870), George M. Lawrence (1799–1872).\*\*
 
-**Kinship****:** **Third cousin seven times removed of post-World War II Smith generation.**
+**Kinship**\*\*:\*\* **Third cousin seven times removed of post-World War II Smith generation.**
 
 There were numerous men named [Jonathan Lawrence](/lawrence-jonathan-1737-1812-major-new-york-provincial-militia/), all related, many of them contemporaries, and several of whom served in Revolutionary forces. The following account concerns [Jonathan Lawrence](/lawrence-jonathan-1737-1812-major-new-york-provincial-militia/) Jr. (1759–1802) and appears to be the most reliable reconstruction of his life and service.
 
