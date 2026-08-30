@@ -1,11 +1,11 @@
 # Breese, Gretchen Elizabeth (1954–2016)
 
-![breese-gretchen-elizabeth-1954-2016](/images/breese-gretchen-elizabeth-1954-2016-1.jpeg)
+![breese-gretchen-elizabeth-1954-2016](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-gretchen-elizabeth-1954-2016-1.jpeg)**Parents:** [James Lawrence Breese](/breese-james-lawrence-1854-1934/) III (1927–2009) and Eunice Robbins “Terry” Gehr (1929–2020). 
 
-**Parents:** [James Lawrence Breese](/breese-james-lawrence-1854-1934/) III (1927–2009) and Eunice Robbins “Terry” Gehr (1929–2020).
 **Spouse:** Tom Joaquin.
 
-Children: None recorded.
+**Children:** None recorded. 
+
 **Kinship:** Eighth cousin once removed of the post–World War II Smith generation.
 
 **Education**
@@ -30,4 +30,4 @@ In 2013 Gretchen was forced to retire due to the debilitating effects of cancer 
 
 Gretchen Breese died on June 9, 2016, at the age of 61. She was remembered as a rare figure of intellectual intensity and creative generosity—a teacher who inspired thought, a sculptor who sought meaning in form, and a philosopher who found beauty in inquiry. Her life embodied the unity of art and contemplation, intellect and compassion, and she left behind a legacy of teaching and art that continues to influence those who studied with her and knew her work.
 
-______________________________________________________________________________
+---
