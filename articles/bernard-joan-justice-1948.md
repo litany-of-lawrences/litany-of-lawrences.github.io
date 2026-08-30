@@ -1,6 +1,8 @@
 # Bernard, Joan Justice (1948– )
 
-![bernard-joan-justice-1948](/images/bernard-joan-justice-1948-1.png)**Parents:** John T. Bernard (c.1914– ) and Katherine Louise Hamann (1919– 1991).
+![bernard-joan-justice-1948](/images/bernard-joan-justice-1948-1.png)
+
+**Parents:** John T. Bernard (c.1914– ) and Katherine Louise Hamann (1919– 1991).
 
 **Spouse:** (1) George Alexandre Zara (1949– ), married September 1970; (2) Stephen Lakin Sharpe (1946–2015); (3) Dave Moskowitz. 
 

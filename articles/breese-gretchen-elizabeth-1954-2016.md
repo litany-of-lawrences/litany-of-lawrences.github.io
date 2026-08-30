@@ -1,6 +1,8 @@
 # Breese, Gretchen Elizabeth (1954–2016)
 
-![breese-gretchen-elizabeth-1954-2016](/images/breese-gretchen-elizabeth-1954-2016-1.jpeg)**Parents:** [James Lawrence Breese](/breese-james-lawrence-1854-1934/) III (1927–2009) and Eunice Robbins “Terry” Gehr (1929–2020). 
+![breese-gretchen-elizabeth-1954-2016](/images/breese-gretchen-elizabeth-1954-2016-1.jpeg)
+
+**Parents:** [James Lawrence Breese](/breese-james-lawrence-1854-1934/) III (1927–2009) and Eunice Robbins “Terry” Gehr (1929–2020). 
 
 **Spouse:** Tom Joaquin.
 

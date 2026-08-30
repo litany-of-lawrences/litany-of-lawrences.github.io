@@ -1,6 +1,8 @@
 # Breese, Frances Potter (1916–1998)
 
-![breese-frances-potter-1916-1998](/images/breese-frances-potter-1916-1998-1.jpeg)**Parents:** James Lawrence Breese (1884–1959) and [Marjorie Howard Gorges (1894–1948)](/gorges-marjorie-howard-1894-1948/).
+![breese-frances-potter-1916-1998](/images/breese-frances-potter-1916-1998-1.jpeg)
+
+**Parents:** James Lawrence Breese (1884–1959) and [Marjorie Howard Gorges (1894–1948)](/gorges-marjorie-howard-1894-1948/).
 
  **Spouse:** (1) Peter Houston Kilham (1905–1992); (2) David Cabot Forbes (1908–1994). 
 
@@ -18,7 +20,9 @@ In 1935 she married Peter Houston Kilham of the Santa Fe Iron Works. The couple 
 
 After their divorce in 1962, she married David Cabot Forbes (1908–1994). Forbes was a member of the prominent Boston Brahmin family. They settled in Boston and Sherborn, Massachusetts, where she continued her work as an artist and preservationist. Following her husband’s death in 1994, she returned to Santa Fe.
 
-![breese-frances-potter-1916-1998](/images/breese-frances-potter-1916-1998-2.jpeg)**Artistic and Preservation Work**
+![breese-frances-potter-1916-1998](/images/breese-frances-potter-1916-1998-2.jpeg)
+
+**Artistic and Preservation Work**
 
 Frances Breese devoted her later years to the preservation and celebration of New Mexico’s religious and artistic heritage. She helped restore village churches and moradas—the meeting places of the Penitente Brotherhood—and painted historical murals at the Philmont Scout Ranch in Cimarron.
 

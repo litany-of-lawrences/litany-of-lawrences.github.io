@@ -1,6 +1,8 @@
 # Bogert, Henry Lawrence (1857-1933)
 
-![bogert-henry-lawrence-1857-1933](/images/bogert-henry-lawrence-1857-1933-1.jpeg)**Parents:** Henry Augustine Bogert (1827–1905) and [Mary Bowne Lawrence (1830–1898)](/lawrence-mary-bowne-1830-1898/). 
+![bogert-henry-lawrence-1857-1933](/images/bogert-henry-lawrence-1857-1933-1.jpeg)
+
+**Parents:** Henry Augustine Bogert (1827–1905) and [Mary Bowne Lawrence (1830–1898)](/lawrence-mary-bowne-1830-1898/). 
 
 **Spouse:** Carrie Lawrence Osgood (1859–1924). 
 

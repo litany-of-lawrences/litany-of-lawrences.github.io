@@ -1,6 +1,8 @@
 # Bedinger, Caroline “Danske” (1854-1914)
 
-![bedinger-caroline-danske-1854-1914](/images/bedinger-caroline-danske-1854-1914-1.png)**Parents: [Henry Rutherford Bedinger](/bedinger-henry-rutherford-1812-1858/)** (1812–1858) and [Caroline Bowne Lawrence (1827–1869)](/lawrence-caroline-bowne-1827-1869/).
+![bedinger-caroline-danske-1854-1914](/images/bedinger-caroline-danske-1854-1914-1.png)
+
+**Parents: [Henry Rutherford Bedinger](/bedinger-henry-rutherford-1812-1858/)** (1812–1858) and [Caroline Bowne Lawrence (1827–1869)](/lawrence-caroline-bowne-1827-1869/).
 
 **Spouse:** Adam Stephen Dandridge (1844–1924).
 

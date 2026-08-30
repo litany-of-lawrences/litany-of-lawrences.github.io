@@ -1,6 +1,8 @@
 # Alexandre, Frederick Francis (1894–1968)
 
-![alexandre-frederick-francis-1894-1968](/images/alexandre-frederick-francis-1894-1968-1.png)**Parents:** [James Henry Alexandre (1848–1912)](/alexandre-james-henry-1848-1912/) and Elizabeth Boyce Lawrence (1862–1906). Spouse: Regina Mathilde Saportas (1898–1957)..
+![alexandre-frederick-francis-1894-1968](/images/alexandre-frederick-francis-1894-1968-1.png)
+
+**Parents:** [James Henry Alexandre (1848–1912)](/alexandre-james-henry-1848-1912/) and Elizabeth Boyce Lawrence (1862–1906). Spouse: Regina Mathilde Saportas (1898–1957)..
 
 **Children:** Elizabeth Lawrence Alexandre (1917–1964), Frederick Francis Alexandre Jr. (1920–1945), Mathilde Marie Alexandre (1921–2009), Joan Alexandre (1923–1984), Lawrence Armitage Alexandre (1924–1996), Anthony Joseph Alexandre (1926–2021), and Patricia Jane Alexandre (1928–2017).
 

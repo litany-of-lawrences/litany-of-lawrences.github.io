@@ -14,7 +14,9 @@
 
 In 1919 Breese served as engineering officer and co-pilot of the NC-4, the Curtiss flying boat that completed the first successful transatlantic flight—from New York to Lisbon—years before Charles Lindbergh’s solo crossing.
 
-![breese-james-lawrence-ii-1884-1959](/images/breese-james-lawrence-ii-1884-1959-1.jpeg)The NC-4, one of four Navy Curtiss flying boats built for long-distance experimentation, departed from Naval Air Station Rockaway on May 8, 1919, stopping at Halifax and Newfoundland before attempting the longest leg of the journey to the Azores. Escorted by a line of Navy destroyers lighting the night sea with searchlights, the NC-4 reached Horta, Faial Island, after fifteen hours in the air. It was the only one of the three planes to survive the entire crossing; NC-1 sank after damage at sea, and NC-3 was forced down by fog and mechanical problems.
+![breese-james-lawrence-ii-1884-1959](/images/breese-james-lawrence-ii-1884-1959-1.jpeg)
+
+The NC-4, one of four Navy Curtiss flying boats built for long-distance experimentation, departed from Naval Air Station Rockaway on May 8, 1919, stopping at Halifax and Newfoundland before attempting the longest leg of the journey to the Azores. Escorted by a line of Navy destroyers lighting the night sea with searchlights, the NC-4 reached Horta, Faial Island, after fifteen hours in the air. It was the only one of the three planes to survive the entire crossing; NC-1 sank after damage at sea, and NC-3 was forced down by fog and mechanical problems.
 
 After repairs in the Azores, the NC-4 continued to Lisbon on May 27, completing the first flight ever made across any ocean—a historic milestone in aviation. The crew was celebrated worldwide, and Breese received the Navy Cross and the Congressional Gold Medal for his role. His daughter Mary NC Breese was named for the aircraft that had carried him into history.
 
@@ -26,7 +28,9 @@ Studying the combustion of a candle flame, he designed a burner that maintained 
 
 **Santa Fe Years**
 
-![breese-james-lawrence-ii-1884-1959](/images/breese-james-lawrence-ii-1884-1959-2.png)Breese’s first encounter with Santa Fe was accidental. While piloting a Ford Trimotor to Winslow, Arizona, he ran low on fuel and followed an arrow painted on a rooftop that guided him to a small landing strip outside Santa Fe. Captivated by the landscape, he bought property on Upper Canyon Road and built a house. There he continued to refine and test the Breese Burner while overseeing manufacturing partnerships around the country.
+![breese-james-lawrence-ii-1884-1959](/images/breese-james-lawrence-ii-1884-1959-2.png)
+
+Breese’s first encounter with Santa Fe was accidental. While piloting a Ford Trimotor to Winslow, Arizona, he ran low on fuel and followed an arrow painted on a rooftop that guided him to a small landing strip outside Santa Fe. Captivated by the landscape, he bought property on Upper Canyon Road and built a house. There he continued to refine and test the Breese Burner while overseeing manufacturing partnerships around the country.
 
 The factory building on Upper Canyon Road later became part of Santa Fe Preparatory School. Breese became a well-known local figure, equally at home among engineers, pilots, and the artists and architects who frequented Santa Fe’s growing cultural circle. During World War II he served in the Civil Air Patrol.
 
