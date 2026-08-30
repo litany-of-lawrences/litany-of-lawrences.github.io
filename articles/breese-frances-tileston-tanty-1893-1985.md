@@ -1,11 +1,12 @@
 # Breese, Frances Tileston “Tanty” (1893–1985)
 
-![breese-frances-tileston-tanty-1893-1985](/images/breese-frances-tileston-tanty-1893-1985-1.png)
+![breese-frances-tileston-tanty-1893-1985](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-frances-tileston-tanty-1893-1985-1.png)**Parents:** James Lawrence Breese (1855–1934) and Frances Tileston Potter (1858–1917).
 
-**Parents:** James Lawrence Breese (1855–1934) and Frances Tileston Potter (1858–1917).
-**Spouse:** (1) Lawrence McKeever Miller (1889–1970); (2) Arsene Marius (1915–).
+ **Spouse:** (1) Lawrence McKeever Miller (1889–1970); (2) Arsene Marius (1915–). 
+
 **Children:** Edith Breese Miller (1916–1998), George McCulloh “Cully” Miller III (1920–2002), and Lawrence McKeever Miller Jr. (1920–2007).
-**Kinship:** Sixth cousin three times removed of the post–World War II Smith generation.
+
+ **Kinship:** Sixth cousin three times removed of the post–World War II Smith generation.
 
 **Early Life and Relationship with Father**
 
@@ -17,60 +18,94 @@ However, her father’s flagrant philandering and financial volatility strained 
 
 **A Poem for Her Father**
 
-Tanty, his youngest child
-How well do I remember
-The year of ninety-three
+Tanty, his youngest child 
+
+How well do I remember 
+
+The year of ninety-three 
+
 when Father and my Mother
-Had just created Me.
 
-T’was from my painted iron crib
+ Had just created Me.
+
+T’was from my painted iron crib 
+
 while blowing bubbles in my bib
-I used to look with wonder on
-The costumes that my Pa would don.
 
-For fancy dress at every party
-Was much the vogue if you were “arty”
+ I used to look with wonder on
+
+ The costumes that my Pa would don.
+
+For fancy dress at every party 
+
+Was much the vogue if you were “arty” 
+
 In the eighties and the nineties
-And the naughty nineteen oughties
+
+ And the naughty nineteen oughties
 
 Then later, when a little tot,
-(You may believe I was, or not)
-I used to watch and have much fun
-When Jimmy made his horses run.
 
-For trotting then was much the fad
+ (You may believe I was, or not)
+
+ I used to watch and have much fun
+
+ When Jimmy made his horses run.
+
+For trotting then was much the fad 
+
 And moving slow was not for Dad.
-Give him action, give him speed,
-He likes them fast… yes Sir, indeed.
 
-In horses, women, games and sport
-Slow movers never were his sort.
-(Of course all this is merely heresay,
+ Give him action, give him speed,
+
+ He likes them fast… yes Sir, indeed.
+
+In horses, women, games and sport 
+
+Slow movers never were his sort. 
+
+(Of course all this is merely heresay, 
+
 But rumors sometimes reach the nursray.)
 
 So, by the time I could count ten
-I’d heard a thing or two. For instance when
-A little fairy flitting by
+
+ I’d heard a thing or two. For instance when
+
+ A little fairy flitting by 
+
 Told me the tale about the Pie.
 
 She said no crows came out that night.
-Instead, a vision of delight;
-A fancy from the brain of him
+
+ Instead, a vision of delight;
+
+ A fancy from the brain of him 
+
 Who all my friends call Uncle Jim.
 
-But in the fear that I might tell
+But in the fear that I might tell 
+
 Too much, it would be well
-Only to mention with a word
+
+ Only to mention with a word 
+
 Some of the things that I have heard.
 
 About his prowess and his skill;
-The birds he’s shot, the fish he’s killed,
-The boats he’s sailed, the cars he’s driven,
+
+ The birds he’s shot, the fish he’s killed,
+
+ The boats he’s sailed, the cars he’s driven, 
+
 And his immense success with women.
 
 So if you lesser men are spurned
-Because as yet you haven’t learned
-To charm the birds from off the trees,
+
+ Because as yet you haven’t learned 
+
+To charm the birds from off the trees, 
+
 You’d best tune in on Jimmy Breese.
 
 **Education and Adolescence**
@@ -95,9 +130,7 @@ During World War I, she trained with the Red Cross, drilled at the Armory, and l
 
 **Later Life and Artistic Pursuits**
 
-![breese-frances-tileston-tanty-1893-1985](/images/breese-frances-tileston-tanty-1893-1985-2.jpeg)
-
-After the war, the Millers lived in Hewlett, Long Island, though Tanty found suburban life frustrating. She cherished summers at Southampton, and after her father remarried Grace Lucille Momand, a woman near Tanty’s own age, she and her husband rented their own house.
+![breese-frances-tileston-tanty-1893-1985](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-frances-tileston-tanty-1893-1985-2.jpeg)After the war, the Millers lived in Hewlett, Long Island, though Tanty found suburban life frustrating. She cherished summers at Southampton, and after her father remarried Grace Lucille Momand, a woman near Tanty’s own age, she and her husband rented their own house.
 
 Encouraged by artist Rachel Hartley to paint, she began to work seriously, but her husband disapproved, and she gave up the pursuit. A nervous breakdown preceded their eventual divorce in 1930.
 
@@ -111,4 +144,4 @@ Frances Tileston Breese Miller spent her later years at The Sandbox, painting an
 
 Adapted from “High Style in the Gilded Age: Frances Breese Miller” by Mary Cummings.
 
-______________________________________________________________________________
+---
