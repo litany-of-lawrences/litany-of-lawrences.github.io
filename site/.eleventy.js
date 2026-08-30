@@ -64,6 +64,29 @@ module.exports = function (eleventyConfig) {
     return panelLines.join("<br>\n");
   });
 
+  // Images in the preamble (before the metadata panel) are skipped by both
+  // metaPanel and articleBody, so nothing rendered them. Pull them out for the
+  // template. Only panel articles need this — without a panel, articleBody
+  // already keeps its images.
+  eleventyConfig.addFilter("leadImages", function(html) {
+    const lines = html.split("\n");
+    const first = firstContentLine(lines);
+    if (!first || !isMetaLine(first.trim())) return "";
+
+    const images = [];
+    for (const line of lines) {
+      const stripped = line.trim();
+      if (!stripped) continue;
+      if (/^<h[1-6]/.test(stripped)) continue;
+      if (/^<p><img/.test(stripped)) {
+        images.push(stripped);
+        continue;
+      }
+      break; // reached the metadata panel
+    }
+    return images.join("\n");
+  });
+
   // Pagefind excerpt: start from the "Early Life" section if present
   eleventyConfig.addFilter("pagefindExcerpt", function(html) {
     const re = /<strong>early\s+life[^<]*<\/strong>/i;

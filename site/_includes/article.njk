@@ -47,6 +47,11 @@
     {% endif %}
     <hr>
 
+    {% set leadHtml = content | leadImages %}
+    {% if leadHtml %}
+    {{ leadHtml | safe }}
+    {% endif %}
+
     {% set panelHtml = content | metaPanel %}
     {% if panelHtml %}
     <div class="meta-panel" data-pagefind-ignore>{{ panelHtml | safe }}</div>
