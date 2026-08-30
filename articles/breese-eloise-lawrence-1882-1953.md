@@ -1,8 +1,14 @@
 # Breese, Eloise Lawrence (1882–1953)
 
-COUNTESS OF ANCASTER
+**COUNTESS OF ANCASTER**
 
-![breese-eloise-lawrence-1882-1953](asset://localhost/%2FUsers%2Fadmin%2FLibrary%2FApplication%20Support%2Flitany-of-lawrences%2Frepo%2Fimages%2Fbreese-eloise-lawrence-1882-1953-1.jpeg)**Parents:** [William Lawrence](/lawrence-william-1776-1848/) Breese (1854–1888) and Mary Louise Parsons (1857–1948). **Spouse:** Gilbert Heathcote-Drummond-Willoughby (1867–1951), later 2nd Earl of Ancaster, married December 6, 1905. **Children:** Lady Catherine Mary Clementina Heathcote-Drummond-Willoughby (1906–1996), James Heathcote-Drummond-Willoughby, 3rd Earl of Ancaster (1907–1983), Lady Priscilla Heathcote-Drummond-Willoughby (1909–2002), Hon. John Heathcote-Drummond-Willoughby (1914–1970). **Kinship:** Sixth cousin three times removed of the post–World War II Smith generation.
+**Parents:** [William Lawrence](/lawrence-william-1776-1848/) Breese (1854–1888) and Mary Louise Parsons (1857–1948). 
+
+**Spouse:** Gilbert Heathcote-Drummond-Willoughby (1867–1951), later 2nd Earl of Ancaster, married December 6, 1905. 
+
+**Children:** Lady Catherine Mary Clementina Heathcote-Drummond-Willoughby (1906–1996), James Heathcote-Drummond-Willoughby, 3rd Earl of Ancaster (1907–1983), Lady Priscilla Heathcote-Drummond-Willoughby (1909–2002), Hon. John Heathcote-Drummond-Willoughby (1914–1970). 
+
+**Kinship:** Sixth cousin three times removed of the post–World War II Smith generation.
 
 **Early Life**
 
