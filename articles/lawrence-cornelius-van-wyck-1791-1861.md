@@ -2,7 +2,7 @@
 
 U.S. Congressman, Mayor of New York City
 
-![lawrence-cornelius-van-wyck-1791-1861](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Flawrence-cornelius-van-wyck-1791-1861-1.jpeg)**Parents:** Henry Lawrence (1767–1824) and Harriet Van Wyck (1771–1812) 
+![lawrence-cornelius-van-wyck-1791-1861](/images/lawrence-cornelius-van-wyck-1791-1861-1.jpeg)**Parents:** Henry Lawrence (1767–1824) and Harriet Van Wyck (1771–1812) 
 
 **Spouse:** (1) Maria C. Prall (1797–1820); (2) Rachel Ann Hicks (1798–1838); (3) [Lydia Ann Lawrence (1811–1879)](/lawrence-lydia-ann-1811-1879/)
 
@@ -18,7 +18,7 @@ Although influenced by Quaker relatives, Cornelius grew up in a New York that wa
 
 In 1812, Cornelius entered the auction and dry-goods firm of Shotwell, Hicks & Co., located on Pearl Street. At that time, auction houses were among the vital organs of New York commerce, handling everything from bankrupt stock to European luxury goods and cargoes newly arrived from the Caribbean or China. The atmosphere was competitive and often hectic, for buyers and sellers crowded the rooms, and the auctioneer’s voice had to rise above the clamor inside and the noise drifting in from the street.
 
-![lawrence-cornelius-van-wyck-1791-1861](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Flawrence-cornelius-van-wyck-1791-1861-2.jpeg)Cornelius soon proved himself an able and trustworthy young merchant. The firm later became Hicks, Lawrence & Co., signifying his advancement. His association with the Hicks family extended beyond business. In 1821, he married Rachel Ann Hicks, daughter of Willett Hicks, a well-known Quaker minister and respected merchant. Willett was a figure of some fascination in his day, for he was widely said (though disputed at the time) to have visited the deist Thomas Paine during his final illness. Through the Hickses, Cornelius entered a wider circle of merchants, religious leaders, and civic influencers whose combined influence extended into politics as well as trade.
+![lawrence-cornelius-van-wyck-1791-1861](/images/lawrence-cornelius-van-wyck-1791-1861-2.jpeg)Cornelius soon proved himself an able and trustworthy young merchant. The firm later became Hicks, Lawrence & Co., signifying his advancement. His association with the Hicks family extended beyond business. In 1821, he married Rachel Ann Hicks, daughter of Willett Hicks, a well-known Quaker minister and respected merchant. Willett was a figure of some fascination in his day, for he was widely said (though disputed at the time) to have visited the deist Thomas Paine during his final illness. Through the Hickses, Cornelius entered a wider circle of merchants, religious leaders, and civic influencers whose combined influence extended into politics as well as trade.
 
 Willett Hicks by Rembrandt Peale
 
@@ -48,7 +48,7 @@ As the Bank War intensified, Cornelius found himself in a difficult position. Hi
 
 They continued: “Yet he voted for the removal on a pledge, well kept, that he would get the fingering of two millions of dollars of these deposits himself, for a bank to be started in Wall street, with special privileges, and called the Bank of the State of New York, of which he and his cronies should have the control, the jugglery of disposing of its shares, etc.
 
-![lawrence-cornelius-van-wyck-1791-1861](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Flawrence-cornelius-van-wyck-1791-1861-3.jpeg)When Cornelius visited New York and his merchant friends asked for an explanation of his actions, he explained that “he had bound himself BY A WRITTEN PLEDGE to uphold the party. Such was his sense of the embarrassments of his situation that HE ACTUALLY WEPT.”
+![lawrence-cornelius-van-wyck-1791-1861](/images/lawrence-cornelius-van-wyck-1791-1861-3.jpeg)When Cornelius visited New York and his merchant friends asked for an explanation of his actions, he explained that “he had bound himself BY A WRITTEN PLEDGE to uphold the party. Such was his sense of the embarrassments of his situation that HE ACTUALLY WEPT.”
 
 Accusations circulated that he had agreed to support Jackson’s policy in exchange for future influence in the management of state banks that would receive federal deposits. Although such claims were part of the rough political combat of the day and cannot be taken at face value, they show how his business background made him a target for suspicions of self-interest.
 
@@ -58,7 +58,7 @@ When Cornelius returned to New York from Washington, he stepped into a city unde
 
 **The New York Mayoral Election of 1834**
 
-![lawrence-cornelius-van-wyck-1791-1861](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Flawrence-cornelius-van-wyck-1791-1861-4.jpeg)*Verplank, The Man with the Soul of a Poet* 
+![lawrence-cornelius-van-wyck-1791-1861](/images/lawrence-cornelius-van-wyck-1791-1861-4.jpeg)*Verplank, The Man with the Soul of a Poet* 
 
 The shift toward popular election of the mayor gave Cornelius an opening for civic leadership. In 1834 he became the first mayor of New York City to be chosen directly by the voters, rather than appointed by the Common Council. Prior to 1834 mayors of the City of New York had been appointed, first by the colonial government, and then by the Common Council, the predecessor of the City Council.  In the spirit of democracy, it was decided to let the voters of New York elect the sixty–first mayor. Cornelius Lawrence ran as a Tammany Democrat against Gulian Crommelin Verplanck, the Whig candidate, a poet and former Democrat.
 
@@ -84,7 +84,7 @@ The urban rumor mill was busy manufacturing stories: “In May and June 1834, th
 
 So the Irish, resenting competition from free blacks, rioted.
 
-![lawrence-cornelius-van-wyck-1791-1861](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Flawrence-cornelius-van-wyck-1791-1861-5.jpeg)On Wednesday evening, July 9, three interconnected riots erupted. Several thousand whites gathered at the Chatham Street Chapel; their object was to break up a planned anti–slavery meeting. When the abolitionists, alerted, did not appear, the crowd broke in and held a counter–meeting, mocking the “black style” of preaching and calling for deportation of blacks to Africa.
+![lawrence-cornelius-van-wyck-1791-1861](/images/lawrence-cornelius-van-wyck-1791-1861-5.jpeg)On Wednesday evening, July 9, three interconnected riots erupted. Several thousand whites gathered at the Chatham Street Chapel; their object was to break up a planned anti–slavery meeting. When the abolitionists, alerted, did not appear, the crowd broke in and held a counter–meeting, mocking the “black style” of preaching and calling for deportation of blacks to Africa.
 
 The mob targeted homes, businesses, churches, and other buildings associated with the abolitionists and African Americans. More than seven churches and a dozen houses were damaged, many of them belonging to African Americans. The home of Reverend Peter Williams, an African-American Episcopal priest, was damaged, and his St. Philip’s African Episcopal Church was utterly demolished. One group of rioters reportedly carried a hogshead of black ink with which to dunk white abolitionists. In addition to other targeted churches, the Charlton Street home of Rev. Samuel Hanson Cox was invaded and vandalized. The rioting was heaviest in the Five Points.
 
@@ -122,7 +122,7 @@ What had happened is that Cornelius, like almost every other male in New York ov
 
 The Sacramento Daily Union of November 18, 1856, reported “The Heavy Black Mail Operations. — Some months ago, as will be remembered, Ex–Mayor Cornelius W. Lawrence preferred a charge of perjury against Mr. A. Brown, formerly a Deputy U. S. Marshal of this city, for swearing falsely in one of the Law Courts. It was expected that, during the examination into the merits of this charge of perjury, certain facts relating to enormous black mail operations, which Brown practiced upon the Ex–Mayor, at intervals during a period of eighteen years, by which he obtained from Mr. Lawrence over $100,000, would be brought to the notice of the Court, but owing to the continued absence from Court of Mr. Lawrence on every occasion, when the case was to have been examined, the magistrate, Justice Flandreau, was determined to dismiss the complaint, and did so. Brown, it will be remembered, was stated to have been in possession of certain secrets touching the Ex–Mayor’s intimacy with a female twenty years or longer ago, and by means of threats to expose, he succeeded in getting from Mr. L. large sums of money at various times, in the aggregate amounting to over $100,000.
 
-![lawrence-cornelius-van-wyck-1791-1861](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Flawrence-cornelius-van-wyck-1791-1861-6.jpeg)“For years the Ex–Mayor suffered the infamous extortion to go on, but finally he refused giving Brown any more money and then only the circumstances of Mr. L.’s youthful indiscretion was made public, although some of his friends knew of it years ago, and advised him not to give Brown a cent, but to let him make the expose and then have the affair cleared up. Mr. Lawrence, however, declined this course, and has, accordingly, suffered from Brown’s extortions. The latter was under bonds of $5,000 to answer the charge of perjury, but is now discharged and his bondsmen liberated. He was formerly owner of a public house called “the Red House,” at Harlem, and for years past has lived extravagantly.
+![lawrence-cornelius-van-wyck-1791-1861](/images/lawrence-cornelius-van-wyck-1791-1861-6.jpeg)“For years the Ex–Mayor suffered the infamous extortion to go on, but finally he refused giving Brown any more money and then only the circumstances of Mr. L.’s youthful indiscretion was made public, although some of his friends knew of it years ago, and advised him not to give Brown a cent, but to let him make the expose and then have the affair cleared up. Mr. Lawrence, however, declined this course, and has, accordingly, suffered from Brown’s extortions. The latter was under bonds of $5,000 to answer the charge of perjury, but is now discharged and his bondsmen liberated. He was formerly owner of a public house called “the Red House,” at Harlem, and for years past has lived extravagantly.
 
 The Red House tavern in Harlem was a mecca of the fast set’s “manly sports,” sports which were not limited to cricket and horse racing.
 

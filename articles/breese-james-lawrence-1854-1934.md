@@ -1,6 +1,6 @@
 # Breese, James Lawrence (1854–1934)
 
-![breese-james-lawrence-1854-1934](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-james-lawrence-1854-1934-1.jpeg)**Parents:** Josiah Salisbury Breese (1812–1865) and Augusta Eloise Lawrence (1829–1907).
+![breese-james-lawrence-1854-1934](/images/breese-james-lawrence-1854-1934-1.jpeg)**Parents:** Josiah Salisbury Breese (1812–1865) and Augusta Eloise Lawrence (1829–1907).
 
  **Spouse:** (1) Frances Tileston Potter (1858–1917); (2) Grace Lucille Momand (1894–1946). 
 
@@ -14,7 +14,7 @@ James Lawrence Breese, known to family and friends as “Jim” or “Jimmy,” 
 
 **The Carbon Studio and Photography**
 
-![breese-james-lawrence-1854-1934](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-james-lawrence-1854-1934-2.png)Breese was a passionate amateur photographer who mastered the difficult and exacting carbon printing process, producing richly pigmented, archival photographic images. His work was of sufficient technical and artistic quality to attract serious attention: he collaborated with Rudolf Eickemeyer and was one of only two Americans—along with Alfred Stieglitz—invited to exhibit at the Vienna International Photographic Exhibition of 1893, where he won first prize.
+![breese-james-lawrence-1854-1934](/images/breese-james-lawrence-1854-1934-2.png)Breese was a passionate amateur photographer who mastered the difficult and exacting carbon printing process, producing richly pigmented, archival photographic images. His work was of sufficient technical and artistic quality to attract serious attention: he collaborated with Rudolf Eickemeyer and was one of only two Americans—along with Alfred Stieglitz—invited to exhibit at the Vienna International Photographic Exhibition of 1893, where he won first prize.
 
 At his New York home at 5 East 16th Street, Breese built an elaborate studio, dubbed The Carbon Studio (right), where he photographed New York’s fashionable society and theatrical figures. He was among the earliest amateurs to experiment with color photography. His studio also became infamous for its after-hours entertainments and erotic photography.
 
@@ -22,13 +22,13 @@ At his New York home at 5 East 16th Street, Breese built an elaborate studio, du
 
 Breese photographed adults but preferred young girls, both as models and perhaps as more than models.
 
-![breese-james-lawrence-1854-1934](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-james-lawrence-1854-1934-3.png)![breese-james-lawrence-1854-1934](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-james-lawrence-1854-1934-4.png)![breese-james-lawrence-1854-1934](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-james-lawrence-1854-1934-5.png)![breese-james-lawrence-1854-1934](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-james-lawrence-1854-1934-6.png)**Costumes**
+![breese-james-lawrence-1854-1934](/images/breese-james-lawrence-1854-1934-3.png)![breese-james-lawrence-1854-1934](/images/breese-james-lawrence-1854-1934-4.png)![breese-james-lawrence-1854-1934](/images/breese-james-lawrence-1854-1934-5.png)![breese-james-lawrence-1854-1934](/images/breese-james-lawrence-1854-1934-6.png)**Costumes**
 
 Costume parties were favored by the moneyed classes. It enabled them to dress outlandishly, and Breese loved nothing more than to be outlandish.
 
-![breese-james-lawrence-1854-1934](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-james-lawrence-1854-1934-7.png)**0**
+![breese-james-lawrence-1854-1934](/images/breese-james-lawrence-1854-1934-7.png)**0**
 
-![breese-james-lawrence-1854-1934](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-james-lawrence-1854-1934-8.png)![breese-james-lawrence-1854-1934](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-james-lawrence-1854-1934-9.jpeg)![breese-james-lawrence-1854-1934](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-james-lawrence-1854-1934-10.png)![breese-james-lawrence-1854-1934](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-james-lawrence-1854-1934-11.jpeg)One nearly ended in disaster. A descendant of James Breese, Otto Dittenhoffer, wrote; “Perhaps the most celebrated of the “1001 Nights” costume parties took place on December 17, 1896. It involved a pyrotechnic mishap that captured the attention of the press and the public at large.
+![breese-james-lawrence-1854-1934](/images/breese-james-lawrence-1854-1934-8.png)![breese-james-lawrence-1854-1934](/images/breese-james-lawrence-1854-1934-9.jpeg)![breese-james-lawrence-1854-1934](/images/breese-james-lawrence-1854-1934-10.png)![breese-james-lawrence-1854-1934](/images/breese-james-lawrence-1854-1934-11.jpeg)One nearly ended in disaster. A descendant of James Breese, Otto Dittenhoffer, wrote; “Perhaps the most celebrated of the “1001 Nights” costume parties took place on December 17, 1896. It involved a pyrotechnic mishap that captured the attention of the press and the public at large.
 
 In the words of a society columnist of the day: “The host received his guests in the costume of an Arab sheik. He is a man of commanding presence, with a dark beard and looked the part very well, indeed. Mrs. Breese, made up as a Spanish dancing girl, helped him to welcome the guests.
 
@@ -46,7 +46,7 @@ In the words of a society columnist of the day: “The host received his guests 
 
 Breese’s Wednesday-night gatherings, known as the “One of 1001 Nights” parties, drew artists, architects, actors, and members of the Gilded Age elite, including John Singer Sargent, Louis Saint-Gaudens, Dana Gibson, and his intimate friend Stanford White. Guests appeared in elaborate costume, drank champagne from silver buckets, and mingled amid what one reporter described as “a bacchanal of bohemian New York.”
 
-![breese-james-lawrence-1854-1934](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-james-lawrence-1854-1934-12.jpeg)![breese-james-lawrence-1854-1934](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-james-lawrence-1854-1934-13.jpeg)![breese-james-lawrence-1854-1934](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-james-lawrence-1854-1934-14.jpeg)The parties reached their scandalous height on December 17, 1896, when a pyrotechnic mishap nearly burned one of the guests alive, and again with the notorious “Pie Girl Dinner.”
+![breese-james-lawrence-1854-1934](/images/breese-james-lawrence-1854-1934-12.jpeg)![breese-james-lawrence-1854-1934](/images/breese-james-lawrence-1854-1934-13.jpeg)![breese-james-lawrence-1854-1934](/images/breese-james-lawrence-1854-1934-14.jpeg)The parties reached their scandalous height on December 17, 1896, when a pyrotechnic mishap nearly burned one of the guests alive, and again with the notorious “Pie Girl Dinner.”
 
 At that event, held near dawn in the Carbon Studio, four Black servants carried in an enormous papier-mâché pie, from which emerged a fifteen-year-old girl draped in black gauze, releasing live canaries as the orchestra struck up “Sing a Song of Sixpence.” Stanford White lifted the girl from the pie—an episode later woven into the Thaw–White murder case when Harry K. Thaw shot White atop Madison Square Garden in 1906.
 
@@ -56,17 +56,17 @@ Newspapers like Joseph Pulitzer’s World denounced the event as “a bacchanali
 
 Another way James Breese sought thrills was through the new sport of automobile racing.
 
-![breese-james-lawrence-1854-1934](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-james-lawrence-1854-1934-15.jpeg)At the 1904 Vanderbilt Cup Race, James Breese walking on the Jericho Turnpike Course (left)
+![breese-james-lawrence-1854-1934](/images/breese-james-lawrence-1854-1934-15.jpeg)At the 1904 Vanderbilt Cup Race, James Breese walking on the Jericho Turnpike Course (left)
 
-![breese-james-lawrence-1854-1934](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-james-lawrence-1854-1934-16.jpeg)James Breese, William K. Vanderbilt, Jr., and other participants of the 1904 Daytona-Ormond Beach Automobile Races. (above)
+![breese-james-lawrence-1854-1934](/images/breese-james-lawrence-1854-1934-16.jpeg)James Breese, William K. Vanderbilt, Jr., and other participants of the 1904 Daytona-Ormond Beach Automobile Races. (above)
 
-![breese-james-lawrence-1854-1934](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-james-lawrence-1854-1934-17.jpeg)James Breese at the Eagle Rock Hill Climb
+![breese-james-lawrence-1854-1934](/images/breese-james-lawrence-1854-1934-17.jpeg)James Breese at the Eagle Rock Hill Climb
 
-![breese-james-lawrence-1854-1934](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-james-lawrence-1854-1934-18.jpeg)James Breese at the 1905 Daytona-Ormond Automobile Races.
+![breese-james-lawrence-1854-1934](/images/breese-james-lawrence-1854-1934-18.jpeg)James Breese at the 1905 Daytona-Ormond Automobile Races.
 
 On August 9, 1904 at 2 P.M. James Breese arrived at St. Louis for the World’s Fair. He had driven his forty-horsepower touring car from Buffalo to St. Louis in 36 hours, averaging 25 mph. His son James Breese Jr., his valet, and a machinist accompanied him. The others in the race arrived a day later.
 
-![breese-james-lawrence-1854-1934](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-james-lawrence-1854-1934-19.png)James also used his engineering knowledge to experiment with the manufacture of planes.
+![breese-james-lawrence-1854-1934](/images/breese-james-lawrence-1854-1934-19.png)James also used his engineering knowledge to experiment with the manufacture of planes.
 
 Penguin (right) was a non-flying trainer.
 
@@ -74,16 +74,16 @@ Penguin (right) was a non-flying trainer.
 
 In addition to his houses The Breezes and The Orchards, James had an apartment at the Hotel des Artistes in Manhattan: “The living room is 60 feet by 30 feet. Its furniture includes some enormous pieces of old English silver. Venetian columns of red, blue, and gold lend indescribable richness to the walls. Mr. Breese finds comfort on a divan covered with old Spanish brocade. One of his many fancies is to “have his fire screen decorated with live smilax, fresh every day, all year ’round.
 
-![breese-james-lawrence-1854-1934](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-james-lawrence-1854-1934-20.png)**The Last Act**
+![breese-james-lawrence-1854-1934](/images/breese-james-lawrence-1854-1934-20.png)**The Last Act**
 
 After his first wife died, at age 64 he married the Southern belle Grace Lucile Momand (1894-1946), who was 23. They married in 1919; she divorced him in 1927 and immediately became the second of the three wives of Harry Payne Bingham.
 
 Breese provided endless copy for the scandal sheets.
 
-![breese-james-lawrence-1854-1934](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-james-lawrence-1854-1934-21.png)**The Denouement**
+![breese-james-lawrence-1854-1934](/images/breese-james-lawrence-1854-1934-21.png)**The Denouement**
 
 James’s daughter Frances reminisces: “In 1935 \[actually, 1934\] he lost his last fortune, and The Orchard, our summer home in Southampton, was sold to Charles Merrill. Papa took an around the world trip by steamer, became a short-wave radio enthusiast, and on his return built a two-bedroom house that he called “Breese In” on Hill Street, next to his former home. He did much of his own cooking, and old Mrs. Raccosta, who had been with our family for many years, cleaned house for him. Even though Papa was in his late seventies, the change in circumstances did not phase him. He was still attractive to women, and, when he could no longer drive a car, he acquired a beautiful young companion-housekeeper-chauffeur and toured the country with her. When he died at the age of eighty, she committed suicide.”
 
-![breese-james-lawrence-1854-1934](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-james-lawrence-1854-1934-22.jpeg)James Breese and his grandchildren
+![breese-james-lawrence-1854-1934](/images/breese-james-lawrence-1854-1934-22.jpeg)James Breese and his grandchildren
 
-![breese-james-lawrence-1854-1934](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-james-lawrence-1854-1934-23.jpeg)
+![breese-james-lawrence-1854-1934](/images/breese-james-lawrence-1854-1934-23.jpeg)

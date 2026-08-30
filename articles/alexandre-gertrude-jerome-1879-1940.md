@@ -1,6 +1,6 @@
 # Alexandre, Gertrude Jerome (1879–1940)
 
-![alexandre-gertrude-jerome-1879-1940](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Falexandre-gertrude-jerome-1879-1940-1.png)**Parents**: [James Henry Alexandre (1848–1912)](/alexandre-james-henry-1848-1912/) and [Gertrude Jerome (1853–1883)](/jerome-gertrude-1853-1883/).
+![alexandre-gertrude-jerome-1879-1940](/images/alexandre-gertrude-jerome-1879-1940-1.png)**Parents**: [James Henry Alexandre (1848–1912)](/alexandre-james-henry-1848-1912/) and [Gertrude Jerome (1853–1883)](/jerome-gertrude-1853-1883/).
 
 **Spouse:** Samuel Adams Clark (1874–1931).
 

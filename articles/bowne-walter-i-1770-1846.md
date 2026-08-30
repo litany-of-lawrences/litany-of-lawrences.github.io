@@ -2,7 +2,7 @@
 
 **Mayor of New York City**
 
-![bowne-walter-i-1770-1846](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbowne-walter-i-1770-1846-1.png)**Parents:** James Bowne (1728–1793) and Caroline Rodman (1734–1818)
+![bowne-walter-i-1770-1846](/images/bowne-walter-i-1770-1846-1.png)**Parents:** James Bowne (1728–1793) and Caroline Rodman (1734–1818)
 
  **Spouse:** Elizabeth “Liza” Southgate (1783–1809). 
 

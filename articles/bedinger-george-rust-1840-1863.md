@@ -2,7 +2,7 @@
 
 **Captain C.S.A.**
 
-![bedinger-george-rust-1840-1863](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbedinger-george-rust-1840-1863-1.png)**Parents: [Henry Rutherford Bedinger (1812–1858)](/bedinger-henry-rutherford-1812-1858/)** and Margaret Rust (1818–1843)
+![bedinger-george-rust-1840-1863](/images/bedinger-george-rust-1840-1863-1.png)**Parents: [Henry Rutherford Bedinger (1812–1858)](/bedinger-henry-rutherford-1812-1858/)** and Margaret Rust (1818–1843)
 
 **Spouse:** None recorded
 

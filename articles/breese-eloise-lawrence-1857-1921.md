@@ -1,6 +1,6 @@
 # Breese, Eloise Lawrence (1857–1921)
 
-![breese-eloise-lawrence-1857-1921](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-eloise-lawrence-1857-1921-1.png)**Parents:** Josiah Salisbury Breese (1812–1865) and Augusta Eloise Lawrence (1828–1907). 
+![breese-eloise-lawrence-1857-1921](/images/breese-eloise-lawrence-1857-1921-1.png)**Parents:** Josiah Salisbury Breese (1812–1865) and Augusta Eloise Lawrence (1828–1907). 
 
 **Spouse:** Adam Gordon Norrie (1862–1927), married November 1906.
 

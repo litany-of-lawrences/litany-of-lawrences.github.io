@@ -1,6 +1,6 @@
 # Breese, Frances Tileston “Tanty” (1893–1985)
 
-![breese-frances-tileston-tanty-1893-1985](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-frances-tileston-tanty-1893-1985-1.png)**Parents:** James Lawrence Breese (1855–1934) and Frances Tileston Potter (1858–1917).
+![breese-frances-tileston-tanty-1893-1985](/images/breese-frances-tileston-tanty-1893-1985-1.png)**Parents:** James Lawrence Breese (1855–1934) and Frances Tileston Potter (1858–1917).
 
  **Spouse:** (1) Lawrence McKeever Miller (1889–1970); (2) Arsene Marius (1915–). 
 
@@ -130,7 +130,7 @@ During World War I, she trained with the Red Cross, drilled at the Armory, and l
 
 **Later Life and Artistic Pursuits**
 
-![breese-frances-tileston-tanty-1893-1985](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbreese-frances-tileston-tanty-1893-1985-2.jpeg)After the war, the Millers lived in Hewlett, Long Island, though Tanty found suburban life frustrating. She cherished summers at Southampton, and after her father remarried Grace Lucille Momand, a woman near Tanty’s own age, she and her husband rented their own house.
+![breese-frances-tileston-tanty-1893-1985](/images/breese-frances-tileston-tanty-1893-1985-2.jpeg)After the war, the Millers lived in Hewlett, Long Island, though Tanty found suburban life frustrating. She cherished summers at Southampton, and after her father remarried Grace Lucille Momand, a woman near Tanty’s own age, she and her husband rented their own house.
 
 Encouraged by artist Rachel Hartley to paint, she began to work seriously, but her husband disapproved, and she gave up the pursuit. A nervous breakdown preceded their eventual divorce in 1930.
 

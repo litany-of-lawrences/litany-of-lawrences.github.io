@@ -1,6 +1,6 @@
 # Bradish Johnson House
 
-![bradish-johnson-house](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbradish-johnson-house-1.png)**Location:** 2343 Prytania Street, Garden District, New Orleans, Louisiana.
+![bradish-johnson-house](/images/bradish-johnson-house-1.png)**Location:** 2343 Prytania Street, Garden District, New Orleans, Louisiana.
 
 **Built:** 1874.
 

@@ -2,7 +2,7 @@
 
 **Major, New York Provincial Militia**
 
-![lawrence-jonathan-1737-1812-major-new-york-provincial-militia](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Flawrence-jonathan-1737-1812-major-new-york-provincial-militia-1.png)**Parents:** [John Lawrence (1685–1765)](/lawrence-john-1685-1765/) and Patience Sackett (1701–1772).
+![lawrence-jonathan-1737-1812-major-new-york-provincial-militia](/images/lawrence-jonathan-1737-1812-major-new-york-provincial-militia-1.png)**Parents:** [John Lawrence (1685–1765)](/lawrence-john-1685-1765/) and Patience Sackett (1701–1772).
 
 **Spouse:** (1) 1766, Judith Fish (1749–1767). (2) 1768, Ruth Riker (1746–1818), of the Riker family for whom Rikers Island is named.
 

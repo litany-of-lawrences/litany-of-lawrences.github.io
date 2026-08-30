@@ -2,7 +2,7 @@
 
 **Origins and Early History**
 
-The Alexandre family originated in the Channel Islands, where they were prosperous farmers. Although their names were French, they were Anglicans by religion—typical of Channel Islanders whose culture blended English and Norman elements. Descendants are often surprised to discover that they have a substantial share of Scandinavian genes. The family’s rise to prominence began with [Frederick Francis Alexandre (1809–1889)](/alexandre-frederick-francis-1809-1889/), who became the first member to emigrate to North America.
+The Alexandre family [originated](google.com) in the Channel Islands, where they were prosperous farmers. Although their names were French, they were Anglicans by religion—typical of Channel Islanders whose culture blended English and Norman elements. Descendants are often surprised to discover that they have a substantial share of Scandinavian genes. The family’s rise to prominence began with [Frederick Francis Alexandre (1809–1889)](/alexandre-frederick-francis-1809-1889/), who became the first member to emigrate to North America.
 
 [**Frederick Francis Alexandre**](/alexandre-frederick-francis-1809-1889/) **and the [Alexandre Line](/alexandre-line/)**
 

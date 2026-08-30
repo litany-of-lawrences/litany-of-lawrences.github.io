@@ -2,7 +2,7 @@
 
 Baptist Minister
 
-![boyce-james-petigru-1827-1888](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fboyce-james-petigru-1827-1888-1.jpeg)**Parents:** Ker Boyce (1787–1855) and Amanda Jane Caroline Johnston (1806–1837). 
+![boyce-james-petigru-1827-1888](/images/boyce-james-petigru-1827-1888-1.jpeg)**Parents:** Ker Boyce (1787–1855) and Amanda Jane Caroline Johnston (1806–1837). 
 
 **Spouse:** Elizabeth Llewellyn Ficklen (1828–1894), married December 20, 1848. 
 

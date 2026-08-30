@@ -1,6 +1,6 @@
 # Alexandre, Dewitt Loomis II (1949– )
 
-![alexandre-dewitt-loomis-ii-1949](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Falexandre-dewitt-loomis-ii-1949-1.png)**Parents:** [Dewitt Loomis Alexandre (1917–1982)](/alexandre-dewitt-loomis-1917-1982/) and Cynthia Lenox Banks (1918–1991). 
+![alexandre-dewitt-loomis-ii-1949](/images/alexandre-dewitt-loomis-ii-1949-1.png)**Parents:** [Dewitt Loomis Alexandre (1917–1982)](/alexandre-dewitt-loomis-1917-1982/) and Cynthia Lenox Banks (1918–1991). 
 
 **Spouse:** (1) Priscilla Baker Hill (1952– ); (2) Kristin Kuhns Gerrity (1948– ).
 

@@ -1,6 +1,6 @@
 # Alexandre, Anthony “Tony” Joseph (1926–2021)
 
-![alexandre-anthony-tony-joseph-1926-2021](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Falexandre-anthony-tony-joseph-1926-2021-1.png)**Parents:** [Frederick Francis Alexandre (1894–1968)](/alexandre-frederick-francis-1894-1968/) and Regina Mathilde Saportas (1898–1957).
+![alexandre-anthony-tony-joseph-1926-2021](/images/alexandre-anthony-tony-joseph-1926-2021-1.png)**Parents:** [Frederick Francis Alexandre (1894–1968)](/alexandre-frederick-francis-1894-1968/) and Regina Mathilde Saportas (1898–1957).
 
 **Spouse:** Louisa Gilbert (1937–2019.
 

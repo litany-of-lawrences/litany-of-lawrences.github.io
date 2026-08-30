@@ -2,7 +2,7 @@
 
 Congressman and Diplomat
 
-![bedinger-henry-rutherford-1812-1858](http://asset.localhost/C%3A%5CUsers%5CLes%5CAppData%5CRoaming%5Clitany-of-lawrences%5Crepo%2Fimages%2Fbedinger-henry-rutherford-1812-1858-1.jpeg)**Parents:** Gen. John Daniel Bedinger (1760–1817) and Sarah Rutherford (1771–1844).
+![bedinger-henry-rutherford-1812-1858](/images/bedinger-henry-rutherford-1812-1858-1.jpeg)**Parents:** Gen. John Daniel Bedinger (1760–1817) and Sarah Rutherford (1771–1844).
 
  **Spouse:** (1) Margaret Rust (1818–1843), (2) [Caroline Bowne Lawrence (1827–1869)](/lawrence-caroline-bowne-1827-1869/). 
 
