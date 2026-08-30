@@ -287,6 +287,21 @@ a.underline {
   margin: 0 2rem 0 auto;
 }
 
+.article-lead {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 16px;
+}
+.article-lead p {
+  margin: 0;
+}
+.article-lead img {
+  float: none;
+  margin: 0;
+}
+
 .article-category {
   font-size: 9px;
   color: #7b7b7b;
