@@ -49,7 +49,7 @@
 
     {% set leadHtml = content | leadImages %}
     {% if leadHtml %}
-    {{ leadHtml | safe }}
+    <div class="article-lead">{{ leadHtml | safe }}</div>
     {% endif %}
 
     {% set panelHtml = content | metaPanel %}

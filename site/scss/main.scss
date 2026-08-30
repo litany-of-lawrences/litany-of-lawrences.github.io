@@ -317,6 +317,23 @@ a.underline {
   }
 }
 
+// Header images sit above the article rather than floating into it, so the
+// metadata panel and body start underneath. Several images sit side by side.
+.article-lead {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 16px;
+
+  p { margin: 0; }
+
+  img {
+    float: none;
+    margin: 0;
+  }
+}
+
 .article-category {
   font-size: 9px;
   color: $color-muted;
